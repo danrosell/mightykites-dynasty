@@ -1,0 +1,41 @@
+<!doctype html>
+<html lang="en"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1">
+<title>MightyKites Dynasty HQ</title>
+<style>
+:root{font-family:Inter,system-ui,-apple-system,BlinkMacSystemFont,"Segoe UI",sans-serif;color:#e9eef7;background:#09101d}*{box-sizing:border-box}
+body{margin:0;background:#09101d}header{padding:26px max(18px,4vw);background:#10192a;border-bottom:1px solid #263550}
+main{padding:22px max(18px,4vw);max-width:1500px;margin:auto}h1{margin:0 0 5px;font-size:28px}h2,h3{margin-top:0}.muted{color:#9cabc2}.ok{color:#aef0bc}.error{color:#ffb1b1}
+.tabs{display:flex;gap:8px;flex-wrap:wrap;margin:0 0 16px}button,select{background:#17243a;color:#eef3fa;border:1px solid #31425f;border-radius:9px;padding:9px 12px}button{cursor:pointer}button.active{background:#31558d}
+.grid{display:grid;grid-template-columns:repeat(auto-fit,minmax(265px,1fr));gap:14px}.card{background:#121c2e;border:1px solid #263753;border-radius:13px;padding:15px;margin-bottom:14px}
+.row{display:flex;justify-content:space-between;gap:12px;padding:7px 0;border-bottom:1px solid #22314b}.row:last-child{border:0}.pill{display:inline-block;padding:3px 8px;border-radius:999px;background:#263b60;font-size:12px}
+.player{display:grid;grid-template-columns:55px 1fr auto;gap:8px;align-items:center;padding:8px 0;border-bottom:1px solid #22314b}.pos{font-weight:700;color:#afc7eb}.team{font-size:12px;color:#91a4c0}.starter{font-weight:700}
+.sectiontitle{margin:12px 0 5px;color:#afc7eb;font-size:13px;text-transform:uppercase;letter-spacing:.06em}table{width:100%;border-collapse:collapse}th,td{text-align:left;padding:9px;border-bottom:1px solid #263753;font-size:14px}
+.pick{display:inline-block;margin:4px;padding:6px 9px;background:#1c2b46;border-radius:8px}.api{font-family:ui-monospace,SFMono-Regular,Menlo,monospace;font-size:12px;overflow-wrap:anywhere}
+</style></head><body><header><h1>MightyKites Dynasty HQ <span class="pill">v3</span></h1><div class="muted">Sleeper league command center</div></header>
+<main><div id="tabs" class="tabs"></div><div id="status" class="card">Loading…</div><div id="app"></div></main>
+<script>
+const LEAGUES=[
+{name:"Imperial Gridiron Association",slug:"imperial",id:"1393340029132079104",mode:"Compete"},
+{name:"QB Controversy",slug:"qb-controversy",id:"1312927511985807360",mode:"Rebuild"},
+{name:"Jersey Dynasty",slug:"jersey",id:"1312464433087250432",mode:"Compete"},
+{name:"Tri State Dynasty",slug:"tri-state",id:"1312173783108300800",mode:"Compete"}];
+let selected=0,cache={};const $=x=>document.getElementById(x),esc=s=>String(s??"").replace(/[&<>"']/g,c=>({"&":"&amp;","<":"&lt;",">":"&gt;","\"":"&quot;","'":"&#39;"}[c]));
+async function load(L){if(cache[L.slug])return cache[L.slug];let r=await fetch(`/api/league/${L.slug}`);if(!r.ok)throw Error(await r.text());return cache[L.slug]=await r.json()}
+const order={QB:1,RB:2,WR:3,TE:4,K:5,DEF:6};
+function rows(a,starter=false){return (a||[]).slice().sort((x,y)=>(order[x.position]||9)-(order[y.position]||9)||x.name.localeCompare(y.name)).map(p=>`<div class="player ${starter?"starter":""}"><span class="pos">${esc(p.position)}</span><span>${esc(p.name)} <span class="team">${esc(p.team)}</span></span><span>${starter?"START":""}</span></div>`).join("")||'<div class="muted">None</div>'}
+function rosterCard(t,title){return `<div class="card"><h3>${esc(title||t.team_name)}</h3><div class="sectiontitle">Starters</div>${rows(t.starters,true)}<div class="sectiontitle">Bench</div>${rows(t.bench)}<div class="sectiontitle">Taxi</div>${rows(t.taxi)}<div class="sectiontitle">IR / Reserve</div>${rows(t.reserve)}</div>`}
+function tabs(){$("tabs").innerHTML=LEAGUES.map((x,i)=>`<button class="${i===selected?"active":""}" onclick="choose(${i})">${esc(x.name)}</button>`).join("")}
+async function choose(i){selected=i;tabs();render()}window.choose=choose;
+async function other(id){let d=await load(LEAGUES[selected]),t=d.teams.find(x=>String(x.roster_id)===String(id));$("other").innerHTML=t?rosterCard(t):""}window.other=other;
+async function render(){let L=LEAGUES[selected];$("status").innerHTML=`Loading <b>${esc(L.name)}</b> through the Dynasty HQ data bridge…`;$("app").innerHTML="";
+try{let d=await load(L),me=d.my_team;$("status").innerHTML=`<span class="ok"><b>Live Sleeper bridge active.</b></span> NFL week ${d.nfl_week}. Last retrieved ${new Date(d.generated_at).toLocaleString()}.`;
+$("app").innerHTML=`<div class="grid"><div class="card"><h2>${esc(d.league.name)} <span class="pill">${L.mode}</span></h2><div class="row"><span>Team</span><b>${esc(me.team_name)}</b></div><div class="row"><span>Record</span><b>${esc(me.record)}</b></div><div class="row"><span>Points For</span><b>${me.points_for}</b></div><div class="row"><span>Standing</span><b>${me.rank}/${d.teams.length}</b></div></div>
+<div class="card"><h3>Week ${d.nfl_week}</h3>${d.my_matchup?`<div class="row"><span>${esc(d.my_matchup.me.team)}</span><b>${d.my_matchup.me.points}</b></div><div class="row"><span>${esc(d.my_matchup.opponent.team)}</span><b>${d.my_matchup.opponent.points}</b></div>`:'<div class="muted">No matchup returned.</div>'}</div>
+<div class="card"><h3>Future draft capital</h3>${d.my_picks.map(x=>`<span class="pick">${x.season} R${x.round}${x.is_own?" (own)":" (from "+esc(x.original_team)+")"}</span>`).join("")||'<span class="muted">No picks found.</span>'}</div></div>
+${rosterCard(me,"Your roster")}
+<div class="card"><h3>League standings</h3><table><thead><tr><th>#</th><th>Team</th><th>Record</th><th>PF</th></tr></thead><tbody>${d.teams.slice().sort((a,b)=>a.rank-b.rank).map(x=>`<tr><td>${x.rank}</td><td>${esc(x.team_name)}${x.is_me?" <b>(You)</b>":""}</td><td>${esc(x.record)}</td><td>${x.points_for}</td></tr>`).join("")}</tbody></table></div>
+<div class="card"><h3>Trade scouting</h3><select onchange="other(this.value)"><option value="">Select a manager…</option>${d.teams.filter(x=>!x.is_me).map(x=>`<option value="${x.roster_id}">${esc(x.team_name)}</option>`).join("")}</select></div><div id="other"></div>
+<div class="card"><h3>Machine-readable league feed</h3><div class="muted">This is the endpoint ChatGPT and other tools can read without executing the dashboard JavaScript.</div><p class="api"><a style="color:#afc7eb" href="/api/league/${L.slug}" target="_blank">${location.origin}/api/league/${L.slug}</a></p></div>`;
+}catch(e){$("status").innerHTML=`<span class="error"><b>Bridge connection failed:</b> ${esc(e.message)}</span>`}}
+tabs();render();
+</script></body></html>
