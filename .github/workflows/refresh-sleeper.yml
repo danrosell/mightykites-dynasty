@@ -1,0 +1,56 @@
+name: Refresh Sleeper snapshots
+
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: "17 * * * *"
+
+permissions:
+  contents: write
+
+concurrency:
+  group: sleeper-snapshots
+  cancel-in-progress: true
+
+jobs:
+  refresh:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Check out repository
+        uses: actions/checkout@v4
+
+      - name: Fetch league snapshots
+        shell: bash
+        run: |
+          set -euo pipefail
+          mkdir -p data
+
+          base="https://mightykites-dynasty.netlify.app/api/league"
+
+          for slug in imperial qb-controversy jersey tri-state; do
+            curl --fail --silent --show-error --retry 3 \
+              -H "Accept: application/json" \
+              "$base/$slug" \
+              -o "data/$slug.json"
+
+            python -m json.tool "data/$slug.json" >/dev/null
+          done
+
+      - name: Commit changed snapshots
+        shell: bash
+        run: |
+          set -euo pipefail
+
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+
+          git add data/*.json
+
+          if git diff --cached --quiet; then
+            echo "No snapshot changes."
+            exit 0
+          fi
+
+          git commit -m "Refresh Sleeper league snapshots"
+          git push
