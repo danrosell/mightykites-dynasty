@@ -22,10 +22,10 @@ export default async (request,context)=>{
   const mine=rosters.find(r=>r.owner_id===meUser?.user_id);
   if(!mine)throw new Error(`Could not find ${USERNAME} roster`);
   const ranked=[...rosters].sort((a,b)=>(b.settings?.wins||0)-(a.settings?.wins||0)||pts(b)-pts(a));
-  const teams=rosters.map(r=>{
+  const sy=Number(league.season),rounds=Number(league.settings?.draft_rounds||league.settings?.rounds||4);\n  const picksFor=targetRosterId=>{\n   const out=[];\n   for(let y=sy;y<=sy+3;y++)for(let round=1;round<=rounds;round++)for(const orig of rosters){\n    const moved=traded.find(x=>String(x.season)===String(y)&&Number(x.round)===round&&Number(x.roster_id)===Number(orig.roster_id));\n    const owner=moved?Number(moved.owner_id):Number(orig.roster_id);\n    if(owner===Number(targetRosterId))out.push({season:String(y),round,original_roster_id:orig.roster_id,original_team:teamName(orig),is_own:Number(orig.roster_id)===Number(targetRosterId)});\n   }\n   return out;\n  };\n  const teams=rosters.map(r=>{
    const starters=new Set(r.starters||[]),taxi=new Set(r.taxi||[]),reserve=new Set(r.reserve||[]);
    return {roster_id:r.roster_id,owner_id:r.owner_id,team_name:teamName(r),is_me:r.roster_id===mine.roster_id,record:record(r),wins:r.settings?.wins||0,losses:r.settings?.losses||0,points_for:pts(r),rank:ranked.findIndex(x=>x.roster_id===r.roster_id)+1,
-    starters:(r.starters||[]).map(po),bench:(r.players||[]).filter(x=>!starters.has(x)&&!taxi.has(x)&&!reserve.has(x)).map(po),taxi:(r.taxi||[]).map(po),reserve:(r.reserve||[]).map(po)};
+    starters:(r.starters||[]).map(po),bench:(r.players||[]).filter(x=>!starters.has(x)&&!taxi.has(x)&&!reserve.has(x)).map(po),taxi:(r.taxi||[]).map(po),reserve:(r.reserve||[]).map(po),picks:picksFor(r.roster_id)};
   });
   const myM=matchups.find(m=>m.roster_id===mine.roster_id),oppM=myM&&matchups.find(m=>m.matchup_id===myM.matchup_id&&m.roster_id!==mine.roster_id);
   const opponent=oppM&&teams.find(t=>t.roster_id===oppM.roster_id);
