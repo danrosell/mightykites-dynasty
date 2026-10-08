@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-08T07:29:53.082Z",
+  "generated_at": "2026-10-08T15:42:09.902Z",
   "source": "Sleeper public API",
   "username": "TheMightyKites",
   "nfl_week": 5,
@@ -706,22 +706,22 @@
           "team": "SEA"
         },
         {
-          "player_id": "9486",
-          "name": "Dontayvion Wicks",
+          "player_id": "6794",
+          "name": "Justin Jefferson",
           "position": "WR",
-          "team": "PHI"
-        },
-        {
-          "player_id": "2505",
-          "name": "Darren Waller",
-          "position": "TE",
-          "team": "CAR"
+          "team": "MIN"
         },
         {
           "player_id": "12502",
           "name": "Gunnar Helm",
           "position": "TE",
           "team": "TEN"
+        },
+        {
+          "player_id": "9486",
+          "name": "Dontayvion Wicks",
+          "position": "WR",
+          "team": "PHI"
         },
         {
           "player_id": "11628",
@@ -742,6 +742,12 @@
           "name": "Cam Ward",
           "position": "QB",
           "team": "TEN"
+        },
+        {
+          "player_id": "2505",
+          "name": "Darren Waller",
+          "position": "TE",
+          "team": "CAR"
         },
         {
           "player_id": "4018",
@@ -788,12 +794,6 @@
           "name": "Jadarian Price",
           "position": "RB",
           "team": "SEA"
-        },
-        {
-          "player_id": "6794",
-          "name": "Justin Jefferson",
-          "position": "WR",
-          "team": "MIN"
         }
       ]
     },

@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-08T07:29:57.098Z",
+  "generated_at": "2026-10-08T15:42:13.593Z",
   "source": "Sleeper public API",
   "username": "TheMightyKites",
   "nfl_week": 5,
@@ -60,7 +60,7 @@
       "leg": 5,
       "reserve_slots": 3,
       "reserve_allow_cov": 1,
-      "daily_waivers_last_ran": 7
+      "daily_waivers_last_ran": 8
     },
     "scoring_settings": {
       "sack": 2,
@@ -189,10 +189,10 @@
         "team": "LV"
       },
       {
-        "player_id": "11630",
-        "name": "Roman Wilson",
-        "position": "WR",
-        "team": "PIT"
+        "player_id": "12495",
+        "name": "Ollie Gordon",
+        "position": "RB",
+        "team": "MIA"
       },
       {
         "player_id": "12545",
@@ -207,6 +207,12 @@
         "name": "Tre Tucker",
         "position": "WR",
         "team": "LV"
+      },
+      {
+        "player_id": "11630",
+        "name": "Roman Wilson",
+        "position": "WR",
+        "team": "PIT"
       },
       {
         "player_id": "11643",
@@ -263,12 +269,6 @@
         "team": "JAX"
       },
       {
-        "player_id": "5995",
-        "name": "Justice Hill",
-        "position": "RB",
-        "team": "BAL"
-      },
-      {
         "player_id": "6768",
         "name": "Tua Tagovailoa",
         "position": "QB",
@@ -300,12 +300,6 @@
       }
     ],
     "taxi": [
-      {
-        "player_id": "13274",
-        "name": "Germie Bernard",
-        "position": "WR",
-        "team": "PIT"
-      },
       {
         "player_id": "13319",
         "name": "Oscar Delp",
@@ -376,20 +370,6 @@
     {
       "season": "2027",
       "round": 1,
-      "original_roster_id": 3,
-      "original_team": "TheMightyKites",
-      "is_own": true
-    },
-    {
-      "season": "2027",
-      "round": 3,
-      "original_roster_id": 2,
-      "original_team": "The Rusty Trombones",
-      "is_own": false
-    },
-    {
-      "season": "2027",
-      "round": 3,
       "original_roster_id": 3,
       "original_team": "TheMightyKites",
       "is_own": true
@@ -884,10 +864,10 @@
           "team": "LV"
         },
         {
-          "player_id": "11630",
-          "name": "Roman Wilson",
-          "position": "WR",
-          "team": "PIT"
+          "player_id": "12495",
+          "name": "Ollie Gordon",
+          "position": "RB",
+          "team": "MIA"
         },
         {
           "player_id": "12545",
@@ -902,6 +882,12 @@
           "name": "Tre Tucker",
           "position": "WR",
           "team": "LV"
+        },
+        {
+          "player_id": "11630",
+          "name": "Roman Wilson",
+          "position": "WR",
+          "team": "PIT"
         },
         {
           "player_id": "11643",
@@ -958,12 +944,6 @@
           "team": "JAX"
         },
         {
-          "player_id": "5995",
-          "name": "Justice Hill",
-          "position": "RB",
-          "team": "BAL"
-        },
-        {
           "player_id": "6768",
           "name": "Tua Tagovailoa",
           "position": "QB",
@@ -995,12 +975,6 @@
         }
       ],
       "taxi": [
-        {
-          "player_id": "13274",
-          "name": "Germie Bernard",
-          "position": "WR",
-          "team": "PIT"
-        },
         {
           "player_id": "13319",
           "name": "Oscar Delp",
@@ -1059,10 +1033,10 @@
           "team": "ARI"
         },
         {
-          "player_id": "12495",
-          "name": "Ollie Gordon",
+          "player_id": "11577",
+          "name": "Will Shipley",
           "position": "RB",
-          "team": "MIA"
+          "team": "PHI"
         },
         {
           "player_id": "6801",
@@ -1089,10 +1063,10 @@
           "team": "NO"
         },
         {
-          "player_id": "11577",
-          "name": "Will Shipley",
+          "player_id": "8132",
+          "name": "Tyler Allgeier",
           "position": "RB",
-          "team": "PHI"
+          "team": "ARI"
         },
         {
           "player_id": "5849",
@@ -1107,6 +1081,12 @@
           "name": "Kirk Cousins",
           "position": "QB",
           "team": "LV"
+        },
+        {
+          "player_id": "11783",
+          "name": "Ryan Flournoy",
+          "position": "WR",
+          "team": "DAL"
         },
         {
           "player_id": "12509",
@@ -1125,6 +1105,12 @@
           "name": "Jacory Croskey-Merritt",
           "position": "RB",
           "team": "WAS"
+        },
+        {
+          "player_id": "13274",
+          "name": "Germie Bernard",
+          "position": "WR",
+          "team": "PIT"
         },
         {
           "player_id": "13317",
@@ -1151,10 +1137,10 @@
           "team": "CLE"
         },
         {
-          "player_id": "8132",
-          "name": "Tyler Allgeier",
-          "position": "RB",
-          "team": "ARI"
+          "player_id": "4177",
+          "name": "Mack Hollins",
+          "position": "WR",
+          "team": "NE"
         },
         {
           "player_id": "8134",
@@ -1167,6 +1153,12 @@
           "name": "Greg Dulcich",
           "position": "TE",
           "team": "MIA"
+        },
+        {
+          "player_id": "9479",
+          "name": "Darnell Washington",
+          "position": "TE",
+          "team": "PIT"
         }
       ],
       "taxi": [
