@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-08T15:42:12.721Z",
+  "generated_at": "2026-10-08T21:23:08.439Z",
   "source": "Sleeper public API",
   "username": "TheMightyKites",
   "nfl_week": 5,
@@ -57,7 +57,7 @@
       "leg": 5,
       "reserve_slots": 2,
       "reserve_allow_cov": 0,
-      "daily_waivers_last_ran": 7
+      "daily_waivers_last_ran": 8
     },
     "scoring_settings": {
       "sack": 1,
@@ -1684,10 +1684,10 @@
           "team": "NE"
         },
         {
-          "player_id": "4037",
-          "name": "Chris Godwin",
+          "player_id": "7564",
+          "name": "Ja'Marr Chase",
           "position": "WR",
-          "team": "TB"
+          "team": "CIN"
         },
         {
           "player_id": "12517",
@@ -1696,10 +1696,10 @@
           "team": "CHI"
         },
         {
-          "player_id": "13298",
-          "name": "KC Concepcion",
+          "player_id": "6794",
+          "name": "Justin Jefferson",
           "position": "WR",
-          "team": "CLE"
+          "team": "MIN"
         },
         {
           "player_id": "5872",
@@ -1714,12 +1714,6 @@
           "name": "Rashee Rice",
           "position": "WR",
           "team": "KC"
-        },
-        {
-          "player_id": "11597",
-          "name": "Theo Johnson",
-          "position": "TE",
-          "team": "NYG"
         },
         {
           "player_id": "11729",
@@ -1738,6 +1732,12 @@
           "name": "Max Klare",
           "position": "TE",
           "team": "LAR"
+        },
+        {
+          "player_id": "13298",
+          "name": "KC Concepcion",
+          "position": "WR",
+          "team": "CLE"
         },
         {
           "player_id": "13320",
@@ -1776,6 +1776,12 @@
           "team": "LAC"
         },
         {
+          "player_id": "4037",
+          "name": "Chris Godwin",
+          "position": "WR",
+          "team": "TB"
+        },
+        {
           "player_id": "4177",
           "name": "Mack Hollins",
           "position": "WR",
@@ -1794,28 +1800,22 @@
           "team": "BAL"
         },
         {
-          "player_id": "6794",
-          "name": "Justin Jefferson",
-          "position": "WR",
-          "team": "MIN"
-        },
-        {
           "player_id": "7090",
           "name": "Darnell Mooney",
           "position": "WR",
           "team": "NYG"
         },
         {
-          "player_id": "7564",
-          "name": "Ja'Marr Chase",
-          "position": "WR",
-          "team": "CIN"
-        },
-        {
           "player_id": "7591",
           "name": "Justin Fields",
           "position": "QB",
           "team": "KC"
+        },
+        {
+          "player_id": "8129",
+          "name": "Dameon Pierce",
+          "position": "RB",
+          "team": "PHI"
         },
         {
           "player_id": "8155",
@@ -2290,10 +2290,10 @@
           "team": "JAX"
         },
         {
-          "player_id": "3634",
-          "name": "Kalif Raymond",
+          "player_id": "5927",
+          "name": "Terry McLaurin",
           "position": "WR",
-          "team": "CHI"
+          "team": "WAS"
         },
         {
           "player_id": "13346",
@@ -2376,10 +2376,10 @@
           "team": "ARI"
         },
         {
-          "player_id": "5927",
-          "name": "Terry McLaurin",
+          "player_id": "3634",
+          "name": "Kalif Raymond",
           "position": "WR",
-          "team": "WAS"
+          "team": "CHI"
         },
         {
           "player_id": "8134",

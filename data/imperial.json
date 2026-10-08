@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-08T15:42:09.902Z",
+  "generated_at": "2026-10-08T21:23:05.446Z",
   "source": "Sleeper public API",
   "username": "TheMightyKites",
   "nfl_week": 5,
@@ -60,7 +60,7 @@
       "leg": 5,
       "reserve_slots": 3,
       "reserve_allow_cov": 0,
-      "daily_waivers_last_ran": 7
+      "daily_waivers_last_ran": 8
     },
     "scoring_settings": {
       "sack": 1,
@@ -2237,12 +2237,6 @@
           "team": "PIT"
         },
         {
-          "player_id": "11655",
-          "name": "Tyrone Tracy",
-          "position": "RB",
-          "team": "NYG"
-        },
-        {
           "player_id": "12718",
           "name": "Konata Mumpfield",
           "position": "WR",
@@ -2253,6 +2247,12 @@
           "name": "Geno Smith",
           "position": "QB",
           "team": "NYJ"
+        },
+        {
+          "player_id": "8129",
+          "name": "Dameon Pierce",
+          "position": "RB",
+          "team": "PHI"
         }
       ],
       "taxi": [
@@ -2465,10 +2465,10 @@
           "team": "TEN"
         },
         {
-          "player_id": "6819",
-          "name": "Michael Pittman",
-          "position": "WR",
-          "team": "PIT"
+          "player_id": "12493",
+          "name": "Oronde Gadsden",
+          "position": "TE",
+          "team": "LAC"
         },
         {
           "player_id": "6770",
@@ -2479,16 +2479,16 @@
       ],
       "bench": [
         {
-          "player_id": "12493",
-          "name": "Oronde Gadsden",
-          "position": "TE",
-          "team": "LAC"
-        },
-        {
           "player_id": "5857",
           "name": "Noah Fant",
           "position": "TE",
           "team": "NO"
+        },
+        {
+          "player_id": "6819",
+          "name": "Michael Pittman",
+          "position": "WR",
+          "team": "PIT"
         },
         {
           "player_id": "8188",

@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-08T15:42:11.604Z",
+  "generated_at": "2026-10-08T21:23:07.005Z",
   "source": "Sleeper public API",
   "username": "TheMightyKites",
   "nfl_week": 5,
@@ -60,7 +60,7 @@
       "daily_waivers_base": 4,
       "reserve_slots": 2,
       "reserve_allow_cov": 1,
-      "daily_waivers_last_ran": 7
+      "daily_waivers_last_ran": 8
     },
     "scoring_settings": {
       "sack": 1,
@@ -1645,6 +1645,12 @@
           "team": "GB"
         },
         {
+          "player_id": "4149",
+          "name": "Jamaal Williams",
+          "position": "RB",
+          "team": "FA"
+        },
+        {
           "player_id": "4454",
           "name": "Kendrick Bourne",
           "position": "WR",
@@ -1673,12 +1679,6 @@
           "name": "Daniel Bellinger",
           "position": "TE",
           "team": "TEN"
-        },
-        {
-          "player_id": "9497",
-          "name": "Jalin Hyatt",
-          "position": "WR",
-          "team": "NYG"
         },
         {
           "player_id": "9506",
@@ -2717,10 +2717,10 @@
           "team": "SEA"
         },
         {
-          "player_id": "11783",
-          "name": "Ryan Flournoy",
+          "player_id": "5846",
+          "name": "DK Metcalf",
           "position": "WR",
-          "team": "DAL"
+          "team": "PIT"
         },
         {
           "player_id": "7569",
@@ -2741,10 +2741,10 @@
           "team": "LAC"
         },
         {
-          "player_id": "5846",
-          "name": "DK Metcalf",
-          "position": "WR",
-          "team": "PIT"
+          "player_id": "0",
+          "name": "0",
+          "position": "—",
+          "team": "FA"
         },
         {
           "player_id": "11256",
@@ -2765,6 +2765,12 @@
           "name": "Isaiah Davis",
           "position": "RB",
           "team": "NYJ"
+        },
+        {
+          "player_id": "11783",
+          "name": "Ryan Flournoy",
+          "position": "WR",
+          "team": "DAL"
         },
         {
           "player_id": "12535",
