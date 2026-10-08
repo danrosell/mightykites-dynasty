@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-07T21:52:25.124Z",
+  "generated_at": "2026-10-08T01:03:41.261Z",
   "source": "Sleeper public API",
   "username": "TheMightyKites",
   "nfl_week": 5,
@@ -661,10 +661,10 @@
           "team": "LAR"
         },
         {
-          "player_id": "9511",
-          "name": "Keaton Mitchell",
+          "player_id": "3198",
+          "name": "Derrick Henry",
           "position": "RB",
-          "team": "LAC"
+          "team": "BAL"
         },
         {
           "player_id": "10232",
@@ -673,16 +673,16 @@
           "team": "ARI"
         },
         {
+          "player_id": "2449",
+          "name": "Stefon Diggs",
+          "position": "WR",
+          "team": "WAS"
+        },
+        {
           "player_id": "8126",
           "name": "Wan'Dale Robinson",
           "position": "WR",
           "team": "TEN"
-        },
-        {
-          "player_id": "3634",
-          "name": "Kalif Raymond",
-          "position": "WR",
-          "team": "CHI"
         },
         {
           "player_id": "10859",
@@ -723,12 +723,6 @@
           "team": "LAR"
         },
         {
-          "player_id": "11596",
-          "name": "Ben Sinnott",
-          "position": "TE",
-          "team": "WAS"
-        },
-        {
           "player_id": "11635",
           "name": "Ladd McConkey",
           "position": "WR",
@@ -753,10 +747,10 @@
           "team": "MIA"
         },
         {
-          "player_id": "6828",
-          "name": "AJ Dillon",
-          "position": "RB",
-          "team": "CAR"
+          "player_id": "3634",
+          "name": "Kalif Raymond",
+          "position": "WR",
+          "team": "CHI"
         },
         {
           "player_id": "7527",
@@ -799,6 +793,12 @@
           "name": "Kayshon Boutte",
           "position": "WR",
           "team": "HOU"
+        },
+        {
+          "player_id": "9511",
+          "name": "Keaton Mitchell",
+          "position": "RB",
+          "team": "LAC"
         }
       ],
       "taxi": [
@@ -1059,10 +1059,10 @@
           "team": "ARI"
         },
         {
-          "player_id": "3198",
-          "name": "Derrick Henry",
+          "player_id": "12495",
+          "name": "Ollie Gordon",
           "position": "RB",
-          "team": "BAL"
+          "team": "MIA"
         },
         {
           "player_id": "6801",
@@ -1077,10 +1077,10 @@
           "team": "NYJ"
         },
         {
-          "player_id": "2449",
-          "name": "Stefon Diggs",
+          "player_id": "13298",
+          "name": "KC Concepcion",
           "position": "WR",
-          "team": "WAS"
+          "team": "CLE"
         },
         {
           "player_id": "7002",
@@ -1089,10 +1089,10 @@
           "team": "NO"
         },
         {
-          "player_id": "12495",
-          "name": "Ollie Gordon",
+          "player_id": "11577",
+          "name": "Will Shipley",
           "position": "RB",
-          "team": "MIA"
+          "team": "PHI"
         },
         {
           "player_id": "5849",
@@ -1102,12 +1102,6 @@
         }
       ],
       "bench": [
-        {
-          "player_id": "11577",
-          "name": "Will Shipley",
-          "position": "RB",
-          "team": "PHI"
-        },
         {
           "player_id": "1166",
           "name": "Kirk Cousins",
@@ -1131,12 +1125,6 @@
           "name": "Jacory Croskey-Merritt",
           "position": "RB",
           "team": "WAS"
-        },
-        {
-          "player_id": "13298",
-          "name": "KC Concepcion",
-          "position": "WR",
-          "team": "CLE"
         },
         {
           "player_id": "13317",

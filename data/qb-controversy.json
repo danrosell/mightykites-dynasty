@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-07T21:52:23.565Z",
+  "generated_at": "2026-10-08T01:03:39.147Z",
   "source": "Sleeper public API",
   "username": "TheMightyKites",
   "nfl_week": 5,
@@ -805,16 +805,16 @@
           "team": "LAC"
         },
         {
-          "player_id": "11647",
-          "name": "Kimani Vidal",
-          "position": "RB",
-          "team": "LAC"
-        },
-        {
           "player_id": "12534",
           "name": "Kyle Monangai",
           "position": "RB",
           "team": "CHI"
+        },
+        {
+          "player_id": "11647",
+          "name": "Kimani Vidal",
+          "position": "RB",
+          "team": "LAC"
         },
         {
           "player_id": "9997",
@@ -829,10 +829,10 @@
           "team": "PIT"
         },
         {
-          "player_id": "13296",
-          "name": "Caleb Douglas",
+          "player_id": "11635",
+          "name": "Ladd McConkey",
           "position": "WR",
-          "team": "MIA"
+          "team": "LAC"
         },
         {
           "player_id": "12518",
@@ -885,12 +885,6 @@
           "team": "TB"
         },
         {
-          "player_id": "11635",
-          "name": "Ladd McConkey",
-          "position": "WR",
-          "team": "LAC"
-        },
-        {
           "player_id": "12457",
           "name": "Jaydon Blue",
           "position": "RB",
@@ -913,6 +907,12 @@
           "name": "Ty Simpson",
           "position": "QB",
           "team": "LAR"
+        },
+        {
+          "player_id": "13296",
+          "name": "Caleb Douglas",
+          "position": "WR",
+          "team": "MIA"
         },
         {
           "player_id": "13417",

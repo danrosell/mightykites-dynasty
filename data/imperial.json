@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-07T21:52:22.626Z",
+  "generated_at": "2026-10-08T01:03:37.569Z",
   "source": "Sleeper public API",
   "username": "TheMightyKites",
   "nfl_week": 5,
@@ -986,6 +986,12 @@
       ],
       "bench": [
         {
+          "player_id": "11566",
+          "name": "Jayden Daniels",
+          "position": "QB",
+          "team": "WAS"
+        },
+        {
           "player_id": "12492",
           "name": "Pat Bryant",
           "position": "WR",
@@ -1031,12 +1037,6 @@
         }
       ],
       "reserve": [
-        {
-          "player_id": "11566",
-          "name": "Jayden Daniels",
-          "position": "QB",
-          "team": "WAS"
-        },
         {
           "player_id": "8408",
           "name": "Jordan Mason",
@@ -1474,10 +1474,10 @@
           "team": "BAL"
         },
         {
-          "player_id": "4983",
-          "name": "DJ Moore",
-          "position": "WR",
-          "team": "BUF"
+          "player_id": "7021",
+          "name": "Rico Dowdle",
+          "position": "RB",
+          "team": "PIT"
         },
         {
           "player_id": "11577",
@@ -1506,10 +1506,10 @@
           "team": "CLE"
         },
         {
-          "player_id": "7021",
-          "name": "Rico Dowdle",
-          "position": "RB",
-          "team": "PIT"
+          "player_id": "4983",
+          "name": "DJ Moore",
+          "position": "WR",
+          "team": "BUF"
         },
         {
           "player_id": "8154",
@@ -2002,6 +2002,12 @@
           "team": "NYJ"
         },
         {
+          "player_id": "12498",
+          "name": "Mason Taylor",
+          "position": "TE",
+          "team": "NYJ"
+        },
+        {
           "player_id": "12526",
           "name": "Tetairoa McMillan",
           "position": "WR",
@@ -2018,12 +2024,6 @@
           "name": "Tyreek Hill",
           "position": "WR",
           "team": "FA"
-        },
-        {
-          "player_id": "7049",
-          "name": "Jauan Jennings",
-          "position": "WR",
-          "team": "MIN"
         }
       ],
       "taxi": [
@@ -2046,12 +2046,6 @@
           "name": "Jayden Reed",
           "position": "WR",
           "team": "GB"
-        },
-        {
-          "player_id": "12498",
-          "name": "Mason Taylor",
-          "position": "TE",
-          "team": "NYJ"
         }
       ]
     },
