@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-08T01:03:37.569Z",
+  "generated_at": "2026-10-08T07:29:53.082Z",
   "source": "Sleeper public API",
   "username": "TheMightyKites",
   "nfl_week": 5,
@@ -1081,10 +1081,10 @@
           "team": "MIN"
         },
         {
-          "player_id": "11635",
-          "name": "Ladd McConkey",
+          "player_id": "8144",
+          "name": "Chris Olave",
           "position": "WR",
-          "team": "LAC"
+          "team": "NO"
         },
         {
           "player_id": "10236",
@@ -1093,31 +1093,25 @@
           "team": "BUF"
         },
         {
+          "player_id": "12474",
+          "name": "Woody Marks",
+          "position": "RB",
+          "team": "HOU"
+        },
+        {
           "player_id": "8210",
           "name": "Chig Okonkwo",
           "position": "TE",
           "team": "WAS"
         },
         {
-          "player_id": "8144",
-          "name": "Chris Olave",
-          "position": "WR",
-          "team": "NO"
-        },
-        {
-          "player_id": "9758",
-          "name": "C.J. Stroud",
-          "position": "QB",
-          "team": "HOU"
-        }
-      ],
-      "bench": [
-        {
           "player_id": "11563",
           "name": "Bo Nix",
           "position": "QB",
           "team": "DEN"
-        },
+        }
+      ],
+      "bench": [
         {
           "player_id": "11575",
           "name": "Ray Davis",
@@ -1125,10 +1119,10 @@
           "team": "BUF"
         },
         {
-          "player_id": "12474",
-          "name": "Woody Marks",
-          "position": "RB",
-          "team": "HOU"
+          "player_id": "11635",
+          "name": "Ladd McConkey",
+          "position": "WR",
+          "team": "LAC"
         },
         {
           "player_id": "8207",
@@ -1141,6 +1135,12 @@
           "name": "Kendre Miller",
           "position": "RB",
           "team": "NO"
+        },
+        {
+          "player_id": "9758",
+          "name": "C.J. Stroud",
+          "position": "QB",
+          "team": "HOU"
         }
       ],
       "taxi": [
