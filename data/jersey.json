@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-09T09:18:48.313Z",
+  "generated_at": "2026-10-09T17:02:38.669Z",
   "source": "Sleeper public API",
   "username": "TheMightyKites",
   "nfl_week": 5,
@@ -57,7 +57,7 @@
       "leg": 5,
       "reserve_slots": 2,
       "reserve_allow_cov": 0,
-      "daily_waivers_last_ran": 8
+      "daily_waivers_last_ran": 9
     },
     "scoring_settings": {
       "sack": 1,
@@ -1761,7 +1761,7 @@
           "player_id": "13405",
           "name": "Kaytron Allen",
           "position": "RB",
-          "team": "WAS"
+          "team": "FA"
         },
         {
           "player_id": "13421",
@@ -2649,10 +2649,10 @@
       "rank": 11,
       "starters": [
         {
-          "player_id": "0",
-          "name": "0",
-          "position": "—",
-          "team": "FA"
+          "player_id": "3163",
+          "name": "Jared Goff",
+          "position": "QB",
+          "team": "DET"
         },
         {
           "player_id": "8138",
@@ -2751,12 +2751,6 @@
           "name": "Travis Kelce",
           "position": "TE",
           "team": "KC"
-        },
-        {
-          "player_id": "3163",
-          "name": "Jared Goff",
-          "position": "QB",
-          "team": "DET"
         },
         {
           "player_id": "4981",

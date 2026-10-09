@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-09T09:18:45.211Z",
+  "generated_at": "2026-10-09T17:02:36.130Z",
   "source": "Sleeper public API",
   "username": "TheMightyKites",
   "nfl_week": 5,
@@ -60,7 +60,7 @@
       "leg": 5,
       "reserve_slots": 3,
       "reserve_allow_cov": 0,
-      "daily_waivers_last_ran": 8
+      "daily_waivers_last_ran": 9
     },
     "scoring_settings": {
       "sack": 1,
@@ -502,6 +502,12 @@
           "team": "PIT"
         },
         {
+          "player_id": "13277",
+          "name": "CJ Donaldson",
+          "position": "RB",
+          "team": "NO"
+        },
+        {
           "player_id": "13402",
           "name": "Skyler Bell",
           "position": "WR",
@@ -712,10 +718,10 @@
           "team": "MIN"
         },
         {
-          "player_id": "12502",
-          "name": "Gunnar Helm",
+          "player_id": "9479",
+          "name": "Darnell Washington",
           "position": "TE",
-          "team": "TEN"
+          "team": "PIT"
         },
         {
           "player_id": "9486",
@@ -737,6 +743,12 @@
         }
       ],
       "bench": [
+        {
+          "player_id": "12502",
+          "name": "Gunnar Helm",
+          "position": "TE",
+          "team": "TEN"
+        },
         {
           "player_id": "12522",
           "name": "Cam Ward",
@@ -760,12 +772,6 @@
           "name": "Jerry Jeudy",
           "position": "WR",
           "team": "CLE"
-        },
-        {
-          "player_id": "9479",
-          "name": "Darnell Washington",
-          "position": "TE",
-          "team": "PIT"
         }
       ],
       "taxi": [
@@ -880,7 +886,7 @@
           "player_id": "13405",
           "name": "Kaytron Allen",
           "position": "RB",
-          "team": "WAS"
+          "team": "FA"
         },
         {
           "player_id": "3161",
@@ -978,30 +984,18 @@
           "team": "IND"
         },
         {
-          "player_id": "5870",
-          "name": "Daniel Jones",
-          "position": "QB",
-          "team": "IND"
-        }
-      ],
-      "bench": [
-        {
           "player_id": "11566",
           "name": "Jayden Daniels",
           "position": "QB",
           "team": "WAS"
-        },
+        }
+      ],
+      "bench": [
         {
           "player_id": "12492",
           "name": "Pat Bryant",
           "position": "WR",
           "team": "DEN"
-        },
-        {
-          "player_id": "12496",
-          "name": "Tai Felton",
-          "position": "WR",
-          "team": "MIN"
         },
         {
           "player_id": "2307",
@@ -1014,6 +1008,12 @@
           "name": "Cooper Kupp",
           "position": "WR",
           "team": "SEA"
+        },
+        {
+          "player_id": "5870",
+          "name": "Daniel Jones",
+          "position": "QB",
+          "team": "IND"
         },
         {
           "player_id": "6931",
@@ -1275,7 +1275,7 @@
           "player_id": "11199",
           "name": "Emari Demercado",
           "position": "RB",
-          "team": "DAL"
+          "team": "FA"
         },
         {
           "player_id": "12524",
@@ -2459,10 +2459,10 @@
           "team": "ARI"
         },
         {
-          "player_id": "12534",
-          "name": "Kyle Monangai",
-          "position": "RB",
-          "team": "CHI"
+          "player_id": "11627",
+          "name": "Troy Franklin",
+          "position": "WR",
+          "team": "DEN"
         },
         {
           "player_id": "12493",
@@ -2479,10 +2479,22 @@
       ],
       "bench": [
         {
+          "player_id": "12534",
+          "name": "Kyle Monangai",
+          "position": "RB",
+          "team": "CHI"
+        },
+        {
           "player_id": "5857",
           "name": "Noah Fant",
           "position": "TE",
           "team": "NO"
+        },
+        {
+          "player_id": "7670",
+          "name": "Joshua Palmer",
+          "position": "WR",
+          "team": "BUF"
         },
         {
           "player_id": "8188",
