@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-08T21:23:07.005Z",
+  "generated_at": "2026-10-09T02:16:12.749Z",
   "source": "Sleeper public API",
   "username": "TheMightyKites",
   "nfl_week": 5,
@@ -332,7 +332,7 @@
   "my_matchup": {
     "me": {
       "team": "The Ham Cannons",
-      "points": 0
+      "points": 12
     },
     "opponent": {
       "team": "Chillin With Mahomes",
@@ -1034,10 +1034,10 @@
           "team": "JAX"
         },
         {
-          "player_id": "5967",
-          "name": "Tony Pollard",
-          "position": "RB",
-          "team": "TEN"
+          "player_id": "8110",
+          "name": "Jake Ferguson",
+          "position": "TE",
+          "team": "DAL"
         },
         {
           "player_id": "8161",
@@ -1090,6 +1090,12 @@
           "team": "DAL"
         },
         {
+          "player_id": "5967",
+          "name": "Tony Pollard",
+          "position": "RB",
+          "team": "TEN"
+        },
+        {
           "player_id": "7090",
           "name": "Darnell Mooney",
           "position": "WR",
@@ -1106,12 +1112,6 @@
           "name": "Justin Fields",
           "position": "QB",
           "team": "KC"
-        },
-        {
-          "player_id": "8110",
-          "name": "Jake Ferguson",
-          "position": "TE",
-          "team": "DAL"
         },
         {
           "player_id": "8111",
@@ -1390,10 +1390,10 @@
           "team": "LAR"
         },
         {
-          "player_id": "1466",
-          "name": "Travis Kelce",
+          "player_id": "3214",
+          "name": "Hunter Henry",
           "position": "TE",
-          "team": "KC"
+          "team": "NE"
         },
         {
           "player_id": "6790",
@@ -1402,10 +1402,10 @@
           "team": "CHI"
         },
         {
-          "player_id": "13311",
-          "name": "Chris Bell",
-          "position": "WR",
-          "team": "MIA"
+          "player_id": "10219",
+          "name": "Chris Rodriguez",
+          "position": "RB",
+          "team": "JAX"
         },
         {
           "player_id": "1373",
@@ -1415,12 +1415,6 @@
         }
       ],
       "bench": [
-        {
-          "player_id": "10219",
-          "name": "Chris Rodriguez",
-          "position": "RB",
-          "team": "JAX"
-        },
         {
           "player_id": "11557",
           "name": "Joe Milton",
@@ -1440,6 +1434,12 @@
           "team": "CLE"
         },
         {
+          "player_id": "13311",
+          "name": "Chris Bell",
+          "position": "WR",
+          "team": "MIA"
+        },
+        {
           "player_id": "13423",
           "name": "Eli Heidenreich",
           "position": "RB",
@@ -1452,10 +1452,10 @@
           "team": "NO"
         },
         {
-          "player_id": "3214",
-          "name": "Hunter Henry",
+          "player_id": "1466",
+          "name": "Travis Kelce",
           "position": "TE",
-          "team": "NE"
+          "team": "KC"
         },
         {
           "player_id": "4017",
@@ -1951,10 +1951,10 @@
           "team": "LAR"
         },
         {
-          "player_id": "2449",
-          "name": "Stefon Diggs",
+          "player_id": "4037",
+          "name": "Chris Godwin",
           "position": "WR",
-          "team": "WAS"
+          "team": "TB"
         },
         {
           "player_id": "8131",
@@ -1963,10 +1963,10 @@
           "team": "NYG"
         },
         {
-          "player_id": "4037",
-          "name": "Chris Godwin",
+          "player_id": "2449",
+          "name": "Stefon Diggs",
           "position": "WR",
-          "team": "TB"
+          "team": "WAS"
         },
         {
           "player_id": "5012",
@@ -2524,10 +2524,10 @@
           "team": "DAL"
         },
         {
-          "player_id": "11624",
-          "name": "Xavier Worthy",
+          "player_id": "7525",
+          "name": "DeVonta Smith",
           "position": "WR",
-          "team": "KC"
+          "team": "PHI"
         },
         {
           "player_id": "8148",
@@ -2554,18 +2554,18 @@
           "team": "MIA"
         },
         {
-          "player_id": "12496",
-          "name": "Tai Felton",
-          "position": "WR",
-          "team": "MIN"
-        }
-      ],
-      "bench": [
-        {
           "player_id": "11566",
           "name": "Jayden Daniels",
           "position": "QB",
           "team": "WAS"
+        }
+      ],
+      "bench": [
+        {
+          "player_id": "11624",
+          "name": "Xavier Worthy",
+          "position": "WR",
+          "team": "KC"
         },
         {
           "player_id": "11625",
@@ -2604,6 +2604,12 @@
           "team": "CLE"
         },
         {
+          "player_id": "12496",
+          "name": "Tai Felton",
+          "position": "WR",
+          "team": "MIN"
+        },
+        {
           "player_id": "12504",
           "name": "Kaleb Johnson",
           "position": "RB",
@@ -2626,12 +2632,6 @@
           "name": "Jerry Jeudy",
           "position": "WR",
           "team": "CLE"
-        },
-        {
-          "player_id": "7525",
-          "name": "DeVonta Smith",
-          "position": "WR",
-          "team": "PHI"
         },
         {
           "player_id": "8408",

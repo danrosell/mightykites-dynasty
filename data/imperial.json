@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-08T21:23:05.446Z",
+  "generated_at": "2026-10-09T02:16:11.428Z",
   "source": "Sleeper public API",
   "username": "TheMightyKites",
   "nfl_week": 5,
@@ -241,7 +241,7 @@
   "my_matchup": {
     "me": {
       "team": "TheMightyKites",
-      "points": 0
+      "points": 15.8
     },
     "opponent": {
       "team": "DatTightDik",
@@ -446,10 +446,10 @@
           "team": "CLE"
         },
         {
-          "player_id": "13274",
-          "name": "Germie Bernard",
+          "player_id": "9493",
+          "name": "Puka Nacua",
           "position": "WR",
-          "team": "PIT"
+          "team": "LAR"
         },
         {
           "player_id": "8137",
@@ -496,16 +496,16 @@
           "team": "CIN"
         },
         {
+          "player_id": "13274",
+          "name": "Germie Bernard",
+          "position": "WR",
+          "team": "PIT"
+        },
+        {
           "player_id": "13402",
           "name": "Skyler Bell",
           "position": "WR",
           "team": "BUF"
-        },
-        {
-          "player_id": "9493",
-          "name": "Puka Nacua",
-          "position": "WR",
-          "team": "LAR"
         }
       ],
       "taxi": [
@@ -1323,10 +1323,10 @@
       "rank": 15,
       "starters": [
         {
-          "player_id": "13424",
-          "name": "Seth McGowan",
+          "player_id": "8136",
+          "name": "Rachaad White",
           "position": "RB",
-          "team": "IND"
+          "team": "WAS"
         },
         {
           "player_id": "11370",
@@ -1373,43 +1373,31 @@
       ],
       "bench": [
         {
-          "player_id": "12487",
-          "name": "Terrance Ferguson",
-          "position": "TE",
-          "team": "LAR"
+          "player_id": "12535",
+          "name": "Isaac TeSlaa",
+          "position": "WR",
+          "team": "DET"
+        },
+        {
+          "player_id": "13347",
+          "name": "Demond Claiborne",
+          "position": "RB",
+          "team": "MIN"
+        },
+        {
+          "player_id": "13424",
+          "name": "Seth McGowan",
+          "position": "RB",
+          "team": "IND"
         },
         {
           "player_id": "7527",
           "name": "Mac Jones",
           "position": "QB",
           "team": "SF"
-        },
-        {
-          "player_id": "7543",
-          "name": "Travis Etienne",
-          "position": "RB",
-          "team": "NO"
-        },
-        {
-          "player_id": "8136",
-          "name": "Rachaad White",
-          "position": "RB",
-          "team": "WAS"
-        },
-        {
-          "player_id": "8676",
-          "name": "Rashid Shaheed",
-          "position": "WR",
-          "team": "SEA"
         }
       ],
       "taxi": [
-        {
-          "player_id": "12535",
-          "name": "Isaac TeSlaa",
-          "position": "WR",
-          "team": "DET"
-        },
         {
           "player_id": "13338",
           "name": "Kevin Coleman",
@@ -1429,6 +1417,12 @@
           "name": "Dylan Sampson",
           "position": "RB",
           "team": "CLE"
+        },
+        {
+          "player_id": "12487",
+          "name": "Terrance Ferguson",
+          "position": "TE",
+          "team": "LAR"
         }
       ]
     },
@@ -2352,12 +2346,6 @@
       ],
       "bench": [
         {
-          "player_id": "13347",
-          "name": "Demond Claiborne",
-          "position": "RB",
-          "team": "MIN"
-        },
-        {
           "player_id": "1479",
           "name": "Keenan Allen",
           "position": "WR",
@@ -2370,6 +2358,12 @@
           "team": "GB"
         },
         {
+          "player_id": "7543",
+          "name": "Travis Etienne",
+          "position": "RB",
+          "team": "NO"
+        },
+        {
           "player_id": "8151",
           "name": "Kenneth Walker",
           "position": "RB",
@@ -2380,6 +2374,12 @@
           "name": "Isiah Pacheco",
           "position": "RB",
           "team": "DET"
+        },
+        {
+          "player_id": "8676",
+          "name": "Rashid Shaheed",
+          "position": "WR",
+          "team": "SEA"
         }
       ],
       "taxi": [

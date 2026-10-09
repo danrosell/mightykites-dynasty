@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-08T21:23:09.577Z",
+  "generated_at": "2026-10-09T02:16:15.348Z",
   "source": "Sleeper public API",
   "username": "TheMightyKites",
   "nfl_week": 5,
@@ -337,7 +337,7 @@
   "my_matchup": {
     "me": {
       "team": "TheMightyKites",
-      "points": 0
+      "points": 25.7
     },
     "opponent": {
       "team": "Ruhungry",
@@ -472,25 +472,19 @@
           "team": "ARI"
         },
         {
-          "player_id": "5012",
-          "name": "Mark Andrews",
-          "position": "TE",
-          "team": "BAL"
-        },
-        {
-          "player_id": "4881",
-          "name": "Lamar Jackson",
-          "position": "QB",
-          "team": "BAL"
-        }
-      ],
-      "bench": [
-        {
           "player_id": "11435",
           "name": "Emanuel Wilson",
           "position": "RB",
           "team": "SEA"
         },
+        {
+          "player_id": "8161",
+          "name": "Malik Willis",
+          "position": "QB",
+          "team": "MIA"
+        }
+      ],
+      "bench": [
         {
           "player_id": "11575",
           "name": "Ray Davis",
@@ -540,6 +534,18 @@
           "team": "TB"
         },
         {
+          "player_id": "4881",
+          "name": "Lamar Jackson",
+          "position": "QB",
+          "team": "BAL"
+        },
+        {
+          "player_id": "5012",
+          "name": "Mark Andrews",
+          "position": "TE",
+          "team": "BAL"
+        },
+        {
           "player_id": "6783",
           "name": "Jerry Jeudy",
           "position": "WR",
@@ -568,12 +574,6 @@
           "name": "Rachaad White",
           "position": "RB",
           "team": "WAS"
-        },
-        {
-          "player_id": "8161",
-          "name": "Malik Willis",
-          "position": "QB",
-          "team": "MIA"
         },
         {
           "player_id": "9506",

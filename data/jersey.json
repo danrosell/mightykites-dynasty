@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-08T21:23:08.439Z",
+  "generated_at": "2026-10-09T02:16:14.234Z",
   "source": "Sleeper public API",
   "username": "TheMightyKites",
   "nfl_week": 5,
@@ -347,7 +347,7 @@
     },
     "opponent": {
       "team": "PRIMETIME",
-      "points": 0,
+      "points": 8.65,
       "roster_id": 1
     }
   },
@@ -484,19 +484,13 @@
           "team": "TEN"
         },
         {
-          "player_id": "7594",
-          "name": "Chuba Hubbard",
-          "position": "RB",
-          "team": "CAR"
-        }
-      ],
-      "bench": [
-        {
           "player_id": "10236",
           "name": "Dalton Kincaid",
           "position": "TE",
           "team": "BUF"
-        },
+        }
+      ],
+      "bench": [
         {
           "player_id": "11557",
           "name": "Joe Milton",
@@ -598,6 +592,12 @@
           "name": "Kenny Gainwell",
           "position": "RB",
           "team": "TB"
+        },
+        {
+          "player_id": "7594",
+          "name": "Chuba Hubbard",
+          "position": "RB",
+          "team": "CAR"
         },
         {
           "player_id": "8110",
