@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-09T02:16:14.234Z",
+  "generated_at": "2026-10-09T09:18:48.313Z",
   "source": "Sleeper public API",
   "username": "TheMightyKites",
   "nfl_week": 5,
@@ -347,7 +347,7 @@
     },
     "opponent": {
       "team": "PRIMETIME",
-      "points": 8.65,
+      "points": 18.7,
       "roster_id": 1
     }
   },

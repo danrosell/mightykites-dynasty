@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-09T02:16:11.428Z",
+  "generated_at": "2026-10-09T09:18:45.211Z",
   "source": "Sleeper public API",
   "username": "TheMightyKites",
   "nfl_week": 5,
@@ -241,7 +241,7 @@
   "my_matchup": {
     "me": {
       "team": "TheMightyKites",
-      "points": 15.8
+      "points": 17.1
     },
     "opponent": {
       "team": "DatTightDik",
@@ -2435,10 +2435,10 @@
           "team": "BUF"
         },
         {
-          "player_id": "12534",
-          "name": "Kyle Monangai",
+          "player_id": "5967",
+          "name": "Tony Pollard",
           "position": "RB",
-          "team": "CHI"
+          "team": "TEN"
         },
         {
           "player_id": "6801",
@@ -2459,10 +2459,10 @@
           "team": "ARI"
         },
         {
-          "player_id": "5967",
-          "name": "Tony Pollard",
+          "player_id": "12534",
+          "name": "Kyle Monangai",
           "position": "RB",
-          "team": "TEN"
+          "team": "CHI"
         },
         {
           "player_id": "12493",
@@ -2483,12 +2483,6 @@
           "name": "Noah Fant",
           "position": "TE",
           "team": "NO"
-        },
-        {
-          "player_id": "6819",
-          "name": "Michael Pittman",
-          "position": "WR",
-          "team": "PIT"
         },
         {
           "player_id": "8188",
@@ -2535,6 +2529,12 @@
           "name": "David Njoku",
           "position": "TE",
           "team": "LAC"
+        },
+        {
+          "player_id": "6819",
+          "name": "Michael Pittman",
+          "position": "WR",
+          "team": "PIT"
         }
       ]
     }

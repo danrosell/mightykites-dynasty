@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-09T02:16:12.749Z",
+  "generated_at": "2026-10-09T09:18:47.136Z",
   "source": "Sleeper public API",
   "username": "TheMightyKites",
   "nfl_week": 5,
@@ -332,7 +332,7 @@
   "my_matchup": {
     "me": {
       "team": "The Ham Cannons",
-      "points": 12
+      "points": 15.26
     },
     "opponent": {
       "team": "Chillin With Mahomes",

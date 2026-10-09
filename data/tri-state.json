@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-09T02:16:15.348Z",
+  "generated_at": "2026-10-09T09:18:49.107Z",
   "source": "Sleeper public API",
   "username": "TheMightyKites",
   "nfl_week": 5,
@@ -337,7 +337,7 @@
   "my_matchup": {
     "me": {
       "team": "TheMightyKites",
-      "points": 25.7
+      "points": 31.5
     },
     "opponent": {
       "team": "Ruhungry",
@@ -1400,10 +1400,10 @@
           "team": "GB"
         },
         {
-          "player_id": "8151",
-          "name": "Kenneth Walker",
+          "player_id": "5892",
+          "name": "David Montgomery",
           "position": "RB",
-          "team": "KC"
+          "team": "HOU"
         },
         {
           "player_id": "9224",
@@ -1504,12 +1504,6 @@
           "team": "PIT"
         },
         {
-          "player_id": "5892",
-          "name": "David Montgomery",
-          "position": "RB",
-          "team": "HOU"
-        },
-        {
           "player_id": "6794",
           "name": "Justin Jefferson",
           "position": "WR",
@@ -1538,6 +1532,12 @@
           "name": "Romeo Doubs",
           "position": "WR",
           "team": "NE"
+        },
+        {
+          "player_id": "8151",
+          "name": "Kenneth Walker",
+          "position": "RB",
+          "team": "KC"
         }
       ],
       "taxi": [
