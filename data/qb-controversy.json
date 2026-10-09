@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-09T17:02:37.546Z",
+  "generated_at": "2026-10-09T21:45:30.680Z",
   "source": "Sleeper public API",
   "username": "TheMightyKites",
   "nfl_week": 5,
@@ -805,10 +805,10 @@
           "team": "LAC"
         },
         {
-          "player_id": "12534",
-          "name": "Kyle Monangai",
+          "player_id": "13424",
+          "name": "Seth McGowan",
           "position": "RB",
-          "team": "CHI"
+          "team": "IND"
         },
         {
           "player_id": "11647",
@@ -853,10 +853,10 @@
           "team": "TB"
         },
         {
-          "player_id": "13424",
-          "name": "Seth McGowan",
-          "position": "RB",
-          "team": "IND"
+          "player_id": "11596",
+          "name": "Ben Sinnott",
+          "position": "TE",
+          "team": "WAS"
         }
       ],
       "bench": [
@@ -865,12 +865,6 @@
           "name": "J.J. McCarthy",
           "position": "QB",
           "team": "NYG"
-        },
-        {
-          "player_id": "11596",
-          "name": "Ben Sinnott",
-          "position": "TE",
-          "team": "WAS"
         },
         {
           "player_id": "11600",
@@ -895,6 +889,12 @@
           "name": "Tetairoa McMillan",
           "position": "WR",
           "team": "CAR"
+        },
+        {
+          "player_id": "12534",
+          "name": "Kyle Monangai",
+          "position": "RB",
+          "team": "CHI"
         },
         {
           "player_id": "12544",
@@ -2524,10 +2524,10 @@
           "team": "DAL"
         },
         {
-          "player_id": "7525",
-          "name": "DeVonta Smith",
+          "player_id": "6783",
+          "name": "Jerry Jeudy",
           "position": "WR",
-          "team": "PHI"
+          "team": "CLE"
         },
         {
           "player_id": "8148",
@@ -2628,10 +2628,10 @@
           "team": "PHI"
         },
         {
-          "player_id": "6783",
-          "name": "Jerry Jeudy",
+          "player_id": "7525",
+          "name": "DeVonta Smith",
           "position": "WR",
-          "team": "CLE"
+          "team": "PHI"
         },
         {
           "player_id": "8408",

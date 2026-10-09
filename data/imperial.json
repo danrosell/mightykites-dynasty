@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-09T17:02:36.130Z",
+  "generated_at": "2026-10-09T21:45:29.205Z",
   "source": "Sleeper public API",
   "username": "TheMightyKites",
   "nfl_week": 5,
@@ -694,10 +694,10 @@
       "rank": 16,
       "starters": [
         {
-          "player_id": "4866",
-          "name": "Saquon Barkley",
-          "position": "RB",
-          "team": "PHI"
+          "player_id": "0",
+          "name": "0",
+          "position": "—",
+          "team": "FA"
         },
         {
           "player_id": "12512",
@@ -800,6 +800,12 @@
           "name": "Jadarian Price",
           "position": "RB",
           "team": "SEA"
+        },
+        {
+          "player_id": "4866",
+          "name": "Saquon Barkley",
+          "position": "RB",
+          "team": "PHI"
         }
       ]
     },
@@ -1329,10 +1335,10 @@
           "team": "WAS"
         },
         {
-          "player_id": "11370",
-          "name": "Chris Brooks",
+          "player_id": "13347",
+          "name": "Demond Claiborne",
           "position": "RB",
-          "team": "GB"
+          "team": "MIN"
         },
         {
           "player_id": "12519",
@@ -1373,16 +1379,16 @@
       ],
       "bench": [
         {
+          "player_id": "11370",
+          "name": "Chris Brooks",
+          "position": "RB",
+          "team": "GB"
+        },
+        {
           "player_id": "12535",
           "name": "Isaac TeSlaa",
           "position": "WR",
           "team": "DET"
-        },
-        {
-          "player_id": "13347",
-          "name": "Demond Claiborne",
-          "position": "RB",
-          "team": "MIN"
         },
         {
           "player_id": "13424",
@@ -1742,12 +1748,6 @@
           "team": "CIN"
         },
         {
-          "player_id": "4177",
-          "name": "Mack Hollins",
-          "position": "WR",
-          "team": "NE"
-        },
-        {
           "player_id": "5849",
           "name": "Kyler Murray",
           "position": "QB",
@@ -1781,6 +1781,12 @@
         }
       ],
       "reserve": [
+        {
+          "player_id": "4177",
+          "name": "Mack Hollins",
+          "position": "WR",
+          "team": "NE"
+        },
         {
           "player_id": "5850",
           "name": "Josh Jacobs",
@@ -1843,10 +1849,10 @@
           "team": "DEN"
         },
         {
-          "player_id": "9754",
-          "name": "Quentin Johnston",
-          "position": "WR",
-          "team": "LAC"
+          "player_id": "13288",
+          "name": "Nicholas Singleton",
+          "position": "RB",
+          "team": "TEN"
         },
         {
           "player_id": "3294",
@@ -1861,12 +1867,6 @@
           "name": "Jacob Saylors",
           "position": "RB",
           "team": "DET"
-        },
-        {
-          "player_id": "13288",
-          "name": "Nicholas Singleton",
-          "position": "RB",
-          "team": "TEN"
         },
         {
           "player_id": "13425",
@@ -1885,6 +1885,12 @@
           "name": "DeVonta Smith",
           "position": "WR",
           "team": "PHI"
+        },
+        {
+          "player_id": "9754",
+          "name": "Quentin Johnston",
+          "position": "WR",
+          "team": "LAC"
         }
       ],
       "taxi": [
@@ -2073,10 +2079,10 @@
           "team": "DEN"
         },
         {
-          "player_id": "2449",
-          "name": "Stefon Diggs",
+          "player_id": "2216",
+          "name": "Mike Evans",
           "position": "WR",
-          "team": "WAS"
+          "team": "SF"
         },
         {
           "player_id": "12517",
@@ -2091,10 +2097,10 @@
           "team": "CLE"
         },
         {
-          "player_id": "2216",
-          "name": "Mike Evans",
-          "position": "WR",
-          "team": "SF"
+          "player_id": "8172",
+          "name": "Greg Dulcich",
+          "position": "TE",
+          "team": "MIA"
         },
         {
           "player_id": "3163",
@@ -2109,6 +2115,12 @@
           "name": "MarShawn Lloyd",
           "position": "RB",
           "team": "GB"
+        },
+        {
+          "player_id": "2449",
+          "name": "Stefon Diggs",
+          "position": "WR",
+          "team": "WAS"
         },
         {
           "player_id": "3634",
@@ -2126,12 +2138,6 @@
           "player_id": "8161",
           "name": "Malik Willis",
           "position": "QB",
-          "team": "MIA"
-        },
-        {
-          "player_id": "8172",
-          "name": "Greg Dulcich",
-          "position": "TE",
           "team": "MIA"
         }
       ],

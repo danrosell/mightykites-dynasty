@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-09T17:02:38.669Z",
+  "generated_at": "2026-10-09T21:45:31.759Z",
   "source": "Sleeper public API",
   "username": "TheMightyKites",
   "nfl_week": 5,
@@ -856,10 +856,10 @@
           "team": "LAC"
         },
         {
-          "player_id": "12534",
-          "name": "Kyle Monangai",
+          "player_id": "12472",
+          "name": "Raheim Sanders",
           "position": "RB",
-          "team": "CHI"
+          "team": "CLE"
         },
         {
           "player_id": "11635",
@@ -936,12 +936,6 @@
           "team": "IND"
         },
         {
-          "player_id": "12472",
-          "name": "Raheim Sanders",
-          "position": "RB",
-          "team": "CLE"
-        },
-        {
           "player_id": "12491",
           "name": "Corey Kiner",
           "position": "RB",
@@ -952,6 +946,12 @@
           "name": "Cam Ward",
           "position": "QB",
           "team": "TEN"
+        },
+        {
+          "player_id": "12534",
+          "name": "Kyle Monangai",
+          "position": "RB",
+          "team": "CHI"
         },
         {
           "player_id": "13274",
@@ -1462,10 +1462,10 @@
           "team": "LV"
         },
         {
-          "player_id": "4866",
-          "name": "Saquon Barkley",
+          "player_id": "4199",
+          "name": "Aaron Jones",
           "position": "RB",
-          "team": "PHI"
+          "team": "MIN"
         },
         {
           "player_id": "8144",
@@ -1498,10 +1498,10 @@
           "team": "PIT"
         },
         {
-          "player_id": "4199",
-          "name": "Aaron Jones",
-          "position": "RB",
-          "team": "MIN"
+          "player_id": "11628",
+          "name": "Marvin Harrison",
+          "position": "WR",
+          "team": "ARI"
         }
       ],
       "bench": [
@@ -1510,12 +1510,6 @@
           "name": "Bo Nix",
           "position": "QB",
           "team": "DEN"
-        },
-        {
-          "player_id": "11628",
-          "name": "Marvin Harrison",
-          "position": "WR",
-          "team": "ARI"
         },
         {
           "player_id": "12457",
@@ -1588,6 +1582,12 @@
           "name": "Kendrick Bourne",
           "position": "WR",
           "team": "ARI"
+        },
+        {
+          "player_id": "4866",
+          "name": "Saquon Barkley",
+          "position": "RB",
+          "team": "PHI"
         },
         {
           "player_id": "5022",
