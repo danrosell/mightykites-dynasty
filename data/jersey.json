@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-10T20:09:18.036Z",
+  "generated_at": "2026-10-10T23:38:54.596Z",
   "source": "Sleeper public API",
   "username": "TheMightyKites",
   "nfl_week": 5,
@@ -1858,10 +1858,10 @@
       "rank": 4,
       "starters": [
         {
-          "player_id": "4046",
-          "name": "Patrick Mahomes",
+          "player_id": "4017",
+          "name": "Deshaun Watson",
           "position": "QB",
-          "team": "KC"
+          "team": "CLE"
         },
         {
           "player_id": "4034",
@@ -1968,10 +1968,10 @@
           "team": "WAS"
         },
         {
-          "player_id": "4017",
-          "name": "Deshaun Watson",
+          "player_id": "4046",
+          "name": "Patrick Mahomes",
           "position": "QB",
-          "team": "CLE"
+          "team": "KC"
         },
         {
           "player_id": "4663",
