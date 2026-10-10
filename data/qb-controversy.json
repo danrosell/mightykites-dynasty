@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-10T08:37:46.512Z",
+  "generated_at": "2026-10-10T15:27:02.876Z",
   "source": "Sleeper public API",
   "username": "TheMightyKites",
   "nfl_week": 5,
@@ -2741,10 +2741,10 @@
           "team": "LAC"
         },
         {
-          "player_id": "0",
-          "name": "0",
-          "position": "—",
-          "team": "FA"
+          "player_id": "5022",
+          "name": "Dallas Goedert",
+          "position": "TE",
+          "team": "PHI"
         },
         {
           "player_id": "11256",
@@ -2807,12 +2807,6 @@
           "name": "DJ Moore",
           "position": "WR",
           "team": "BUF"
-        },
-        {
-          "player_id": "5022",
-          "name": "Dallas Goedert",
-          "position": "TE",
-          "team": "PHI"
         },
         {
           "player_id": "5906",
@@ -2904,10 +2898,10 @@
           "team": "ARI"
         },
         {
-          "player_id": "9508",
-          "name": "Tyjae Spears",
+          "player_id": "11577",
+          "name": "Will Shipley",
           "position": "RB",
-          "team": "TEN"
+          "team": "PHI"
         },
         {
           "player_id": "7670",
@@ -2922,10 +2916,10 @@
           "team": "MIA"
         },
         {
-          "player_id": "11628",
-          "name": "Marvin Harrison",
+          "player_id": "11608",
+          "name": "Isaiah Williams",
           "position": "WR",
-          "team": "ARI"
+          "team": "NYJ"
         },
         {
           "player_id": "12506",
@@ -2934,10 +2928,10 @@
           "team": "CLE"
         },
         {
-          "player_id": "11608",
-          "name": "Isaiah Williams",
-          "position": "WR",
-          "team": "NYJ"
+          "player_id": "9508",
+          "name": "Tyjae Spears",
+          "position": "RB",
+          "team": "TEN"
         },
         {
           "player_id": "5844",
@@ -2966,16 +2960,16 @@
           "team": "GB"
         },
         {
-          "player_id": "11577",
-          "name": "Will Shipley",
-          "position": "RB",
-          "team": "PHI"
-        },
-        {
           "player_id": "11599",
           "name": "Cade Stover",
           "position": "TE",
           "team": "HOU"
+        },
+        {
+          "player_id": "11628",
+          "name": "Marvin Harrison",
+          "position": "WR",
+          "team": "ARI"
         },
         {
           "player_id": "11650",

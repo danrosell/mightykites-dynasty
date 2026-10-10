@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-10T08:37:47.760Z",
+  "generated_at": "2026-10-10T15:27:04.149Z",
   "source": "Sleeper public API",
   "username": "TheMightyKites",
   "nfl_week": 5,
@@ -1876,10 +1876,10 @@
           "team": "LAR"
         },
         {
-          "player_id": "2449",
-          "name": "Stefon Diggs",
+          "player_id": "8148",
+          "name": "Jameson Williams",
           "position": "WR",
-          "team": "WAS"
+          "team": "DET"
         },
         {
           "player_id": "2216",
@@ -1962,6 +1962,12 @@
           "team": "SF"
         },
         {
+          "player_id": "2449",
+          "name": "Stefon Diggs",
+          "position": "WR",
+          "team": "WAS"
+        },
+        {
           "player_id": "4017",
           "name": "Deshaun Watson",
           "position": "QB",
@@ -2014,12 +2020,6 @@
           "name": "Alec Pierce",
           "position": "WR",
           "team": "IND"
-        },
-        {
-          "player_id": "8148",
-          "name": "Jameson Williams",
-          "position": "WR",
-          "team": "DET"
         },
         {
           "player_id": "9486",
