@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-10T15:27:04.149Z",
+  "generated_at": "2026-10-10T20:09:18.036Z",
   "source": "Sleeper public API",
   "username": "TheMightyKites",
   "nfl_week": 5,
@@ -57,7 +57,7 @@
       "leg": 5,
       "reserve_slots": 2,
       "reserve_allow_cov": 0,
-      "daily_waivers_last_ran": 9
+      "daily_waivers_last_ran": 10
     },
     "scoring_settings": {
       "sack": 1,
@@ -1498,10 +1498,10 @@
           "team": "PIT"
         },
         {
-          "player_id": "11628",
-          "name": "Marvin Harrison",
-          "position": "WR",
-          "team": "ARI"
+          "player_id": "13305",
+          "name": "Mike Washington",
+          "position": "RB",
+          "team": "LV"
         }
       ],
       "bench": [
@@ -1510,6 +1510,12 @@
           "name": "Bo Nix",
           "position": "QB",
           "team": "DEN"
+        },
+        {
+          "player_id": "11628",
+          "name": "Marvin Harrison",
+          "position": "WR",
+          "team": "ARI"
         },
         {
           "player_id": "12457",
@@ -1534,12 +1540,6 @@
           "name": "CJ Daniels",
           "position": "WR",
           "team": "LAR"
-        },
-        {
-          "player_id": "13305",
-          "name": "Mike Washington",
-          "position": "RB",
-          "team": "LV"
         },
         {
           "player_id": "13333",
@@ -2500,9 +2500,9 @@
           "team": "NO"
         },
         {
-          "player_id": "11610",
-          "name": "Malik Washington",
-          "position": "WR",
+          "player_id": "12495",
+          "name": "Ollie Gordon",
+          "position": "RB",
           "team": "MIA"
         },
         {
@@ -2532,6 +2532,12 @@
           "team": "BUF"
         },
         {
+          "player_id": "11610",
+          "name": "Malik Washington",
+          "position": "WR",
+          "team": "MIA"
+        },
+        {
           "player_id": "11624",
           "name": "Xavier Worthy",
           "position": "WR",
@@ -2542,12 +2548,6 @@
           "name": "Jordan James",
           "position": "RB",
           "team": "SF"
-        },
-        {
-          "player_id": "12495",
-          "name": "Ollie Gordon",
-          "position": "RB",
-          "team": "MIA"
         },
         {
           "player_id": "12502",

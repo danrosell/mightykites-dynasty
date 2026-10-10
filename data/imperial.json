@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-10T15:27:01.091Z",
+  "generated_at": "2026-10-10T20:09:15.775Z",
   "source": "Sleeper public API",
   "username": "TheMightyKites",
   "nfl_week": 5,
@@ -60,7 +60,7 @@
       "leg": 5,
       "reserve_slots": 3,
       "reserve_allow_cov": 0,
-      "daily_waivers_last_ran": 9
+      "daily_waivers_last_ran": 10
     },
     "scoring_settings": {
       "sack": 1,
@@ -694,10 +694,10 @@
       "rank": 16,
       "starters": [
         {
-          "player_id": "0",
-          "name": "0",
-          "position": "—",
-          "team": "FA"
+          "player_id": "12457",
+          "name": "Jaydon Blue",
+          "position": "RB",
+          "team": "PHI"
         },
         {
           "player_id": "12512",
@@ -1226,10 +1226,10 @@
           "team": "TB"
         },
         {
-          "player_id": "9480",
-          "name": "Brenton Strange",
+          "player_id": "5022",
+          "name": "Dallas Goedert",
           "position": "TE",
-          "team": "JAX"
+          "team": "PHI"
         },
         {
           "player_id": "11783",
@@ -1270,6 +1270,12 @@
           "team": "CAR"
         },
         {
+          "player_id": "9480",
+          "name": "Brenton Strange",
+          "position": "TE",
+          "team": "JAX"
+        },
+        {
           "player_id": "9504",
           "name": "Kayshon Boutte",
           "position": "WR",
@@ -1302,12 +1308,6 @@
           "name": "Jaxson Dart",
           "position": "QB",
           "team": "NYG"
-        },
-        {
-          "player_id": "5022",
-          "name": "Dallas Goedert",
-          "position": "TE",
-          "team": "PHI"
         },
         {
           "player_id": "5859",
@@ -1740,6 +1740,12 @@
           "name": "Chris Rodriguez",
           "position": "RB",
           "team": "JAX"
+        },
+        {
+          "player_id": "12542",
+          "name": "Efton Chism",
+          "position": "WR",
+          "team": "NE"
         },
         {
           "player_id": "4147",
@@ -2447,10 +2453,10 @@
           "team": "TEN"
         },
         {
-          "player_id": "6801",
-          "name": "Tee Higgins",
+          "player_id": "11627",
+          "name": "Troy Franklin",
           "position": "WR",
-          "team": "CIN"
+          "team": "DEN"
         },
         {
           "player_id": "5947",
@@ -2465,10 +2471,10 @@
           "team": "ARI"
         },
         {
-          "player_id": "11627",
-          "name": "Troy Franklin",
+          "player_id": "6801",
+          "name": "Tee Higgins",
           "position": "WR",
-          "team": "DEN"
+          "team": "CIN"
         },
         {
           "player_id": "12493",

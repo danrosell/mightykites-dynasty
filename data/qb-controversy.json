@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-10T15:27:02.876Z",
+  "generated_at": "2026-10-10T20:09:17.048Z",
   "source": "Sleeper public API",
   "username": "TheMightyKites",
   "nfl_week": 5,
@@ -60,7 +60,7 @@
       "daily_waivers_base": 4,
       "reserve_slots": 2,
       "reserve_allow_cov": 1,
-      "daily_waivers_last_ran": 9
+      "daily_waivers_last_ran": 10
     },
     "scoring_settings": {
       "sack": 1,
@@ -2904,10 +2904,10 @@
           "team": "PHI"
         },
         {
-          "player_id": "7670",
-          "name": "Joshua Palmer",
+          "player_id": "13394",
+          "name": "Josh Cameron",
           "position": "WR",
-          "team": "BUF"
+          "team": "JAX"
         },
         {
           "player_id": "11610",
@@ -2978,12 +2978,6 @@
           "team": "WAS"
         },
         {
-          "player_id": "13394",
-          "name": "Josh Cameron",
-          "position": "WR",
-          "team": "JAX"
-        },
-        {
           "player_id": "13770",
           "name": "J. Michael Sturdivant",
           "position": "WR",
@@ -3000,6 +2994,12 @@
           "name": "Brandon Aiyuk",
           "position": "WR",
           "team": "SF"
+        },
+        {
+          "player_id": "7670",
+          "name": "Joshua Palmer",
+          "position": "WR",
+          "team": "BUF"
         },
         {
           "player_id": "8135",
