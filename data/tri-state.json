@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-09T21:45:32.821Z",
+  "generated_at": "2026-10-10T01:48:23.973Z",
   "source": "Sleeper public API",
   "username": "TheMightyKites",
   "nfl_week": 5,
@@ -1917,7 +1917,7 @@
           "player_id": "13405",
           "name": "Kaytron Allen",
           "position": "RB",
-          "team": "FA"
+          "team": "MIA"
         },
         {
           "player_id": "6826",
@@ -2026,10 +2026,10 @@
           "team": "TEN"
         },
         {
-          "player_id": "12534",
-          "name": "Kyle Monangai",
-          "position": "RB",
-          "team": "CHI"
+          "player_id": "4993",
+          "name": "Mike Gesicki",
+          "position": "TE",
+          "team": "CIN"
         }
       ],
       "bench": [
@@ -2056,6 +2056,12 @@
           "name": "DJ Giddens",
           "position": "RB",
           "team": "IND"
+        },
+        {
+          "player_id": "12534",
+          "name": "Kyle Monangai",
+          "position": "RB",
+          "team": "CHI"
         },
         {
           "player_id": "13301",
@@ -2092,12 +2098,6 @@
           "name": "Calvin Ridley",
           "position": "WR",
           "team": "TEN"
-        },
-        {
-          "player_id": "4993",
-          "name": "Mike Gesicki",
-          "position": "TE",
-          "team": "CIN"
         },
         {
           "player_id": "5045",
