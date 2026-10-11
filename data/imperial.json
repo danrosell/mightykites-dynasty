@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-11T18:09:40.248Z",
+  "generated_at": "2026-10-11T22:06:41.715Z",
   "source": "Sleeper public API",
   "username": "TheMightyKites",
   "nfl_week": 5,
@@ -241,11 +241,11 @@
   "my_matchup": {
     "me": {
       "team": "TheMightyKites",
-      "points": 31.3
+      "points": 38.9
     },
     "opponent": {
       "team": "DatTightDik",
-      "points": 19.4,
+      "points": 54.74,
       "roster_id": 7
     }
   },
@@ -747,7 +747,7 @@
           "player_id": "11628",
           "name": "Marvin Harrison",
           "position": "WR",
-          "team": "ARI"
+          "team": "HOU"
         },
         {
           "player_id": "12522",
