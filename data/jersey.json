@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-11T05:58:44.951Z",
+  "generated_at": "2026-10-11T13:03:51.942Z",
   "source": "Sleeper public API",
   "username": "TheMightyKites",
   "nfl_week": 5,
@@ -2290,10 +2290,10 @@
           "team": "JAX"
         },
         {
-          "player_id": "5927",
-          "name": "Terry McLaurin",
+          "player_id": "8134",
+          "name": "Khalil Shakir",
           "position": "WR",
-          "team": "WAS"
+          "team": "BUF"
         },
         {
           "player_id": "13346",
@@ -2382,10 +2382,10 @@
           "team": "CHI"
         },
         {
-          "player_id": "8134",
-          "name": "Khalil Shakir",
+          "player_id": "5927",
+          "name": "Terry McLaurin",
           "position": "WR",
-          "team": "BUF"
+          "team": "WAS"
         },
         {
           "player_id": "8161",
@@ -2679,10 +2679,10 @@
           "team": "BUF"
         },
         {
-          "player_id": "7571",
-          "name": "Rashod Bateman",
+          "player_id": "11608",
+          "name": "Isaiah Williams",
           "position": "WR",
-          "team": "BAL"
+          "team": "NYJ"
         },
         {
           "player_id": "5844",
@@ -2704,12 +2704,6 @@
         }
       ],
       "bench": [
-        {
-          "player_id": "11608",
-          "name": "Isaiah Williams",
-          "position": "WR",
-          "team": "NYJ"
-        },
         {
           "player_id": "11655",
           "name": "Tyrone Tracy",
@@ -2799,6 +2793,12 @@
           "name": "Tutu Atwell",
           "position": "WR",
           "team": "LAR"
+        },
+        {
+          "player_id": "7571",
+          "name": "Rashod Bateman",
+          "position": "WR",
+          "team": "BAL"
         },
         {
           "player_id": "8119",

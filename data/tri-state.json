@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-11T05:58:46.231Z",
+  "generated_at": "2026-10-11T13:03:53.082Z",
   "source": "Sleeper public API",
   "username": "TheMightyKites",
   "nfl_week": 5,
@@ -60,7 +60,7 @@
       "leg": 5,
       "reserve_slots": 3,
       "reserve_allow_cov": 1,
-      "daily_waivers_last_ran": 10
+      "daily_waivers_last_ran": 11
     },
     "scoring_settings": {
       "sack": 2,
@@ -653,10 +653,10 @@
           "team": "ARI"
         },
         {
-          "player_id": "2449",
-          "name": "Stefon Diggs",
+          "player_id": "12542",
+          "name": "Efton Chism",
           "position": "WR",
-          "team": "WAS"
+          "team": "NE"
         },
         {
           "player_id": "8126",
@@ -727,6 +727,12 @@
           "team": "MIA"
         },
         {
+          "player_id": "2449",
+          "name": "Stefon Diggs",
+          "position": "WR",
+          "team": "WAS"
+        },
+        {
           "player_id": "3634",
           "name": "Kalif Raymond",
           "position": "WR",
@@ -755,12 +761,6 @@
           "name": "Cade Otton",
           "position": "TE",
           "team": "TB"
-        },
-        {
-          "player_id": "9225",
-          "name": "Tank Bigsby",
-          "position": "RB",
-          "team": "PHI"
         },
         {
           "player_id": "9228",
