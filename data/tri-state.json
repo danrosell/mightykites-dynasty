@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-10T23:38:55.530Z",
+  "generated_at": "2026-10-11T05:58:46.231Z",
   "source": "Sleeper public API",
   "username": "TheMightyKites",
   "nfl_week": 5,
@@ -2008,10 +2008,10 @@
           "team": "WAS"
         },
         {
-          "player_id": "9500",
-          "name": "Josh Downs",
+          "player_id": "13279",
+          "name": "Carnell Tate",
           "position": "WR",
-          "team": "IND"
+          "team": "TEN"
         },
         {
           "player_id": "5001",
@@ -2020,10 +2020,10 @@
           "team": "HOU"
         },
         {
-          "player_id": "13279",
-          "name": "Carnell Tate",
-          "position": "WR",
-          "team": "TEN"
+          "player_id": "7553",
+          "name": "Kyle Pitts",
+          "position": "TE",
+          "team": "ATL"
         },
         {
           "player_id": "4993",
@@ -2112,12 +2112,6 @@
           "team": "BUF"
         },
         {
-          "player_id": "7553",
-          "name": "Kyle Pitts",
-          "position": "TE",
-          "team": "ATL"
-        },
-        {
           "player_id": "8155",
           "name": "Breece Hall",
           "position": "RB",
@@ -2128,6 +2122,12 @@
           "name": "Michael Mayer",
           "position": "TE",
           "team": "LV"
+        },
+        {
+          "player_id": "9500",
+          "name": "Josh Downs",
+          "position": "WR",
+          "team": "IND"
         }
       ],
       "taxi": [
@@ -2257,6 +2257,12 @@
           "team": "CAR"
         },
         {
+          "player_id": "12487",
+          "name": "Terrance Ferguson",
+          "position": "TE",
+          "team": "LAR"
+        },
+        {
           "player_id": "12489",
           "name": "RJ Harvey",
           "position": "RB",
@@ -2299,12 +2305,6 @@
           "team": "SF"
         },
         {
-          "player_id": "6819",
-          "name": "Michael Pittman",
-          "position": "WR",
-          "team": "PIT"
-        },
-        {
           "player_id": "7611",
           "name": "Rhamondre Stevenson",
           "position": "RB",
@@ -2339,16 +2339,16 @@
           "team": "TB"
         },
         {
-          "player_id": "12487",
-          "name": "Terrance Ferguson",
-          "position": "TE",
-          "team": "LAR"
-        },
-        {
           "player_id": "13353",
           "name": "Chris Brazzell",
           "position": "WR",
           "team": "CAR"
+        },
+        {
+          "player_id": "6819",
+          "name": "Michael Pittman",
+          "position": "WR",
+          "team": "PIT"
         }
       ]
     }

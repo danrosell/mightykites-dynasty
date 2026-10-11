@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-10T23:38:52.231Z",
+  "generated_at": "2026-10-11T05:58:41.923Z",
   "source": "Sleeper public API",
   "username": "TheMightyKites",
   "nfl_week": 5,
@@ -694,16 +694,16 @@
       "rank": 16,
       "starters": [
         {
-          "player_id": "12457",
-          "name": "Jaydon Blue",
-          "position": "RB",
-          "team": "PHI"
-        },
-        {
           "player_id": "12512",
           "name": "Quinshon Judkins",
           "position": "RB",
           "team": "CLE"
+        },
+        {
+          "player_id": "12457",
+          "name": "Jaydon Blue",
+          "position": "RB",
+          "team": "PHI"
         },
         {
           "player_id": "9488",
@@ -730,10 +730,10 @@
           "team": "PHI"
         },
         {
-          "player_id": "11628",
-          "name": "Marvin Harrison",
-          "position": "WR",
-          "team": "ARI"
+          "player_id": "12502",
+          "name": "Gunnar Helm",
+          "position": "TE",
+          "team": "TEN"
         },
         {
           "player_id": "6797",
@@ -744,10 +744,10 @@
       ],
       "bench": [
         {
-          "player_id": "12502",
-          "name": "Gunnar Helm",
-          "position": "TE",
-          "team": "TEN"
+          "player_id": "11628",
+          "name": "Marvin Harrison",
+          "position": "WR",
+          "team": "ARI"
         },
         {
           "player_id": "12522",

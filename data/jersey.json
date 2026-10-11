@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-10T23:38:54.596Z",
+  "generated_at": "2026-10-11T05:58:44.951Z",
   "source": "Sleeper public API",
   "username": "TheMightyKites",
   "nfl_week": 5,
@@ -2458,10 +2458,10 @@
       "rank": 7,
       "starters": [
         {
-          "player_id": "5849",
-          "name": "Kyler Murray",
+          "player_id": "11566",
+          "name": "Jayden Daniels",
           "position": "QB",
-          "team": "MIN"
+          "team": "WAS"
         },
         {
           "player_id": "12507",
@@ -2470,10 +2470,10 @@
           "team": "LAC"
         },
         {
-          "player_id": "13287",
-          "name": "Jeremiyah Love",
+          "player_id": "12495",
+          "name": "Ollie Gordon",
           "position": "RB",
-          "team": "ARI"
+          "team": "MIA"
         },
         {
           "player_id": "11632",
@@ -2482,10 +2482,10 @@
           "team": "NYG"
         },
         {
-          "player_id": "6801",
-          "name": "Tee Higgins",
+          "player_id": "11610",
+          "name": "Malik Washington",
           "position": "WR",
-          "team": "CIN"
+          "team": "MIA"
         },
         {
           "player_id": "12519",
@@ -2500,10 +2500,10 @@
           "team": "NO"
         },
         {
-          "player_id": "12495",
-          "name": "Ollie Gordon",
+          "player_id": "13287",
+          "name": "Jeremiyah Love",
           "position": "RB",
-          "team": "MIA"
+          "team": "ARI"
         },
         {
           "player_id": "8146",
@@ -2520,22 +2520,10 @@
           "team": "ATL"
         },
         {
-          "player_id": "11566",
-          "name": "Jayden Daniels",
-          "position": "QB",
-          "team": "WAS"
-        },
-        {
           "player_id": "11575",
           "name": "Ray Davis",
           "position": "RB",
           "team": "BUF"
-        },
-        {
-          "player_id": "11610",
-          "name": "Malik Washington",
-          "position": "WR",
-          "team": "MIA"
         },
         {
           "player_id": "11624",
@@ -2602,6 +2590,18 @@
           "name": "Josh Cameron",
           "position": "WR",
           "team": "JAX"
+        },
+        {
+          "player_id": "5849",
+          "name": "Kyler Murray",
+          "position": "QB",
+          "team": "MIN"
+        },
+        {
+          "player_id": "6801",
+          "name": "Tee Higgins",
+          "position": "WR",
+          "team": "CIN"
         },
         {
           "player_id": "7600",
