@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-11T13:03:53.082Z",
+  "generated_at": "2026-10-11T18:09:43.976Z",
   "source": "Sleeper public API",
   "username": "TheMightyKites",
   "nfl_week": 5,
@@ -337,11 +337,11 @@
   "my_matchup": {
     "me": {
       "team": "TheMightyKites",
-      "points": 31.5
+      "points": 80.46
     },
     "opponent": {
       "team": "Ruhungry",
-      "points": 0,
+      "points": 28.9,
       "roster_id": 9
     }
   },
@@ -460,10 +460,10 @@
           "team": "DEN"
         },
         {
-          "player_id": "9756",
-          "name": "Jordan Addison",
+          "player_id": "6783",
+          "name": "Jerry Jeudy",
           "position": "WR",
-          "team": "MIN"
+          "team": "CLE"
         },
         {
           "player_id": "8130",
@@ -546,12 +546,6 @@
           "team": "BAL"
         },
         {
-          "player_id": "6783",
-          "name": "Jerry Jeudy",
-          "position": "WR",
-          "team": "CLE"
-        },
-        {
           "player_id": "6803",
           "name": "Brandon Aiyuk",
           "position": "WR",
@@ -580,6 +574,12 @@
           "name": "Sean Tucker",
           "position": "RB",
           "team": "TB"
+        },
+        {
+          "player_id": "9756",
+          "name": "Jordan Addison",
+          "position": "WR",
+          "team": "MIN"
         }
       ],
       "taxi": [

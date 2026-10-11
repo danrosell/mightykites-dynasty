@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-11T13:03:51.942Z",
+  "generated_at": "2026-10-11T18:09:42.894Z",
   "source": "Sleeper public API",
   "username": "TheMightyKites",
   "nfl_week": 5,
@@ -57,7 +57,7 @@
       "leg": 5,
       "reserve_slots": 2,
       "reserve_allow_cov": 0,
-      "daily_waivers_last_ran": 10
+      "daily_waivers_last_ran": 11
     },
     "scoring_settings": {
       "sack": 1,
@@ -343,11 +343,11 @@
   "my_matchup": {
     "me": {
       "team": "TheMightyKites",
-      "points": 0
+      "points": 13.8
     },
     "opponent": {
       "team": "PRIMETIME",
-      "points": 18.7,
+      "points": 41.8,
       "roster_id": 1
     }
   },
@@ -1182,6 +1182,12 @@
           "team": "CAR"
         },
         {
+          "player_id": "4351",
+          "name": "Tim Patrick",
+          "position": "WR",
+          "team": "NYJ"
+        },
+        {
           "player_id": "5870",
           "name": "Daniel Jones",
           "position": "QB",
@@ -1225,14 +1231,7 @@
         }
       ],
       "taxi": [],
-      "reserve": [
-        {
-          "player_id": "4351",
-          "name": "Tim Patrick",
-          "position": "WR",
-          "team": "NYJ"
-        }
-      ]
+      "reserve": []
     },
     {
       "roster_id": 5,
@@ -1678,10 +1677,10 @@
           "team": "ATL"
         },
         {
-          "player_id": "8121",
-          "name": "Romeo Doubs",
+          "player_id": "6794",
+          "name": "Justin Jefferson",
           "position": "WR",
-          "team": "NE"
+          "team": "MIN"
         },
         {
           "player_id": "7564",
@@ -1696,10 +1695,10 @@
           "team": "CHI"
         },
         {
-          "player_id": "6794",
-          "name": "Justin Jefferson",
+          "player_id": "8121",
+          "name": "Romeo Doubs",
           "position": "WR",
-          "team": "MIN"
+          "team": "NE"
         },
         {
           "player_id": "5872",
@@ -1782,12 +1781,6 @@
           "team": "TB"
         },
         {
-          "player_id": "4177",
-          "name": "Mack Hollins",
-          "position": "WR",
-          "team": "NE"
-        },
-        {
           "player_id": "4881",
           "name": "Lamar Jackson",
           "position": "QB",
@@ -1810,6 +1803,12 @@
           "name": "Justin Fields",
           "position": "QB",
           "team": "KC"
+        },
+        {
+          "player_id": "8116",
+          "name": "Pierre Strong",
+          "position": "RB",
+          "team": "GB"
         },
         {
           "player_id": "8129",
@@ -1864,16 +1863,16 @@
           "team": "CLE"
         },
         {
-          "player_id": "4034",
-          "name": "Christian McCaffrey",
+          "player_id": "11576",
+          "name": "Braelon Allen",
           "position": "RB",
-          "team": "SF"
+          "team": "NYJ"
         },
         {
-          "player_id": "8150",
-          "name": "Kyren Williams",
+          "player_id": "5892",
+          "name": "David Montgomery",
           "position": "RB",
-          "team": "LAR"
+          "team": "HOU"
         },
         {
           "player_id": "8148",
@@ -1900,16 +1899,16 @@
           "team": "NYG"
         },
         {
-          "player_id": "5892",
-          "name": "David Montgomery",
+          "player_id": "8150",
+          "name": "Kyren Williams",
           "position": "RB",
-          "team": "HOU"
+          "team": "LAR"
         },
         {
-          "player_id": "11576",
-          "name": "Braelon Allen",
+          "player_id": "4034",
+          "name": "Christian McCaffrey",
           "position": "RB",
-          "team": "NYJ"
+          "team": "SF"
         }
       ],
       "bench": [
@@ -2464,10 +2463,10 @@
           "team": "WAS"
         },
         {
-          "player_id": "12507",
-          "name": "Omarion Hampton",
+          "player_id": "13287",
+          "name": "Jeremiyah Love",
           "position": "RB",
-          "team": "LAC"
+          "team": "ARI"
         },
         {
           "player_id": "12495",
@@ -2482,10 +2481,10 @@
           "team": "NYG"
         },
         {
-          "player_id": "11610",
-          "name": "Malik Washington",
+          "player_id": "6801",
+          "name": "Tee Higgins",
           "position": "WR",
-          "team": "MIA"
+          "team": "CIN"
         },
         {
           "player_id": "12519",
@@ -2500,10 +2499,10 @@
           "team": "NO"
         },
         {
-          "player_id": "13287",
-          "name": "Jeremiyah Love",
+          "player_id": "12507",
+          "name": "Omarion Hampton",
           "position": "RB",
-          "team": "ARI"
+          "team": "LAC"
         },
         {
           "player_id": "8146",
@@ -2524,6 +2523,12 @@
           "name": "Ray Davis",
           "position": "RB",
           "team": "BUF"
+        },
+        {
+          "player_id": "11610",
+          "name": "Malik Washington",
+          "position": "WR",
+          "team": "MIA"
         },
         {
           "player_id": "11624",
@@ -2596,12 +2601,6 @@
           "name": "Kyler Murray",
           "position": "QB",
           "team": "MIN"
-        },
-        {
-          "player_id": "6801",
-          "name": "Tee Higgins",
-          "position": "WR",
-          "team": "CIN"
         },
         {
           "player_id": "7600",

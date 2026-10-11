@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-11T13:03:50.863Z",
+  "generated_at": "2026-10-11T18:09:41.820Z",
   "source": "Sleeper public API",
   "username": "TheMightyKites",
   "nfl_week": 5,
@@ -60,7 +60,7 @@
       "daily_waivers_base": 4,
       "reserve_slots": 2,
       "reserve_allow_cov": 1,
-      "daily_waivers_last_ran": 10
+      "daily_waivers_last_ran": 11
     },
     "scoring_settings": {
       "sack": 1,
@@ -332,11 +332,11 @@
   "my_matchup": {
     "me": {
       "team": "The Ham Cannons",
-      "points": 15.26
+      "points": 58.41
     },
     "opponent": {
       "team": "Chillin With Mahomes",
-      "points": 0,
+      "points": 43,
       "roster_id": 2
     }
   },
@@ -540,6 +540,12 @@
           "name": "Rico Dowdle",
           "position": "RB",
           "team": "PIT"
+        },
+        {
+          "player_id": "8116",
+          "name": "Pierre Strong",
+          "position": "RB",
+          "team": "GB"
         },
         {
           "player_id": "8154",
@@ -830,10 +836,10 @@
           "team": "PIT"
         },
         {
-          "player_id": "11635",
-          "name": "Ladd McConkey",
+          "player_id": "3155",
+          "name": "Laquon Treadwell",
           "position": "WR",
-          "team": "LAC"
+          "team": "IND"
         },
         {
           "player_id": "12518",
@@ -878,6 +884,12 @@
           "name": "Jalen McMillan",
           "position": "WR",
           "team": "TB"
+        },
+        {
+          "player_id": "11635",
+          "name": "Ladd McConkey",
+          "position": "WR",
+          "team": "LAC"
         },
         {
           "player_id": "12457",
