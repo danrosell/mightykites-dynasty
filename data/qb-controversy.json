@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-10-13T02:05:53.852Z",
+  "generated_at": "2026-10-13T09:32:38.666Z",
   "source": "Sleeper public API",
   "username": "TheMightyKites",
-  "nfl_week": 5,
+  "nfl_week": 6,
   "league": {
     "id": "1312927511985807360",
     "name": "QB Controversy",
@@ -27,7 +27,7 @@
       "playoff_type": 0,
       "taxi_slots": 3,
       "sub_start_time_eligibility": 0,
-      "last_scored_leg": 4,
+      "last_scored_leg": 5,
       "daily_waivers_days": 5461,
       "sub_lock_if_starter_active": 0,
       "playoff_week_start": 15,
@@ -141,11 +141,11 @@
     "owner_id": "866511772801196032",
     "team_name": "The Ham Cannons",
     "is_me": true,
-    "record": "0-8",
-    "wins": 0,
-    "losses": 8,
-    "points_for": 432.54,
-    "rank": 13,
+    "record": "1-9",
+    "wins": 1,
+    "losses": 9,
+    "points_for": 579.15,
+    "rank": 12,
     "starters": [
       {
         "player_id": "13425",
@@ -332,12 +332,12 @@
   "my_matchup": {
     "me": {
       "team": "The Ham Cannons",
-      "points": 146.61
+      "points": 0
     },
     "opponent": {
-      "team": "Chillin With Mahomes",
-      "points": 198.22,
-      "roster_id": 2
+      "team": "Tenacious D",
+      "points": 0,
+      "roster_id": 1
     }
   },
   "my_picks": [
@@ -425,11 +425,11 @@
       "owner_id": "405783718150565888",
       "team_name": "Tenacious D",
       "is_me": false,
-      "record": "3-5",
-      "wins": 3,
+      "record": "5-5",
+      "wins": 5,
       "losses": 5,
-      "points_for": 554.2,
-      "rank": 9,
+      "points_for": 771.78,
+      "rank": 8,
       "starters": [
         {
           "player_id": "5870",
@@ -618,11 +618,11 @@
       "owner_id": "653300850810236928",
       "team_name": "Chillin With Mahomes",
       "is_me": false,
-      "record": "7-1",
-      "wins": 7,
+      "record": "9-1",
+      "wins": 9,
       "losses": 1,
-      "points_for": 641.99,
-      "rank": 3,
+      "points_for": 840.21,
+      "rank": 2,
       "starters": [
         {
           "player_id": "3163",
@@ -799,23 +799,23 @@
       "owner_id": "651198204880187392",
       "team_name": "Horny for Herbert ",
       "is_me": false,
-      "record": "3-5",
+      "record": "3-7",
       "wins": 3,
-      "losses": 5,
-      "points_for": 506.73,
+      "losses": 7,
+      "points_for": 587.82,
       "rank": 10,
       "starters": [
         {
-          "player_id": "6797",
-          "name": "Justin Herbert",
+          "player_id": "9228",
+          "name": "Bryce Young",
           "position": "QB",
-          "team": "LAC"
+          "team": "CAR"
         },
         {
-          "player_id": "13424",
-          "name": "Seth McGowan",
+          "player_id": "12534",
+          "name": "Kyle Monangai",
           "position": "RB",
-          "team": "IND"
+          "team": "CHI"
         },
         {
           "player_id": "11647",
@@ -830,16 +830,16 @@
           "team": "BAL"
         },
         {
+          "player_id": "12526",
+          "name": "Tetairoa McMillan",
+          "position": "WR",
+          "team": "CAR"
+        },
+        {
           "player_id": "11630",
           "name": "Roman Wilson",
           "position": "WR",
           "team": "PIT"
-        },
-        {
-          "player_id": "3155",
-          "name": "Laquon Treadwell",
-          "position": "WR",
-          "team": "IND"
         },
         {
           "player_id": "12518",
@@ -860,10 +860,10 @@
           "team": "TB"
         },
         {
-          "player_id": "11596",
-          "name": "Ben Sinnott",
-          "position": "TE",
-          "team": "WAS"
+          "player_id": "6797",
+          "name": "Justin Herbert",
+          "position": "QB",
+          "team": "LAC"
         }
       ],
       "bench": [
@@ -872,6 +872,12 @@
           "name": "J.J. McCarthy",
           "position": "QB",
           "team": "NYG"
+        },
+        {
+          "player_id": "11596",
+          "name": "Ben Sinnott",
+          "position": "TE",
+          "team": "WAS"
         },
         {
           "player_id": "11600",
@@ -898,18 +904,6 @@
           "team": "PHI"
         },
         {
-          "player_id": "12526",
-          "name": "Tetairoa McMillan",
-          "position": "WR",
-          "team": "CAR"
-        },
-        {
-          "player_id": "12534",
-          "name": "Kyle Monangai",
-          "position": "RB",
-          "team": "CHI"
-        },
-        {
           "player_id": "12544",
           "name": "LeQuint Allen",
           "position": "RB",
@@ -934,22 +928,28 @@
           "team": "SF"
         },
         {
+          "player_id": "13424",
+          "name": "Seth McGowan",
+          "position": "RB",
+          "team": "IND"
+        },
+        {
           "player_id": "1737",
           "name": "Case Keenum",
           "position": "QB",
           "team": "CHI"
         },
         {
+          "player_id": "3155",
+          "name": "Laquon Treadwell",
+          "position": "WR",
+          "team": "IND"
+        },
+        {
           "player_id": "7828",
           "name": "Noah Gray",
           "position": "TE",
           "team": "KC"
-        },
-        {
-          "player_id": "9228",
-          "name": "Bryce Young",
-          "position": "QB",
-          "team": "CAR"
         }
       ],
       "taxi": [
@@ -992,10 +992,10 @@
       "owner_id": "646587866931236864",
       "team_name": "PRIMETIME",
       "is_me": false,
-      "record": "5-3",
-      "wins": 5,
-      "losses": 3,
-      "points_for": 535.64,
+      "record": "6-4",
+      "wins": 6,
+      "losses": 4,
+      "points_for": 679.14,
       "rank": 6,
       "starters": [
         {
@@ -1185,11 +1185,11 @@
       "owner_id": "469353230271246336",
       "team_name": "Golden Kupp",
       "is_me": false,
-      "record": "4-4",
-      "wins": 4,
-      "losses": 4,
-      "points_for": 545.44,
-      "rank": 7,
+      "record": "5-5",
+      "wins": 5,
+      "losses": 5,
+      "points_for": 645.8,
+      "rank": 9,
       "starters": [
         {
           "player_id": "8183",
@@ -1360,10 +1360,10 @@
       "owner_id": "605782765325049856",
       "team_name": "BC & the Old Guys",
       "is_me": false,
-      "record": "6-2",
-      "wins": 6,
-      "losses": 2,
-      "points_for": 673.35,
+      "record": "7-3",
+      "wins": 7,
+      "losses": 3,
+      "points_for": 844,
       "rank": 4,
       "starters": [
         {
@@ -1547,11 +1547,11 @@
       "owner_id": "998355322244861952",
       "team_name": "nickdemarinis",
       "is_me": false,
-      "record": "4-4",
-      "wins": 4,
+      "record": "6-4",
+      "wins": 6,
       "losses": 4,
-      "points_for": 457.98,
-      "rank": 8,
+      "points_for": 605.52,
+      "rank": 7,
       "starters": [
         {
           "player_id": "12522",
@@ -1734,11 +1734,11 @@
       "owner_id": "866511772801196032",
       "team_name": "The Ham Cannons",
       "is_me": true,
-      "record": "0-8",
-      "wins": 0,
-      "losses": 8,
-      "points_for": 432.54,
-      "rank": 13,
+      "record": "1-9",
+      "wins": 1,
+      "losses": 9,
+      "points_for": 579.15,
+      "rank": 12,
       "starters": [
         {
           "player_id": "13425",
@@ -1927,11 +1927,11 @@
       "owner_id": "562785236463558656",
       "team_name": "KC & The Young Studs",
       "is_me": false,
-      "record": "8-0",
-      "wins": 8,
+      "record": "10-0",
+      "wins": 10,
       "losses": 0,
-      "points_for": 775.14,
-      "rank": 2,
+      "points_for": 949.13,
+      "rank": 1,
       "starters": [
         {
           "player_id": "6770",
@@ -2120,11 +2120,11 @@
       "owner_id": "240850597853523968",
       "team_name": "Iron Claw 💚 ",
       "is_me": false,
-      "record": "1-7",
+      "record": "1-9",
       "wins": 1,
-      "losses": 7,
-      "points_for": 376.1,
-      "rank": 12,
+      "losses": 9,
+      "points_for": 501.94,
+      "rank": 13,
       "starters": [
         {
           "player_id": "11564",
@@ -2313,10 +2313,10 @@
       "owner_id": "1161138210169479168",
       "team_name": "Vrabels Secret Family",
       "is_me": false,
-      "record": "2-6",
+      "record": "2-8",
       "wins": 2,
-      "losses": 6,
-      "points_for": 435.16,
+      "losses": 8,
+      "points_for": 530.45,
       "rank": 11,
       "starters": [
         {
@@ -2506,10 +2506,10 @@
       "owner_id": "655144672024444928",
       "team_name": "Hot Sauce 🌶️",
       "is_me": false,
-      "record": "5-3",
-      "wins": 5,
+      "record": "7-3",
+      "wins": 7,
       "losses": 3,
-      "points_for": 559.31,
+      "points_for": 705.01,
       "rank": 5,
       "starters": [
         {
@@ -2699,11 +2699,11 @@
       "owner_id": "655180332705849344",
       "team_name": "Ertz Boyz",
       "is_me": false,
-      "record": "8-0",
+      "record": "8-2",
       "wins": 8,
-      "losses": 0,
-      "points_for": 780.2,
-      "rank": 1,
+      "losses": 2,
+      "points_for": 914.28,
+      "rank": 3,
       "starters": [
         {
           "player_id": "4984",
@@ -2892,10 +2892,10 @@
       "owner_id": "76814635617370112",
       "team_name": "James Jones #1 WR",
       "is_me": false,
-      "record": "0-8",
+      "record": "0-10",
       "wins": 0,
-      "losses": 8,
-      "points_for": 381.67,
+      "losses": 10,
+      "points_for": 460.33,
       "rank": 14,
       "starters": [
         {
