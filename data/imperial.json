@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-13T17:39:21.571Z",
+  "generated_at": "2026-10-13T22:53:45.480Z",
   "source": "Sleeper public API",
   "username": "TheMightyKites",
   "nfl_week": 6,
@@ -440,10 +440,10 @@
           "team": "PIT"
         },
         {
-          "player_id": "12472",
-          "name": "Raheim Sanders",
-          "position": "RB",
-          "team": "CLE"
+          "player_id": "0",
+          "name": "0",
+          "position": "—",
+          "team": "FA"
         },
         {
           "player_id": "9493",
@@ -535,6 +535,12 @@
         }
       ],
       "reserve": [
+        {
+          "player_id": "12472",
+          "name": "Raheim Sanders",
+          "position": "RB",
+          "team": "CLE"
+        },
         {
           "player_id": "13345",
           "name": "Jonah Coleman",
@@ -694,16 +700,16 @@
       "rank": 17,
       "starters": [
         {
+          "player_id": "4866",
+          "name": "Saquon Barkley",
+          "position": "RB",
+          "team": "PHI"
+        },
+        {
           "player_id": "12512",
           "name": "Quinshon Judkins",
           "position": "RB",
           "team": "CLE"
-        },
-        {
-          "player_id": "12457",
-          "name": "Jaydon Blue",
-          "position": "RB",
-          "team": "PHI"
         },
         {
           "player_id": "9488",
@@ -712,10 +718,10 @@
           "team": "SEA"
         },
         {
-          "player_id": "6794",
-          "name": "Justin Jefferson",
+          "player_id": "9486",
+          "name": "Dontayvion Wicks",
           "position": "WR",
-          "team": "MIN"
+          "team": "PHI"
         },
         {
           "player_id": "9479",
@@ -724,10 +730,10 @@
           "team": "PIT"
         },
         {
-          "player_id": "9486",
-          "name": "Dontayvion Wicks",
-          "position": "WR",
-          "team": "PHI"
+          "player_id": "2505",
+          "name": "Darren Waller",
+          "position": "TE",
+          "team": "CAR"
         },
         {
           "player_id": "12502",
@@ -744,22 +750,16 @@
       ],
       "bench": [
         {
-          "player_id": "11628",
-          "name": "Marvin Harrison",
-          "position": "WR",
-          "team": "HOU"
+          "player_id": "12457",
+          "name": "Jaydon Blue",
+          "position": "RB",
+          "team": "PHI"
         },
         {
           "player_id": "12522",
           "name": "Cam Ward",
           "position": "QB",
           "team": "TEN"
-        },
-        {
-          "player_id": "2505",
-          "name": "Darren Waller",
-          "position": "TE",
-          "team": "CAR"
         },
         {
           "player_id": "4018",
@@ -772,6 +772,12 @@
           "name": "Jerry Jeudy",
           "position": "WR",
           "team": "CLE"
+        },
+        {
+          "player_id": "6794",
+          "name": "Justin Jefferson",
+          "position": "WR",
+          "team": "MIN"
         }
       ],
       "taxi": [
@@ -790,6 +796,12 @@
       ],
       "reserve": [
         {
+          "player_id": "11628",
+          "name": "Marvin Harrison",
+          "position": "WR",
+          "team": "HOU"
+        },
+        {
           "player_id": "12531",
           "name": "Trevor Etienne",
           "position": "RB",
@@ -800,12 +812,6 @@
           "name": "Jadarian Price",
           "position": "RB",
           "team": "SEA"
-        },
-        {
-          "player_id": "4866",
-          "name": "Saquon Barkley",
-          "position": "RB",
-          "team": "PHI"
         }
       ]
     },
@@ -1202,10 +1208,10 @@
           "team": "DET"
         },
         {
-          "player_id": "7528",
-          "name": "Najee Harris",
+          "player_id": "7594",
+          "name": "Chuba Hubbard",
           "position": "RB",
-          "team": "NYG"
+          "team": "CAR"
         },
         {
           "player_id": "9997",
@@ -1226,10 +1232,10 @@
           "team": "PHI"
         },
         {
-          "player_id": "11783",
-          "name": "Ryan Flournoy",
-          "position": "WR",
-          "team": "DAL"
+          "player_id": "9480",
+          "name": "Brenton Strange",
+          "position": "TE",
+          "team": "JAX"
         },
         {
           "player_id": "11631",
@@ -1252,22 +1258,22 @@
           "team": "ATL"
         },
         {
+          "player_id": "11783",
+          "name": "Ryan Flournoy",
+          "position": "WR",
+          "team": "DAL"
+        },
+        {
           "player_id": "2306",
           "name": "Jameis Winston",
           "position": "QB",
           "team": "NYG"
         },
         {
-          "player_id": "7594",
-          "name": "Chuba Hubbard",
+          "player_id": "7528",
+          "name": "Najee Harris",
           "position": "RB",
-          "team": "CAR"
-        },
-        {
-          "player_id": "9480",
-          "name": "Brenton Strange",
-          "position": "TE",
-          "team": "JAX"
+          "team": "NYG"
         },
         {
           "player_id": "9504",
@@ -1281,7 +1287,7 @@
           "player_id": "11199",
           "name": "Emari Demercado",
           "position": "RB",
-          "team": "FA"
+          "team": "DAL"
         },
         {
           "player_id": "12524",
@@ -1565,16 +1571,16 @@
           "team": "LV"
         },
         {
-          "player_id": "11729",
-          "name": "Sione Vaki",
+          "player_id": "11647",
+          "name": "Kimani Vidal",
           "position": "RB",
-          "team": "DET"
+          "team": "LAC"
         },
         {
-          "player_id": "8148",
-          "name": "Jameson Williams",
+          "player_id": "7571",
+          "name": "Rashod Bateman",
           "position": "WR",
-          "team": "DET"
+          "team": "BAL"
         },
         {
           "player_id": "11834",
@@ -1589,10 +1595,10 @@
           "team": "CHI"
         },
         {
-          "player_id": "11643",
-          "name": "Jaylen Wright",
-          "position": "RB",
-          "team": "MIA"
+          "player_id": "6865",
+          "name": "Colby Parkinson",
+          "position": "TE",
+          "team": "LAR"
         },
         {
           "player_id": "9482",
@@ -1601,18 +1607,24 @@
           "team": "LV"
         },
         {
-          "player_id": "7571",
-          "name": "Rashod Bateman",
-          "position": "WR",
-          "team": "BAL"
+          "player_id": "12521",
+          "name": "Elijah Arroyo",
+          "position": "TE",
+          "team": "SEA"
         }
       ],
       "bench": [
         {
-          "player_id": "11647",
-          "name": "Kimani Vidal",
+          "player_id": "11643",
+          "name": "Jaylen Wright",
           "position": "RB",
-          "team": "LAC"
+          "team": "MIA"
+        },
+        {
+          "player_id": "11729",
+          "name": "Sione Vaki",
+          "position": "RB",
+          "team": "DET"
         },
         {
           "player_id": "12471",
@@ -1621,16 +1633,10 @@
           "team": "IND"
         },
         {
-          "player_id": "12521",
-          "name": "Elijah Arroyo",
-          "position": "TE",
-          "team": "SEA"
-        },
-        {
-          "player_id": "6865",
-          "name": "Colby Parkinson",
-          "position": "TE",
-          "team": "LAR"
+          "player_id": "8148",
+          "name": "Jameson Williams",
+          "position": "WR",
+          "team": "DET"
         }
       ],
       "taxi": [

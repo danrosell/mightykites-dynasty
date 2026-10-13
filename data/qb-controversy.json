@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-13T17:39:23.205Z",
+  "generated_at": "2026-10-13T22:53:47.102Z",
   "source": "Sleeper public API",
   "username": "TheMightyKites",
   "nfl_week": 6,
@@ -1216,16 +1216,16 @@
           "team": "NO"
         },
         {
+          "player_id": "8126",
+          "name": "Wan'Dale Robinson",
+          "position": "WR",
+          "team": "TEN"
+        },
+        {
           "player_id": "13298",
           "name": "KC Concepcion",
           "position": "WR",
           "team": "CLE"
-        },
-        {
-          "player_id": "9756",
-          "name": "Jordan Addison",
-          "position": "WR",
-          "team": "MIN"
         },
         {
           "player_id": "5001",
@@ -1314,12 +1314,6 @@
           "team": "CLE"
         },
         {
-          "player_id": "8126",
-          "name": "Wan'Dale Robinson",
-          "position": "WR",
-          "team": "TEN"
-        },
-        {
           "player_id": "8147",
           "name": "John Metchie",
           "position": "WR",
@@ -1330,6 +1324,12 @@
           "name": "Tyrod Taylor",
           "position": "QB",
           "team": "GB"
+        },
+        {
+          "player_id": "9756",
+          "name": "Jordan Addison",
+          "position": "WR",
+          "team": "MIN"
         }
       ],
       "taxi": [
@@ -2706,22 +2706,22 @@
       "rank": 3,
       "starters": [
         {
-          "player_id": "0",
-          "name": "0",
-          "position": "—",
-          "team": "FA"
+          "player_id": "4984",
+          "name": "Josh Allen",
+          "position": "QB",
+          "team": "BUF"
         },
         {
-          "player_id": "0",
-          "name": "0",
-          "position": "—",
-          "team": "FA"
+          "player_id": "4034",
+          "name": "Christian McCaffrey",
+          "position": "RB",
+          "team": "SF"
         },
         {
-          "player_id": "0",
-          "name": "0",
-          "position": "—",
-          "team": "FA"
+          "player_id": "7594",
+          "name": "Chuba Hubbard",
+          "position": "RB",
+          "team": "CAR"
         },
         {
           "player_id": "9488",
@@ -2730,40 +2730,40 @@
           "team": "SEA"
         },
         {
-          "player_id": "0",
-          "name": "0",
-          "position": "—",
-          "team": "FA"
+          "player_id": "5846",
+          "name": "DK Metcalf",
+          "position": "WR",
+          "team": "PIT"
         },
         {
-          "player_id": "0",
-          "name": "0",
-          "position": "—",
-          "team": "FA"
+          "player_id": "7569",
+          "name": "Nico Collins",
+          "position": "WR",
+          "team": "HOU"
         },
         {
-          "player_id": "0",
-          "name": "0",
-          "position": "—",
-          "team": "FA"
+          "player_id": "5022",
+          "name": "Dallas Goedert",
+          "position": "TE",
+          "team": "PHI"
         },
         {
-          "player_id": "0",
-          "name": "0",
-          "position": "—",
-          "team": "FA"
+          "player_id": "7002",
+          "name": "Juwan Johnson",
+          "position": "TE",
+          "team": "NO"
         },
         {
-          "player_id": "0",
-          "name": "0",
-          "position": "—",
-          "team": "FA"
+          "player_id": "8150",
+          "name": "Kyren Williams",
+          "position": "RB",
+          "team": "LAR"
         },
         {
-          "player_id": "0",
-          "name": "0",
-          "position": "—",
-          "team": "FA"
+          "player_id": "4881",
+          "name": "Lamar Jackson",
+          "position": "QB",
+          "team": "BAL"
         }
       ],
       "bench": [
@@ -2816,18 +2816,6 @@
           "team": "PHI"
         },
         {
-          "player_id": "4034",
-          "name": "Christian McCaffrey",
-          "position": "RB",
-          "team": "SF"
-        },
-        {
-          "player_id": "4881",
-          "name": "Lamar Jackson",
-          "position": "QB",
-          "team": "BAL"
-        },
-        {
           "player_id": "4943",
           "name": "Sam Darnold",
           "position": "QB",
@@ -2840,52 +2828,10 @@
           "team": "BUF"
         },
         {
-          "player_id": "4984",
-          "name": "Josh Allen",
-          "position": "QB",
-          "team": "BUF"
-        },
-        {
-          "player_id": "5022",
-          "name": "Dallas Goedert",
-          "position": "TE",
-          "team": "PHI"
-        },
-        {
-          "player_id": "5846",
-          "name": "DK Metcalf",
-          "position": "WR",
-          "team": "PIT"
-        },
-        {
           "player_id": "5906",
           "name": "Dawson Knox",
           "position": "TE",
           "team": "BUF"
-        },
-        {
-          "player_id": "7002",
-          "name": "Juwan Johnson",
-          "position": "TE",
-          "team": "NO"
-        },
-        {
-          "player_id": "7569",
-          "name": "Nico Collins",
-          "position": "WR",
-          "team": "HOU"
-        },
-        {
-          "player_id": "7594",
-          "name": "Chuba Hubbard",
-          "position": "RB",
-          "team": "CAR"
-        },
-        {
-          "player_id": "8150",
-          "name": "Kyren Williams",
-          "position": "RB",
-          "team": "LAR"
         },
         {
           "player_id": "8155",
