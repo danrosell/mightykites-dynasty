@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-13T09:32:39.805Z",
+  "generated_at": "2026-10-13T17:39:24.225Z",
   "source": "Sleeper public API",
   "username": "TheMightyKites",
   "nfl_week": 6,
@@ -10,7 +10,7 @@
     "status": "in_season",
     "settings": {
       "best_ball": 0,
-      "last_report": 4,
+      "last_report": 5,
       "waiver_budget": 200,
       "disable_adds": 0,
       "divisions": 0,
@@ -57,7 +57,7 @@
       "leg": 5,
       "reserve_slots": 2,
       "reserve_allow_cov": 0,
-      "daily_waivers_last_ran": 12
+      "daily_waivers_last_ran": 13
     },
     "scoring_settings": {
       "sack": 1,
@@ -166,10 +166,10 @@
         "team": "BAL"
       },
       {
-        "player_id": "7547",
-        "name": "Amon-Ra St. Brown",
+        "player_id": "11646",
+        "name": "Jalen Coker",
         "position": "WR",
-        "team": "DET"
+        "team": "CAR"
       },
       {
         "player_id": "2133",
@@ -196,10 +196,10 @@
         "team": "JAX"
       },
       {
-        "player_id": "4035",
-        "name": "Alvin Kamara",
+        "player_id": "12474",
+        "name": "Woody Marks",
         "position": "RB",
-        "team": "NO"
+        "team": "HOU"
       }
     ],
     "bench": [
@@ -214,18 +214,6 @@
         "name": "Isaiah Davis",
         "position": "RB",
         "team": "NYJ"
-      },
-      {
-        "player_id": "11646",
-        "name": "Jalen Coker",
-        "position": "WR",
-        "team": "CAR"
-      },
-      {
-        "player_id": "12474",
-        "name": "Woody Marks",
-        "position": "RB",
-        "team": "HOU"
       },
       {
         "player_id": "12487",
@@ -282,6 +270,12 @@
         "team": "FA"
       },
       {
+        "player_id": "4035",
+        "name": "Alvin Kamara",
+        "position": "RB",
+        "team": "NO"
+      },
+      {
         "player_id": "4066",
         "name": "Evan Engram",
         "position": "TE",
@@ -304,6 +298,12 @@
         "name": "Rico Dowdle",
         "position": "RB",
         "team": "PIT"
+      },
+      {
+        "player_id": "7547",
+        "name": "Amon-Ra St. Brown",
+        "position": "WR",
+        "team": "DET"
       },
       {
         "player_id": "8111",
@@ -1263,10 +1263,10 @@
           "team": "BAL"
         },
         {
-          "player_id": "7547",
-          "name": "Amon-Ra St. Brown",
+          "player_id": "11646",
+          "name": "Jalen Coker",
           "position": "WR",
-          "team": "DET"
+          "team": "CAR"
         },
         {
           "player_id": "2133",
@@ -1293,10 +1293,10 @@
           "team": "JAX"
         },
         {
-          "player_id": "4035",
-          "name": "Alvin Kamara",
+          "player_id": "12474",
+          "name": "Woody Marks",
           "position": "RB",
-          "team": "NO"
+          "team": "HOU"
         }
       ],
       "bench": [
@@ -1311,18 +1311,6 @@
           "name": "Isaiah Davis",
           "position": "RB",
           "team": "NYJ"
-        },
-        {
-          "player_id": "11646",
-          "name": "Jalen Coker",
-          "position": "WR",
-          "team": "CAR"
-        },
-        {
-          "player_id": "12474",
-          "name": "Woody Marks",
-          "position": "RB",
-          "team": "HOU"
         },
         {
           "player_id": "12487",
@@ -1379,6 +1367,12 @@
           "team": "FA"
         },
         {
+          "player_id": "4035",
+          "name": "Alvin Kamara",
+          "position": "RB",
+          "team": "NO"
+        },
+        {
           "player_id": "4066",
           "name": "Evan Engram",
           "position": "TE",
@@ -1401,6 +1395,12 @@
           "name": "Rico Dowdle",
           "position": "RB",
           "team": "PIT"
+        },
+        {
+          "player_id": "7547",
+          "name": "Amon-Ra St. Brown",
+          "position": "WR",
+          "team": "DET"
         },
         {
           "player_id": "8111",
@@ -1665,10 +1665,10 @@
           "team": "WAS"
         },
         {
-          "player_id": "4147",
-          "name": "Samaje Perine",
-          "position": "RB",
-          "team": "CIN"
+          "player_id": "0",
+          "name": "0",
+          "position": "—",
+          "team": "FA"
         },
         {
           "player_id": "8112",
@@ -1677,22 +1677,10 @@
           "team": "ATL"
         },
         {
-          "player_id": "6794",
-          "name": "Justin Jefferson",
+          "player_id": "4037",
+          "name": "Chris Godwin",
           "position": "WR",
-          "team": "MIN"
-        },
-        {
-          "player_id": "7564",
-          "name": "Ja'Marr Chase",
-          "position": "WR",
-          "team": "CIN"
-        },
-        {
-          "player_id": "12517",
-          "name": "Colston Loveland",
-          "position": "TE",
-          "team": "CHI"
+          "team": "TB"
         },
         {
           "player_id": "8121",
@@ -1701,13 +1689,11 @@
           "team": "NE"
         },
         {
-          "player_id": "5872",
-          "name": "Deebo Samuel",
-          "position": "WR",
-          "team": "SF"
-        }
-      ],
-      "bench": [
+          "player_id": "0",
+          "name": "0",
+          "position": "—",
+          "team": "FA"
+        },
         {
           "player_id": "10229",
           "name": "Rashee Rice",
@@ -1715,10 +1701,24 @@
           "team": "KC"
         },
         {
+          "player_id": "0",
+          "name": "0",
+          "position": "—",
+          "team": "FA"
+        }
+      ],
+      "bench": [
+        {
           "player_id": "11729",
           "name": "Sione Vaki",
           "position": "RB",
           "team": "DET"
+        },
+        {
+          "player_id": "12517",
+          "name": "Colston Loveland",
+          "position": "TE",
+          "team": "CHI"
         },
         {
           "player_id": "12540",
@@ -1775,10 +1775,10 @@
           "team": "LAC"
         },
         {
-          "player_id": "4037",
-          "name": "Chris Godwin",
-          "position": "WR",
-          "team": "TB"
+          "player_id": "4147",
+          "name": "Samaje Perine",
+          "position": "RB",
+          "team": "CIN"
         },
         {
           "player_id": "4881",
@@ -1793,10 +1793,28 @@
           "team": "BAL"
         },
         {
+          "player_id": "5872",
+          "name": "Deebo Samuel",
+          "position": "WR",
+          "team": "SF"
+        },
+        {
+          "player_id": "6794",
+          "name": "Justin Jefferson",
+          "position": "WR",
+          "team": "MIN"
+        },
+        {
           "player_id": "7090",
           "name": "Darnell Mooney",
           "position": "WR",
           "team": "NYG"
+        },
+        {
+          "player_id": "7564",
+          "name": "Ja'Marr Chase",
+          "position": "WR",
+          "team": "CIN"
         },
         {
           "player_id": "7591",
@@ -2648,10 +2666,10 @@
       "rank": 11,
       "starters": [
         {
-          "player_id": "3163",
-          "name": "Jared Goff",
+          "player_id": "6804",
+          "name": "Jordan Love",
           "position": "QB",
-          "team": "DET"
+          "team": "GB"
         },
         {
           "player_id": "8138",
@@ -2684,10 +2702,10 @@
           "team": "NYJ"
         },
         {
-          "player_id": "5844",
-          "name": "T.J. Hockenson",
+          "player_id": "1466",
+          "name": "Travis Kelce",
           "position": "TE",
-          "team": "MIN"
+          "team": "KC"
         },
         {
           "player_id": "4039",
@@ -2696,10 +2714,10 @@
           "team": "SEA"
         },
         {
-          "player_id": "4993",
-          "name": "Mike Gesicki",
-          "position": "TE",
-          "team": "CIN"
+          "player_id": "12499",
+          "name": "Elic Ayomanor",
+          "position": "WR",
+          "team": "TEN"
         }
       ],
       "bench": [
@@ -2714,12 +2732,6 @@
           "name": "Mason Taylor",
           "position": "TE",
           "team": "NYJ"
-        },
-        {
-          "player_id": "12499",
-          "name": "Elic Ayomanor",
-          "position": "WR",
-          "team": "TEN"
         },
         {
           "player_id": "13276",
@@ -2740,16 +2752,28 @@
           "team": "BUF"
         },
         {
-          "player_id": "1466",
-          "name": "Travis Kelce",
-          "position": "TE",
-          "team": "KC"
+          "player_id": "3163",
+          "name": "Jared Goff",
+          "position": "QB",
+          "team": "DET"
         },
         {
           "player_id": "4981",
           "name": "Calvin Ridley",
           "position": "WR",
           "team": "TEN"
+        },
+        {
+          "player_id": "4993",
+          "name": "Mike Gesicki",
+          "position": "TE",
+          "team": "CIN"
+        },
+        {
+          "player_id": "5844",
+          "name": "T.J. Hockenson",
+          "position": "TE",
+          "team": "MIN"
         },
         {
           "player_id": "5850",
@@ -2768,12 +2792,6 @@
           "name": "Olamide Zaccheaus",
           "position": "WR",
           "team": "ATL"
-        },
-        {
-          "player_id": "6804",
-          "name": "Jordan Love",
-          "position": "QB",
-          "team": "GB"
         },
         {
           "player_id": "6828",
