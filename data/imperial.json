@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-14T07:46:04.551Z",
+  "generated_at": "2026-10-14T13:49:48.923Z",
   "source": "Sleeper public API",
   "username": "TheMightyKites",
   "nfl_week": 6,
@@ -750,22 +750,16 @@
       ],
       "bench": [
         {
-          "player_id": "12457",
-          "name": "Jaydon Blue",
-          "position": "RB",
-          "team": "PHI"
+          "player_id": "11628",
+          "name": "Marvin Harrison",
+          "position": "WR",
+          "team": "HOU"
         },
         {
           "player_id": "12522",
           "name": "Cam Ward",
           "position": "QB",
           "team": "TEN"
-        },
-        {
-          "player_id": "4018",
-          "name": "Joe Mixon",
-          "position": "RB",
-          "team": "FA"
         },
         {
           "player_id": "6783",
@@ -795,12 +789,6 @@
         }
       ],
       "reserve": [
-        {
-          "player_id": "11628",
-          "name": "Marvin Harrison",
-          "position": "WR",
-          "team": "HOU"
-        },
         {
           "player_id": "12531",
           "name": "Trevor Etienne",
@@ -1202,10 +1190,10 @@
       "rank": 8,
       "starters": [
         {
-          "player_id": "9221",
-          "name": "Jahmyr Gibbs",
+          "player_id": "7528",
+          "name": "Najee Harris",
           "position": "RB",
-          "team": "DET"
+          "team": "NYG"
         },
         {
           "player_id": "7594",
@@ -1270,10 +1258,10 @@
           "team": "NYG"
         },
         {
-          "player_id": "7528",
-          "name": "Najee Harris",
+          "player_id": "9221",
+          "name": "Jahmyr Gibbs",
           "position": "RB",
-          "team": "NYG"
+          "team": "DET"
         },
         {
           "player_id": "9504",
@@ -1760,6 +1748,12 @@
           "team": "MIN"
         },
         {
+          "player_id": "5892",
+          "name": "David Montgomery",
+          "position": "RB",
+          "team": "HOU"
+        },
+        {
           "player_id": "7547",
           "name": "Amon-Ra St. Brown",
           "position": "WR",
@@ -1792,12 +1786,6 @@
           "name": "Josh Jacobs",
           "position": "RB",
           "team": "GB"
-        },
-        {
-          "player_id": "5892",
-          "name": "David Montgomery",
-          "position": "RB",
-          "team": "HOU"
         },
         {
           "player_id": "6803",
@@ -2448,10 +2436,10 @@
           "team": "TEN"
         },
         {
-          "player_id": "6801",
-          "name": "Tee Higgins",
+          "player_id": "11627",
+          "name": "Troy Franklin",
           "position": "WR",
-          "team": "CIN"
+          "team": "DEN"
         },
         {
           "player_id": "5947",
@@ -2466,10 +2454,10 @@
           "team": "ARI"
         },
         {
-          "player_id": "11627",
-          "name": "Troy Franklin",
-          "position": "WR",
-          "team": "DEN"
+          "player_id": "5857",
+          "name": "Noah Fant",
+          "position": "TE",
+          "team": "NO"
         },
         {
           "player_id": "12493",
@@ -2492,15 +2480,15 @@
           "team": "CHI"
         },
         {
-          "player_id": "5857",
-          "name": "Noah Fant",
-          "position": "TE",
-          "team": "NO"
-        },
-        {
           "player_id": "6770",
           "name": "Joe Burrow",
           "position": "QB",
+          "team": "CIN"
+        },
+        {
+          "player_id": "6801",
+          "name": "Tee Higgins",
+          "position": "WR",
           "team": "CIN"
         }
       ],

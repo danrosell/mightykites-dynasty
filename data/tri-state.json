@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-14T07:46:08.674Z",
+  "generated_at": "2026-10-14T13:49:52.864Z",
   "source": "Sleeper public API",
   "username": "TheMightyKites",
   "nfl_week": 6,
@@ -60,7 +60,7 @@
       "leg": 6,
       "reserve_slots": 3,
       "reserve_allow_cov": 1,
-      "daily_waivers_last_ran": 13
+      "daily_waivers_last_ran": 14
     },
     "scoring_settings": {
       "sack": 2,
@@ -504,12 +504,6 @@
           "team": "CIN"
         },
         {
-          "player_id": "12048",
-          "name": "George Holani",
-          "position": "RB",
-          "team": "SEA"
-        },
-        {
           "player_id": "12474",
           "name": "Woody Marks",
           "position": "RB",
@@ -526,6 +520,12 @@
           "name": "Tyler Higbee",
           "position": "TE",
           "team": "LAR"
+        },
+        {
+          "player_id": "4454",
+          "name": "Kendrick Bourne",
+          "position": "WR",
+          "team": "ARI"
         },
         {
           "player_id": "5012",
@@ -1129,6 +1129,12 @@
           "name": "Deshaun Watson",
           "position": "QB",
           "team": "CLE"
+        },
+        {
+          "player_id": "4147",
+          "name": "Samaje Perine",
+          "position": "RB",
+          "team": "CIN"
         },
         {
           "player_id": "5849",
@@ -1804,16 +1810,16 @@
       "rank": 1,
       "starters": [
         {
-          "player_id": "6770",
-          "name": "Joe Burrow",
+          "player_id": "96",
+          "name": "Aaron Rodgers",
           "position": "QB",
-          "team": "CIN"
+          "team": "PIT"
         },
         {
-          "player_id": "9221",
-          "name": "Jahmyr Gibbs",
+          "player_id": "9757",
+          "name": "Kendre Miller",
           "position": "RB",
-          "team": "DET"
+          "team": "NO"
         },
         {
           "player_id": "6813",
@@ -1920,6 +1926,12 @@
           "team": "MIA"
         },
         {
+          "player_id": "6770",
+          "name": "Joe Burrow",
+          "position": "QB",
+          "team": "CIN"
+        },
+        {
           "player_id": "6826",
           "name": "Cole Kmet",
           "position": "TE",
@@ -1932,6 +1944,12 @@
           "team": "TB"
         },
         {
+          "player_id": "9221",
+          "name": "Jahmyr Gibbs",
+          "position": "RB",
+          "team": "DET"
+        },
+        {
           "player_id": "9494",
           "name": "Marvin Mims",
           "position": "WR",
@@ -1942,18 +1960,6 @@
           "name": "Tyjae Spears",
           "position": "RB",
           "team": "TEN"
-        },
-        {
-          "player_id": "96",
-          "name": "Aaron Rodgers",
-          "position": "QB",
-          "team": "PIT"
-        },
-        {
-          "player_id": "9757",
-          "name": "Kendre Miller",
-          "position": "RB",
-          "team": "NO"
         }
       ],
       "taxi": [],
@@ -2317,10 +2323,10 @@
           "team": "ATL"
         },
         {
-          "player_id": "9502",
-          "name": "Tank Dell",
-          "position": "WR",
-          "team": "HOU"
+          "player_id": "9225",
+          "name": "Tank Bigsby",
+          "position": "RB",
+          "team": "PHI"
         }
       ],
       "taxi": [

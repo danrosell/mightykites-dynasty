@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-14T07:46:06.186Z",
+  "generated_at": "2026-10-14T13:49:50.608Z",
   "source": "Sleeper public API",
   "username": "TheMightyKites",
   "nfl_week": 6,
@@ -836,10 +836,10 @@
           "team": "CAR"
         },
         {
-          "player_id": "11630",
-          "name": "Roman Wilson",
+          "player_id": "11635",
+          "name": "Ladd McConkey",
           "position": "WR",
-          "team": "PIT"
+          "team": "LAC"
         },
         {
           "player_id": "12518",
@@ -892,10 +892,10 @@
           "team": "TB"
         },
         {
-          "player_id": "11635",
-          "name": "Ladd McConkey",
+          "player_id": "11630",
+          "name": "Roman Wilson",
           "position": "WR",
-          "team": "LAC"
+          "team": "PIT"
         },
         {
           "player_id": "12457",
@@ -2828,6 +2828,12 @@
           "team": "BUF"
         },
         {
+          "player_id": "5859",
+          "name": "A.J. Brown",
+          "position": "WR",
+          "team": "NE"
+        },
+        {
           "player_id": "5906",
           "name": "Dawson Knox",
           "position": "TE",
@@ -2844,12 +2850,6 @@
           "name": "Tyler Goodson",
           "position": "RB",
           "team": "DAL"
-        },
-        {
-          "player_id": "9225",
-          "name": "Tank Bigsby",
-          "position": "RB",
-          "team": "PHI"
         }
       ],
       "taxi": [
@@ -2874,16 +2874,16 @@
       ],
       "reserve": [
         {
-          "player_id": "5859",
-          "name": "A.J. Brown",
-          "position": "WR",
-          "team": "NE"
-        },
-        {
           "player_id": "7543",
           "name": "Travis Etienne",
           "position": "RB",
           "team": "NO"
+        },
+        {
+          "player_id": "9225",
+          "name": "Tank Bigsby",
+          "position": "RB",
+          "team": "PHI"
         }
       ]
     },
