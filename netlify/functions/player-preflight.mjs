@@ -5,7 +5,7 @@ const TEAMS=new Set(["ARI","ATL","BAL","BUF","CAR","CHI","CIN","CLE","DAL","DEN"
 async function get(path){const r=await fetch(API+path);if(!r.ok)throw new Error("Sleeper "+r.status+" "+path);return r.json()}
 export function normalizeSchedule(raw,week){
   const games=raw.filter(g=>Number(g.week)===Number(week)).map(g=>({home:g.home,away:g.away,kickoff:g.kickoff}));
-  if(games.length<12||games.length>16)throw new Error("Incomplete or invalid NFL schedule for week "+week);
+  if(!games.length)throw new Error("No games for week "+week);
   for(const g of games)if(!TEAMS.has(g.home)||!TEAMS.has(g.away)||!Number.isFinite(Date.parse(g.kickoff)))throw new Error("Invalid schedule game");
   return games;
 }
@@ -35,6 +35,7 @@ export default async(request)=>{
   ]);
   if(Number(raw.week?.number)!==week)throw new Error("ESPN returned a different week");
   const games=parseEspnEvents(raw.events,week);
+  if(games.length<12||games.length>16)throw new Error("Incomplete weekly NFL schedule");
   const ids=(url.searchParams.get("ids")||"").split(",").filter(Boolean).slice(0,100);
   const result={};
   for(const id of ids){const p=players[id];if(p)result[id]={team:p.team||null,position:p.position||null,name:p.full_name||null,injury_status:p.injury_status||null};}
