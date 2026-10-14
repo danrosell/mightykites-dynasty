@@ -26,9 +26,13 @@ export function parseEspnEvents(events,week){
 }
 export default async(request)=>{
  try{
-  const url=new URL(request.url),week=Number(url.searchParams.get("week")),season=Number(url.searchParams.get("season"));
+  const url=new URL(request.url);
+  const requestedWeek=url.searchParams.get("week"),requestedSeason=url.searchParams.get("season");
+  // A bare endpoint URL uses Sleeper's live NFL state. Explicit parameters take precedence.
+  const state=(!requestedWeek||!requestedSeason)?await get("/state/nfl"):null;
+  const week=Number(requestedWeek||state?.week),season=Number(requestedSeason||state?.season);
   if(!Number.isInteger(week)||week<1||week>18||!Number.isInteger(season)||season<2020||season>2100)
-    return Response.json({error:"Specify NFL regular season and week 1-18"},{status:400});
+    return Response.json({error:"Specify NFL regular season and week 1-18",received:{week:requestedWeek,season:requestedSeason},state:state?{week:state.week,season:state.season}:null},{status:400});
   const [raw,players]=await Promise.all([
     fetch(ESPN+"?dates="+season+"&seasontype=2&week="+week).then(r=>{if(!r.ok)throw Error("ESPN schedule HTTP "+r.status);return r.json()}),
     get("/players/nfl")
