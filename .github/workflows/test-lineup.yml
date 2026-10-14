@@ -1,0 +1,26 @@
+name: Validate lineup analysis
+on:
+  push:
+    paths:
+      - "src/analysis/**"
+      - "tests/**"
+      - "netlify/functions/**"
+      - ".github/workflows/test-lineup.yml"
+  pull_request:
+    paths:
+      - "src/analysis/**"
+      - "tests/**"
+      - "netlify/functions/**"
+      - ".github/workflows/test-lineup.yml"
+permissions:
+  contents: read
+jobs:
+  test:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: "22"
+      - run: node --check netlify/functions/league.mjs
+      - run: node --test tests/*.test.mjs
