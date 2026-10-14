@@ -9,15 +9,37 @@ export function normalizeSchedule(raw,week){
   for(const g of games)if(!TEAMS.has(g.home)||!TEAMS.has(g.away)||!Number.isFinite(Date.parse(g.kickoff)))throw new Error("Invalid schedule game");
   return games;
 }
-// Caller supplies a verified current-week game list. This endpoint will not invent one.
+// ESPN's public scoreboard endpoint is used for the independent schedule.
+// It is undocumented and may change. Fail closed rather than guess byes.
+const ESPN="https://site.api.espn.com/apis/site/v2/sports/football/nfl/scoreboard";
+const alias={WSH:"WAS",JAC:"JAX",LA:"LAR"};
+export function parseEspnEvents(events,week){
+ const games=[];
+ for(const event of events||[]){
+  const comp=event.competitions?.[0],teams=comp?.competitors||[];
+  const home=teams.find(x=>x.homeAway==="home"),away=teams.find(x=>x.homeAway==="away");
+  const norm=x=>alias[x?.team?.abbreviation]||x?.team?.abbreviation;
+  if(!home||!away)throw new Error("Missing competitors");
+  games.push({week,home:norm(home),away:norm(away),kickoff:comp.date||event.date,game_id:event.id});
+ }
+ return normalizeSchedule(games,week);
+}
 export default async(request)=>{
  try{
-  const url=new URL(request.url),week=Number(url.searchParams.get("week"));
-  if(!Number.isInteger(week)||week<1||week>22)return Response.json({error:"Specify an NFL week 1-22"},{status:400});
-  const players=await get("/players/nfl");
+  const url=new URL(request.url),week=Number(url.searchParams.get("week")),season=Number(url.searchParams.get("season"));
+  if(!Number.isInteger(week)||week<1||week>18||!Number.isInteger(season)||season<2020||season>2100)
+    return Response.json({error:"Specify NFL regular season and week 1-18"},{status:400});
+  const [raw,players]=await Promise.all([
+    fetch(ESPN+"?dates="+season+"&seasontype=2&week="+week).then(r=>{if(!r.ok)throw Error("ESPN schedule HTTP "+r.status);return r.json()}),
+    get("/players/nfl")
+  ]);
+  if(Number(raw.week?.number)!==week)throw new Error("ESPN returned a different week");
+  const games=parseEspnEvents(raw.events,week);
   const ids=(url.searchParams.get("ids")||"").split(",").filter(Boolean).slice(0,100);
   const result={};
   for(const id of ids){const p=players[id];if(p)result[id]={team:p.team||null,position:p.position||null,name:p.full_name||null,injury_status:p.injury_status||null};}
-  return Response.json({generated_at:new Date().toISOString(),week,source:"Sleeper player metadata",players:result,note:"Player metadata only. Schedule and byes not yet verified; do not optimize from this response alone."},{headers:{"cache-control":"public, max-age=900"}});
- }catch(e){return Response.json({error:e.message},{status:502})}
+  const byTeam=new Set(games.flatMap(g=>[g.home,g.away]));
+  const noGame=[...TEAMS].filter(t=>!byTeam.has(t));
+  return Response.json({generated_at:new Date().toISOString(),season,week,source:{schedule:"ESPN public scoreboard (undocumented)",players:"Sleeper player metadata"},games,teams_without_game:noGame,players:result,note:"Injury status is informational, not official inactive confirmation. If source fails, do not optimize."},{headers:{"cache-control":"public, max-age=900"}});
+ }catch(e){return Response.json({error:e.message,verified:false},{status:502})}
 };
