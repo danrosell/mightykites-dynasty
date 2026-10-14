@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-13T22:53:47.102Z",
+  "generated_at": "2026-10-14T01:58:42.545Z",
   "source": "Sleeper public API",
   "username": "TheMightyKites",
   "nfl_week": 6,
@@ -1011,10 +1011,10 @@
           "team": "LV"
         },
         {
-          "player_id": "9224",
-          "name": "Chase Brown",
+          "player_id": "5967",
+          "name": "Tony Pollard",
           "position": "RB",
-          "team": "CIN"
+          "team": "TEN"
         },
         {
           "player_id": "8137",
@@ -1035,10 +1035,10 @@
           "team": "BUF"
         },
         {
-          "player_id": "10859",
-          "name": "Sam LaPorta",
+          "player_id": "8110",
+          "name": "Jake Ferguson",
           "position": "TE",
-          "team": "DET"
+          "team": "DAL"
         },
         {
           "player_id": "12490",
@@ -1047,19 +1047,25 @@
           "team": "JAX"
         },
         {
-          "player_id": "8110",
-          "name": "Jake Ferguson",
+          "player_id": "8111",
+          "name": "Cade Otton",
           "position": "TE",
-          "team": "DAL"
+          "team": "TB"
         },
         {
-          "player_id": "8161",
-          "name": "Malik Willis",
-          "position": "QB",
-          "team": "MIA"
+          "player_id": "9511",
+          "name": "Keaton Mitchell",
+          "position": "RB",
+          "team": "LAC"
         }
       ],
       "bench": [
+        {
+          "player_id": "10859",
+          "name": "Sam LaPorta",
+          "position": "TE",
+          "team": "DET"
+        },
         {
           "player_id": "11433",
           "name": "Nate Adkins",
@@ -1103,12 +1109,6 @@
           "team": "DAL"
         },
         {
-          "player_id": "5967",
-          "name": "Tony Pollard",
-          "position": "RB",
-          "team": "TEN"
-        },
-        {
           "player_id": "7090",
           "name": "Darnell Mooney",
           "position": "WR",
@@ -1127,10 +1127,10 @@
           "team": "KC"
         },
         {
-          "player_id": "8111",
-          "name": "Cade Otton",
-          "position": "TE",
-          "team": "TB"
+          "player_id": "8161",
+          "name": "Malik Willis",
+          "position": "QB",
+          "team": "MIA"
         },
         {
           "player_id": "8162",
@@ -1139,10 +1139,10 @@
           "team": "DAL"
         },
         {
-          "player_id": "9511",
-          "name": "Keaton Mitchell",
+          "player_id": "9224",
+          "name": "Chase Brown",
           "position": "RB",
-          "team": "LAC"
+          "team": "CIN"
         }
       ],
       "taxi": [
@@ -2326,10 +2326,10 @@
           "team": "NO"
         },
         {
-          "player_id": "4147",
-          "name": "Samaje Perine",
+          "player_id": "11439",
+          "name": "Jaleel McLaughlin",
           "position": "RB",
-          "team": "CIN"
+          "team": "CLE"
         },
         {
           "player_id": "6039",
@@ -2356,10 +2356,10 @@
           "team": "ARI"
         },
         {
-          "player_id": "10231",
-          "name": "Elijah Higgins",
+          "player_id": "7694",
+          "name": "Tommy Tremble",
           "position": "TE",
-          "team": "ARI"
+          "team": "CAR"
         },
         {
           "player_id": "3634",
@@ -2368,10 +2368,10 @@
           "team": "CHI"
         },
         {
-          "player_id": "4177",
-          "name": "Mack Hollins",
+          "player_id": "13274",
+          "name": "Germie Bernard",
           "position": "WR",
-          "team": "NE"
+          "team": "PIT"
         },
         {
           "player_id": "1166",
@@ -2388,10 +2388,10 @@
           "team": "CIN"
         },
         {
-          "player_id": "11439",
-          "name": "Jaleel McLaughlin",
-          "position": "RB",
-          "team": "CLE"
+          "player_id": "10231",
+          "name": "Elijah Higgins",
+          "position": "TE",
+          "team": "ARI"
         },
         {
           "player_id": "11559",
@@ -2436,22 +2436,22 @@
           "team": "TEN"
         },
         {
-          "player_id": "13274",
-          "name": "Germie Bernard",
-          "position": "WR",
-          "team": "PIT"
-        },
-        {
           "player_id": "13349",
           "name": "Eli Stowers",
           "position": "TE",
           "team": "PHI"
         },
         {
-          "player_id": "7694",
-          "name": "Tommy Tremble",
-          "position": "TE",
-          "team": "CAR"
+          "player_id": "4147",
+          "name": "Samaje Perine",
+          "position": "RB",
+          "team": "CIN"
+        },
+        {
+          "player_id": "4177",
+          "name": "Mack Hollins",
+          "position": "WR",
+          "team": "NE"
         },
         {
           "player_id": "7891",

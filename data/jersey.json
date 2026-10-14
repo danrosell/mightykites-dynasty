@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-13T22:53:48.257Z",
+  "generated_at": "2026-10-14T01:58:43.736Z",
   "source": "Sleeper public API",
   "username": "TheMightyKites",
   "nfl_week": 6,
@@ -1120,12 +1120,6 @@
           "name": "Ja'Tavion Sanders",
           "position": "TE",
           "team": "CAR"
-        },
-        {
-          "player_id": "12460",
-          "name": "Antwane Wells",
-          "position": "WR",
-          "team": "ATL"
         },
         {
           "player_id": "12503",
@@ -2295,16 +2289,16 @@
           "team": "DAL"
         },
         {
-          "player_id": "12529",
-          "name": "TreVeyon Henderson",
+          "player_id": "7611",
+          "name": "Rhamondre Stevenson",
           "position": "RB",
           "team": "NE"
         },
         {
-          "player_id": "11631",
-          "name": "Brian Thomas",
+          "player_id": "5927",
+          "name": "Terry McLaurin",
           "position": "WR",
-          "team": "JAX"
+          "team": "WAS"
         },
         {
           "player_id": "8134",
@@ -2325,10 +2319,10 @@
           "team": "ATL"
         },
         {
-          "player_id": "7611",
-          "name": "Rhamondre Stevenson",
-          "position": "RB",
-          "team": "NE"
+          "player_id": "11631",
+          "name": "Brian Thomas",
+          "position": "WR",
+          "team": "JAX"
         },
         {
           "player_id": "7569",
@@ -2381,6 +2375,12 @@
           "team": "SEA"
         },
         {
+          "player_id": "12529",
+          "name": "TreVeyon Henderson",
+          "position": "RB",
+          "team": "NE"
+        },
+        {
           "player_id": "12536",
           "name": "Jaylin Noel",
           "position": "WR",
@@ -2397,12 +2397,6 @@
           "name": "Kalif Raymond",
           "position": "WR",
           "team": "CHI"
-        },
-        {
-          "player_id": "5927",
-          "name": "Terry McLaurin",
-          "position": "WR",
-          "team": "WAS"
         },
         {
           "player_id": "8161",

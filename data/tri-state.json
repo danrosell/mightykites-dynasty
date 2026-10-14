@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-13T22:53:49.276Z",
+  "generated_at": "2026-10-14T01:58:44.922Z",
   "source": "Sleeper public API",
   "username": "TheMightyKites",
   "nfl_week": 6,
@@ -1978,10 +1978,10 @@
       "rank": 10,
       "starters": [
         {
-          "player_id": "3163",
-          "name": "Jared Goff",
+          "player_id": "4046",
+          "name": "Patrick Mahomes",
           "position": "QB",
-          "team": "DET"
+          "team": "KC"
         },
         {
           "player_id": "9509",
@@ -2014,31 +2014,25 @@
           "team": "TEN"
         },
         {
-          "player_id": "5001",
-          "name": "Dalton Schultz",
-          "position": "TE",
-          "team": "HOU"
-        },
-        {
           "player_id": "7553",
           "name": "Kyle Pitts",
           "position": "TE",
           "team": "ATL"
         },
         {
-          "player_id": "4993",
-          "name": "Mike Gesicki",
+          "player_id": "5001",
+          "name": "Dalton Schultz",
           "position": "TE",
-          "team": "CIN"
-        }
-      ],
-      "bench": [
+          "team": "HOU"
+        },
         {
           "player_id": "11624",
           "name": "Xavier Worthy",
           "position": "WR",
           "team": "KC"
-        },
+        }
+      ],
+      "bench": [
         {
           "player_id": "11625",
           "name": "Adonai Mitchell",
@@ -2088,16 +2082,22 @@
           "team": "IND"
         },
         {
-          "player_id": "4046",
-          "name": "Patrick Mahomes",
+          "player_id": "3163",
+          "name": "Jared Goff",
           "position": "QB",
-          "team": "KC"
+          "team": "DET"
         },
         {
           "player_id": "4981",
           "name": "Calvin Ridley",
           "position": "WR",
           "team": "TEN"
+        },
+        {
+          "player_id": "4993",
+          "name": "Mike Gesicki",
+          "position": "TE",
+          "team": "CIN"
         },
         {
           "player_id": "5045",

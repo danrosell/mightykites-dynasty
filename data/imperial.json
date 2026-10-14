@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-13T22:53:45.480Z",
+  "generated_at": "2026-10-14T01:58:40.682Z",
   "source": "Sleeper public API",
   "username": "TheMightyKites",
   "nfl_week": 6,
@@ -1341,10 +1341,10 @@
           "team": "IND"
         },
         {
-          "player_id": "12519",
-          "name": "Luther Burden",
+          "player_id": "9487",
+          "name": "Parker Washington",
           "position": "WR",
-          "team": "CHI"
+          "team": "JAX"
         },
         {
           "player_id": "12514",
@@ -1359,10 +1359,10 @@
           "team": "DET"
         },
         {
-          "player_id": "9487",
-          "name": "Parker Washington",
+          "player_id": "12519",
+          "name": "Luther Burden",
           "position": "WR",
-          "team": "JAX"
+          "team": "CHI"
         },
         {
           "player_id": "10213",
@@ -2097,16 +2097,16 @@
           "team": "CHI"
         },
         {
-          "player_id": "13298",
-          "name": "KC Concepcion",
-          "position": "WR",
-          "team": "CLE"
+          "player_id": "7567",
+          "name": "Kenny Gainwell",
+          "position": "RB",
+          "team": "TB"
         },
         {
-          "player_id": "2449",
-          "name": "Stefon Diggs",
+          "player_id": "3634",
+          "name": "Kalif Raymond",
           "position": "WR",
-          "team": "WAS"
+          "team": "CHI"
         },
         {
           "player_id": "11581",
@@ -2121,18 +2121,6 @@
           "name": "Jared Goff",
           "position": "QB",
           "team": "DET"
-        },
-        {
-          "player_id": "3634",
-          "name": "Kalif Raymond",
-          "position": "WR",
-          "team": "CHI"
-        },
-        {
-          "player_id": "7567",
-          "name": "Kenny Gainwell",
-          "position": "RB",
-          "team": "TB"
         },
         {
           "player_id": "8161",
@@ -2167,7 +2155,20 @@
           "team": "NO"
         }
       ],
-      "reserve": []
+      "reserve": [
+        {
+          "player_id": "13298",
+          "name": "KC Concepcion",
+          "position": "WR",
+          "team": "CLE"
+        },
+        {
+          "player_id": "2449",
+          "name": "Stefon Diggs",
+          "position": "WR",
+          "team": "WAS"
+        }
+      ]
     },
     {
       "roster_id": 16,
