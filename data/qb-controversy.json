@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-14T13:49:50.608Z",
+  "generated_at": "2026-10-14T18:42:37.501Z",
   "source": "Sleeper public API",
   "username": "TheMightyKites",
   "nfl_week": 6,
@@ -60,7 +60,7 @@
       "daily_waivers_base": 4,
       "reserve_slots": 2,
       "reserve_allow_cov": 1,
-      "daily_waivers_last_ran": 13
+      "daily_waivers_last_ran": 14
     },
     "scoring_settings": {
       "sack": 1,
@@ -154,10 +154,10 @@
         "team": "CHI"
       },
       {
-        "player_id": "4866",
-        "name": "Saquon Barkley",
+        "player_id": "12512",
+        "name": "Quinshon Judkins",
         "position": "RB",
-        "team": "PHI"
+        "team": "CLE"
       },
       {
         "player_id": "7611",
@@ -172,10 +172,10 @@
         "team": "DEN"
       },
       {
-        "player_id": "2216",
-        "name": "Mike Evans",
+        "player_id": "11834",
+        "name": "Devaughn Vele",
         "position": "WR",
-        "team": "SF"
+        "team": "NO"
       },
       {
         "player_id": "12501",
@@ -190,10 +190,10 @@
         "team": "JAX"
       },
       {
-        "player_id": "12512",
-        "name": "Quinshon Judkins",
-        "position": "RB",
-        "team": "CLE"
+        "player_id": "7553",
+        "name": "Kyle Pitts",
+        "position": "TE",
+        "team": "ATL"
       },
       {
         "player_id": "11603",
@@ -228,12 +228,6 @@
         "team": "CHI"
       },
       {
-        "player_id": "11834",
-        "name": "Devaughn Vele",
-        "position": "WR",
-        "team": "NO"
-      },
-      {
         "player_id": "12498",
         "name": "Mason Taylor",
         "position": "TE",
@@ -250,6 +244,12 @@
         "name": "Malachi Fields",
         "position": "WR",
         "team": "NYG"
+      },
+      {
+        "player_id": "13294",
+        "name": "Makai Lemon",
+        "position": "WR",
+        "team": "PHI"
       },
       {
         "player_id": "13305",
@@ -276,10 +276,10 @@
         "team": "LV"
       },
       {
-        "player_id": "7553",
-        "name": "Kyle Pitts",
-        "position": "TE",
-        "team": "ATL"
+        "player_id": "8142",
+        "name": "Alec Pierce",
+        "position": "WR",
+        "team": "IND"
       },
       {
         "player_id": "9229",
@@ -316,16 +316,95 @@
     ],
     "reserve": [
       {
-        "player_id": "8142",
-        "name": "Alec Pierce",
-        "position": "WR",
-        "team": "IND"
+        "player_id": "13345",
+        "name": "Jonah Coleman",
+        "position": "RB",
+        "team": "DEN"
       },
       {
         "player_id": "9226",
         "name": "De'Von Achane",
         "position": "RB",
         "team": "MIA"
+      }
+    ],
+    "picks": [
+      {
+        "season": "2026",
+        "round": 2,
+        "original_roster_id": 2,
+        "original_team": "Chillin With Mahomes",
+        "is_own": false
+      },
+      {
+        "season": "2026",
+        "round": 2,
+        "original_roster_id": 8,
+        "original_team": "The Ham Cannons",
+        "is_own": true
+      },
+      {
+        "season": "2026",
+        "round": 2,
+        "original_roster_id": 10,
+        "original_team": "Iron Claw 💚 ",
+        "is_own": false
+      },
+      {
+        "season": "2027",
+        "round": 3,
+        "original_roster_id": 1,
+        "original_team": "Tenacious D",
+        "is_own": false
+      },
+      {
+        "season": "2028",
+        "round": 1,
+        "original_roster_id": 8,
+        "original_team": "The Ham Cannons",
+        "is_own": true
+      },
+      {
+        "season": "2028",
+        "round": 2,
+        "original_roster_id": 1,
+        "original_team": "Tenacious D",
+        "is_own": false
+      },
+      {
+        "season": "2028",
+        "round": 2,
+        "original_roster_id": 8,
+        "original_team": "The Ham Cannons",
+        "is_own": true
+      },
+      {
+        "season": "2028",
+        "round": 3,
+        "original_roster_id": 8,
+        "original_team": "The Ham Cannons",
+        "is_own": true
+      },
+      {
+        "season": "2029",
+        "round": 1,
+        "original_roster_id": 8,
+        "original_team": "The Ham Cannons",
+        "is_own": true
+      },
+      {
+        "season": "2029",
+        "round": 2,
+        "original_roster_id": 8,
+        "original_team": "The Ham Cannons",
+        "is_own": true
+      },
+      {
+        "season": "2029",
+        "round": 3,
+        "original_roster_id": 8,
+        "original_team": "The Ham Cannons",
+        "is_own": true
       }
     ]
   },
@@ -450,10 +529,10 @@
           "team": "TB"
         },
         {
-          "player_id": "6801",
-          "name": "Tee Higgins",
+          "player_id": "9500",
+          "name": "Josh Downs",
           "position": "WR",
-          "team": "CIN"
+          "team": "IND"
         },
         {
           "player_id": "8167",
@@ -474,16 +553,16 @@
           "team": "ARI"
         },
         {
-          "player_id": "9500",
-          "name": "Josh Downs",
-          "position": "WR",
-          "team": "IND"
+          "player_id": "7021",
+          "name": "Rico Dowdle",
+          "position": "RB",
+          "team": "PIT"
         },
         {
-          "player_id": "6794",
-          "name": "Justin Jefferson",
-          "position": "WR",
-          "team": "MIN"
+          "player_id": "9757",
+          "name": "Kendre Miller",
+          "position": "RB",
+          "team": "NO"
         },
         {
           "player_id": "7600",
@@ -536,10 +615,16 @@
           "team": "GB"
         },
         {
-          "player_id": "7021",
-          "name": "Rico Dowdle",
-          "position": "RB",
-          "team": "PIT"
+          "player_id": "6794",
+          "name": "Justin Jefferson",
+          "position": "WR",
+          "team": "MIN"
+        },
+        {
+          "player_id": "6801",
+          "name": "Tee Higgins",
+          "position": "WR",
+          "team": "CIN"
         },
         {
           "player_id": "8116",
@@ -570,12 +655,6 @@
           "name": "Marvin Mims",
           "position": "WR",
           "team": "DEN"
-        },
-        {
-          "player_id": "9757",
-          "name": "Kendre Miller",
-          "position": "RB",
-          "team": "NO"
         }
       ],
       "taxi": [
@@ -610,6 +689,64 @@
           "name": "David Njoku",
           "position": "TE",
           "team": "LAC"
+        }
+      ],
+      "picks": [
+        {
+          "season": "2026",
+          "round": 2,
+          "original_roster_id": 9,
+          "original_team": "KC & The Young Studs",
+          "is_own": false
+        },
+        {
+          "season": "2027",
+          "round": 2,
+          "original_roster_id": 1,
+          "original_team": "Tenacious D",
+          "is_own": true
+        },
+        {
+          "season": "2027",
+          "round": 3,
+          "original_roster_id": 11,
+          "original_team": "Vrabels Secret Family",
+          "is_own": false
+        },
+        {
+          "season": "2028",
+          "round": 3,
+          "original_roster_id": 1,
+          "original_team": "Tenacious D",
+          "is_own": true
+        },
+        {
+          "season": "2028",
+          "round": 3,
+          "original_roster_id": 4,
+          "original_team": "PRIMETIME",
+          "is_own": false
+        },
+        {
+          "season": "2029",
+          "round": 1,
+          "original_roster_id": 1,
+          "original_team": "Tenacious D",
+          "is_own": true
+        },
+        {
+          "season": "2029",
+          "round": 2,
+          "original_roster_id": 1,
+          "original_team": "Tenacious D",
+          "is_own": true
+        },
+        {
+          "season": "2029",
+          "round": 3,
+          "original_roster_id": 1,
+          "original_team": "Tenacious D",
+          "is_own": true
         }
       ]
     },
@@ -673,10 +810,10 @@
           "team": "SF"
         },
         {
-          "player_id": "13330",
-          "name": "Kenyon Sadiq",
-          "position": "TE",
-          "team": "NYJ"
+          "player_id": "2197",
+          "name": "Brandin Cooks",
+          "position": "WR",
+          "team": "SF"
         },
         {
           "player_id": "3257",
@@ -687,16 +824,22 @@
       ],
       "bench": [
         {
-          "player_id": "11569",
-          "name": "Jarquez Hunter",
+          "player_id": "11579",
+          "name": "Audric Estime",
           "position": "RB",
-          "team": "FA"
+          "team": "CLE"
         },
         {
           "player_id": "12048",
           "name": "George Holani",
           "position": "RB",
           "team": "SEA"
+        },
+        {
+          "player_id": "13330",
+          "name": "Kenyon Sadiq",
+          "position": "TE",
+          "team": "NYJ"
         },
         {
           "player_id": "3163",
@@ -791,6 +934,92 @@
           "name": "Michael Pittman",
           "position": "WR",
           "team": "PIT"
+        }
+      ],
+      "picks": [
+        {
+          "season": "2026",
+          "round": 1,
+          "original_roster_id": 10,
+          "original_team": "Iron Claw 💚 ",
+          "is_own": false
+        },
+        {
+          "season": "2026",
+          "round": 3,
+          "original_roster_id": 3,
+          "original_team": "Horny for Herbert ",
+          "is_own": false
+        },
+        {
+          "season": "2026",
+          "round": 3,
+          "original_roster_id": 9,
+          "original_team": "KC & The Young Studs",
+          "is_own": false
+        },
+        {
+          "season": "2027",
+          "round": 1,
+          "original_roster_id": 2,
+          "original_team": "Chillin With Mahomes",
+          "is_own": true
+        },
+        {
+          "season": "2027",
+          "round": 1,
+          "original_roster_id": 4,
+          "original_team": "PRIMETIME",
+          "is_own": false
+        },
+        {
+          "season": "2027",
+          "round": 3,
+          "original_roster_id": 2,
+          "original_team": "Chillin With Mahomes",
+          "is_own": true
+        },
+        {
+          "season": "2028",
+          "round": 1,
+          "original_roster_id": 2,
+          "original_team": "Chillin With Mahomes",
+          "is_own": true
+        },
+        {
+          "season": "2028",
+          "round": 2,
+          "original_roster_id": 2,
+          "original_team": "Chillin With Mahomes",
+          "is_own": true
+        },
+        {
+          "season": "2028",
+          "round": 3,
+          "original_roster_id": 2,
+          "original_team": "Chillin With Mahomes",
+          "is_own": true
+        },
+        {
+          "season": "2029",
+          "round": 1,
+          "original_roster_id": 2,
+          "original_team": "Chillin With Mahomes",
+          "is_own": true
+        },
+        {
+          "season": "2029",
+          "round": 2,
+          "original_roster_id": 2,
+          "original_team": "Chillin With Mahomes",
+          "is_own": true
+        },
+        {
+          "season": "2029",
+          "round": 3,
+          "original_roster_id": 2,
+          "original_team": "Chillin With Mahomes",
+          "is_own": true
         }
       ]
     },
@@ -985,6 +1214,120 @@
           "position": "RB",
           "team": "ARI"
         }
+      ],
+      "picks": [
+        {
+          "season": "2026",
+          "round": 1,
+          "original_roster_id": 2,
+          "original_team": "Chillin With Mahomes",
+          "is_own": false
+        },
+        {
+          "season": "2026",
+          "round": 2,
+          "original_roster_id": 1,
+          "original_team": "Tenacious D",
+          "is_own": false
+        },
+        {
+          "season": "2026",
+          "round": 2,
+          "original_roster_id": 5,
+          "original_team": "Golden Kupp",
+          "is_own": false
+        },
+        {
+          "season": "2026",
+          "round": 3,
+          "original_roster_id": 8,
+          "original_team": "The Ham Cannons",
+          "is_own": false
+        },
+        {
+          "season": "2026",
+          "round": 3,
+          "original_roster_id": 12,
+          "original_team": "Hot Sauce 🌶️",
+          "is_own": false
+        },
+        {
+          "season": "2027",
+          "round": 2,
+          "original_roster_id": 2,
+          "original_team": "Chillin With Mahomes",
+          "is_own": false
+        },
+        {
+          "season": "2027",
+          "round": 2,
+          "original_roster_id": 6,
+          "original_team": "BC & the Old Guys",
+          "is_own": false
+        },
+        {
+          "season": "2027",
+          "round": 2,
+          "original_roster_id": 9,
+          "original_team": "KC & The Young Studs",
+          "is_own": false
+        },
+        {
+          "season": "2027",
+          "round": 3,
+          "original_roster_id": 3,
+          "original_team": "Horny for Herbert ",
+          "is_own": true
+        },
+        {
+          "season": "2027",
+          "round": 3,
+          "original_roster_id": 8,
+          "original_team": "The Ham Cannons",
+          "is_own": false
+        },
+        {
+          "season": "2028",
+          "round": 1,
+          "original_roster_id": 3,
+          "original_team": "Horny for Herbert ",
+          "is_own": true
+        },
+        {
+          "season": "2028",
+          "round": 2,
+          "original_roster_id": 3,
+          "original_team": "Horny for Herbert ",
+          "is_own": true
+        },
+        {
+          "season": "2028",
+          "round": 3,
+          "original_roster_id": 3,
+          "original_team": "Horny for Herbert ",
+          "is_own": true
+        },
+        {
+          "season": "2029",
+          "round": 1,
+          "original_roster_id": 3,
+          "original_team": "Horny for Herbert ",
+          "is_own": true
+        },
+        {
+          "season": "2029",
+          "round": 2,
+          "original_roster_id": 3,
+          "original_team": "Horny for Herbert ",
+          "is_own": true
+        },
+        {
+          "season": "2029",
+          "round": 3,
+          "original_roster_id": 3,
+          "original_team": "Horny for Herbert ",
+          "is_own": true
+        }
       ]
     },
     {
@@ -1178,6 +1521,85 @@
           "position": "WR",
           "team": "NO"
         }
+      ],
+      "picks": [
+        {
+          "season": "2026",
+          "round": 1,
+          "original_roster_id": 1,
+          "original_team": "Tenacious D",
+          "is_own": false
+        },
+        {
+          "season": "2026",
+          "round": 1,
+          "original_roster_id": 12,
+          "original_team": "Hot Sauce 🌶️",
+          "is_own": false
+        },
+        {
+          "season": "2026",
+          "round": 1,
+          "original_roster_id": 13,
+          "original_team": "Ertz Boyz",
+          "is_own": false
+        },
+        {
+          "season": "2026",
+          "round": 3,
+          "original_roster_id": 10,
+          "original_team": "Iron Claw 💚 ",
+          "is_own": false
+        },
+        {
+          "season": "2026",
+          "round": 3,
+          "original_roster_id": 13,
+          "original_team": "Ertz Boyz",
+          "is_own": false
+        },
+        {
+          "season": "2027",
+          "round": 3,
+          "original_roster_id": 4,
+          "original_team": "PRIMETIME",
+          "is_own": true
+        },
+        {
+          "season": "2028",
+          "round": 1,
+          "original_roster_id": 4,
+          "original_team": "PRIMETIME",
+          "is_own": true
+        },
+        {
+          "season": "2028",
+          "round": 2,
+          "original_roster_id": 4,
+          "original_team": "PRIMETIME",
+          "is_own": true
+        },
+        {
+          "season": "2029",
+          "round": 1,
+          "original_roster_id": 4,
+          "original_team": "PRIMETIME",
+          "is_own": true
+        },
+        {
+          "season": "2029",
+          "round": 2,
+          "original_roster_id": 4,
+          "original_team": "PRIMETIME",
+          "is_own": true
+        },
+        {
+          "season": "2029",
+          "round": 3,
+          "original_roster_id": 4,
+          "original_team": "PRIMETIME",
+          "is_own": true
+        }
       ]
     },
     {
@@ -1352,6 +1774,106 @@
           "name": "James Conner",
           "position": "RB",
           "team": "ARI"
+        }
+      ],
+      "picks": [
+        {
+          "season": "2026",
+          "round": 1,
+          "original_roster_id": 5,
+          "original_team": "Golden Kupp",
+          "is_own": true
+        },
+        {
+          "season": "2026",
+          "round": 1,
+          "original_roster_id": 9,
+          "original_team": "KC & The Young Studs",
+          "is_own": false
+        },
+        {
+          "season": "2026",
+          "round": 3,
+          "original_roster_id": 2,
+          "original_team": "Chillin With Mahomes",
+          "is_own": false
+        },
+        {
+          "season": "2026",
+          "round": 3,
+          "original_roster_id": 5,
+          "original_team": "Golden Kupp",
+          "is_own": true
+        },
+        {
+          "season": "2027",
+          "round": 1,
+          "original_roster_id": 5,
+          "original_team": "Golden Kupp",
+          "is_own": true
+        },
+        {
+          "season": "2027",
+          "round": 1,
+          "original_roster_id": 8,
+          "original_team": "The Ham Cannons",
+          "is_own": false
+        },
+        {
+          "season": "2027",
+          "round": 2,
+          "original_roster_id": 5,
+          "original_team": "Golden Kupp",
+          "is_own": true
+        },
+        {
+          "season": "2027",
+          "round": 2,
+          "original_roster_id": 8,
+          "original_team": "The Ham Cannons",
+          "is_own": false
+        },
+        {
+          "season": "2028",
+          "round": 1,
+          "original_roster_id": 5,
+          "original_team": "Golden Kupp",
+          "is_own": true
+        },
+        {
+          "season": "2028",
+          "round": 2,
+          "original_roster_id": 5,
+          "original_team": "Golden Kupp",
+          "is_own": true
+        },
+        {
+          "season": "2028",
+          "round": 3,
+          "original_roster_id": 5,
+          "original_team": "Golden Kupp",
+          "is_own": true
+        },
+        {
+          "season": "2029",
+          "round": 1,
+          "original_roster_id": 5,
+          "original_team": "Golden Kupp",
+          "is_own": true
+        },
+        {
+          "season": "2029",
+          "round": 2,
+          "original_roster_id": 5,
+          "original_team": "Golden Kupp",
+          "is_own": true
+        },
+        {
+          "season": "2029",
+          "round": 3,
+          "original_roster_id": 5,
+          "original_team": "Golden Kupp",
+          "is_own": true
         }
       ]
     },
@@ -1540,6 +2062,78 @@
           "position": "WR",
           "team": "SF"
         }
+      ],
+      "picks": [
+        {
+          "season": "2026",
+          "round": 1,
+          "original_roster_id": 6,
+          "original_team": "BC & the Old Guys",
+          "is_own": true
+        },
+        {
+          "season": "2026",
+          "round": 3,
+          "original_roster_id": 6,
+          "original_team": "BC & the Old Guys",
+          "is_own": true
+        },
+        {
+          "season": "2027",
+          "round": 1,
+          "original_roster_id": 6,
+          "original_team": "BC & the Old Guys",
+          "is_own": true
+        },
+        {
+          "season": "2027",
+          "round": 3,
+          "original_roster_id": 6,
+          "original_team": "BC & the Old Guys",
+          "is_own": true
+        },
+        {
+          "season": "2028",
+          "round": 1,
+          "original_roster_id": 6,
+          "original_team": "BC & the Old Guys",
+          "is_own": true
+        },
+        {
+          "season": "2028",
+          "round": 2,
+          "original_roster_id": 6,
+          "original_team": "BC & the Old Guys",
+          "is_own": true
+        },
+        {
+          "season": "2028",
+          "round": 3,
+          "original_roster_id": 6,
+          "original_team": "BC & the Old Guys",
+          "is_own": true
+        },
+        {
+          "season": "2029",
+          "round": 1,
+          "original_roster_id": 6,
+          "original_team": "BC & the Old Guys",
+          "is_own": true
+        },
+        {
+          "season": "2029",
+          "round": 2,
+          "original_roster_id": 6,
+          "original_team": "BC & the Old Guys",
+          "is_own": true
+        },
+        {
+          "season": "2029",
+          "round": 3,
+          "original_roster_id": 6,
+          "original_team": "BC & the Old Guys",
+          "is_own": true
+        }
       ]
     },
     {
@@ -1584,10 +2178,10 @@
           "team": "NE"
         },
         {
-          "player_id": "8134",
-          "name": "Khalil Shakir",
+          "player_id": "4454",
+          "name": "Kendrick Bourne",
           "position": "WR",
-          "team": "BUF"
+          "team": "ARI"
         },
         {
           "player_id": "9479",
@@ -1664,12 +2258,6 @@
           "team": "FA"
         },
         {
-          "player_id": "4454",
-          "name": "Kendrick Bourne",
-          "position": "WR",
-          "team": "ARI"
-        },
-        {
           "player_id": "5857",
           "name": "Noah Fant",
           "position": "TE",
@@ -1686,6 +2274,12 @@
           "name": "Olamide Zaccheaus",
           "position": "WR",
           "team": "ATL"
+        },
+        {
+          "player_id": "8134",
+          "name": "Khalil Shakir",
+          "position": "WR",
+          "team": "BUF"
         },
         {
           "player_id": "8225",
@@ -1727,6 +2321,99 @@
           "position": "WR",
           "team": "HOU"
         }
+      ],
+      "picks": [
+        {
+          "season": "2026",
+          "round": 1,
+          "original_roster_id": 7,
+          "original_team": "nickdemarinis",
+          "is_own": true
+        },
+        {
+          "season": "2026",
+          "round": 3,
+          "original_roster_id": 1,
+          "original_team": "Tenacious D",
+          "is_own": false
+        },
+        {
+          "season": "2026",
+          "round": 3,
+          "original_roster_id": 7,
+          "original_team": "nickdemarinis",
+          "is_own": true
+        },
+        {
+          "season": "2027",
+          "round": 1,
+          "original_roster_id": 7,
+          "original_team": "nickdemarinis",
+          "is_own": true
+        },
+        {
+          "season": "2027",
+          "round": 2,
+          "original_roster_id": 7,
+          "original_team": "nickdemarinis",
+          "is_own": true
+        },
+        {
+          "season": "2027",
+          "round": 3,
+          "original_roster_id": 7,
+          "original_team": "nickdemarinis",
+          "is_own": true
+        },
+        {
+          "season": "2027",
+          "round": 3,
+          "original_roster_id": 9,
+          "original_team": "KC & The Young Studs",
+          "is_own": false
+        },
+        {
+          "season": "2028",
+          "round": 1,
+          "original_roster_id": 7,
+          "original_team": "nickdemarinis",
+          "is_own": true
+        },
+        {
+          "season": "2028",
+          "round": 2,
+          "original_roster_id": 7,
+          "original_team": "nickdemarinis",
+          "is_own": true
+        },
+        {
+          "season": "2028",
+          "round": 3,
+          "original_roster_id": 7,
+          "original_team": "nickdemarinis",
+          "is_own": true
+        },
+        {
+          "season": "2029",
+          "round": 1,
+          "original_roster_id": 7,
+          "original_team": "nickdemarinis",
+          "is_own": true
+        },
+        {
+          "season": "2029",
+          "round": 2,
+          "original_roster_id": 7,
+          "original_team": "nickdemarinis",
+          "is_own": true
+        },
+        {
+          "season": "2029",
+          "round": 3,
+          "original_roster_id": 7,
+          "original_team": "nickdemarinis",
+          "is_own": true
+        }
       ]
     },
     {
@@ -1747,10 +2434,10 @@
           "team": "CHI"
         },
         {
-          "player_id": "4866",
-          "name": "Saquon Barkley",
+          "player_id": "12512",
+          "name": "Quinshon Judkins",
           "position": "RB",
-          "team": "PHI"
+          "team": "CLE"
         },
         {
           "player_id": "7611",
@@ -1765,10 +2452,10 @@
           "team": "DEN"
         },
         {
-          "player_id": "2216",
-          "name": "Mike Evans",
+          "player_id": "11834",
+          "name": "Devaughn Vele",
           "position": "WR",
-          "team": "SF"
+          "team": "NO"
         },
         {
           "player_id": "12501",
@@ -1783,10 +2470,10 @@
           "team": "JAX"
         },
         {
-          "player_id": "12512",
-          "name": "Quinshon Judkins",
-          "position": "RB",
-          "team": "CLE"
+          "player_id": "7553",
+          "name": "Kyle Pitts",
+          "position": "TE",
+          "team": "ATL"
         },
         {
           "player_id": "11603",
@@ -1821,12 +2508,6 @@
           "team": "CHI"
         },
         {
-          "player_id": "11834",
-          "name": "Devaughn Vele",
-          "position": "WR",
-          "team": "NO"
-        },
-        {
           "player_id": "12498",
           "name": "Mason Taylor",
           "position": "TE",
@@ -1843,6 +2524,12 @@
           "name": "Malachi Fields",
           "position": "WR",
           "team": "NYG"
+        },
+        {
+          "player_id": "13294",
+          "name": "Makai Lemon",
+          "position": "WR",
+          "team": "PHI"
         },
         {
           "player_id": "13305",
@@ -1869,10 +2556,10 @@
           "team": "LV"
         },
         {
-          "player_id": "7553",
-          "name": "Kyle Pitts",
-          "position": "TE",
-          "team": "ATL"
+          "player_id": "8142",
+          "name": "Alec Pierce",
+          "position": "WR",
+          "team": "IND"
         },
         {
           "player_id": "9229",
@@ -1909,16 +2596,95 @@
       ],
       "reserve": [
         {
-          "player_id": "8142",
-          "name": "Alec Pierce",
-          "position": "WR",
-          "team": "IND"
+          "player_id": "13345",
+          "name": "Jonah Coleman",
+          "position": "RB",
+          "team": "DEN"
         },
         {
           "player_id": "9226",
           "name": "De'Von Achane",
           "position": "RB",
           "team": "MIA"
+        }
+      ],
+      "picks": [
+        {
+          "season": "2026",
+          "round": 2,
+          "original_roster_id": 2,
+          "original_team": "Chillin With Mahomes",
+          "is_own": false
+        },
+        {
+          "season": "2026",
+          "round": 2,
+          "original_roster_id": 8,
+          "original_team": "The Ham Cannons",
+          "is_own": true
+        },
+        {
+          "season": "2026",
+          "round": 2,
+          "original_roster_id": 10,
+          "original_team": "Iron Claw 💚 ",
+          "is_own": false
+        },
+        {
+          "season": "2027",
+          "round": 3,
+          "original_roster_id": 1,
+          "original_team": "Tenacious D",
+          "is_own": false
+        },
+        {
+          "season": "2028",
+          "round": 1,
+          "original_roster_id": 8,
+          "original_team": "The Ham Cannons",
+          "is_own": true
+        },
+        {
+          "season": "2028",
+          "round": 2,
+          "original_roster_id": 1,
+          "original_team": "Tenacious D",
+          "is_own": false
+        },
+        {
+          "season": "2028",
+          "round": 2,
+          "original_roster_id": 8,
+          "original_team": "The Ham Cannons",
+          "is_own": true
+        },
+        {
+          "season": "2028",
+          "round": 3,
+          "original_roster_id": 8,
+          "original_team": "The Ham Cannons",
+          "is_own": true
+        },
+        {
+          "season": "2029",
+          "round": 1,
+          "original_roster_id": 8,
+          "original_team": "The Ham Cannons",
+          "is_own": true
+        },
+        {
+          "season": "2029",
+          "round": 2,
+          "original_roster_id": 8,
+          "original_team": "The Ham Cannons",
+          "is_own": true
+        },
+        {
+          "season": "2029",
+          "round": 3,
+          "original_roster_id": 8,
+          "original_team": "The Ham Cannons",
+          "is_own": true
         }
       ]
     },
@@ -1934,10 +2700,10 @@
       "rank": 1,
       "starters": [
         {
-          "player_id": "6770",
-          "name": "Joe Burrow",
+          "player_id": "2306",
+          "name": "Jameis Winston",
           "position": "QB",
-          "team": "CIN"
+          "team": "NYG"
         },
         {
           "player_id": "9509",
@@ -1964,10 +2730,10 @@
           "team": "LAR"
         },
         {
-          "player_id": "4037",
-          "name": "Chris Godwin",
+          "player_id": "2216",
+          "name": "Mike Evans",
           "position": "WR",
-          "team": "TB"
+          "team": "SF"
         },
         {
           "player_id": "8131",
@@ -1976,16 +2742,16 @@
           "team": "NYG"
         },
         {
-          "player_id": "5012",
-          "name": "Mark Andrews",
-          "position": "TE",
-          "team": "BAL"
+          "player_id": "4866",
+          "name": "Saquon Barkley",
+          "position": "RB",
+          "team": "PHI"
         },
         {
-          "player_id": "1479",
-          "name": "Keenan Allen",
-          "position": "WR",
-          "team": "IND"
+          "player_id": "8151",
+          "name": "Kenneth Walker",
+          "position": "RB",
+          "team": "KC"
         },
         {
           "player_id": "3294",
@@ -1996,28 +2762,16 @@
       ],
       "bench": [
         {
-          "player_id": "13294",
-          "name": "Makai Lemon",
+          "player_id": "1479",
+          "name": "Keenan Allen",
           "position": "WR",
-          "team": "PHI"
-        },
-        {
-          "player_id": "13345",
-          "name": "Jonah Coleman",
-          "position": "RB",
-          "team": "DEN"
+          "team": "IND"
         },
         {
           "player_id": "19",
           "name": "Joe Flacco",
           "position": "QB",
           "team": "CIN"
-        },
-        {
-          "player_id": "2306",
-          "name": "Jameis Winston",
-          "position": "QB",
-          "team": "NYG"
         },
         {
           "player_id": "2307",
@@ -2038,6 +2792,24 @@
           "team": "CAR"
         },
         {
+          "player_id": "4037",
+          "name": "Chris Godwin",
+          "position": "WR",
+          "team": "TB"
+        },
+        {
+          "player_id": "5012",
+          "name": "Mark Andrews",
+          "position": "TE",
+          "team": "BAL"
+        },
+        {
+          "player_id": "6770",
+          "name": "Joe Burrow",
+          "position": "QB",
+          "team": "CIN"
+        },
+        {
           "player_id": "7049",
           "name": "Jauan Jennings",
           "position": "WR",
@@ -2048,12 +2820,6 @@
           "name": "Jahan Dotson",
           "position": "WR",
           "team": "ATL"
-        },
-        {
-          "player_id": "8151",
-          "name": "Kenneth Walker",
-          "position": "RB",
-          "team": "KC"
         },
         {
           "player_id": "8168",
@@ -2113,6 +2879,85 @@
           "position": "RB",
           "team": "SEA"
         }
+      ],
+      "picks": [
+        {
+          "season": "2026",
+          "round": 1,
+          "original_roster_id": 3,
+          "original_team": "Horny for Herbert ",
+          "is_own": false
+        },
+        {
+          "season": "2026",
+          "round": 2,
+          "original_roster_id": 4,
+          "original_team": "PRIMETIME",
+          "is_own": false
+        },
+        {
+          "season": "2026",
+          "round": 2,
+          "original_roster_id": 14,
+          "original_team": "James Jones #1 WR",
+          "is_own": false
+        },
+        {
+          "season": "2027",
+          "round": 1,
+          "original_roster_id": 9,
+          "original_team": "KC & The Young Studs",
+          "is_own": true
+        },
+        {
+          "season": "2027",
+          "round": 3,
+          "original_roster_id": 5,
+          "original_team": "Golden Kupp",
+          "is_own": false
+        },
+        {
+          "season": "2028",
+          "round": 1,
+          "original_roster_id": 9,
+          "original_team": "KC & The Young Studs",
+          "is_own": true
+        },
+        {
+          "season": "2028",
+          "round": 2,
+          "original_roster_id": 9,
+          "original_team": "KC & The Young Studs",
+          "is_own": true
+        },
+        {
+          "season": "2028",
+          "round": 3,
+          "original_roster_id": 9,
+          "original_team": "KC & The Young Studs",
+          "is_own": true
+        },
+        {
+          "season": "2029",
+          "round": 1,
+          "original_roster_id": 9,
+          "original_team": "KC & The Young Studs",
+          "is_own": true
+        },
+        {
+          "season": "2029",
+          "round": 2,
+          "original_roster_id": 9,
+          "original_team": "KC & The Young Studs",
+          "is_own": true
+        },
+        {
+          "season": "2029",
+          "round": 3,
+          "original_roster_id": 9,
+          "original_team": "KC & The Young Studs",
+          "is_own": true
+        }
       ]
     },
     {
@@ -2151,10 +2996,10 @@
           "team": "NE"
         },
         {
-          "player_id": "13150",
-          "name": "Darius Cooper",
+          "player_id": "10229",
+          "name": "Rashee Rice",
           "position": "WR",
-          "team": "PHI"
+          "team": "KC"
         },
         {
           "player_id": "9486",
@@ -2175,10 +3020,10 @@
           "team": "GB"
         },
         {
-          "player_id": "10229",
-          "name": "Rashee Rice",
+          "player_id": "13150",
+          "name": "Darius Cooper",
           "position": "WR",
-          "team": "KC"
+          "team": "PHI"
         },
         {
           "player_id": "6804",
@@ -2249,10 +3094,10 @@
           "team": "BAL"
         },
         {
-          "player_id": "6828",
-          "name": "AJ Dillon",
-          "position": "RB",
-          "team": "CAR"
+          "player_id": "13297",
+          "name": "Reggie Virgil",
+          "position": "WR",
+          "team": "ARI"
         },
         {
           "player_id": "8127",
@@ -2305,6 +3150,99 @@
           "name": "Adam Randall",
           "position": "RB",
           "team": "BAL"
+        }
+      ],
+      "picks": [
+        {
+          "season": "2026",
+          "round": 2,
+          "original_roster_id": 12,
+          "original_team": "Hot Sauce 🌶️",
+          "is_own": false
+        },
+        {
+          "season": "2026",
+          "round": 3,
+          "original_roster_id": 11,
+          "original_team": "Vrabels Secret Family",
+          "is_own": false
+        },
+        {
+          "season": "2027",
+          "round": 1,
+          "original_roster_id": 10,
+          "original_team": "Iron Claw 💚 ",
+          "is_own": true
+        },
+        {
+          "season": "2027",
+          "round": 2,
+          "original_roster_id": 3,
+          "original_team": "Horny for Herbert ",
+          "is_own": false
+        },
+        {
+          "season": "2027",
+          "round": 2,
+          "original_roster_id": 10,
+          "original_team": "Iron Claw 💚 ",
+          "is_own": true
+        },
+        {
+          "season": "2027",
+          "round": 2,
+          "original_roster_id": 12,
+          "original_team": "Hot Sauce 🌶️",
+          "is_own": false
+        },
+        {
+          "season": "2027",
+          "round": 3,
+          "original_roster_id": 10,
+          "original_team": "Iron Claw 💚 ",
+          "is_own": true
+        },
+        {
+          "season": "2028",
+          "round": 1,
+          "original_roster_id": 10,
+          "original_team": "Iron Claw 💚 ",
+          "is_own": true
+        },
+        {
+          "season": "2028",
+          "round": 2,
+          "original_roster_id": 10,
+          "original_team": "Iron Claw 💚 ",
+          "is_own": true
+        },
+        {
+          "season": "2028",
+          "round": 3,
+          "original_roster_id": 10,
+          "original_team": "Iron Claw 💚 ",
+          "is_own": true
+        },
+        {
+          "season": "2029",
+          "round": 1,
+          "original_roster_id": 10,
+          "original_team": "Iron Claw 💚 ",
+          "is_own": true
+        },
+        {
+          "season": "2029",
+          "round": 2,
+          "original_roster_id": 10,
+          "original_team": "Iron Claw 💚 ",
+          "is_own": true
+        },
+        {
+          "season": "2029",
+          "round": 3,
+          "original_roster_id": 10,
+          "original_team": "Iron Claw 💚 ",
+          "is_own": true
         }
       ]
     },
@@ -2499,6 +3437,99 @@
           "position": "TE",
           "team": "GB"
         }
+      ],
+      "picks": [
+        {
+          "season": "2026",
+          "round": 1,
+          "original_roster_id": 4,
+          "original_team": "PRIMETIME",
+          "is_own": false
+        },
+        {
+          "season": "2026",
+          "round": 1,
+          "original_roster_id": 8,
+          "original_team": "The Ham Cannons",
+          "is_own": false
+        },
+        {
+          "season": "2026",
+          "round": 2,
+          "original_roster_id": 3,
+          "original_team": "Horny for Herbert ",
+          "is_own": false
+        },
+        {
+          "season": "2026",
+          "round": 2,
+          "original_roster_id": 7,
+          "original_team": "nickdemarinis",
+          "is_own": false
+        },
+        {
+          "season": "2026",
+          "round": 2,
+          "original_roster_id": 11,
+          "original_team": "Vrabels Secret Family",
+          "is_own": true
+        },
+        {
+          "season": "2027",
+          "round": 1,
+          "original_roster_id": 11,
+          "original_team": "Vrabels Secret Family",
+          "is_own": true
+        },
+        {
+          "season": "2027",
+          "round": 2,
+          "original_roster_id": 11,
+          "original_team": "Vrabels Secret Family",
+          "is_own": true
+        },
+        {
+          "season": "2028",
+          "round": 1,
+          "original_roster_id": 11,
+          "original_team": "Vrabels Secret Family",
+          "is_own": true
+        },
+        {
+          "season": "2028",
+          "round": 2,
+          "original_roster_id": 11,
+          "original_team": "Vrabels Secret Family",
+          "is_own": true
+        },
+        {
+          "season": "2028",
+          "round": 3,
+          "original_roster_id": 11,
+          "original_team": "Vrabels Secret Family",
+          "is_own": true
+        },
+        {
+          "season": "2029",
+          "round": 1,
+          "original_roster_id": 11,
+          "original_team": "Vrabels Secret Family",
+          "is_own": true
+        },
+        {
+          "season": "2029",
+          "round": 2,
+          "original_roster_id": 11,
+          "original_team": "Vrabels Secret Family",
+          "is_own": true
+        },
+        {
+          "season": "2029",
+          "round": 3,
+          "original_roster_id": 11,
+          "original_team": "Vrabels Secret Family",
+          "is_own": true
+        }
       ]
     },
     {
@@ -2543,10 +3574,10 @@
           "team": "CLE"
         },
         {
-          "player_id": "8148",
-          "name": "Jameson Williams",
+          "player_id": "7525",
+          "name": "DeVonta Smith",
           "position": "WR",
-          "team": "DET"
+          "team": "PHI"
         },
         {
           "player_id": "11604",
@@ -2561,10 +3592,10 @@
           "team": "CHI"
         },
         {
-          "player_id": "12495",
-          "name": "Ollie Gordon",
-          "position": "RB",
-          "team": "MIA"
+          "player_id": "11624",
+          "name": "Xavier Worthy",
+          "position": "WR",
+          "team": "KC"
         },
         {
           "player_id": "11566",
@@ -2574,12 +3605,6 @@
         }
       ],
       "bench": [
-        {
-          "player_id": "11624",
-          "name": "Xavier Worthy",
-          "position": "WR",
-          "team": "KC"
-        },
         {
           "player_id": "11625",
           "name": "Adonai Mitchell",
@@ -2617,6 +3642,12 @@
           "team": "CLE"
         },
         {
+          "player_id": "12495",
+          "name": "Ollie Gordon",
+          "position": "RB",
+          "team": "MIA"
+        },
+        {
           "player_id": "12496",
           "name": "Tai Felton",
           "position": "WR",
@@ -2641,10 +3672,10 @@
           "team": "PHI"
         },
         {
-          "player_id": "7525",
-          "name": "DeVonta Smith",
+          "player_id": "8148",
+          "name": "Jameson Williams",
           "position": "WR",
-          "team": "PHI"
+          "team": "DET"
         },
         {
           "player_id": "8408",
@@ -2691,6 +3722,78 @@
           "name": "Tank Dell",
           "position": "WR",
           "team": "HOU"
+        }
+      ],
+      "picks": [
+        {
+          "season": "2026",
+          "round": 1,
+          "original_roster_id": 11,
+          "original_team": "Vrabels Secret Family",
+          "is_own": false
+        },
+        {
+          "season": "2027",
+          "round": 1,
+          "original_roster_id": 3,
+          "original_team": "Horny for Herbert ",
+          "is_own": false
+        },
+        {
+          "season": "2027",
+          "round": 1,
+          "original_roster_id": 12,
+          "original_team": "Hot Sauce 🌶️",
+          "is_own": true
+        },
+        {
+          "season": "2027",
+          "round": 3,
+          "original_roster_id": 12,
+          "original_team": "Hot Sauce 🌶️",
+          "is_own": true
+        },
+        {
+          "season": "2028",
+          "round": 1,
+          "original_roster_id": 12,
+          "original_team": "Hot Sauce 🌶️",
+          "is_own": true
+        },
+        {
+          "season": "2028",
+          "round": 2,
+          "original_roster_id": 12,
+          "original_team": "Hot Sauce 🌶️",
+          "is_own": true
+        },
+        {
+          "season": "2028",
+          "round": 3,
+          "original_roster_id": 12,
+          "original_team": "Hot Sauce 🌶️",
+          "is_own": true
+        },
+        {
+          "season": "2029",
+          "round": 1,
+          "original_roster_id": 12,
+          "original_team": "Hot Sauce 🌶️",
+          "is_own": true
+        },
+        {
+          "season": "2029",
+          "round": 2,
+          "original_roster_id": 12,
+          "original_team": "Hot Sauce 🌶️",
+          "is_own": true
+        },
+        {
+          "season": "2029",
+          "round": 3,
+          "original_roster_id": 12,
+          "original_team": "Hot Sauce 🌶️",
+          "is_own": true
         }
       ]
     },
@@ -2885,6 +3988,99 @@
           "position": "RB",
           "team": "PHI"
         }
+      ],
+      "picks": [
+        {
+          "season": "2026",
+          "round": 2,
+          "original_roster_id": 13,
+          "original_team": "Ertz Boyz",
+          "is_own": true
+        },
+        {
+          "season": "2026",
+          "round": 3,
+          "original_roster_id": 4,
+          "original_team": "PRIMETIME",
+          "is_own": false
+        },
+        {
+          "season": "2027",
+          "round": 1,
+          "original_roster_id": 13,
+          "original_team": "Ertz Boyz",
+          "is_own": true
+        },
+        {
+          "season": "2027",
+          "round": 2,
+          "original_roster_id": 4,
+          "original_team": "PRIMETIME",
+          "is_own": false
+        },
+        {
+          "season": "2027",
+          "round": 2,
+          "original_roster_id": 13,
+          "original_team": "Ertz Boyz",
+          "is_own": true
+        },
+        {
+          "season": "2027",
+          "round": 3,
+          "original_roster_id": 13,
+          "original_team": "Ertz Boyz",
+          "is_own": true
+        },
+        {
+          "season": "2028",
+          "round": 1,
+          "original_roster_id": 1,
+          "original_team": "Tenacious D",
+          "is_own": false
+        },
+        {
+          "season": "2028",
+          "round": 1,
+          "original_roster_id": 13,
+          "original_team": "Ertz Boyz",
+          "is_own": true
+        },
+        {
+          "season": "2028",
+          "round": 2,
+          "original_roster_id": 13,
+          "original_team": "Ertz Boyz",
+          "is_own": true
+        },
+        {
+          "season": "2028",
+          "round": 3,
+          "original_roster_id": 13,
+          "original_team": "Ertz Boyz",
+          "is_own": true
+        },
+        {
+          "season": "2029",
+          "round": 1,
+          "original_roster_id": 13,
+          "original_team": "Ertz Boyz",
+          "is_own": true
+        },
+        {
+          "season": "2029",
+          "round": 2,
+          "original_roster_id": 13,
+          "original_team": "Ertz Boyz",
+          "is_own": true
+        },
+        {
+          "season": "2029",
+          "round": 3,
+          "original_roster_id": 13,
+          "original_team": "Ertz Boyz",
+          "is_own": true
+        }
       ]
     },
     {
@@ -3077,6 +4273,99 @@
           "name": "Myles Montgomery",
           "position": "RB",
           "team": "NE"
+        }
+      ],
+      "picks": [
+        {
+          "season": "2026",
+          "round": 1,
+          "original_roster_id": 14,
+          "original_team": "James Jones #1 WR",
+          "is_own": true
+        },
+        {
+          "season": "2026",
+          "round": 2,
+          "original_roster_id": 6,
+          "original_team": "BC & the Old Guys",
+          "is_own": false
+        },
+        {
+          "season": "2026",
+          "round": 3,
+          "original_roster_id": 14,
+          "original_team": "James Jones #1 WR",
+          "is_own": true
+        },
+        {
+          "season": "2027",
+          "round": 1,
+          "original_roster_id": 1,
+          "original_team": "Tenacious D",
+          "is_own": false
+        },
+        {
+          "season": "2027",
+          "round": 1,
+          "original_roster_id": 14,
+          "original_team": "James Jones #1 WR",
+          "is_own": true
+        },
+        {
+          "season": "2027",
+          "round": 2,
+          "original_roster_id": 14,
+          "original_team": "James Jones #1 WR",
+          "is_own": true
+        },
+        {
+          "season": "2027",
+          "round": 3,
+          "original_roster_id": 14,
+          "original_team": "James Jones #1 WR",
+          "is_own": true
+        },
+        {
+          "season": "2028",
+          "round": 1,
+          "original_roster_id": 14,
+          "original_team": "James Jones #1 WR",
+          "is_own": true
+        },
+        {
+          "season": "2028",
+          "round": 2,
+          "original_roster_id": 14,
+          "original_team": "James Jones #1 WR",
+          "is_own": true
+        },
+        {
+          "season": "2028",
+          "round": 3,
+          "original_roster_id": 14,
+          "original_team": "James Jones #1 WR",
+          "is_own": true
+        },
+        {
+          "season": "2029",
+          "round": 1,
+          "original_roster_id": 14,
+          "original_team": "James Jones #1 WR",
+          "is_own": true
+        },
+        {
+          "season": "2029",
+          "round": 2,
+          "original_roster_id": 14,
+          "original_team": "James Jones #1 WR",
+          "is_own": true
+        },
+        {
+          "season": "2029",
+          "round": 3,
+          "original_roster_id": 14,
+          "original_team": "James Jones #1 WR",
+          "is_own": true
         }
       ]
     }

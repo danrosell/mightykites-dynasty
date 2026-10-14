@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-14T13:49:51.710Z",
+  "generated_at": "2026-10-14T18:42:38.508Z",
   "source": "Sleeper public API",
   "username": "TheMightyKites",
   "nfl_week": 6,
@@ -57,7 +57,7 @@
       "leg": 6,
       "reserve_slots": 2,
       "reserve_allow_cov": 0,
-      "daily_waivers_last_ran": 13
+      "daily_waivers_last_ran": 14
     },
     "scoring_settings": {
       "sack": 1,
@@ -338,6 +338,78 @@
         "position": "RB",
         "team": "MIA"
       }
+    ],
+    "picks": [
+      {
+        "season": "2026",
+        "round": 4,
+        "original_roster_id": 5,
+        "original_team": "TheMightyKites",
+        "is_own": true
+      },
+      {
+        "season": "2027",
+        "round": 3,
+        "original_roster_id": 5,
+        "original_team": "TheMightyKites",
+        "is_own": true
+      },
+      {
+        "season": "2027",
+        "round": 4,
+        "original_roster_id": 5,
+        "original_team": "TheMightyKites",
+        "is_own": true
+      },
+      {
+        "season": "2028",
+        "round": 2,
+        "original_roster_id": 5,
+        "original_team": "TheMightyKites",
+        "is_own": true
+      },
+      {
+        "season": "2028",
+        "round": 3,
+        "original_roster_id": 5,
+        "original_team": "TheMightyKites",
+        "is_own": true
+      },
+      {
+        "season": "2028",
+        "round": 4,
+        "original_roster_id": 5,
+        "original_team": "TheMightyKites",
+        "is_own": true
+      },
+      {
+        "season": "2029",
+        "round": 1,
+        "original_roster_id": 5,
+        "original_team": "TheMightyKites",
+        "is_own": true
+      },
+      {
+        "season": "2029",
+        "round": 2,
+        "original_roster_id": 5,
+        "original_team": "TheMightyKites",
+        "is_own": true
+      },
+      {
+        "season": "2029",
+        "round": 3,
+        "original_roster_id": 5,
+        "original_team": "TheMightyKites",
+        "is_own": true
+      },
+      {
+        "season": "2029",
+        "round": 4,
+        "original_roster_id": 5,
+        "original_team": "TheMightyKites",
+        "is_own": true
+      }
     ]
   },
   "my_matchup": {
@@ -448,10 +520,10 @@
           "team": "IND"
         },
         {
-          "player_id": "6790",
-          "name": "D'Andre Swift",
+          "player_id": "7594",
+          "name": "Chuba Hubbard",
           "position": "RB",
-          "team": "CHI"
+          "team": "CAR"
         },
         {
           "player_id": "6786",
@@ -478,10 +550,10 @@
           "team": "ARI"
         },
         {
-          "player_id": "5967",
-          "name": "Tony Pollard",
+          "player_id": "6790",
+          "name": "D'Andre Swift",
           "position": "RB",
-          "team": "TEN"
+          "team": "CHI"
         },
         {
           "player_id": "10236",
@@ -570,6 +642,12 @@
           "team": "ARI"
         },
         {
+          "player_id": "5967",
+          "name": "Tony Pollard",
+          "position": "RB",
+          "team": "TEN"
+        },
+        {
           "player_id": "6768",
           "name": "Tua Tagovailoa",
           "position": "QB",
@@ -592,12 +670,6 @@
           "name": "Kenny Gainwell",
           "position": "RB",
           "team": "TB"
-        },
-        {
-          "player_id": "7594",
-          "name": "Chuba Hubbard",
-          "position": "RB",
-          "team": "CAR"
         },
         {
           "player_id": "8110",
@@ -625,6 +697,92 @@
           "name": "Ricky Pearsall",
           "position": "WR",
           "team": "SF"
+        }
+      ],
+      "picks": [
+        {
+          "season": "2026",
+          "round": 3,
+          "original_roster_id": 1,
+          "original_team": "PRIMETIME",
+          "is_own": true
+        },
+        {
+          "season": "2026",
+          "round": 4,
+          "original_roster_id": 1,
+          "original_team": "PRIMETIME",
+          "is_own": true
+        },
+        {
+          "season": "2027",
+          "round": 3,
+          "original_roster_id": 1,
+          "original_team": "PRIMETIME",
+          "is_own": true
+        },
+        {
+          "season": "2027",
+          "round": 3,
+          "original_roster_id": 3,
+          "original_team": "The Rusty Trombones",
+          "is_own": false
+        },
+        {
+          "season": "2027",
+          "round": 3,
+          "original_roster_id": 6,
+          "original_team": "Beast Mode",
+          "is_own": false
+        },
+        {
+          "season": "2027",
+          "round": 4,
+          "original_roster_id": 1,
+          "original_team": "PRIMETIME",
+          "is_own": true
+        },
+        {
+          "season": "2028",
+          "round": 3,
+          "original_roster_id": 1,
+          "original_team": "PRIMETIME",
+          "is_own": true
+        },
+        {
+          "season": "2028",
+          "round": 4,
+          "original_roster_id": 1,
+          "original_team": "PRIMETIME",
+          "is_own": true
+        },
+        {
+          "season": "2029",
+          "round": 1,
+          "original_roster_id": 1,
+          "original_team": "PRIMETIME",
+          "is_own": true
+        },
+        {
+          "season": "2029",
+          "round": 2,
+          "original_roster_id": 1,
+          "original_team": "PRIMETIME",
+          "is_own": true
+        },
+        {
+          "season": "2029",
+          "round": 3,
+          "original_roster_id": 1,
+          "original_team": "PRIMETIME",
+          "is_own": true
+        },
+        {
+          "season": "2029",
+          "round": 4,
+          "original_roster_id": 1,
+          "original_team": "PRIMETIME",
+          "is_own": true
         }
       ]
     },
@@ -830,6 +988,127 @@
           "position": "WR",
           "team": "CAR"
         }
+      ],
+      "picks": [
+        {
+          "season": "2026",
+          "round": 1,
+          "original_roster_id": 2,
+          "original_team": "Tenacious D",
+          "is_own": true
+        },
+        {
+          "season": "2026",
+          "round": 2,
+          "original_roster_id": 2,
+          "original_team": "Tenacious D",
+          "is_own": true
+        },
+        {
+          "season": "2026",
+          "round": 2,
+          "original_roster_id": 8,
+          "original_team": "Prestige Worldwide ***",
+          "is_own": false
+        },
+        {
+          "season": "2026",
+          "round": 3,
+          "original_roster_id": 2,
+          "original_team": "Tenacious D",
+          "is_own": true
+        },
+        {
+          "season": "2026",
+          "round": 4,
+          "original_roster_id": 2,
+          "original_team": "Tenacious D",
+          "is_own": true
+        },
+        {
+          "season": "2027",
+          "round": 2,
+          "original_roster_id": 2,
+          "original_team": "Tenacious D",
+          "is_own": true
+        },
+        {
+          "season": "2027",
+          "round": 3,
+          "original_roster_id": 2,
+          "original_team": "Tenacious D",
+          "is_own": true
+        },
+        {
+          "season": "2027",
+          "round": 4,
+          "original_roster_id": 2,
+          "original_team": "Tenacious D",
+          "is_own": true
+        },
+        {
+          "season": "2028",
+          "round": 1,
+          "original_roster_id": 2,
+          "original_team": "Tenacious D",
+          "is_own": true
+        },
+        {
+          "season": "2028",
+          "round": 2,
+          "original_roster_id": 2,
+          "original_team": "Tenacious D",
+          "is_own": true
+        },
+        {
+          "season": "2028",
+          "round": 3,
+          "original_roster_id": 2,
+          "original_team": "Tenacious D",
+          "is_own": true
+        },
+        {
+          "season": "2028",
+          "round": 3,
+          "original_roster_id": 12,
+          "original_team": "Roll Tide ",
+          "is_own": false
+        },
+        {
+          "season": "2028",
+          "round": 4,
+          "original_roster_id": 2,
+          "original_team": "Tenacious D",
+          "is_own": true
+        },
+        {
+          "season": "2029",
+          "round": 1,
+          "original_roster_id": 2,
+          "original_team": "Tenacious D",
+          "is_own": true
+        },
+        {
+          "season": "2029",
+          "round": 2,
+          "original_roster_id": 2,
+          "original_team": "Tenacious D",
+          "is_own": true
+        },
+        {
+          "season": "2029",
+          "round": 3,
+          "original_roster_id": 2,
+          "original_team": "Tenacious D",
+          "is_own": true
+        },
+        {
+          "season": "2029",
+          "round": 4,
+          "original_roster_id": 2,
+          "original_team": "Tenacious D",
+          "is_own": true
+        }
       ]
     },
     {
@@ -1034,6 +1313,162 @@
           "position": "WR",
           "team": "HOU"
         }
+      ],
+      "picks": [
+        {
+          "season": "2026",
+          "round": 2,
+          "original_roster_id": 1,
+          "original_team": "PRIMETIME",
+          "is_own": false
+        },
+        {
+          "season": "2026",
+          "round": 2,
+          "original_roster_id": 3,
+          "original_team": "The Rusty Trombones",
+          "is_own": true
+        },
+        {
+          "season": "2026",
+          "round": 2,
+          "original_roster_id": 5,
+          "original_team": "TheMightyKites",
+          "is_own": false
+        },
+        {
+          "season": "2026",
+          "round": 2,
+          "original_roster_id": 6,
+          "original_team": "Beast Mode",
+          "is_own": false
+        },
+        {
+          "season": "2026",
+          "round": 2,
+          "original_roster_id": 12,
+          "original_team": "Roll Tide ",
+          "is_own": false
+        },
+        {
+          "season": "2026",
+          "round": 3,
+          "original_roster_id": 10,
+          "original_team": "kherri04",
+          "is_own": false
+        },
+        {
+          "season": "2027",
+          "round": 1,
+          "original_roster_id": 3,
+          "original_team": "The Rusty Trombones",
+          "is_own": true
+        },
+        {
+          "season": "2027",
+          "round": 2,
+          "original_roster_id": 3,
+          "original_team": "The Rusty Trombones",
+          "is_own": true
+        },
+        {
+          "season": "2027",
+          "round": 2,
+          "original_roster_id": 5,
+          "original_team": "TheMightyKites",
+          "is_own": false
+        },
+        {
+          "season": "2027",
+          "round": 2,
+          "original_roster_id": 6,
+          "original_team": "Beast Mode",
+          "is_own": false
+        },
+        {
+          "season": "2027",
+          "round": 2,
+          "original_roster_id": 7,
+          "original_team": "LSU BOYZZZ",
+          "is_own": false
+        },
+        {
+          "season": "2027",
+          "round": 3,
+          "original_roster_id": 9,
+          "original_team": "Bijans World",
+          "is_own": false
+        },
+        {
+          "season": "2027",
+          "round": 4,
+          "original_roster_id": 3,
+          "original_team": "The Rusty Trombones",
+          "is_own": true
+        },
+        {
+          "season": "2028",
+          "round": 1,
+          "original_roster_id": 3,
+          "original_team": "The Rusty Trombones",
+          "is_own": true
+        },
+        {
+          "season": "2028",
+          "round": 2,
+          "original_roster_id": 1,
+          "original_team": "PRIMETIME",
+          "is_own": false
+        },
+        {
+          "season": "2028",
+          "round": 2,
+          "original_roster_id": 3,
+          "original_team": "The Rusty Trombones",
+          "is_own": true
+        },
+        {
+          "season": "2028",
+          "round": 3,
+          "original_roster_id": 3,
+          "original_team": "The Rusty Trombones",
+          "is_own": true
+        },
+        {
+          "season": "2028",
+          "round": 4,
+          "original_roster_id": 3,
+          "original_team": "The Rusty Trombones",
+          "is_own": true
+        },
+        {
+          "season": "2029",
+          "round": 1,
+          "original_roster_id": 3,
+          "original_team": "The Rusty Trombones",
+          "is_own": true
+        },
+        {
+          "season": "2029",
+          "round": 2,
+          "original_roster_id": 3,
+          "original_team": "The Rusty Trombones",
+          "is_own": true
+        },
+        {
+          "season": "2029",
+          "round": 3,
+          "original_roster_id": 3,
+          "original_team": "The Rusty Trombones",
+          "is_own": true
+        },
+        {
+          "season": "2029",
+          "round": 4,
+          "original_roster_id": 3,
+          "original_team": "The Rusty Trombones",
+          "is_own": true
+        }
       ]
     },
     {
@@ -1225,7 +1660,142 @@
         }
       ],
       "taxi": [],
-      "reserve": []
+      "reserve": [],
+      "picks": [
+        {
+          "season": "2026",
+          "round": 1,
+          "original_roster_id": 3,
+          "original_team": "The Rusty Trombones",
+          "is_own": false
+        },
+        {
+          "season": "2026",
+          "round": 1,
+          "original_roster_id": 4,
+          "original_team": "pvanexter",
+          "is_own": true
+        },
+        {
+          "season": "2026",
+          "round": 2,
+          "original_roster_id": 4,
+          "original_team": "pvanexter",
+          "is_own": true
+        },
+        {
+          "season": "2026",
+          "round": 3,
+          "original_roster_id": 4,
+          "original_team": "pvanexter",
+          "is_own": true
+        },
+        {
+          "season": "2026",
+          "round": 4,
+          "original_roster_id": 4,
+          "original_team": "pvanexter",
+          "is_own": true
+        },
+        {
+          "season": "2027",
+          "round": 1,
+          "original_roster_id": 4,
+          "original_team": "pvanexter",
+          "is_own": true
+        },
+        {
+          "season": "2027",
+          "round": 1,
+          "original_roster_id": 6,
+          "original_team": "Beast Mode",
+          "is_own": false
+        },
+        {
+          "season": "2027",
+          "round": 2,
+          "original_roster_id": 4,
+          "original_team": "pvanexter",
+          "is_own": true
+        },
+        {
+          "season": "2027",
+          "round": 3,
+          "original_roster_id": 4,
+          "original_team": "pvanexter",
+          "is_own": true
+        },
+        {
+          "season": "2027",
+          "round": 4,
+          "original_roster_id": 4,
+          "original_team": "pvanexter",
+          "is_own": true
+        },
+        {
+          "season": "2028",
+          "round": 1,
+          "original_roster_id": 1,
+          "original_team": "PRIMETIME",
+          "is_own": false
+        },
+        {
+          "season": "2028",
+          "round": 1,
+          "original_roster_id": 4,
+          "original_team": "pvanexter",
+          "is_own": true
+        },
+        {
+          "season": "2028",
+          "round": 2,
+          "original_roster_id": 4,
+          "original_team": "pvanexter",
+          "is_own": true
+        },
+        {
+          "season": "2028",
+          "round": 3,
+          "original_roster_id": 4,
+          "original_team": "pvanexter",
+          "is_own": true
+        },
+        {
+          "season": "2028",
+          "round": 4,
+          "original_roster_id": 4,
+          "original_team": "pvanexter",
+          "is_own": true
+        },
+        {
+          "season": "2029",
+          "round": 1,
+          "original_roster_id": 4,
+          "original_team": "pvanexter",
+          "is_own": true
+        },
+        {
+          "season": "2029",
+          "round": 2,
+          "original_roster_id": 4,
+          "original_team": "pvanexter",
+          "is_own": true
+        },
+        {
+          "season": "2029",
+          "round": 3,
+          "original_roster_id": 4,
+          "original_team": "pvanexter",
+          "is_own": true
+        },
+        {
+          "season": "2029",
+          "round": 4,
+          "original_roster_id": 4,
+          "original_team": "pvanexter",
+          "is_own": true
+        }
+      ]
     },
     {
       "roster_id": 5,
@@ -1428,6 +1998,78 @@
           "name": "De'Von Achane",
           "position": "RB",
           "team": "MIA"
+        }
+      ],
+      "picks": [
+        {
+          "season": "2026",
+          "round": 4,
+          "original_roster_id": 5,
+          "original_team": "TheMightyKites",
+          "is_own": true
+        },
+        {
+          "season": "2027",
+          "round": 3,
+          "original_roster_id": 5,
+          "original_team": "TheMightyKites",
+          "is_own": true
+        },
+        {
+          "season": "2027",
+          "round": 4,
+          "original_roster_id": 5,
+          "original_team": "TheMightyKites",
+          "is_own": true
+        },
+        {
+          "season": "2028",
+          "round": 2,
+          "original_roster_id": 5,
+          "original_team": "TheMightyKites",
+          "is_own": true
+        },
+        {
+          "season": "2028",
+          "round": 3,
+          "original_roster_id": 5,
+          "original_team": "TheMightyKites",
+          "is_own": true
+        },
+        {
+          "season": "2028",
+          "round": 4,
+          "original_roster_id": 5,
+          "original_team": "TheMightyKites",
+          "is_own": true
+        },
+        {
+          "season": "2029",
+          "round": 1,
+          "original_roster_id": 5,
+          "original_team": "TheMightyKites",
+          "is_own": true
+        },
+        {
+          "season": "2029",
+          "round": 2,
+          "original_roster_id": 5,
+          "original_team": "TheMightyKites",
+          "is_own": true
+        },
+        {
+          "season": "2029",
+          "round": 3,
+          "original_roster_id": 5,
+          "original_team": "TheMightyKites",
+          "is_own": true
+        },
+        {
+          "season": "2029",
+          "round": 4,
+          "original_roster_id": 5,
+          "original_team": "TheMightyKites",
+          "is_own": true
         }
       ]
     },
@@ -1633,6 +2275,113 @@
           "position": "WR",
           "team": "SF"
         }
+      ],
+      "picks": [
+        {
+          "season": "2026",
+          "round": 1,
+          "original_roster_id": 1,
+          "original_team": "PRIMETIME",
+          "is_own": false
+        },
+        {
+          "season": "2026",
+          "round": 3,
+          "original_roster_id": 11,
+          "original_team": "James Jones #1 WR",
+          "is_own": false
+        },
+        {
+          "season": "2026",
+          "round": 4,
+          "original_roster_id": 3,
+          "original_team": "The Rusty Trombones",
+          "is_own": false
+        },
+        {
+          "season": "2026",
+          "round": 4,
+          "original_roster_id": 6,
+          "original_team": "Beast Mode",
+          "is_own": true
+        },
+        {
+          "season": "2026",
+          "round": 4,
+          "original_roster_id": 8,
+          "original_team": "Prestige Worldwide ***",
+          "is_own": false
+        },
+        {
+          "season": "2026",
+          "round": 4,
+          "original_roster_id": 9,
+          "original_team": "Bijans World",
+          "is_own": false
+        },
+        {
+          "season": "2026",
+          "round": 4,
+          "original_roster_id": 10,
+          "original_team": "kherri04",
+          "is_own": false
+        },
+        {
+          "season": "2026",
+          "round": 4,
+          "original_roster_id": 11,
+          "original_team": "James Jones #1 WR",
+          "is_own": false
+        },
+        {
+          "season": "2028",
+          "round": 1,
+          "original_roster_id": 6,
+          "original_team": "Beast Mode",
+          "is_own": true
+        },
+        {
+          "season": "2028",
+          "round": 2,
+          "original_roster_id": 6,
+          "original_team": "Beast Mode",
+          "is_own": true
+        },
+        {
+          "season": "2028",
+          "round": 4,
+          "original_roster_id": 6,
+          "original_team": "Beast Mode",
+          "is_own": true
+        },
+        {
+          "season": "2029",
+          "round": 1,
+          "original_roster_id": 6,
+          "original_team": "Beast Mode",
+          "is_own": true
+        },
+        {
+          "season": "2029",
+          "round": 2,
+          "original_roster_id": 6,
+          "original_team": "Beast Mode",
+          "is_own": true
+        },
+        {
+          "season": "2029",
+          "round": 3,
+          "original_roster_id": 6,
+          "original_team": "Beast Mode",
+          "is_own": true
+        },
+        {
+          "season": "2029",
+          "round": 4,
+          "original_roster_id": 6,
+          "original_team": "Beast Mode",
+          "is_own": true
+        }
       ]
     },
     {
@@ -1659,10 +2408,10 @@
           "team": "WAS"
         },
         {
-          "player_id": "0",
-          "name": "0",
-          "position": "—",
-          "team": "FA"
+          "player_id": "11439",
+          "name": "Jaleel McLaughlin",
+          "position": "RB",
+          "team": "CLE"
         },
         {
           "player_id": "8112",
@@ -1671,54 +2420,42 @@
           "team": "ATL"
         },
         {
-          "player_id": "0",
-          "name": "0",
-          "position": "—",
-          "team": "FA"
-        },
-        {
-          "player_id": "0",
-          "name": "0",
-          "position": "—",
-          "team": "FA"
-        },
-        {
-          "player_id": "0",
-          "name": "0",
-          "position": "—",
-          "team": "FA"
-        },
-        {
-          "player_id": "0",
-          "name": "0",
-          "position": "—",
-          "team": "FA"
-        },
-        {
-          "player_id": "0",
-          "name": "0",
-          "position": "—",
-          "team": "FA"
-        }
-      ],
-      "bench": [
-        {
           "player_id": "10229",
           "name": "Rashee Rice",
           "position": "WR",
           "team": "KC"
         },
         {
-          "player_id": "11729",
-          "name": "Sione Vaki",
-          "position": "RB",
-          "team": "DET"
+          "player_id": "8121",
+          "name": "Romeo Doubs",
+          "position": "WR",
+          "team": "NE"
         },
         {
           "player_id": "12517",
           "name": "Colston Loveland",
           "position": "TE",
           "team": "CHI"
+        },
+        {
+          "player_id": "8129",
+          "name": "Dameon Pierce",
+          "position": "RB",
+          "team": "PHI"
+        },
+        {
+          "player_id": "4037",
+          "name": "Chris Godwin",
+          "position": "WR",
+          "team": "TB"
+        }
+      ],
+      "bench": [
+        {
+          "player_id": "11729",
+          "name": "Sione Vaki",
+          "position": "RB",
+          "team": "DET"
         },
         {
           "player_id": "12540",
@@ -1775,12 +2512,6 @@
           "team": "LAC"
         },
         {
-          "player_id": "4037",
-          "name": "Chris Godwin",
-          "position": "WR",
-          "team": "TB"
-        },
-        {
           "player_id": "4147",
           "name": "Samaje Perine",
           "position": "RB",
@@ -1829,24 +2560,6 @@
           "team": "KC"
         },
         {
-          "player_id": "8116",
-          "name": "Pierre Strong",
-          "position": "RB",
-          "team": "GB"
-        },
-        {
-          "player_id": "8121",
-          "name": "Romeo Doubs",
-          "position": "WR",
-          "team": "NE"
-        },
-        {
-          "player_id": "8129",
-          "name": "Dameon Pierce",
-          "position": "RB",
-          "team": "PHI"
-        },
-        {
           "player_id": "8155",
           "name": "Breece Hall",
           "position": "RB",
@@ -1872,6 +2585,120 @@
           "name": "Malik Davis",
           "position": "RB",
           "team": "DAL"
+        }
+      ],
+      "picks": [
+        {
+          "season": "2026",
+          "round": 1,
+          "original_roster_id": 7,
+          "original_team": "LSU BOYZZZ",
+          "is_own": true
+        },
+        {
+          "season": "2026",
+          "round": 2,
+          "original_roster_id": 7,
+          "original_team": "LSU BOYZZZ",
+          "is_own": true
+        },
+        {
+          "season": "2026",
+          "round": 3,
+          "original_roster_id": 5,
+          "original_team": "TheMightyKites",
+          "is_own": false
+        },
+        {
+          "season": "2026",
+          "round": 3,
+          "original_roster_id": 7,
+          "original_team": "LSU BOYZZZ",
+          "is_own": true
+        },
+        {
+          "season": "2026",
+          "round": 4,
+          "original_roster_id": 7,
+          "original_team": "LSU BOYZZZ",
+          "is_own": true
+        },
+        {
+          "season": "2027",
+          "round": 1,
+          "original_roster_id": 7,
+          "original_team": "LSU BOYZZZ",
+          "is_own": true
+        },
+        {
+          "season": "2027",
+          "round": 3,
+          "original_roster_id": 7,
+          "original_team": "LSU BOYZZZ",
+          "is_own": true
+        },
+        {
+          "season": "2027",
+          "round": 4,
+          "original_roster_id": 7,
+          "original_team": "LSU BOYZZZ",
+          "is_own": true
+        },
+        {
+          "season": "2028",
+          "round": 1,
+          "original_roster_id": 7,
+          "original_team": "LSU BOYZZZ",
+          "is_own": true
+        },
+        {
+          "season": "2028",
+          "round": 2,
+          "original_roster_id": 7,
+          "original_team": "LSU BOYZZZ",
+          "is_own": true
+        },
+        {
+          "season": "2028",
+          "round": 3,
+          "original_roster_id": 7,
+          "original_team": "LSU BOYZZZ",
+          "is_own": true
+        },
+        {
+          "season": "2028",
+          "round": 4,
+          "original_roster_id": 7,
+          "original_team": "LSU BOYZZZ",
+          "is_own": true
+        },
+        {
+          "season": "2029",
+          "round": 1,
+          "original_roster_id": 7,
+          "original_team": "LSU BOYZZZ",
+          "is_own": true
+        },
+        {
+          "season": "2029",
+          "round": 2,
+          "original_roster_id": 7,
+          "original_team": "LSU BOYZZZ",
+          "is_own": true
+        },
+        {
+          "season": "2029",
+          "round": 3,
+          "original_roster_id": 7,
+          "original_team": "LSU BOYZZZ",
+          "is_own": true
+        },
+        {
+          "season": "2029",
+          "round": 4,
+          "original_roster_id": 7,
+          "original_team": "LSU BOYZZZ",
+          "is_own": true
         }
       ]
     },
@@ -2077,6 +2904,120 @@
           "position": "RB",
           "team": "DET"
         }
+      ],
+      "picks": [
+        {
+          "season": "2026",
+          "round": 1,
+          "original_roster_id": 8,
+          "original_team": "Prestige Worldwide ***",
+          "is_own": true
+        },
+        {
+          "season": "2026",
+          "round": 3,
+          "original_roster_id": 3,
+          "original_team": "The Rusty Trombones",
+          "is_own": false
+        },
+        {
+          "season": "2026",
+          "round": 3,
+          "original_roster_id": 6,
+          "original_team": "Beast Mode",
+          "is_own": false
+        },
+        {
+          "season": "2026",
+          "round": 3,
+          "original_roster_id": 8,
+          "original_team": "Prestige Worldwide ***",
+          "is_own": true
+        },
+        {
+          "season": "2027",
+          "round": 1,
+          "original_roster_id": 8,
+          "original_team": "Prestige Worldwide ***",
+          "is_own": true
+        },
+        {
+          "season": "2027",
+          "round": 2,
+          "original_roster_id": 8,
+          "original_team": "Prestige Worldwide ***",
+          "is_own": true
+        },
+        {
+          "season": "2027",
+          "round": 3,
+          "original_roster_id": 8,
+          "original_team": "Prestige Worldwide ***",
+          "is_own": true
+        },
+        {
+          "season": "2027",
+          "round": 4,
+          "original_roster_id": 8,
+          "original_team": "Prestige Worldwide ***",
+          "is_own": true
+        },
+        {
+          "season": "2028",
+          "round": 1,
+          "original_roster_id": 8,
+          "original_team": "Prestige Worldwide ***",
+          "is_own": true
+        },
+        {
+          "season": "2028",
+          "round": 2,
+          "original_roster_id": 8,
+          "original_team": "Prestige Worldwide ***",
+          "is_own": true
+        },
+        {
+          "season": "2028",
+          "round": 3,
+          "original_roster_id": 8,
+          "original_team": "Prestige Worldwide ***",
+          "is_own": true
+        },
+        {
+          "season": "2028",
+          "round": 4,
+          "original_roster_id": 8,
+          "original_team": "Prestige Worldwide ***",
+          "is_own": true
+        },
+        {
+          "season": "2029",
+          "round": 1,
+          "original_roster_id": 8,
+          "original_team": "Prestige Worldwide ***",
+          "is_own": true
+        },
+        {
+          "season": "2029",
+          "round": 2,
+          "original_roster_id": 8,
+          "original_team": "Prestige Worldwide ***",
+          "is_own": true
+        },
+        {
+          "season": "2029",
+          "round": 3,
+          "original_roster_id": 8,
+          "original_team": "Prestige Worldwide ***",
+          "is_own": true
+        },
+        {
+          "season": "2029",
+          "round": 4,
+          "original_roster_id": 8,
+          "original_team": "Prestige Worldwide ***",
+          "is_own": true
+        }
       ]
     },
     {
@@ -2281,6 +3222,127 @@
           "position": "WR",
           "team": "HOU"
         }
+      ],
+      "picks": [
+        {
+          "season": "2026",
+          "round": 1,
+          "original_roster_id": 9,
+          "original_team": "Bijans World",
+          "is_own": true
+        },
+        {
+          "season": "2026",
+          "round": 2,
+          "original_roster_id": 9,
+          "original_team": "Bijans World",
+          "is_own": true
+        },
+        {
+          "season": "2026",
+          "round": 3,
+          "original_roster_id": 9,
+          "original_team": "Bijans World",
+          "is_own": true
+        },
+        {
+          "season": "2027",
+          "round": 1,
+          "original_roster_id": 5,
+          "original_team": "TheMightyKites",
+          "is_own": false
+        },
+        {
+          "season": "2027",
+          "round": 1,
+          "original_roster_id": 9,
+          "original_team": "Bijans World",
+          "is_own": true
+        },
+        {
+          "season": "2027",
+          "round": 2,
+          "original_roster_id": 9,
+          "original_team": "Bijans World",
+          "is_own": true
+        },
+        {
+          "season": "2027",
+          "round": 4,
+          "original_roster_id": 9,
+          "original_team": "Bijans World",
+          "is_own": true
+        },
+        {
+          "season": "2028",
+          "round": 1,
+          "original_roster_id": 5,
+          "original_team": "TheMightyKites",
+          "is_own": false
+        },
+        {
+          "season": "2028",
+          "round": 1,
+          "original_roster_id": 9,
+          "original_team": "Bijans World",
+          "is_own": true
+        },
+        {
+          "season": "2028",
+          "round": 2,
+          "original_roster_id": 9,
+          "original_team": "Bijans World",
+          "is_own": true
+        },
+        {
+          "season": "2028",
+          "round": 3,
+          "original_roster_id": 6,
+          "original_team": "Beast Mode",
+          "is_own": false
+        },
+        {
+          "season": "2028",
+          "round": 3,
+          "original_roster_id": 9,
+          "original_team": "Bijans World",
+          "is_own": true
+        },
+        {
+          "season": "2028",
+          "round": 4,
+          "original_roster_id": 9,
+          "original_team": "Bijans World",
+          "is_own": true
+        },
+        {
+          "season": "2029",
+          "round": 1,
+          "original_roster_id": 9,
+          "original_team": "Bijans World",
+          "is_own": true
+        },
+        {
+          "season": "2029",
+          "round": 2,
+          "original_roster_id": 9,
+          "original_team": "Bijans World",
+          "is_own": true
+        },
+        {
+          "season": "2029",
+          "round": 3,
+          "original_roster_id": 9,
+          "original_team": "Bijans World",
+          "is_own": true
+        },
+        {
+          "season": "2029",
+          "round": 4,
+          "original_roster_id": 9,
+          "original_team": "Bijans World",
+          "is_own": true
+        }
       ]
     },
     {
@@ -2473,6 +3535,120 @@
           "position": "WR",
           "team": "NE"
         }
+      ],
+      "picks": [
+        {
+          "season": "2026",
+          "round": 1,
+          "original_roster_id": 6,
+          "original_team": "Beast Mode",
+          "is_own": false
+        },
+        {
+          "season": "2026",
+          "round": 1,
+          "original_roster_id": 10,
+          "original_team": "kherri04",
+          "is_own": true
+        },
+        {
+          "season": "2027",
+          "round": 1,
+          "original_roster_id": 2,
+          "original_team": "Tenacious D",
+          "is_own": false
+        },
+        {
+          "season": "2027",
+          "round": 1,
+          "original_roster_id": 10,
+          "original_team": "kherri04",
+          "is_own": true
+        },
+        {
+          "season": "2027",
+          "round": 2,
+          "original_roster_id": 10,
+          "original_team": "kherri04",
+          "is_own": true
+        },
+        {
+          "season": "2027",
+          "round": 3,
+          "original_roster_id": 10,
+          "original_team": "kherri04",
+          "is_own": true
+        },
+        {
+          "season": "2027",
+          "round": 3,
+          "original_roster_id": 12,
+          "original_team": "Roll Tide ",
+          "is_own": false
+        },
+        {
+          "season": "2027",
+          "round": 4,
+          "original_roster_id": 10,
+          "original_team": "kherri04",
+          "is_own": true
+        },
+        {
+          "season": "2028",
+          "round": 1,
+          "original_roster_id": 10,
+          "original_team": "kherri04",
+          "is_own": true
+        },
+        {
+          "season": "2028",
+          "round": 2,
+          "original_roster_id": 10,
+          "original_team": "kherri04",
+          "is_own": true
+        },
+        {
+          "season": "2028",
+          "round": 3,
+          "original_roster_id": 10,
+          "original_team": "kherri04",
+          "is_own": true
+        },
+        {
+          "season": "2028",
+          "round": 4,
+          "original_roster_id": 10,
+          "original_team": "kherri04",
+          "is_own": true
+        },
+        {
+          "season": "2029",
+          "round": 1,
+          "original_roster_id": 10,
+          "original_team": "kherri04",
+          "is_own": true
+        },
+        {
+          "season": "2029",
+          "round": 2,
+          "original_roster_id": 10,
+          "original_team": "kherri04",
+          "is_own": true
+        },
+        {
+          "season": "2029",
+          "round": 3,
+          "original_roster_id": 10,
+          "original_team": "kherri04",
+          "is_own": true
+        },
+        {
+          "season": "2029",
+          "round": 4,
+          "original_roster_id": 10,
+          "original_team": "kherri04",
+          "is_own": true
+        }
       ]
     },
     {
@@ -2511,10 +3687,10 @@
           "team": "NYG"
         },
         {
-          "player_id": "6801",
-          "name": "Tee Higgins",
+          "player_id": "8146",
+          "name": "Garrett Wilson",
           "position": "WR",
-          "team": "CIN"
+          "team": "NYJ"
         },
         {
           "player_id": "12519",
@@ -2535,10 +3711,10 @@
           "team": "CLE"
         },
         {
-          "player_id": "8146",
-          "name": "Garrett Wilson",
+          "player_id": "11624",
+          "name": "Xavier Worthy",
           "position": "WR",
-          "team": "NYJ"
+          "team": "KC"
         }
       ],
       "bench": [
@@ -2559,12 +3735,6 @@
           "name": "Malik Washington",
           "position": "WR",
           "team": "MIA"
-        },
-        {
-          "player_id": "11624",
-          "name": "Xavier Worthy",
-          "position": "WR",
-          "team": "KC"
         },
         {
           "player_id": "12467",
@@ -2633,6 +3803,12 @@
           "team": "MIN"
         },
         {
+          "player_id": "6801",
+          "name": "Tee Higgins",
+          "position": "WR",
+          "team": "CIN"
+        },
+        {
           "player_id": "7600",
           "name": "Pat Freiermuth",
           "position": "TE",
@@ -2664,7 +3840,128 @@
         }
       ],
       "taxi": [],
-      "reserve": []
+      "reserve": [],
+      "picks": [
+        {
+          "season": "2026",
+          "round": 1,
+          "original_roster_id": 5,
+          "original_team": "TheMightyKites",
+          "is_own": false
+        },
+        {
+          "season": "2026",
+          "round": 1,
+          "original_roster_id": 11,
+          "original_team": "James Jones #1 WR",
+          "is_own": true
+        },
+        {
+          "season": "2026",
+          "round": 2,
+          "original_roster_id": 10,
+          "original_team": "kherri04",
+          "is_own": false
+        },
+        {
+          "season": "2026",
+          "round": 2,
+          "original_roster_id": 11,
+          "original_team": "James Jones #1 WR",
+          "is_own": true
+        },
+        {
+          "season": "2027",
+          "round": 1,
+          "original_roster_id": 11,
+          "original_team": "James Jones #1 WR",
+          "is_own": true
+        },
+        {
+          "season": "2027",
+          "round": 2,
+          "original_roster_id": 11,
+          "original_team": "James Jones #1 WR",
+          "is_own": true
+        },
+        {
+          "season": "2027",
+          "round": 3,
+          "original_roster_id": 11,
+          "original_team": "James Jones #1 WR",
+          "is_own": true
+        },
+        {
+          "season": "2027",
+          "round": 4,
+          "original_roster_id": 6,
+          "original_team": "Beast Mode",
+          "is_own": false
+        },
+        {
+          "season": "2027",
+          "round": 4,
+          "original_roster_id": 11,
+          "original_team": "James Jones #1 WR",
+          "is_own": true
+        },
+        {
+          "season": "2028",
+          "round": 1,
+          "original_roster_id": 11,
+          "original_team": "James Jones #1 WR",
+          "is_own": true
+        },
+        {
+          "season": "2028",
+          "round": 2,
+          "original_roster_id": 11,
+          "original_team": "James Jones #1 WR",
+          "is_own": true
+        },
+        {
+          "season": "2028",
+          "round": 3,
+          "original_roster_id": 11,
+          "original_team": "James Jones #1 WR",
+          "is_own": true
+        },
+        {
+          "season": "2028",
+          "round": 4,
+          "original_roster_id": 11,
+          "original_team": "James Jones #1 WR",
+          "is_own": true
+        },
+        {
+          "season": "2029",
+          "round": 1,
+          "original_roster_id": 11,
+          "original_team": "James Jones #1 WR",
+          "is_own": true
+        },
+        {
+          "season": "2029",
+          "round": 2,
+          "original_roster_id": 11,
+          "original_team": "James Jones #1 WR",
+          "is_own": true
+        },
+        {
+          "season": "2029",
+          "round": 3,
+          "original_roster_id": 11,
+          "original_team": "James Jones #1 WR",
+          "is_own": true
+        },
+        {
+          "season": "2029",
+          "round": 4,
+          "original_roster_id": 11,
+          "original_team": "James Jones #1 WR",
+          "is_own": true
+        }
+      ]
     },
     {
       "roster_id": 12,
@@ -2849,7 +4146,114 @@
         }
       ],
       "taxi": [],
-      "reserve": []
+      "reserve": [],
+      "picks": [
+        {
+          "season": "2026",
+          "round": 1,
+          "original_roster_id": 12,
+          "original_team": "Roll Tide ",
+          "is_own": true
+        },
+        {
+          "season": "2026",
+          "round": 3,
+          "original_roster_id": 12,
+          "original_team": "Roll Tide ",
+          "is_own": true
+        },
+        {
+          "season": "2026",
+          "round": 4,
+          "original_roster_id": 12,
+          "original_team": "Roll Tide ",
+          "is_own": true
+        },
+        {
+          "season": "2027",
+          "round": 1,
+          "original_roster_id": 1,
+          "original_team": "PRIMETIME",
+          "is_own": false
+        },
+        {
+          "season": "2027",
+          "round": 1,
+          "original_roster_id": 12,
+          "original_team": "Roll Tide ",
+          "is_own": true
+        },
+        {
+          "season": "2027",
+          "round": 2,
+          "original_roster_id": 1,
+          "original_team": "PRIMETIME",
+          "is_own": false
+        },
+        {
+          "season": "2027",
+          "round": 2,
+          "original_roster_id": 12,
+          "original_team": "Roll Tide ",
+          "is_own": true
+        },
+        {
+          "season": "2027",
+          "round": 4,
+          "original_roster_id": 12,
+          "original_team": "Roll Tide ",
+          "is_own": true
+        },
+        {
+          "season": "2028",
+          "round": 1,
+          "original_roster_id": 12,
+          "original_team": "Roll Tide ",
+          "is_own": true
+        },
+        {
+          "season": "2028",
+          "round": 2,
+          "original_roster_id": 12,
+          "original_team": "Roll Tide ",
+          "is_own": true
+        },
+        {
+          "season": "2028",
+          "round": 4,
+          "original_roster_id": 12,
+          "original_team": "Roll Tide ",
+          "is_own": true
+        },
+        {
+          "season": "2029",
+          "round": 1,
+          "original_roster_id": 12,
+          "original_team": "Roll Tide ",
+          "is_own": true
+        },
+        {
+          "season": "2029",
+          "round": 2,
+          "original_roster_id": 12,
+          "original_team": "Roll Tide ",
+          "is_own": true
+        },
+        {
+          "season": "2029",
+          "round": 3,
+          "original_roster_id": 12,
+          "original_team": "Roll Tide ",
+          "is_own": true
+        },
+        {
+          "season": "2029",
+          "round": 4,
+          "original_roster_id": 12,
+          "original_team": "Roll Tide ",
+          "is_own": true
+        }
+      ]
     }
   ]
 }

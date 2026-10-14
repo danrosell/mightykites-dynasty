@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-14T13:49:48.923Z",
+  "generated_at": "2026-10-14T18:42:36.230Z",
   "source": "Sleeper public API",
   "username": "TheMightyKites",
   "nfl_week": 6,
@@ -60,7 +60,7 @@
       "leg": 6,
       "reserve_slots": 3,
       "reserve_allow_cov": 0,
-      "daily_waivers_last_ran": 13
+      "daily_waivers_last_ran": 14
     },
     "scoring_settings": {
       "sack": 1,
@@ -204,10 +204,10 @@
         "team": "NO"
       },
       {
-        "player_id": "4663",
-        "name": "Austin Ekeler",
-        "position": "RB",
-        "team": "WAS"
+        "player_id": "13394",
+        "name": "Josh Cameron",
+        "position": "WR",
+        "team": "JAX"
       },
       {
         "player_id": "4881",
@@ -236,7 +236,65 @@
         "team": "LV"
       }
     ],
-    "reserve": []
+    "reserve": [],
+    "picks": [
+      {
+        "season": "2026",
+        "round": 1,
+        "original_roster_id": 1,
+        "original_team": "TheMightyKites",
+        "is_own": true
+      },
+      {
+        "season": "2026",
+        "round": 2,
+        "original_roster_id": 1,
+        "original_team": "TheMightyKites",
+        "is_own": true
+      },
+      {
+        "season": "2027",
+        "round": 2,
+        "original_roster_id": 1,
+        "original_team": "TheMightyKites",
+        "is_own": true
+      },
+      {
+        "season": "2027",
+        "round": 2,
+        "original_roster_id": 7,
+        "original_team": "DatTightDik",
+        "is_own": false
+      },
+      {
+        "season": "2028",
+        "round": 1,
+        "original_roster_id": 1,
+        "original_team": "TheMightyKites",
+        "is_own": true
+      },
+      {
+        "season": "2028",
+        "round": 2,
+        "original_roster_id": 1,
+        "original_team": "TheMightyKites",
+        "is_own": true
+      },
+      {
+        "season": "2029",
+        "round": 1,
+        "original_roster_id": 1,
+        "original_team": "TheMightyKites",
+        "is_own": true
+      },
+      {
+        "season": "2029",
+        "round": 2,
+        "original_roster_id": 1,
+        "original_team": "TheMightyKites",
+        "is_own": true
+      }
+    ]
   },
   "my_matchup": {
     "me": {
@@ -388,10 +446,10 @@
           "team": "NO"
         },
         {
-          "player_id": "4663",
-          "name": "Austin Ekeler",
-          "position": "RB",
-          "team": "WAS"
+          "player_id": "13394",
+          "name": "Josh Cameron",
+          "position": "WR",
+          "team": "JAX"
         },
         {
           "player_id": "4881",
@@ -420,7 +478,65 @@
           "team": "LV"
         }
       ],
-      "reserve": []
+      "reserve": [],
+      "picks": [
+        {
+          "season": "2026",
+          "round": 1,
+          "original_roster_id": 1,
+          "original_team": "TheMightyKites",
+          "is_own": true
+        },
+        {
+          "season": "2026",
+          "round": 2,
+          "original_roster_id": 1,
+          "original_team": "TheMightyKites",
+          "is_own": true
+        },
+        {
+          "season": "2027",
+          "round": 2,
+          "original_roster_id": 1,
+          "original_team": "TheMightyKites",
+          "is_own": true
+        },
+        {
+          "season": "2027",
+          "round": 2,
+          "original_roster_id": 7,
+          "original_team": "DatTightDik",
+          "is_own": false
+        },
+        {
+          "season": "2028",
+          "round": 1,
+          "original_roster_id": 1,
+          "original_team": "TheMightyKites",
+          "is_own": true
+        },
+        {
+          "season": "2028",
+          "round": 2,
+          "original_roster_id": 1,
+          "original_team": "TheMightyKites",
+          "is_own": true
+        },
+        {
+          "season": "2029",
+          "round": 1,
+          "original_roster_id": 1,
+          "original_team": "TheMightyKites",
+          "is_own": true
+        },
+        {
+          "season": "2029",
+          "round": 2,
+          "original_roster_id": 1,
+          "original_team": "TheMightyKites",
+          "is_own": true
+        }
+      ]
     },
     {
       "roster_id": 2,
@@ -553,6 +669,64 @@
           "position": "RB",
           "team": "DAL"
         }
+      ],
+      "picks": [
+        {
+          "season": "2026",
+          "round": 1,
+          "original_roster_id": 2,
+          "original_team": "Chosen Sentinels ",
+          "is_own": true
+        },
+        {
+          "season": "2026",
+          "round": 2,
+          "original_roster_id": 2,
+          "original_team": "Chosen Sentinels ",
+          "is_own": true
+        },
+        {
+          "season": "2027",
+          "round": 2,
+          "original_roster_id": 2,
+          "original_team": "Chosen Sentinels ",
+          "is_own": true
+        },
+        {
+          "season": "2027",
+          "round": 2,
+          "original_roster_id": 3,
+          "original_team": "Diamond Dogs",
+          "is_own": false
+        },
+        {
+          "season": "2028",
+          "round": 1,
+          "original_roster_id": 2,
+          "original_team": "Chosen Sentinels ",
+          "is_own": true
+        },
+        {
+          "season": "2028",
+          "round": 2,
+          "original_roster_id": 2,
+          "original_team": "Chosen Sentinels ",
+          "is_own": true
+        },
+        {
+          "season": "2029",
+          "round": 1,
+          "original_roster_id": 2,
+          "original_team": "Chosen Sentinels ",
+          "is_own": true
+        },
+        {
+          "season": "2029",
+          "round": 2,
+          "original_roster_id": 2,
+          "original_team": "Chosen Sentinels ",
+          "is_own": true
+        }
       ]
     },
     {
@@ -617,6 +791,12 @@
       ],
       "bench": [
         {
+          "player_id": "11625",
+          "name": "Adonai Mitchell",
+          "position": "WR",
+          "team": "NYJ"
+        },
+        {
           "player_id": "12048",
           "name": "George Holani",
           "position": "RB",
@@ -639,12 +819,6 @@
           "name": "Makai Lemon",
           "position": "WR",
           "team": "PHI"
-        },
-        {
-          "player_id": "5844",
-          "name": "T.J. Hockenson",
-          "position": "TE",
-          "team": "MIN"
         }
       ],
       "taxi": [
@@ -669,12 +843,6 @@
       ],
       "reserve": [
         {
-          "player_id": "11625",
-          "name": "Adonai Mitchell",
-          "position": "WR",
-          "team": "NYJ"
-        },
-        {
           "player_id": "12529",
           "name": "TreVeyon Henderson",
           "position": "RB",
@@ -685,6 +853,98 @@
           "name": "Jordyn Tyson",
           "position": "WR",
           "team": "NO"
+        },
+        {
+          "player_id": "5844",
+          "name": "T.J. Hockenson",
+          "position": "TE",
+          "team": "MIN"
+        }
+      ],
+      "picks": [
+        {
+          "season": "2026",
+          "round": 1,
+          "original_roster_id": 3,
+          "original_team": "Diamond Dogs",
+          "is_own": true
+        },
+        {
+          "season": "2026",
+          "round": 2,
+          "original_roster_id": 3,
+          "original_team": "Diamond Dogs",
+          "is_own": true
+        },
+        {
+          "season": "2026",
+          "round": 2,
+          "original_roster_id": 10,
+          "original_team": "Tuten & Bootin’",
+          "is_own": false
+        },
+        {
+          "season": "2027",
+          "round": 1,
+          "original_roster_id": 17,
+          "original_team": "chane broken",
+          "is_own": false
+        },
+        {
+          "season": "2028",
+          "round": 1,
+          "original_roster_id": 3,
+          "original_team": "Diamond Dogs",
+          "is_own": true
+        },
+        {
+          "season": "2028",
+          "round": 1,
+          "original_roster_id": 4,
+          "original_team": "Trade Federation",
+          "is_own": false
+        },
+        {
+          "season": "2028",
+          "round": 1,
+          "original_roster_id": 13,
+          "original_team": "The X Factors",
+          "is_own": false
+        },
+        {
+          "season": "2028",
+          "round": 2,
+          "original_roster_id": 3,
+          "original_team": "Diamond Dogs",
+          "is_own": true
+        },
+        {
+          "season": "2028",
+          "round": 2,
+          "original_roster_id": 11,
+          "original_team": "Last Place",
+          "is_own": false
+        },
+        {
+          "season": "2029",
+          "round": 1,
+          "original_roster_id": 3,
+          "original_team": "Diamond Dogs",
+          "is_own": true
+        },
+        {
+          "season": "2029",
+          "round": 1,
+          "original_roster_id": 4,
+          "original_team": "Trade Federation",
+          "is_own": false
+        },
+        {
+          "season": "2029",
+          "round": 2,
+          "original_roster_id": 3,
+          "original_team": "Diamond Dogs",
+          "is_own": true
         }
       ]
     },
@@ -800,6 +1060,56 @@
           "name": "Jadarian Price",
           "position": "RB",
           "team": "SEA"
+        },
+        {
+          "player_id": "8205",
+          "name": "Isiah Pacheco",
+          "position": "RB",
+          "team": "DET"
+        }
+      ],
+      "picks": [
+        {
+          "season": "2026",
+          "round": 1,
+          "original_roster_id": 4,
+          "original_team": "Trade Federation",
+          "is_own": true
+        },
+        {
+          "season": "2026",
+          "round": 1,
+          "original_roster_id": 11,
+          "original_team": "Last Place",
+          "is_own": false
+        },
+        {
+          "season": "2027",
+          "round": 2,
+          "original_roster_id": 4,
+          "original_team": "Trade Federation",
+          "is_own": true
+        },
+        {
+          "season": "2027",
+          "round": 2,
+          "original_roster_id": 13,
+          "original_team": "The X Factors",
+          "is_own": false
+        },
+        {
+          "season": "2028",
+          "round": 2,
+          "original_roster_id": 4,
+          "original_team": "Trade Federation",
+          "is_own": true
+        },
+        {
+          "season": "2029",
+          "round": 2,
+          "original_roster_id": 4,
+          "original_team": "Trade Federation",
+          "is_own": true
         }
       ]
     },
@@ -928,6 +1238,71 @@
           "position": "WR",
           "team": "SF"
         }
+      ],
+      "picks": [
+        {
+          "season": "2026",
+          "round": 1,
+          "original_roster_id": 5,
+          "original_team": "The Jersey Syndicate",
+          "is_own": true
+        },
+        {
+          "season": "2026",
+          "round": 2,
+          "original_roster_id": 5,
+          "original_team": "The Jersey Syndicate",
+          "is_own": true
+        },
+        {
+          "season": "2027",
+          "round": 1,
+          "original_roster_id": 1,
+          "original_team": "TheMightyKites",
+          "is_own": false
+        },
+        {
+          "season": "2027",
+          "round": 1,
+          "original_roster_id": 5,
+          "original_team": "The Jersey Syndicate",
+          "is_own": true
+        },
+        {
+          "season": "2027",
+          "round": 2,
+          "original_roster_id": 5,
+          "original_team": "The Jersey Syndicate",
+          "is_own": true
+        },
+        {
+          "season": "2028",
+          "round": 1,
+          "original_roster_id": 5,
+          "original_team": "The Jersey Syndicate",
+          "is_own": true
+        },
+        {
+          "season": "2028",
+          "round": 2,
+          "original_roster_id": 5,
+          "original_team": "The Jersey Syndicate",
+          "is_own": true
+        },
+        {
+          "season": "2029",
+          "round": 1,
+          "original_roster_id": 5,
+          "original_team": "The Jersey Syndicate",
+          "is_own": true
+        },
+        {
+          "season": "2029",
+          "round": 2,
+          "original_roster_id": 5,
+          "original_team": "The Jersey Syndicate",
+          "is_own": true
+        }
       ]
     },
     {
@@ -1049,6 +1424,64 @@
           "position": "RB",
           "team": "SEA"
         }
+      ],
+      "picks": [
+        {
+          "season": "2026",
+          "round": 1,
+          "original_roster_id": 6,
+          "original_team": "COMMANDO Squad",
+          "is_own": true
+        },
+        {
+          "season": "2026",
+          "round": 2,
+          "original_roster_id": 17,
+          "original_team": "chane broken",
+          "is_own": false
+        },
+        {
+          "season": "2027",
+          "round": 1,
+          "original_roster_id": 6,
+          "original_team": "COMMANDO Squad",
+          "is_own": true
+        },
+        {
+          "season": "2027",
+          "round": 2,
+          "original_roster_id": 6,
+          "original_team": "COMMANDO Squad",
+          "is_own": true
+        },
+        {
+          "season": "2028",
+          "round": 1,
+          "original_roster_id": 6,
+          "original_team": "COMMANDO Squad",
+          "is_own": true
+        },
+        {
+          "season": "2028",
+          "round": 2,
+          "original_roster_id": 6,
+          "original_team": "COMMANDO Squad",
+          "is_own": true
+        },
+        {
+          "season": "2029",
+          "round": 1,
+          "original_roster_id": 6,
+          "original_team": "COMMANDO Squad",
+          "is_own": true
+        },
+        {
+          "season": "2029",
+          "round": 2,
+          "original_roster_id": 6,
+          "original_team": "COMMANDO Squad",
+          "is_own": true
+        }
       ]
     },
     {
@@ -1113,16 +1546,16 @@
       ],
       "bench": [
         {
-          "player_id": "11575",
-          "name": "Ray Davis",
-          "position": "RB",
-          "team": "BUF"
-        },
-        {
           "player_id": "11635",
           "name": "Ladd McConkey",
           "position": "WR",
           "team": "LAC"
+        },
+        {
+          "player_id": "7049",
+          "name": "Jauan Jennings",
+          "position": "WR",
+          "team": "MIN"
         },
         {
           "player_id": "9756",
@@ -1175,6 +1608,50 @@
           "name": "Alec Pierce",
           "position": "WR",
           "team": "IND"
+        }
+      ],
+      "picks": [
+        {
+          "season": "2026",
+          "round": 1,
+          "original_roster_id": 7,
+          "original_team": "DatTightDik",
+          "is_own": true
+        },
+        {
+          "season": "2026",
+          "round": 2,
+          "original_roster_id": 7,
+          "original_team": "DatTightDik",
+          "is_own": true
+        },
+        {
+          "season": "2028",
+          "round": 1,
+          "original_roster_id": 7,
+          "original_team": "DatTightDik",
+          "is_own": true
+        },
+        {
+          "season": "2028",
+          "round": 2,
+          "original_roster_id": 7,
+          "original_team": "DatTightDik",
+          "is_own": true
+        },
+        {
+          "season": "2029",
+          "round": 1,
+          "original_roster_id": 7,
+          "original_team": "DatTightDik",
+          "is_own": true
+        },
+        {
+          "season": "2029",
+          "round": 2,
+          "original_roster_id": 7,
+          "original_team": "DatTightDik",
+          "is_own": true
         }
       ]
     },
@@ -1303,6 +1780,64 @@
           "position": "WR",
           "team": "NE"
         }
+      ],
+      "picks": [
+        {
+          "season": "2026",
+          "round": 1,
+          "original_roster_id": 8,
+          "original_team": "Welcome to the Gulag ",
+          "is_own": true
+        },
+        {
+          "season": "2026",
+          "round": 2,
+          "original_roster_id": 8,
+          "original_team": "Welcome to the Gulag ",
+          "is_own": true
+        },
+        {
+          "season": "2027",
+          "round": 1,
+          "original_roster_id": 8,
+          "original_team": "Welcome to the Gulag ",
+          "is_own": true
+        },
+        {
+          "season": "2027",
+          "round": 2,
+          "original_roster_id": 8,
+          "original_team": "Welcome to the Gulag ",
+          "is_own": true
+        },
+        {
+          "season": "2028",
+          "round": 1,
+          "original_roster_id": 8,
+          "original_team": "Welcome to the Gulag ",
+          "is_own": true
+        },
+        {
+          "season": "2028",
+          "round": 2,
+          "original_roster_id": 8,
+          "original_team": "Welcome to the Gulag ",
+          "is_own": true
+        },
+        {
+          "season": "2029",
+          "round": 1,
+          "original_roster_id": 8,
+          "original_team": "Welcome to the Gulag ",
+          "is_own": true
+        },
+        {
+          "season": "2029",
+          "round": 2,
+          "original_roster_id": 8,
+          "original_team": "Welcome to the Gulag ",
+          "is_own": true
+        }
       ]
     },
     {
@@ -1418,6 +1953,78 @@
           "position": "TE",
           "team": "LAR"
         }
+      ],
+      "picks": [
+        {
+          "season": "2026",
+          "round": 2,
+          "original_roster_id": 4,
+          "original_team": "Trade Federation",
+          "is_own": false
+        },
+        {
+          "season": "2026",
+          "round": 2,
+          "original_roster_id": 9,
+          "original_team": "The Rusty Trombones",
+          "is_own": true
+        },
+        {
+          "season": "2027",
+          "round": 1,
+          "original_roster_id": 9,
+          "original_team": "The Rusty Trombones",
+          "is_own": true
+        },
+        {
+          "season": "2027",
+          "round": 2,
+          "original_roster_id": 9,
+          "original_team": "The Rusty Trombones",
+          "is_own": true
+        },
+        {
+          "season": "2027",
+          "round": 2,
+          "original_roster_id": 11,
+          "original_team": "Last Place",
+          "is_own": false
+        },
+        {
+          "season": "2028",
+          "round": 1,
+          "original_roster_id": 9,
+          "original_team": "The Rusty Trombones",
+          "is_own": true
+        },
+        {
+          "season": "2028",
+          "round": 1,
+          "original_roster_id": 17,
+          "original_team": "chane broken",
+          "is_own": false
+        },
+        {
+          "season": "2028",
+          "round": 2,
+          "original_roster_id": 9,
+          "original_team": "The Rusty Trombones",
+          "is_own": true
+        },
+        {
+          "season": "2029",
+          "round": 1,
+          "original_roster_id": 9,
+          "original_team": "The Rusty Trombones",
+          "is_own": true
+        },
+        {
+          "season": "2029",
+          "round": 2,
+          "original_roster_id": 9,
+          "original_team": "The Rusty Trombones",
+          "is_own": true
+        }
       ]
     },
     {
@@ -1482,6 +2089,18 @@
       ],
       "bench": [
         {
+          "player_id": "12491",
+          "name": "Corey Kiner",
+          "position": "RB",
+          "team": "NE"
+        },
+        {
+          "player_id": "12505",
+          "name": "Jalen Royals",
+          "position": "WR",
+          "team": "KC"
+        },
+        {
           "player_id": "13414",
           "name": "Kaelon Black",
           "position": "RB",
@@ -1538,6 +2157,43 @@
           "name": "Rico Dowdle",
           "position": "RB",
           "team": "PIT"
+        }
+      ],
+      "picks": [
+        {
+          "season": "2026",
+          "round": 1,
+          "original_roster_id": 10,
+          "original_team": "Tuten & Bootin’",
+          "is_own": true
+        },
+        {
+          "season": "2026",
+          "round": 1,
+          "original_roster_id": 13,
+          "original_team": "The X Factors",
+          "is_own": false
+        },
+        {
+          "season": "2028",
+          "round": 1,
+          "original_roster_id": 10,
+          "original_team": "Tuten & Bootin’",
+          "is_own": true
+        },
+        {
+          "season": "2029",
+          "round": 1,
+          "original_roster_id": 10,
+          "original_team": "Tuten & Bootin’",
+          "is_own": true
+        },
+        {
+          "season": "2029",
+          "round": 2,
+          "original_roster_id": 10,
+          "original_team": "Tuten & Bootin’",
+          "is_own": true
         }
       ]
     },
@@ -1659,6 +2315,99 @@
           "name": "Tank Dell",
           "position": "WR",
           "team": "HOU"
+        }
+      ],
+      "picks": [
+        {
+          "season": "2026",
+          "round": 1,
+          "original_roster_id": 9,
+          "original_team": "The Rusty Trombones",
+          "is_own": false
+        },
+        {
+          "season": "2027",
+          "round": 1,
+          "original_roster_id": 2,
+          "original_team": "Chosen Sentinels ",
+          "is_own": false
+        },
+        {
+          "season": "2027",
+          "round": 1,
+          "original_roster_id": 3,
+          "original_team": "Diamond Dogs",
+          "is_own": false
+        },
+        {
+          "season": "2027",
+          "round": 1,
+          "original_roster_id": 4,
+          "original_team": "Trade Federation",
+          "is_own": false
+        },
+        {
+          "season": "2027",
+          "round": 1,
+          "original_roster_id": 7,
+          "original_team": "DatTightDik",
+          "is_own": false
+        },
+        {
+          "season": "2027",
+          "round": 1,
+          "original_roster_id": 10,
+          "original_team": "Tuten & Bootin’",
+          "is_own": false
+        },
+        {
+          "season": "2027",
+          "round": 1,
+          "original_roster_id": 11,
+          "original_team": "Last Place",
+          "is_own": true
+        },
+        {
+          "season": "2027",
+          "round": 1,
+          "original_roster_id": 13,
+          "original_team": "The X Factors",
+          "is_own": false
+        },
+        {
+          "season": "2027",
+          "round": 1,
+          "original_roster_id": 14,
+          "original_team": "nickdemarinis",
+          "is_own": false
+        },
+        {
+          "season": "2027",
+          "round": 1,
+          "original_roster_id": 18,
+          "original_team": "Eyes On The Prize McBride",
+          "is_own": false
+        },
+        {
+          "season": "2028",
+          "round": 1,
+          "original_roster_id": 11,
+          "original_team": "Last Place",
+          "is_own": true
+        },
+        {
+          "season": "2029",
+          "round": 1,
+          "original_roster_id": 11,
+          "original_team": "Last Place",
+          "is_own": true
+        },
+        {
+          "season": "2029",
+          "round": 2,
+          "original_roster_id": 11,
+          "original_team": "Last Place",
+          "is_own": true
         }
       ]
     },
@@ -1793,6 +2542,64 @@
           "position": "WR",
           "team": "SF"
         }
+      ],
+      "picks": [
+        {
+          "season": "2026",
+          "round": 1,
+          "original_roster_id": 12,
+          "original_team": "Big Willie Style ",
+          "is_own": true
+        },
+        {
+          "season": "2026",
+          "round": 2,
+          "original_roster_id": 12,
+          "original_team": "Big Willie Style ",
+          "is_own": true
+        },
+        {
+          "season": "2027",
+          "round": 1,
+          "original_roster_id": 12,
+          "original_team": "Big Willie Style ",
+          "is_own": true
+        },
+        {
+          "season": "2027",
+          "round": 2,
+          "original_roster_id": 12,
+          "original_team": "Big Willie Style ",
+          "is_own": true
+        },
+        {
+          "season": "2028",
+          "round": 1,
+          "original_roster_id": 12,
+          "original_team": "Big Willie Style ",
+          "is_own": true
+        },
+        {
+          "season": "2028",
+          "round": 2,
+          "original_roster_id": 12,
+          "original_team": "Big Willie Style ",
+          "is_own": true
+        },
+        {
+          "season": "2029",
+          "round": 1,
+          "original_roster_id": 12,
+          "original_team": "Big Willie Style ",
+          "is_own": true
+        },
+        {
+          "season": "2029",
+          "round": 2,
+          "original_roster_id": 12,
+          "original_team": "Big Willie Style ",
+          "is_own": true
+        }
       ]
     },
     {
@@ -1819,10 +2626,10 @@
           "team": "NYG"
         },
         {
-          "player_id": "5872",
-          "name": "Deebo Samuel",
+          "player_id": "8126",
+          "name": "Wan'Dale Robinson",
           "position": "WR",
-          "team": "SF"
+          "team": "TEN"
         },
         {
           "player_id": "7525",
@@ -1837,10 +2644,10 @@
           "team": "LV"
         },
         {
-          "player_id": "8126",
-          "name": "Wan'Dale Robinson",
-          "position": "WR",
-          "team": "TEN"
+          "player_id": "11439",
+          "name": "Jaleel McLaughlin",
+          "position": "RB",
+          "team": "CLE"
         },
         {
           "player_id": "1466",
@@ -1857,12 +2664,6 @@
       ],
       "bench": [
         {
-          "player_id": "11237",
-          "name": "Jacob Saylors",
-          "position": "RB",
-          "team": "DET"
-        },
-        {
           "player_id": "13288",
           "name": "Nicholas Singleton",
           "position": "RB",
@@ -1873,6 +2674,12 @@
           "name": "Jalon Daniels",
           "position": "QB",
           "team": "TB"
+        },
+        {
+          "player_id": "5872",
+          "name": "Deebo Samuel",
+          "position": "WR",
+          "team": "SF"
         },
         {
           "player_id": "9224",
@@ -1925,6 +2732,43 @@
           "name": "Chris Brazzell",
           "position": "WR",
           "team": "CAR"
+        }
+      ],
+      "picks": [
+        {
+          "season": "2026",
+          "round": 2,
+          "original_roster_id": 13,
+          "original_team": "The X Factors",
+          "is_own": true
+        },
+        {
+          "season": "2028",
+          "round": 2,
+          "original_roster_id": 10,
+          "original_team": "Tuten & Bootin’",
+          "is_own": false
+        },
+        {
+          "season": "2028",
+          "round": 2,
+          "original_roster_id": 13,
+          "original_team": "The X Factors",
+          "is_own": true
+        },
+        {
+          "season": "2029",
+          "round": 1,
+          "original_roster_id": 13,
+          "original_team": "The X Factors",
+          "is_own": true
+        },
+        {
+          "season": "2029",
+          "round": 2,
+          "original_roster_id": 13,
+          "original_team": "The X Factors",
+          "is_own": true
         }
       ]
     },
@@ -2041,6 +2885,78 @@
           "position": "WR",
           "team": "GB"
         }
+      ],
+      "picks": [
+        {
+          "season": "2026",
+          "round": 1,
+          "original_roster_id": 14,
+          "original_team": "nickdemarinis",
+          "is_own": true
+        },
+        {
+          "season": "2026",
+          "round": 2,
+          "original_roster_id": 11,
+          "original_team": "Last Place",
+          "is_own": false
+        },
+        {
+          "season": "2026",
+          "round": 2,
+          "original_roster_id": 14,
+          "original_team": "nickdemarinis",
+          "is_own": true
+        },
+        {
+          "season": "2027",
+          "round": 2,
+          "original_roster_id": 10,
+          "original_team": "Tuten & Bootin’",
+          "is_own": false
+        },
+        {
+          "season": "2027",
+          "round": 2,
+          "original_roster_id": 14,
+          "original_team": "nickdemarinis",
+          "is_own": true
+        },
+        {
+          "season": "2027",
+          "round": 2,
+          "original_roster_id": 15,
+          "original_team": "Shake & Bake",
+          "is_own": false
+        },
+        {
+          "season": "2028",
+          "round": 1,
+          "original_roster_id": 14,
+          "original_team": "nickdemarinis",
+          "is_own": true
+        },
+        {
+          "season": "2028",
+          "round": 2,
+          "original_roster_id": 14,
+          "original_team": "nickdemarinis",
+          "is_own": true
+        },
+        {
+          "season": "2029",
+          "round": 1,
+          "original_roster_id": 14,
+          "original_team": "nickdemarinis",
+          "is_own": true
+        },
+        {
+          "season": "2029",
+          "round": 2,
+          "original_roster_id": 14,
+          "original_team": "nickdemarinis",
+          "is_own": true
+        }
       ]
     },
     {
@@ -2111,6 +3027,18 @@
           "team": "DET"
         },
         {
+          "player_id": "4066",
+          "name": "Evan Engram",
+          "position": "TE",
+          "team": "DEN"
+        },
+        {
+          "player_id": "6039",
+          "name": "Ty Johnson",
+          "position": "RB",
+          "team": "BUF"
+        },
+        {
           "player_id": "8161",
           "name": "Malik Willis",
           "position": "QB",
@@ -2156,6 +3084,57 @@
           "position": "WR",
           "team": "WAS"
         }
+      ],
+      "picks": [
+        {
+          "season": "2026",
+          "round": 1,
+          "original_roster_id": 15,
+          "original_team": "Shake & Bake",
+          "is_own": true
+        },
+        {
+          "season": "2026",
+          "round": 2,
+          "original_roster_id": 15,
+          "original_team": "Shake & Bake",
+          "is_own": true
+        },
+        {
+          "season": "2027",
+          "round": 1,
+          "original_roster_id": 15,
+          "original_team": "Shake & Bake",
+          "is_own": true
+        },
+        {
+          "season": "2028",
+          "round": 1,
+          "original_roster_id": 15,
+          "original_team": "Shake & Bake",
+          "is_own": true
+        },
+        {
+          "season": "2028",
+          "round": 2,
+          "original_roster_id": 15,
+          "original_team": "Shake & Bake",
+          "is_own": true
+        },
+        {
+          "season": "2029",
+          "round": 1,
+          "original_roster_id": 15,
+          "original_team": "Shake & Bake",
+          "is_own": true
+        },
+        {
+          "season": "2029",
+          "round": 2,
+          "original_roster_id": 15,
+          "original_team": "Shake & Bake",
+          "is_own": true
+        }
       ]
     },
     {
@@ -2188,10 +3167,10 @@
           "team": "LAR"
         },
         {
-          "player_id": "8121",
-          "name": "Romeo Doubs",
+          "player_id": "10229",
+          "name": "Rashee Rice",
           "position": "WR",
-          "team": "NE"
+          "team": "KC"
         },
         {
           "player_id": "4217",
@@ -2220,18 +3199,6 @@
       ],
       "bench": [
         {
-          "player_id": "10229",
-          "name": "Rashee Rice",
-          "position": "WR",
-          "team": "KC"
-        },
-        {
-          "player_id": "11630",
-          "name": "Roman Wilson",
-          "position": "WR",
-          "team": "PIT"
-        },
-        {
           "player_id": "12718",
           "name": "Konata Mumpfield",
           "position": "WR",
@@ -2242,6 +3209,12 @@
           "name": "Geno Smith",
           "position": "QB",
           "team": "NYJ"
+        },
+        {
+          "player_id": "8121",
+          "name": "Romeo Doubs",
+          "position": "WR",
+          "team": "NE"
         },
         {
           "player_id": "8129",
@@ -2278,10 +3251,74 @@
           "team": "TB"
         },
         {
+          "player_id": "11630",
+          "name": "Roman Wilson",
+          "position": "WR",
+          "team": "PIT"
+        },
+        {
           "player_id": "8698",
           "name": "Jake Tonges",
           "position": "TE",
           "team": "SF"
+        }
+      ],
+      "picks": [
+        {
+          "season": "2026",
+          "round": 1,
+          "original_roster_id": 16,
+          "original_team": "The Superb Owls",
+          "is_own": true
+        },
+        {
+          "season": "2026",
+          "round": 2,
+          "original_roster_id": 16,
+          "original_team": "The Superb Owls",
+          "is_own": true
+        },
+        {
+          "season": "2027",
+          "round": 1,
+          "original_roster_id": 16,
+          "original_team": "The Superb Owls",
+          "is_own": true
+        },
+        {
+          "season": "2027",
+          "round": 2,
+          "original_roster_id": 16,
+          "original_team": "The Superb Owls",
+          "is_own": true
+        },
+        {
+          "season": "2028",
+          "round": 1,
+          "original_roster_id": 16,
+          "original_team": "The Superb Owls",
+          "is_own": true
+        },
+        {
+          "season": "2028",
+          "round": 2,
+          "original_roster_id": 16,
+          "original_team": "The Superb Owls",
+          "is_own": true
+        },
+        {
+          "season": "2029",
+          "round": 1,
+          "original_roster_id": 16,
+          "original_team": "The Superb Owls",
+          "is_own": true
+        },
+        {
+          "season": "2029",
+          "round": 2,
+          "original_roster_id": 16,
+          "original_team": "The Superb Owls",
+          "is_own": true
         }
       ]
     },
@@ -2353,6 +3390,12 @@
           "team": "TEN"
         },
         {
+          "player_id": "13293",
+          "name": "Ja'Kobi Lane",
+          "position": "WR",
+          "team": "BAL"
+        },
+        {
           "player_id": "13330",
           "name": "Kenyon Sadiq",
           "position": "TE",
@@ -2369,12 +3412,6 @@
           "name": "Jordan Love",
           "position": "QB",
           "team": "GB"
-        },
-        {
-          "player_id": "7543",
-          "name": "Travis Etienne",
-          "position": "RB",
-          "team": "NO"
         }
       ],
       "taxi": [
@@ -2393,22 +3430,66 @@
       ],
       "reserve": [
         {
-          "player_id": "13293",
-          "name": "Ja'Kobi Lane",
-          "position": "WR",
-          "team": "BAL"
-        },
-        {
           "player_id": "13349",
           "name": "Eli Stowers",
           "position": "TE",
           "team": "PHI"
         },
         {
+          "player_id": "7543",
+          "name": "Travis Etienne",
+          "position": "RB",
+          "team": "NO"
+        },
+        {
           "player_id": "9226",
           "name": "De'Von Achane",
           "position": "RB",
           "team": "MIA"
+        }
+      ],
+      "picks": [
+        {
+          "season": "2026",
+          "round": 1,
+          "original_roster_id": 17,
+          "original_team": "chane broken",
+          "is_own": true
+        },
+        {
+          "season": "2026",
+          "round": 2,
+          "original_roster_id": 6,
+          "original_team": "COMMANDO Squad",
+          "is_own": false
+        },
+        {
+          "season": "2027",
+          "round": 2,
+          "original_roster_id": 17,
+          "original_team": "chane broken",
+          "is_own": true
+        },
+        {
+          "season": "2028",
+          "round": 2,
+          "original_roster_id": 17,
+          "original_team": "chane broken",
+          "is_own": true
+        },
+        {
+          "season": "2029",
+          "round": 1,
+          "original_roster_id": 17,
+          "original_team": "chane broken",
+          "is_own": true
+        },
+        {
+          "season": "2029",
+          "round": 2,
+          "original_roster_id": 17,
+          "original_team": "chane broken",
+          "is_own": true
         }
       ]
     },
@@ -2454,16 +3535,16 @@
           "team": "ARI"
         },
         {
-          "player_id": "5857",
-          "name": "Noah Fant",
-          "position": "TE",
-          "team": "NO"
+          "player_id": "2197",
+          "name": "Brandin Cooks",
+          "position": "WR",
+          "team": "SF"
         },
         {
-          "player_id": "12493",
-          "name": "Oronde Gadsden",
-          "position": "TE",
-          "team": "LAC"
+          "player_id": "7039",
+          "name": "Cody White",
+          "position": "WR",
+          "team": "LV"
         },
         {
           "player_id": "9228",
@@ -2474,10 +3555,22 @@
       ],
       "bench": [
         {
+          "player_id": "12493",
+          "name": "Oronde Gadsden",
+          "position": "TE",
+          "team": "LAC"
+        },
+        {
           "player_id": "12534",
           "name": "Kyle Monangai",
           "position": "RB",
           "team": "CHI"
+        },
+        {
+          "player_id": "5857",
+          "name": "Noah Fant",
+          "position": "TE",
+          "team": "NO"
         },
         {
           "player_id": "6770",
@@ -2524,12 +3617,57 @@
           "name": "Michael Pittman",
           "position": "WR",
           "team": "PIT"
+        }
+      ],
+      "picks": [
+        {
+          "season": "2026",
+          "round": 1,
+          "original_roster_id": 18,
+          "original_team": "Eyes On The Prize McBride",
+          "is_own": true
         },
         {
-          "player_id": "8188",
-          "name": "Tyquan Thornton",
-          "position": "WR",
-          "team": "KC"
+          "season": "2026",
+          "round": 2,
+          "original_roster_id": 18,
+          "original_team": "Eyes On The Prize McBride",
+          "is_own": true
+        },
+        {
+          "season": "2027",
+          "round": 2,
+          "original_roster_id": 18,
+          "original_team": "Eyes On The Prize McBride",
+          "is_own": true
+        },
+        {
+          "season": "2028",
+          "round": 1,
+          "original_roster_id": 18,
+          "original_team": "Eyes On The Prize McBride",
+          "is_own": true
+        },
+        {
+          "season": "2028",
+          "round": 2,
+          "original_roster_id": 18,
+          "original_team": "Eyes On The Prize McBride",
+          "is_own": true
+        },
+        {
+          "season": "2029",
+          "round": 1,
+          "original_roster_id": 18,
+          "original_team": "Eyes On The Prize McBride",
+          "is_own": true
+        },
+        {
+          "season": "2029",
+          "round": 2,
+          "original_roster_id": 18,
+          "original_team": "Eyes On The Prize McBride",
+          "is_own": true
         }
       ]
     }
