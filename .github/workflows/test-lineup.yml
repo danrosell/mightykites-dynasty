@@ -4,6 +4,8 @@ on:
     paths:
       - "src/analysis/**"
       - "tests/**"
+      - "netlify/functions/**"
+      - "netlify/functions/**"
       - ".github/workflows/test-lineup.yml"
   pull_request:
     paths:
@@ -20,4 +22,5 @@ jobs:
       - uses: actions/setup-node@v4
         with:
           node-version: "22"
+      - run: node --check netlify/functions/league.mjs
       - run: node --test tests/*.test.mjs
