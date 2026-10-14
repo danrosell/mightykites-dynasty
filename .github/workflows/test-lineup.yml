@@ -5,12 +5,12 @@ on:
       - "src/analysis/**"
       - "tests/**"
       - "netlify/functions/**"
-      - "netlify/functions/**"
       - ".github/workflows/test-lineup.yml"
   pull_request:
     paths:
       - "src/analysis/**"
       - "tests/**"
+      - "netlify/functions/**"
       - ".github/workflows/test-lineup.yml"
 permissions:
   contents: read
