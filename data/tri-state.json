@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-14T01:58:44.922Z",
+  "generated_at": "2026-10-14T07:46:08.674Z",
   "source": "Sleeper public API",
   "username": "TheMightyKites",
   "nfl_week": 6,
@@ -57,7 +57,7 @@
       "trade_review_days": 0,
       "bench_lock": 0,
       "offseason_adds": 1,
-      "leg": 5,
+      "leg": 6,
       "reserve_slots": 3,
       "reserve_allow_cov": 1,
       "daily_waivers_last_ran": 13
@@ -430,10 +430,10 @@
       "rank": 5,
       "starters": [
         {
-          "player_id": "3257",
-          "name": "Jacoby Brissett",
+          "player_id": "4881",
+          "name": "Lamar Jackson",
           "position": "QB",
-          "team": "ARI"
+          "team": "BAL"
         },
         {
           "player_id": "12481",
@@ -460,10 +460,10 @@
           "team": "DEN"
         },
         {
-          "player_id": "6783",
-          "name": "Jerry Jeudy",
+          "player_id": "4037",
+          "name": "Chris Godwin",
           "position": "WR",
-          "team": "CLE"
+          "team": "TB"
         },
         {
           "player_id": "8130",
@@ -472,30 +472,30 @@
           "team": "ARI"
         },
         {
+          "player_id": "11581",
+          "name": "MarShawn Lloyd",
+          "position": "RB",
+          "team": "GB"
+        },
+        {
+          "player_id": "3257",
+          "name": "Jacoby Brissett",
+          "position": "QB",
+          "team": "ARI"
+        }
+      ],
+      "bench": [
+        {
           "player_id": "11435",
           "name": "Emanuel Wilson",
           "position": "RB",
           "team": "SEA"
         },
         {
-          "player_id": "8161",
-          "name": "Malik Willis",
-          "position": "QB",
-          "team": "MIA"
-        }
-      ],
-      "bench": [
-        {
           "player_id": "11575",
           "name": "Ray Davis",
           "position": "RB",
           "team": "BUF"
-        },
-        {
-          "player_id": "11581",
-          "name": "MarShawn Lloyd",
-          "position": "RB",
-          "team": "GB"
         },
         {
           "player_id": "11592",
@@ -528,22 +528,16 @@
           "team": "LAR"
         },
         {
-          "player_id": "4037",
-          "name": "Chris Godwin",
-          "position": "WR",
-          "team": "TB"
-        },
-        {
-          "player_id": "4881",
-          "name": "Lamar Jackson",
-          "position": "QB",
-          "team": "BAL"
-        },
-        {
           "player_id": "5012",
           "name": "Mark Andrews",
           "position": "TE",
           "team": "BAL"
+        },
+        {
+          "player_id": "6783",
+          "name": "Jerry Jeudy",
+          "position": "WR",
+          "team": "CLE"
         },
         {
           "player_id": "6803",
@@ -568,6 +562,12 @@
           "name": "Rachaad White",
           "position": "RB",
           "team": "WAS"
+        },
+        {
+          "player_id": "8161",
+          "name": "Malik Willis",
+          "position": "QB",
+          "team": "MIA"
         },
         {
           "player_id": "9506",

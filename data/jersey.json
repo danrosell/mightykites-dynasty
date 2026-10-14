@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-14T01:58:43.736Z",
+  "generated_at": "2026-10-14T07:46:07.572Z",
   "source": "Sleeper public API",
   "username": "TheMightyKites",
   "nfl_week": 6,
@@ -54,7 +54,7 @@
       "trade_review_days": 0,
       "bench_lock": 0,
       "offseason_adds": 1,
-      "leg": 5,
+      "leg": 6,
       "reserve_slots": 2,
       "reserve_allow_cov": 0,
       "daily_waivers_last_ran": 13
@@ -1084,10 +1084,10 @@
           "team": "IND"
         },
         {
-          "player_id": "10859",
-          "name": "Sam LaPorta",
+          "player_id": "2505",
+          "name": "Darren Waller",
           "position": "TE",
-          "team": "DET"
+          "team": "CAR"
         },
         {
           "player_id": "12490",
@@ -1096,13 +1096,19 @@
           "team": "JAX"
         },
         {
-          "player_id": "12489",
-          "name": "RJ Harvey",
+          "player_id": "11581",
+          "name": "MarShawn Lloyd",
           "position": "RB",
-          "team": "DEN"
+          "team": "GB"
         }
       ],
       "bench": [
+        {
+          "player_id": "10859",
+          "name": "Sam LaPorta",
+          "position": "TE",
+          "team": "DET"
+        },
         {
           "player_id": "11577",
           "name": "Will Shipley",
@@ -1110,16 +1116,16 @@
           "team": "PHI"
         },
         {
-          "player_id": "11581",
-          "name": "MarShawn Lloyd",
-          "position": "RB",
-          "team": "GB"
-        },
-        {
           "player_id": "11600",
           "name": "Ja'Tavion Sanders",
           "position": "TE",
           "team": "CAR"
+        },
+        {
+          "player_id": "12489",
+          "name": "RJ Harvey",
+          "position": "RB",
+          "team": "DEN"
         },
         {
           "player_id": "12503",
@@ -1168,12 +1174,6 @@
           "name": "Jameis Winston",
           "position": "QB",
           "team": "NYG"
-        },
-        {
-          "player_id": "2505",
-          "name": "Darren Waller",
-          "position": "TE",
-          "team": "CAR"
         },
         {
           "player_id": "4351",
@@ -2481,10 +2481,10 @@
           "team": "ARI"
         },
         {
-          "player_id": "12495",
-          "name": "Ollie Gordon",
+          "player_id": "12507",
+          "name": "Omarion Hampton",
           "position": "RB",
-          "team": "MIA"
+          "team": "LAC"
         },
         {
           "player_id": "11632",
@@ -2511,10 +2511,10 @@
           "team": "NO"
         },
         {
-          "player_id": "12507",
-          "name": "Omarion Hampton",
-          "position": "RB",
-          "team": "LAC"
+          "player_id": "12506",
+          "name": "Harold Fannin",
+          "position": "TE",
+          "team": "CLE"
         },
         {
           "player_id": "8146",
@@ -2555,16 +2555,16 @@
           "team": "SF"
         },
         {
+          "player_id": "12495",
+          "name": "Ollie Gordon",
+          "position": "RB",
+          "team": "MIA"
+        },
+        {
           "player_id": "12502",
           "name": "Gunnar Helm",
           "position": "TE",
           "team": "TEN"
-        },
-        {
-          "player_id": "12506",
-          "name": "Harold Fannin",
-          "position": "TE",
-          "team": "CLE"
         },
         {
           "player_id": "12510",
