@@ -1,0 +1,10 @@
+import test from "node:test";
+import assert from "node:assert/strict";
+import {validateLineupInputs,scoreProjectedStats} from "../src/analysis/validation.mjs";
+const now=Date.parse("2026-10-14T12:00:00Z");
+const snapshot={league:{roster_positions:["WR","BN"]},my_team:{starters:[{player_id:"1",name:"Jaylen Waddle",team:"DEN",position:"WR"}],bench:[]}};
+const schedule={generated_at:"2026-10-14T11:00:00Z",games:[{home:"DEN",away:"KC",kickoff:"2026-10-18T20:00:00Z"}],players:{"1":{team:"DEN",position:"WR"}}};
+test("current team mapping beats stale former-team assumptions",()=>{const r=validateLineupInputs(snapshot,schedule,{now});assert.equal(r.ok,true);assert.equal(r.issues.some(x=>x.code==="BYE_OR_NO_GAME"),false)});
+test("team mismatch blocks recommendation",()=>{const r=validateLineupInputs(snapshot,{...schedule,players:{"1":{team:"MIA",position:"WR"}}},{now});assert.equal(r.ok,false);assert.ok(r.issues.some(x=>x.code==="TEAM_MISMATCH"))});
+test("missing independent feed blocks recommendation",()=>assert.equal(validateLineupInputs(snapshot,null,{now}).ok,false));
+test("custom TE premium is correctly calculated",()=>assert.equal(scoreProjectedStats({position:"TE",rec:5,rec_yd:50,rec_td:1},{rec:0.5,bonus_rec_te:1.25,rec_yd:0.1,rec_td:6}),19.75));
