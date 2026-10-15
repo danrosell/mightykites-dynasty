@@ -10,6 +10,7 @@ import json
 import os
 from pathlib import Path
 from urllib.request import Request, urlopen
+from player_crosswalk import build_crosswalk, join_direct_gsis, combine_verified
 
 API = "https://api.github.com/repos/nflverse/nflverse-data/releases/tags/stats_player"
 OUT = Path("data/historical-weekly.json")
@@ -127,17 +128,29 @@ def main():
           "overlapping IDs=", len(matched_ids),
           "season row counts=", dict(sorted(years.items())[-4:]),
           "source columns=", fields, flush=True)
-    rows = validate_rows(csv_text, season, ids)
-    if len(rows) < 100:
+    direct = join_direct_gsis(sleeper, source_ids)
+    crosswalk_url = os.environ.get("VERIFIED_CROSSWALK_CSV_URL", "").strip()
+    external = {}
+    if crosswalk_url:
+        if not crosswalk_url.startswith("https://"):
+            raise ValueError("Crosswalk source must use HTTPS")
+        external = build_crosswalk(read_url(crosswalk_url).decode("utf-8-sig"),
+                                   sleeper, source_ids)
+    verified = combine_verified(direct, external)
+    print("Verified identity coverage: direct=", len(direct),
+          "external=", len(external), "combined=", len(verified), flush=True)
+    rows = validate_rows(csv_text, season, set(verified.values()))
+    if len(verified) < 100 or len(rows) < 100:
         raise ValueError(
-            f"Too few matched player IDs: {len(rows)} (required >=100); "
+            f"Too few verified player IDs: {len(verified)} (required >=100); "
             f"Sleeper GSIS IDs={len(ids)}, nflverse recent IDs={len(source_ids)}, "
             f"intersection={len(matched_ids)}; refusing incomplete cache")
     from datetime import datetime, timezone
+    by_sleeper = {sid: rows[gsis] for sid, gsis in verified.items() if gsis in rows}
     payload = {"generated_at": datetime.now(timezone.utc).isoformat(),
                "season": season, "source": source,
-               "identity_source": "Sleeper gsis_id (explicit, no name joins)",
-               "players": rows}
+               "identity_source": "Verified Sleeper GSIS and optional structured crosswalk (no name joins)",
+               "players": by_sleeper}
     OUT.parent.mkdir(parents=True, exist_ok=True)
     temp = OUT.with_suffix(".tmp")
     temp.write_text(json.dumps(payload, separators=(",", ":")) + "\n")
