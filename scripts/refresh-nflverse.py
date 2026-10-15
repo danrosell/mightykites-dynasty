@@ -100,6 +100,20 @@ def main():
         if year in (str(season), str(season - 1)) and row.get("player_id"):
             source_ids.add(row["player_id"])
     matched_ids = ids & source_ids
+    # Report player coverage by Sleeper's position, rather than assuming every
+    # GSIS ID represents an active fantasy-relevant 2026 player.
+    by_position = {}
+    for player in sleeper.values():
+        position = player.get("position")
+        gsis = str(player.get("gsis_id") or "")
+        if position not in ("QB", "RB", "WR", "TE") or not gsis:
+            continue
+        bucket = by_position.setdefault(position, {"sleeper": 0, "matched": 0})
+        bucket["sleeper"] += 1
+        bucket["matched"] += int(gsis in source_ids)
+    print("Position coverage:", by_position, flush=True)
+    print("Source ID overlap with Sleeper metadata:", len(matched_ids),
+          "Source IDs not in Sleeper:", len(source_ids - ids), flush=True)
     source_sample = sorted(source_ids)[:8]
     sleeper_sample = sorted(ids)[:8]
     # Safe diagnostic: aggregate counts and short opaque ID samples only.
