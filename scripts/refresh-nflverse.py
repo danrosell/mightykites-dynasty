@@ -77,9 +77,11 @@ def main():
     # Never use name matching. Only explicit GSIS IDs from Sleeper's player DB.
     sleeper = json.loads(read_url("https://api.sleeper.app/v1/players/nfl"))
     ids = set()
-    for player in sleeper.values():
+    sleeper_ids_by_key = {}
+    for sleeper_id, player in sleeper.items():
         if player.get("gsis_id") and player.get("position") in ("QB", "RB", "WR", "TE"):
             ids.add(str(player["gsis_id"]))
+            sleeper_ids_by_key[str(player["gsis_id"])] = str(sleeper_id)
     if not ids:
         raise ValueError("Sleeper returned no GSIS player IDs")
     release = json.loads(read_url(API))
@@ -98,6 +100,14 @@ def main():
         if year in (str(season), str(season - 1)) and row.get("player_id"):
             source_ids.add(row["player_id"])
     matched_ids = ids & source_ids
+    source_sample = sorted(source_ids)[:8]
+    sleeper_sample = sorted(ids)[:8]
+    # Safe diagnostic: aggregate counts and short opaque ID samples only.
+    print("ID format samples: Sleeper=", sleeper_sample,
+          "nflverse=", source_sample,
+          "nflverse IDs with GSIS prefix=", sum(x.startswith("00-") for x in source_ids),
+          "Sleeper IDs with GSIS prefix=", sum(x.startswith("00-") for x in ids),
+          flush=True)
     print("nflverse diagnostics: Sleeper GSIS IDs=", len(ids),
           "nflverse recent-season player IDs=", len(source_ids),
           "overlapping IDs=", len(matched_ids),
