@@ -40,6 +40,9 @@ export default async(request)=>{
   if(Number(raw.week?.number)!==week)throw new Error("ESPN returned a different week");
   const games=parseEspnEvents(raw.events,week);
   if(games.length<12||games.length>16)throw new Error("Incomplete weekly NFL schedule");
+  const scheduledTeams=games.flatMap(g=>[g.home,g.away]);
+  if(new Set(scheduledTeams).size!==scheduledTeams.length)throw new Error("Duplicate NFL team in weekly schedule");
+  if(scheduledTeams.some(t=>!TEAMS.has(t)))throw new Error("Unknown NFL team");
   const ids=(url.searchParams.get("ids")||"").split(",").filter(Boolean).slice(0,100);
   const result={};
   for(const id of ids){const p=players[id];if(p)result[id]={team:p.team||null,position:p.position||null,name:p.full_name||null,injury_status:p.injury_status||null};}
