@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-15T13:31:32.485Z",
+  "generated_at": "2026-10-15T18:22:35.426Z",
   "source": "Sleeper public API",
   "username": "TheMightyKites",
   "nfl_week": 6,
@@ -1691,10 +1691,10 @@
       "rank": 2,
       "starters": [
         {
-          "player_id": "6904",
-          "name": "Jalen Hurts",
+          "player_id": "2306",
+          "name": "Jameis Winston",
           "position": "QB",
-          "team": "PHI"
+          "team": "NYG"
         },
         {
           "player_id": "4034",
@@ -1739,10 +1739,10 @@
           "team": "SF"
         },
         {
-          "player_id": "2306",
-          "name": "Jameis Winston",
+          "player_id": "1373",
+          "name": "Geno Smith",
           "position": "QB",
-          "team": "NYG"
+          "team": "NYJ"
         }
       ],
       "bench": [
@@ -1783,12 +1783,6 @@
           "team": "CLE"
         },
         {
-          "player_id": "1373",
-          "name": "Geno Smith",
-          "position": "QB",
-          "team": "NYJ"
-        },
-        {
           "player_id": "3161",
           "name": "Carson Wentz",
           "position": "QB",
@@ -1823,6 +1817,12 @@
           "name": "Devin Singletary",
           "position": "RB",
           "team": "NYG"
+        },
+        {
+          "player_id": "6904",
+          "name": "Jalen Hurts",
+          "position": "QB",
+          "team": "PHI"
         },
         {
           "player_id": "7547",

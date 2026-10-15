@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-15T13:31:29.130Z",
+  "generated_at": "2026-10-15T18:22:31.418Z",
   "source": "Sleeper public API",
   "username": "TheMightyKites",
   "nfl_week": 6,
@@ -60,7 +60,7 @@
       "leg": 6,
       "reserve_slots": 3,
       "reserve_allow_cov": 0,
-      "daily_waivers_last_ran": 14
+      "daily_waivers_last_ran": 15
     },
     "scoring_settings": {
       "sack": 1,
@@ -1876,10 +1876,10 @@
           "team": "TB"
         },
         {
-          "player_id": "10859",
-          "name": "Sam LaPorta",
+          "player_id": "7828",
+          "name": "Noah Gray",
           "position": "TE",
-          "team": "DET"
+          "team": "KC"
         },
         {
           "player_id": "12519",
@@ -1901,6 +1901,12 @@
         }
       ],
       "bench": [
+        {
+          "player_id": "10859",
+          "name": "Sam LaPorta",
+          "position": "TE",
+          "team": "DET"
+        },
         {
           "player_id": "11370",
           "name": "Chris Brooks",

@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-15T13:31:30.649Z",
+  "generated_at": "2026-10-15T18:22:33.029Z",
   "source": "Sleeper public API",
   "username": "TheMightyKites",
   "nfl_week": 6,
@@ -60,7 +60,7 @@
       "daily_waivers_base": 4,
       "reserve_slots": 2,
       "reserve_allow_cov": 1,
-      "daily_waivers_last_ran": 14
+      "daily_waivers_last_ran": 15
     },
     "scoring_settings": {
       "sack": 1,
@@ -228,6 +228,12 @@
         "team": "CHI"
       },
       {
+        "player_id": "12491",
+        "name": "Corey Kiner",
+        "position": "RB",
+        "team": "NE"
+      },
+      {
         "player_id": "12498",
         "name": "Mason Taylor",
         "position": "TE",
@@ -256,12 +262,6 @@
         "name": "Mike Washington",
         "position": "RB",
         "team": "LV"
-      },
-      {
-        "player_id": "13602",
-        "name": "Jack Strand",
-        "position": "QB",
-        "team": "ATL"
       },
       {
         "player_id": "4663",
@@ -2508,6 +2508,12 @@
           "team": "CHI"
         },
         {
+          "player_id": "12491",
+          "name": "Corey Kiner",
+          "position": "RB",
+          "team": "NE"
+        },
+        {
           "player_id": "12498",
           "name": "Mason Taylor",
           "position": "TE",
@@ -2536,12 +2542,6 @@
           "name": "Mike Washington",
           "position": "RB",
           "team": "LV"
-        },
-        {
-          "player_id": "13602",
-          "name": "Jack Strand",
-          "position": "QB",
-          "team": "ATL"
         },
         {
           "player_id": "4663",
@@ -4095,10 +4095,10 @@
       "rank": 14,
       "starters": [
         {
-          "player_id": "6904",
-          "name": "Jalen Hurts",
+          "player_id": "9999",
+          "name": "Will Levis",
           "position": "QB",
-          "team": "PHI"
+          "team": "NYJ"
         },
         {
           "player_id": "8132",
@@ -4149,10 +4149,10 @@
           "team": "NYJ"
         },
         {
-          "player_id": "11599",
-          "name": "Cade Stover",
-          "position": "TE",
-          "team": "HOU"
+          "player_id": "7670",
+          "name": "Joshua Palmer",
+          "position": "WR",
+          "team": "BUF"
         }
       ],
       "bench": [
@@ -4173,6 +4173,12 @@
           "name": "Will Shipley",
           "position": "RB",
           "team": "PHI"
+        },
+        {
+          "player_id": "11599",
+          "name": "Cade Stover",
+          "position": "TE",
+          "team": "HOU"
         },
         {
           "player_id": "11610",
@@ -4217,10 +4223,10 @@
           "team": "SF"
         },
         {
-          "player_id": "7670",
-          "name": "Joshua Palmer",
-          "position": "WR",
-          "team": "BUF"
+          "player_id": "6904",
+          "name": "Jalen Hurts",
+          "position": "QB",
+          "team": "PHI"
         },
         {
           "player_id": "8135",
@@ -4233,12 +4239,6 @@
           "name": "Tyquan Thornton",
           "position": "WR",
           "team": "KC"
-        },
-        {
-          "player_id": "9999",
-          "name": "Will Levis",
-          "position": "QB",
-          "team": "NYJ"
         }
       ],
       "taxi": [
