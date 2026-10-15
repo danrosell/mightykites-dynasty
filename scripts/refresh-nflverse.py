@@ -13,6 +13,7 @@ from urllib.request import Request, urlopen
 from player_crosswalk import build_crosswalk, join_direct_gsis, combine_verified
 
 API = "https://api.github.com/repos/nflverse/nflverse-data/releases/tags/stats_player"
+CROSSWALK = "https://raw.githubusercontent.com/dynastyprocess/data/master/files/db_playerids.csv"
 OUT = Path("data/historical-weekly.json")
 SNAPSHOTS = ["imperial", "qb-controversy", "jersey", "tri-state"]
 FIELDS = {"player_id", "season", "week", "season_type", "passing_yards",
@@ -129,7 +130,7 @@ def main():
           "season row counts=", dict(sorted(years.items())[-4:]),
           "source columns=", fields, flush=True)
     direct = join_direct_gsis(sleeper, source_ids)
-    crosswalk_url = os.environ.get("VERIFIED_CROSSWALK_CSV_URL", "").strip()
+    crosswalk_url = os.environ.get("VERIFIED_CROSSWALK_CSV_URL", CROSSWALK).strip()
     external = {}
     if crosswalk_url:
         if not crosswalk_url.startswith("https://"):
@@ -146,7 +147,18 @@ def main():
             f"Sleeper GSIS IDs={len(ids)}, nflverse recent IDs={len(source_ids)}, "
             f"intersection={len(matched_ids)}; refusing incomplete cache")
     from datetime import datetime, timezone
-    by_sleeper = {sid: rows[gsis] for sid, gsis in verified.items() if gsis in rows}
+    def to_game_log(row):
+        stats = {
+            "pass_yd": row["passing_yards"], "pass_td": row["passing_tds"],
+            "pass_int": row["interceptions"], "rush_att": row["carries"],
+            "rush_yd": row["rushing_yards"], "rush_td": row["rushing_tds"],
+            "rec": row["receptions"], "rec_yd": row["receiving_yards"],
+            "rec_td": row["receiving_tds"],
+        }
+        return {"season": row["season"], "week": row["week"],
+                "played": True, "stats": stats}
+    by_sleeper = {sid: [to_game_log(row) for row in rows[gsis]]
+                  for sid, gsis in verified.items() if gsis in rows}
     payload = {"generated_at": datetime.now(timezone.utc).isoformat(),
                "season": season, "source": source,
                "identity_source": "Verified Sleeper GSIS and optional structured crosswalk (no name joins)",
@@ -155,7 +167,7 @@ def main():
     temp = OUT.with_suffix(".tmp")
     temp.write_text(json.dumps(payload, separators=(",", ":")) + "\n")
     temp.replace(OUT)
-    print(f"Verified {len(rows)} player identities; wrote {OUT}")
+    print(f"Verified {len(by_sleeper)} Sleeper player identities; wrote {OUT}")
 
 if __name__ == "__main__":
     main()
