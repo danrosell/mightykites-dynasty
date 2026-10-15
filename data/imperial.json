@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-15T01:33:27.080Z",
+  "generated_at": "2026-10-15T07:33:19.069Z",
   "source": "Sleeper public API",
   "username": "TheMightyKites",
   "nfl_week": 6,
@@ -1502,10 +1502,10 @@
           "team": "ATL"
         },
         {
-          "player_id": "11586",
-          "name": "Blake Corum",
+          "player_id": "9757",
+          "name": "Kendre Miller",
           "position": "RB",
-          "team": "LAR"
+          "team": "NO"
         },
         {
           "player_id": "12547",
@@ -1546,6 +1546,12 @@
       ],
       "bench": [
         {
+          "player_id": "11586",
+          "name": "Blake Corum",
+          "position": "RB",
+          "team": "LAR"
+        },
+        {
           "player_id": "11635",
           "name": "Ladd McConkey",
           "position": "WR",
@@ -1562,12 +1568,6 @@
           "name": "Jordan Addison",
           "position": "WR",
           "team": "MIN"
-        },
-        {
-          "player_id": "9757",
-          "name": "Kendre Miller",
-          "position": "RB",
-          "team": "NO"
         },
         {
           "player_id": "9758",
