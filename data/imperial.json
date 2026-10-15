@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-15T18:22:31.418Z",
+  "generated_at": "2026-10-15T22:26:33.604Z",
   "source": "Sleeper public API",
   "username": "TheMightyKites",
   "nfl_week": 6,
@@ -556,10 +556,10 @@
           "team": "PIT"
         },
         {
-          "player_id": "0",
-          "name": "0",
-          "position": "—",
-          "team": "FA"
+          "player_id": "13277",
+          "name": "CJ Donaldson",
+          "position": "RB",
+          "team": "NO"
         },
         {
           "player_id": "9493",
@@ -616,12 +616,6 @@
           "name": "Germie Bernard",
           "position": "WR",
           "team": "PIT"
-        },
-        {
-          "player_id": "13277",
-          "name": "CJ Donaldson",
-          "position": "RB",
-          "team": "NO"
         },
         {
           "player_id": "13402",
@@ -1894,10 +1888,10 @@
           "team": "LV"
         },
         {
-          "player_id": "6904",
-          "name": "Jalen Hurts",
-          "position": "QB",
-          "team": "PHI"
+          "player_id": "0",
+          "name": "0",
+          "position": "—",
+          "team": "FA"
         }
       ],
       "bench": [
@@ -1924,6 +1918,12 @@
           "name": "Demond Claiborne",
           "position": "RB",
           "team": "MIN"
+        },
+        {
+          "player_id": "6904",
+          "name": "Jalen Hurts",
+          "position": "QB",
+          "team": "PHI"
         },
         {
           "player_id": "7527",

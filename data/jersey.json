@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-15T18:22:34.305Z",
+  "generated_at": "2026-10-15T22:26:36.392Z",
   "source": "Sleeper public API",
   "username": "TheMightyKites",
   "nfl_week": 6,
@@ -2085,10 +2085,10 @@
       "rank": 3,
       "starters": [
         {
-          "player_id": "6904",
-          "name": "Jalen Hurts",
+          "player_id": "11563",
+          "name": "Bo Nix",
           "position": "QB",
-          "team": "PHI"
+          "team": "DEN"
         },
         {
           "player_id": "12527",
@@ -2097,10 +2097,10 @@
           "team": "LV"
         },
         {
-          "player_id": "4199",
-          "name": "Aaron Jones",
+          "player_id": "8228",
+          "name": "Jaylen Warren",
           "position": "RB",
-          "team": "MIN"
+          "team": "PIT"
         },
         {
           "player_id": "8144",
@@ -2127,10 +2127,10 @@
           "team": "LAR"
         },
         {
-          "player_id": "8228",
-          "name": "Jaylen Warren",
-          "position": "RB",
-          "team": "PIT"
+          "player_id": "11628",
+          "name": "Marvin Harrison",
+          "position": "WR",
+          "team": "HOU"
         },
         {
           "player_id": "13305",
@@ -2140,18 +2140,6 @@
         }
       ],
       "bench": [
-        {
-          "player_id": "11563",
-          "name": "Bo Nix",
-          "position": "QB",
-          "team": "DEN"
-        },
-        {
-          "player_id": "11628",
-          "name": "Marvin Harrison",
-          "position": "WR",
-          "team": "HOU"
-        },
         {
           "player_id": "12457",
           "name": "Jaydon Blue",
@@ -2213,6 +2201,12 @@
           "team": "IND"
         },
         {
+          "player_id": "4199",
+          "name": "Aaron Jones",
+          "position": "RB",
+          "team": "MIN"
+        },
+        {
           "player_id": "4454",
           "name": "Kendrick Bourne",
           "position": "WR",
@@ -2243,10 +2237,10 @@
           "team": "NO"
         },
         {
-          "player_id": "6931",
-          "name": "DeeJay Dallas",
-          "position": "RB",
-          "team": "MIN"
+          "player_id": "6904",
+          "name": "Jalen Hurts",
+          "position": "QB",
+          "team": "PHI"
         },
         {
           "player_id": "8143",
@@ -3050,10 +3044,10 @@
           "team": "ATL"
         },
         {
-          "player_id": "13294",
-          "name": "Makai Lemon",
+          "player_id": "12526",
+          "name": "Tetairoa McMillan",
           "position": "WR",
-          "team": "PHI"
+          "team": "CAR"
         },
         {
           "player_id": "5045",
@@ -3068,22 +3062,22 @@
           "team": "DEN"
         },
         {
-          "player_id": "5001",
-          "name": "Dalton Schultz",
-          "position": "TE",
-          "team": "HOU"
-        },
-        {
-          "player_id": "11603",
-          "name": "AJ Barner",
-          "position": "TE",
-          "team": "SEA"
-        },
-        {
           "player_id": "4217",
           "name": "George Kittle",
           "position": "TE",
           "team": "SF"
+        },
+        {
+          "player_id": "13294",
+          "name": "Makai Lemon",
+          "position": "WR",
+          "team": "PHI"
+        },
+        {
+          "player_id": "5001",
+          "name": "Dalton Schultz",
+          "position": "TE",
+          "team": "HOU"
         }
       ],
       "bench": [
@@ -3098,6 +3092,12 @@
           "name": "Chris Brooks",
           "position": "RB",
           "team": "GB"
+        },
+        {
+          "player_id": "11603",
+          "name": "AJ Barner",
+          "position": "TE",
+          "team": "SEA"
         },
         {
           "player_id": "11629",
@@ -3116,12 +3116,6 @@
           "name": "Jaxson Dart",
           "position": "QB",
           "team": "NYG"
-        },
-        {
-          "player_id": "12526",
-          "name": "Tetairoa McMillan",
-          "position": "WR",
-          "team": "CAR"
         },
         {
           "player_id": "12542",
