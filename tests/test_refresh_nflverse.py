@@ -37,5 +37,5 @@ class ReleaseSelectionTests(unittest.TestCase):
 class CurrentSchemaTests(unittest.TestCase):
     def test_passing_interceptions_alias(self):
         header=HEADER.replace("interceptions", "passing_interceptions")
-        rows=module.validate_rows(header+"00-1234,2026,5,REG,100,1,2,2,10,0,5,50,1\\n",2026,{"00-1234"})
+        rows=module.validate_rows(header+"00-1234,2026,5,REG,100,1,2,2,10,0,5,50,1\n",2026,{"00-1234"})
         self.assertEqual(rows["00-1234"][0]["interceptions"],2)
