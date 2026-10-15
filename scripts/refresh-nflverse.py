@@ -39,7 +39,8 @@ def select_asset(release, season):
 
 def validate_rows(text, season, ids):
     reader = csv.DictReader(io.StringIO(text))
-    if not reader.fieldnames or not FIELDS.issubset(reader.fieldnames):
+    required = FIELDS - {"interceptions"}
+    if not reader.fieldnames or not required.issubset(reader.fieldnames) or not ({"interceptions", "passing_interceptions"} & set(reader.fieldnames)):
         raise ValueError("Unexpected nflverse weekly stats schema")
     output = {}
     seen = set()
@@ -59,7 +60,8 @@ def validate_rows(text, season, ids):
         stats = {}
         for field in STATS:
             try:
-                value = float(row[field] or 0)
+                raw = row.get("passing_interceptions") if field == "interceptions" and "interceptions" not in row else row[field]
+                value = float(raw or 0)
             except (ValueError, TypeError):
                 raise ValueError("Non-numeric stat: " + field)
             if not -1000 <= value <= 1000:
