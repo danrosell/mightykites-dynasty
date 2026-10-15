@@ -21,7 +21,15 @@ class RefreshTests(unittest.TestCase):
             module.validate_rows(HEADER + line + line, 2026, {"00-1234"})
     def test_unknown_asset_rejected(self):
         with self.assertRaises(ValueError):
-            module.select_asset({"assets": [{"name": "other.csv"}]})
+            module.select_asset({"assets": [{"name": "other.csv"}]}, 2026)
 
 if __name__ == "__main__":
     unittest.main()
+
+class ReleaseSelectionTests(unittest.TestCase):
+    def test_selects_current_season_only(self):
+        release={"assets":[{"name":"stats_player_week_2025.csv","browser_download_url":"old"},{"name":"stats_player_week_2026.csv","browser_download_url":"current"}]}
+        self.assertEqual(module.select_asset(release,2026),"current")
+    def test_missing_current_season_fails_closed(self):
+        with self.assertRaises(ValueError):
+            module.select_asset({"assets":[{"name":"stats_player_week_2024.csv","browser_download_url":"old"}]},2026)
