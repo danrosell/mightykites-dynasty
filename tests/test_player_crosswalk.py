@@ -20,7 +20,7 @@ class CrosswalkTests(unittest.TestCase):
         csv="sleeper_id,gsis_id\nmissing,00-2\n"
         self.assertEqual(build_crosswalk(csv,self.players,self.ids),{})
     def test_null_sentinels_excluded(self):
-        csv="sleeper_id,gsis_id\\ns2,NA\\nNA,00-2\\n"
+        csv="sleeper_id,gsis_id\ns2,NA\nNA,00-2\n"
         self.assertEqual(build_crosswalk(csv,self.players,self.ids),{})
     def test_duplicate_external_identity_rejected(self):
         csv="sleeper_id,gsis_id\\ns2,00-2\\ns2,00-3\\n"
