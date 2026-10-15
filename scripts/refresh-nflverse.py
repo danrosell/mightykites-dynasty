@@ -11,7 +11,7 @@ import os
 from pathlib import Path
 from urllib.request import Request, urlopen
 
-API = "https://api.github.com/repos/nflverse/nflverse-data/releases/tags/player_stats"
+API = "https://api.github.com/repos/nflverse/nflverse-data/releases/tags/stats_player"
 OUT = Path("data/historical-weekly.json")
 SNAPSHOTS = ["imperial", "qb-controversy", "jersey", "tri-state"]
 FIELDS = {"player_id", "season", "week", "season_type", "passing_yards",
@@ -28,17 +28,19 @@ def read_url(url, limit=80_000_000):
         raise ValueError("Upstream response exceeds safe size limit")
     return raw
 
-def select_asset(release):
+def select_asset(release, season):
     assets = release.get("assets", [])
-    matches = [a for a in assets if a.get("name") in ("player_stats.csv", "player_stats_week.csv")]
+    expected = f"stats_player_week_{season}.csv"
+    matches = [a for a in assets if a.get("name") == expected]
     if len(matches) != 1:
-        raise ValueError("Expected exactly one nflverse weekly CSV asset; available: " +
-                         ", ".join(a.get("name", "?") for a in assets))
+        raise ValueError(f"Expected {expected} in current nflverse stats_player release")
     return matches[0]["browser_download_url"]
+
 
 def validate_rows(text, season, ids):
     reader = csv.DictReader(io.StringIO(text))
-    if not reader.fieldnames or not FIELDS.issubset(reader.fieldnames):
+    required = FIELDS - {"interceptions"}
+    if not reader.fieldnames or not required.issubset(reader.fieldnames) or not ({"interceptions", "passing_interceptions"} & set(reader.fieldnames)):
         raise ValueError("Unexpected nflverse weekly stats schema")
     output = {}
     seen = set()
@@ -58,7 +60,8 @@ def validate_rows(text, season, ids):
         stats = {}
         for field in STATS:
             try:
-                value = float(row[field] or 0)
+                raw = row.get("passing_interceptions") if field == "interceptions" and "interceptions" not in row else row[field]
+                value = float(raw or 0)
             except (ValueError, TypeError):
                 raise ValueError("Non-numeric stat: " + field)
             if not -1000 <= value <= 1000:
@@ -80,7 +83,7 @@ def main():
     if not ids:
         raise ValueError("Sleeper returned no GSIS player IDs")
     release = json.loads(read_url(API))
-    source = select_asset(release)
+    source = select_asset(release, season)
     csv_text = read_url(source).decode("utf-8-sig")
     # Diagnostic summary contains counts and schema only; no large player database logs.
     reader = csv.DictReader(io.StringIO(csv_text))
