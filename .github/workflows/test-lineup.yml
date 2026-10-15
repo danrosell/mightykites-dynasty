@@ -4,12 +4,14 @@ on:
     paths:
       - "src/analysis/**"
       - "tests/**"
+      - "scripts/**"
       - "netlify/functions/**"
       - ".github/workflows/test-lineup.yml"
   pull_request:
     paths:
       - "src/analysis/**"
       - "tests/**"
+      - "scripts/**"
       - "netlify/functions/**"
       - ".github/workflows/test-lineup.yml"
 permissions:
@@ -24,3 +26,4 @@ jobs:
           node-version: "22"
       - run: node --check netlify/functions/league.mjs
       - run: node --test tests/*.test.mjs
+      - run: python3 -m unittest discover -s tests -p "test_*.py"
