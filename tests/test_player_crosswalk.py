@@ -8,6 +8,14 @@ class CrosswalkTests(unittest.TestCase):
     def setUp(self):
         self.players={"s1":{"position":"WR","gsis_id":"00-1"},"s2":{"position":"RB"},"s3":{"position":"TE","gsis_id":"00-3"}}
         self.ids={"00-1","00-2","00-3"}
+    def test_surrounding_whitespace_is_not_conflict(self):
+        players={"s1":{"position":"WR","gsis_id":" 00-1 "}}
+        self.assertEqual(join_direct_gsis(players,{"00-1"}),{"s1":"00-1"})
+        self.assertEqual(build_crosswalk("sleeper_id,gsis_id\\ns1, 00-1 \\n",players,{"00-1"}),{"s1":"00-1"})
+    def test_real_conflict_still_rejected_after_normalization(self):
+        players={"s1":{"position":"WR","gsis_id":" 00-1 "}}
+        with self.assertRaisesRegex(ValueError,"sleeper_gsis_mismatch"):
+            build_crosswalk("sleeper_id,gsis_id\\ns1,00-2\\n",players,{"00-2"})
     def test_direct_ids(self):
         self.assertEqual(join_direct_gsis(self.players,self.ids),{"s1":"00-1","s3":"00-3"})
     def test_verified_external_missing_sleeper_gsis(self):
