@@ -10,7 +10,7 @@ import json
 import os
 from pathlib import Path
 from urllib.request import Request, urlopen
-from player_crosswalk import build_crosswalk, join_direct_gsis, combine_verified
+from player_crosswalk import build_crosswalk, join_direct_gsis, combine_verified, normalize_id
 
 API = "https://api.github.com/repos/nflverse/nflverse-data/releases/tags/stats_player"
 CROSSWALK = "https://raw.githubusercontent.com/dynastyprocess/data/master/files/db_playerids.csv"
@@ -82,8 +82,8 @@ def main():
     sleeper_ids_by_key = {}
     for sleeper_id, player in sleeper.items():
         if player.get("gsis_id") and player.get("position") in ("QB", "RB", "WR", "TE"):
-            ids.add(str(player["gsis_id"]))
-            sleeper_ids_by_key[str(player["gsis_id"])] = str(sleeper_id)
+            ids.add(normalize_id(player["gsis_id"]))
+            sleeper_ids_by_key[normalize_id(player["gsis_id"])] = str(sleeper_id)
     if not ids:
         raise ValueError("Sleeper returned no GSIS player IDs")
     release = json.loads(read_url(API))
@@ -102,12 +102,13 @@ def main():
         if year in (str(season), str(season - 1)) and row.get("player_id"):
             source_ids.add(row["player_id"])
     matched_ids = ids & source_ids
+    print("Sleeper GSIS IDs with surrounding whitespace:", sum(1 for p in sleeper.values() if p.get("position") in ("QB","RB","WR","TE") and str(p.get("gsis_id") or "") != normalize_id(p.get("gsis_id"))), flush=True)
     # Report player coverage by Sleeper's position, rather than assuming every
     # GSIS ID represents an active fantasy-relevant 2026 player.
     by_position = {}
     for player in sleeper.values():
         position = player.get("position")
-        gsis = str(player.get("gsis_id") or "")
+        gsis = normalize_id(player.get("gsis_id"))
         if position not in ("QB", "RB", "WR", "TE") or not gsis:
             continue
         bucket = by_position.setdefault(position, {"sleeper": 0, "matched": 0})
