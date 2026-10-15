@@ -81,9 +81,31 @@ def main():
         raise ValueError("Sleeper returned no GSIS player IDs")
     release = json.loads(read_url(API))
     source = select_asset(release)
-    rows = validate_rows(read_url(source).decode("utf-8-sig"), season, ids)
+    csv_text = read_url(source).decode("utf-8-sig")
+    # Diagnostic summary contains counts and schema only; no large player database logs.
+    reader = csv.DictReader(io.StringIO(csv_text))
+    fields = reader.fieldnames or []
+    source_ids = set()
+    years = {}
+    for row in reader:
+        if row.get("season_type") != "REG":
+            continue
+        year = row.get("season", "")
+        years[year] = years.get(year, 0) + 1
+        if year in (str(season), str(season - 1)) and row.get("player_id"):
+            source_ids.add(row["player_id"])
+    matched_ids = ids & source_ids
+    print("nflverse diagnostics: Sleeper GSIS IDs=", len(ids),
+          "nflverse recent-season player IDs=", len(source_ids),
+          "overlapping IDs=", len(matched_ids),
+          "season row counts=", dict(sorted(years.items())[-4:]),
+          "source columns=", fields, flush=True)
+    rows = validate_rows(csv_text, season, ids)
     if len(rows) < 100:
-        raise ValueError("Too few matched player IDs; refusing incomplete cache")
+        raise ValueError(
+            f"Too few matched player IDs: {len(rows)} (required >=100); "
+            f"Sleeper GSIS IDs={len(ids)}, nflverse recent IDs={len(source_ids)}, "
+            f"intersection={len(matched_ids)}; refusing incomplete cache")
     from datetime import datetime, timezone
     payload = {"generated_at": datetime.now(timezone.utc).isoformat(),
                "season": season, "source": source,
