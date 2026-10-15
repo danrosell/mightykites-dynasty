@@ -27,3 +27,7 @@ jobs:
       - run: node --check netlify/functions/league.mjs
       - run: node --test tests/*.test.mjs
       - run: python3 -m unittest discover -s tests -p "test_*.py"
+      - name: Live nflverse refresh integration test (no cache publication)
+        run: python3 scripts/refresh-nflverse.py
+        env:
+          NFL_SEASON: "2026"
