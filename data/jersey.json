@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-15T07:33:21.492Z",
+  "generated_at": "2026-10-15T13:31:31.637Z",
   "source": "Sleeper public API",
   "username": "TheMightyKites",
   "nfl_week": 6,
@@ -804,16 +804,16 @@
           "team": "LAR"
         },
         {
-          "player_id": "9221",
-          "name": "Jahmyr Gibbs",
+          "player_id": "8151",
+          "name": "Kenneth Walker",
           "position": "RB",
-          "team": "DET"
+          "team": "KC"
         },
         {
-          "player_id": "9224",
-          "name": "Chase Brown",
+          "player_id": "12512",
+          "name": "Quinshon Judkins",
           "position": "RB",
-          "team": "CIN"
+          "team": "CLE"
         },
         {
           "player_id": "9488",
@@ -834,6 +834,12 @@
           "team": "DAL"
         },
         {
+          "player_id": "9480",
+          "name": "Brenton Strange",
+          "position": "TE",
+          "team": "JAX"
+        },
+        {
           "player_id": "11604",
           "name": "Brock Bowers",
           "position": "TE",
@@ -844,12 +850,6 @@
           "name": "Tyler Warren",
           "position": "TE",
           "team": "IND"
-        },
-        {
-          "player_id": "12512",
-          "name": "Quinshon Judkins",
-          "position": "RB",
-          "team": "CLE"
         }
       ],
       "bench": [
@@ -932,16 +932,22 @@
           "team": "NO"
         },
         {
-          "player_id": "8151",
-          "name": "Kenneth Walker",
-          "position": "RB",
-          "team": "KC"
-        },
-        {
           "player_id": "8180",
           "name": "Jalen Nailor",
           "position": "WR",
           "team": "LV"
+        },
+        {
+          "player_id": "9221",
+          "name": "Jahmyr Gibbs",
+          "position": "RB",
+          "team": "DET"
+        },
+        {
+          "player_id": "9224",
+          "name": "Chase Brown",
+          "position": "RB",
+          "team": "CIN"
         },
         {
           "player_id": "9228",
@@ -954,12 +960,6 @@
           "name": "Anthony Richardson",
           "position": "QB",
           "team": "IND"
-        },
-        {
-          "player_id": "9480",
-          "name": "Brenton Strange",
-          "position": "TE",
-          "team": "JAX"
         },
         {
           "player_id": "9501",

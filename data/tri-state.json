@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-15T07:33:22.593Z",
+  "generated_at": "2026-10-15T13:31:32.485Z",
   "source": "Sleeper public API",
   "username": "TheMightyKites",
   "nfl_week": 6,
@@ -60,7 +60,7 @@
       "leg": 6,
       "reserve_slots": 3,
       "reserve_allow_cov": 1,
-      "daily_waivers_last_ran": 14
+      "daily_waivers_last_ran": 15
     },
     "scoring_settings": {
       "sack": 2,
@@ -1703,20 +1703,20 @@
           "team": "SF"
         },
         {
-          "player_id": "12512",
-          "name": "Quinshon Judkins",
+          "player_id": "4035",
+          "name": "Alvin Kamara",
           "position": "RB",
-          "team": "CLE"
-        },
-        {
-          "player_id": "7547",
-          "name": "Amon-Ra St. Brown",
-          "position": "WR",
-          "team": "DET"
+          "team": "NO"
         },
         {
           "player_id": "9493",
           "name": "Puka Nacua",
+          "position": "WR",
+          "team": "LAR"
+        },
+        {
+          "player_id": "2133",
+          "name": "Davante Adams",
           "position": "WR",
           "team": "LAR"
         },
@@ -1727,16 +1727,16 @@
           "team": "SF"
         },
         {
+          "player_id": "1466",
+          "name": "Travis Kelce",
+          "position": "TE",
+          "team": "KC"
+        },
+        {
           "player_id": "4217",
           "name": "George Kittle",
           "position": "TE",
           "team": "SF"
-        },
-        {
-          "player_id": "2133",
-          "name": "Davante Adams",
-          "position": "WR",
-          "team": "LAR"
         },
         {
           "player_id": "2306",
@@ -1771,6 +1771,12 @@
           "team": "NYG"
         },
         {
+          "player_id": "12512",
+          "name": "Quinshon Judkins",
+          "position": "RB",
+          "team": "CLE"
+        },
+        {
           "player_id": "12524",
           "name": "Shedeur Sanders",
           "position": "QB",
@@ -1783,12 +1789,6 @@
           "team": "NYJ"
         },
         {
-          "player_id": "1466",
-          "name": "Travis Kelce",
-          "position": "TE",
-          "team": "KC"
-        },
-        {
           "player_id": "3161",
           "name": "Carson Wentz",
           "position": "QB",
@@ -1799,12 +1799,6 @@
           "name": "David Njoku",
           "position": "TE",
           "team": "LAC"
-        },
-        {
-          "player_id": "4035",
-          "name": "Alvin Kamara",
-          "position": "RB",
-          "team": "NO"
         },
         {
           "player_id": "4066",
@@ -1829,6 +1823,12 @@
           "name": "Devin Singletary",
           "position": "RB",
           "team": "NYG"
+        },
+        {
+          "player_id": "7547",
+          "name": "Amon-Ra St. Brown",
+          "position": "WR",
+          "team": "DET"
         },
         {
           "player_id": "9229",

@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-15T07:33:19.069Z",
+  "generated_at": "2026-10-15T13:31:29.130Z",
   "source": "Sleeper public API",
   "username": "TheMightyKites",
   "nfl_week": 6,
@@ -1143,10 +1143,10 @@
           "team": "NYG"
         },
         {
-          "player_id": "13317",
-          "name": "Ted Hurst",
+          "player_id": "11646",
+          "name": "Jalen Coker",
           "position": "WR",
-          "team": "TB"
+          "team": "CAR"
         },
         {
           "player_id": "12518",
@@ -1161,10 +1161,10 @@
           "team": "NE"
         },
         {
-          "player_id": "11571",
-          "name": "Isaiah Davis",
-          "position": "RB",
-          "team": "NYJ"
+          "player_id": "12536",
+          "name": "Jaylin Noel",
+          "position": "WR",
+          "team": "HOU"
         },
         {
           "player_id": "96",
@@ -1181,16 +1181,16 @@
           "team": "CHI"
         },
         {
-          "player_id": "11646",
-          "name": "Jalen Coker",
-          "position": "WR",
-          "team": "CAR"
+          "player_id": "11571",
+          "name": "Isaiah Davis",
+          "position": "RB",
+          "team": "NYJ"
         },
         {
-          "player_id": "12536",
-          "name": "Jaylin Noel",
+          "player_id": "13317",
+          "name": "Ted Hurst",
           "position": "WR",
-          "team": "HOU"
+          "team": "TB"
         },
         {
           "player_id": "13405",

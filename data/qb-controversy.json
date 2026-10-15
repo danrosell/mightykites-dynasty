@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-15T07:33:20.399Z",
+  "generated_at": "2026-10-15T13:31:30.649Z",
   "source": "Sleeper public API",
   "username": "TheMightyKites",
   "nfl_week": 6,
@@ -529,16 +529,10 @@
           "team": "TB"
         },
         {
-          "player_id": "9500",
-          "name": "Josh Downs",
+          "player_id": "8676",
+          "name": "Rashid Shaheed",
           "position": "WR",
-          "team": "IND"
-        },
-        {
-          "player_id": "8167",
-          "name": "Christian Watson",
-          "position": "WR",
-          "team": "GB"
+          "team": "SEA"
         },
         {
           "player_id": "12514",
@@ -547,15 +541,21 @@
           "team": "TB"
         },
         {
+          "player_id": "9500",
+          "name": "Josh Downs",
+          "position": "WR",
+          "team": "IND"
+        },
+        {
           "player_id": "8130",
           "name": "Trey McBride",
           "position": "TE",
           "team": "ARI"
         },
         {
-          "player_id": "7021",
-          "name": "Rico Dowdle",
-          "position": "RB",
+          "player_id": "7600",
+          "name": "Pat Freiermuth",
+          "position": "TE",
           "team": "PIT"
         },
         {
@@ -565,10 +565,10 @@
           "team": "NO"
         },
         {
-          "player_id": "7600",
-          "name": "Pat Freiermuth",
-          "position": "TE",
-          "team": "PIT"
+          "player_id": "8167",
+          "name": "Christian Watson",
+          "position": "WR",
+          "team": "GB"
         }
       ],
       "bench": [
@@ -627,6 +627,12 @@
           "team": "CIN"
         },
         {
+          "player_id": "7021",
+          "name": "Rico Dowdle",
+          "position": "RB",
+          "team": "PIT"
+        },
+        {
           "player_id": "8116",
           "name": "Pierre Strong",
           "position": "RB",
@@ -643,12 +649,6 @@
           "name": "Chig Okonkwo",
           "position": "TE",
           "team": "WAS"
-        },
-        {
-          "player_id": "8676",
-          "name": "Rashid Shaheed",
-          "position": "WR",
-          "team": "SEA"
         },
         {
           "player_id": "9494",
