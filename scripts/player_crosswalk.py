@@ -17,7 +17,7 @@ def build_crosswalk(csv_text, sleeper, nflverse_ids):
     for row in reader:
         gsis = (row.get("gsis_id") or "").strip()
         sid = (row.get("sleeper_id") or "").strip()
-        if not gsis or not sid or gsis not in nflverse_ids:
+        if gsis.upper() in ("", "NA", "NULL") or sid.upper() in ("", "NA", "NULL") or gsis not in nflverse_ids:
             continue
         player = sleeper.get(sid)
         if not player or player.get("position") not in ("QB", "RB", "WR", "TE"):
