@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-15T22:26:37.723Z",
+  "generated_at": "2026-10-16T01:28:30.986Z",
   "source": "Sleeper public API",
   "username": "TheMightyKites",
   "nfl_week": 6,
@@ -508,10 +508,10 @@
           "team": "BAL"
         },
         {
-          "player_id": "12481",
-          "name": "Cam Skattebo",
+          "player_id": "11435",
+          "name": "Emanuel Wilson",
           "position": "RB",
-          "team": "NYG"
+          "team": "SEA"
         },
         {
           "player_id": "8228",
@@ -558,12 +558,6 @@
       ],
       "bench": [
         {
-          "player_id": "11435",
-          "name": "Emanuel Wilson",
-          "position": "RB",
-          "team": "SEA"
-        },
-        {
           "player_id": "11575",
           "name": "Ray Davis",
           "position": "RB",
@@ -580,6 +574,12 @@
           "name": "Woody Marks",
           "position": "RB",
           "team": "HOU"
+        },
+        {
+          "player_id": "12481",
+          "name": "Cam Skattebo",
+          "position": "RB",
+          "team": "NYG"
         },
         {
           "player_id": "12522",

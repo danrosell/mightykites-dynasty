@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-15T22:26:33.604Z",
+  "generated_at": "2026-10-16T01:28:26.748Z",
   "source": "Sleeper public API",
   "username": "TheMightyKites",
   "nfl_week": 6,
@@ -303,7 +303,7 @@
     },
     "opponent": {
       "team": "chane broken",
-      "points": 0,
+      "points": 2.2,
       "roster_id": 17
     }
   },
@@ -1317,10 +1317,10 @@
           "team": "ARI"
         },
         {
-          "player_id": "12495",
-          "name": "Ollie Gordon",
-          "position": "RB",
-          "team": "MIA"
+          "player_id": "0",
+          "name": "0",
+          "position": "—",
+          "team": "FA"
         },
         {
           "player_id": "11620",
@@ -1360,6 +1360,12 @@
         }
       ],
       "bench": [
+        {
+          "player_id": "12495",
+          "name": "Ollie Gordon",
+          "position": "RB",
+          "team": "MIA"
+        },
         {
           "player_id": "2307",
           "name": "Marcus Mariota",

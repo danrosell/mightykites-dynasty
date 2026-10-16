@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-15T22:26:36.392Z",
+  "generated_at": "2026-10-16T01:28:29.694Z",
   "source": "Sleeper public API",
   "username": "TheMightyKites",
   "nfl_week": 6,
@@ -419,7 +419,7 @@
     },
     "opponent": {
       "team": "Beast Mode",
-      "points": 0,
+      "points": 3.9,
       "roster_id": 6
     }
   },
@@ -2708,10 +2708,10 @@
       "rank": 2,
       "starters": [
         {
-          "player_id": "4017",
-          "name": "Deshaun Watson",
+          "player_id": "4046",
+          "name": "Patrick Mahomes",
           "position": "QB",
-          "team": "CLE"
+          "team": "KC"
         },
         {
           "player_id": "11576",
@@ -2720,16 +2720,16 @@
           "team": "NYJ"
         },
         {
-          "player_id": "5892",
-          "name": "David Montgomery",
+          "player_id": "8150",
+          "name": "Kyren Williams",
           "position": "RB",
-          "team": "HOU"
+          "team": "LAR"
         },
         {
-          "player_id": "8148",
-          "name": "Jameson Williams",
+          "player_id": "11834",
+          "name": "Devaughn Vele",
           "position": "WR",
-          "team": "DET"
+          "team": "NO"
         },
         {
           "player_id": "2216",
@@ -2750,10 +2750,10 @@
           "team": "NYG"
         },
         {
-          "player_id": "8150",
-          "name": "Kyren Williams",
-          "position": "RB",
-          "team": "LAR"
+          "player_id": "11783",
+          "name": "Ryan Flournoy",
+          "position": "WR",
+          "team": "DAL"
         },
         {
           "player_id": "4034",
@@ -2774,18 +2774,6 @@
           "name": "Erick All",
           "position": "TE",
           "team": "CIN"
-        },
-        {
-          "player_id": "11783",
-          "name": "Ryan Flournoy",
-          "position": "WR",
-          "team": "DAL"
-        },
-        {
-          "player_id": "11834",
-          "name": "Devaughn Vele",
-          "position": "WR",
-          "team": "NO"
         },
         {
           "player_id": "12533",
@@ -2818,10 +2806,10 @@
           "team": "WAS"
         },
         {
-          "player_id": "4046",
-          "name": "Patrick Mahomes",
+          "player_id": "4017",
+          "name": "Deshaun Watson",
           "position": "QB",
-          "team": "KC"
+          "team": "CLE"
         },
         {
           "player_id": "4663",
@@ -2834,6 +2822,12 @@
           "name": "Baker Mayfield",
           "position": "QB",
           "team": "TB"
+        },
+        {
+          "player_id": "5892",
+          "name": "David Montgomery",
+          "position": "RB",
+          "team": "HOU"
         },
         {
           "player_id": "6826",
@@ -2870,6 +2864,12 @@
           "name": "Alec Pierce",
           "position": "WR",
           "team": "IND"
+        },
+        {
+          "player_id": "8148",
+          "name": "Jameson Williams",
+          "position": "WR",
+          "team": "DET"
         },
         {
           "player_id": "9486",
