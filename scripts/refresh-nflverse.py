@@ -19,6 +19,12 @@ SNAPSHOTS = ["imperial", "qb-controversy", "jersey", "tri-state"]
 FIELDS = {"player_id", "season", "week", "season_type", "passing_yards",
           "passing_tds", "interceptions", "carries", "rushing_yards",
           "rushing_tds", "receptions", "receiving_yards", "receiving_tds"}
+EXTRA_STATS = {
+    "pass_2pt": "passing_2pt_conversions", "rush_2pt": "rushing_2pt_conversions",
+    "rec_2pt": "receiving_2pt_conversions", "fum_lost": "fumbles_lost_total",
+    "st_td": "special_teams_tds", "fum_rec_td": "fumble_recovery_tds",
+}
+FIELDS.update(EXTRA_STATS.values())
 STATS = sorted(FIELDS - {"player_id", "season", "week", "season_type"})
 
 def read_url(url, limit=80_000_000):
@@ -53,7 +59,7 @@ def validate_rows(text, season, ids):
             year, week = int(row["season"]), int(row["week"])
         except (ValueError, TypeError):
             raise ValueError("Invalid season or week")
-        if year not in (season, season - 1) or not 1 <= week <= 18:
+        if year != season or not 1 <= week <= 18:
             continue
         key = (row["player_id"], year, week)
         if key in seen:
@@ -63,7 +69,9 @@ def validate_rows(text, season, ids):
         for field in STATS:
             try:
                 raw = row.get("passing_interceptions") if field == "interceptions" and "interceptions" not in row else row[field]
-                value = float(raw or 0)
+                if raw is None or not raw.strip():
+                    raise ValueError("Missing stat: " + field)
+                value = float(raw)
             except (ValueError, TypeError):
                 raise ValueError("Non-numeric stat: " + field)
             if not -1000 <= value <= 1000:
@@ -155,6 +163,7 @@ def main():
             "rush_yd": row["rushing_yards"], "rush_td": row["rushing_tds"],
             "rec": row["receptions"], "rec_yd": row["receiving_yards"],
             "rec_td": row["receiving_tds"],
+            **{key: row[field] for key, field in EXTRA_STATS.items()},
         }
         return {"season": row["season"], "week": row["week"],
                 "played": True, "stats": stats}
@@ -163,6 +172,7 @@ def main():
     payload = {"generated_at": datetime.now(timezone.utc).isoformat(),
                "season": season, "source": source,
                "identity_source": "Verified Sleeper GSIS and optional structured crosswalk (no name joins)",
+               "identities": {sid: verified[sid] for sid in by_sleeper},
                "players": by_sleeper}
     OUT.parent.mkdir(parents=True, exist_ok=True)
     temp = OUT.with_suffix(".tmp")

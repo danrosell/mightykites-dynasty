@@ -31,3 +31,5 @@ jobs:
         run: python3 scripts/refresh-nflverse.py
         env:
           NFL_SEASON: "2026"
+      - name: Audit QB Controversy functions against live Sleeper and nflverse source rows
+        run: node scripts/validate-qb-live.mjs
