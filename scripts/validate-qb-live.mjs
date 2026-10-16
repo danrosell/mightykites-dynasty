@@ -44,7 +44,8 @@ try{
  const eligible=activeIds.filter(sid=>['QB','RB','WR','TE'].includes(players[sid].position));
  assert.deepEqual(analysis.players.map(p=>p.player_id).sort(),[...eligible].sort());
  assert.equal(analysis.lineup.ok,false);
- assert.equal(analysis.lineup.reason,'SCHEDULE_OR_IDENTITY_NOT_VERIFIED');
+ assert.ok(['SCHEDULE_OR_IDENTITY_NOT_VERIFIED','AVAILABILITY_OR_PROJECTIONS_NOT_VERIFIED'].includes(analysis.lineup.reason));
+ assert.equal(analysis.lineup.slots,undefined);
  assert.equal(analysis.cache_generated_at,cache.generated_at);
  assert.equal(cache.season,2026);
  assert.equal(analysis.through_week,state.week-1);

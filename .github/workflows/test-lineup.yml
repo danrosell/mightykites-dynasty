@@ -62,5 +62,6 @@ jobs:
             sleep 2
           done
           node scripts/validate-qb-live.mjs --origin http://127.0.0.1:8787
+          node scripts/validate-qb-verification-live.mjs --origin http://127.0.0.1:8787
         env:
           WRANGLER_SEND_METRICS: "false"

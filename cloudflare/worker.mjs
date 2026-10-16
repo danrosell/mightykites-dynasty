@@ -1,3 +1,5 @@
+import {verifyLineupContext} from '../src/analysis/independent.mjs';
+import {planVerifiedLineup} from '../src/analysis/lineup.mjs';
 import {createPlayerPreflightHandler} from '../netlify/functions/player-preflight.mjs';
 import {createLeagueHandler} from '../netlify/functions/league.mjs';
 import {buildQBControversyAnalysis} from '../src/analysis/qb-controversy.mjs';
@@ -38,7 +40,21 @@ export default {
      // Internal calls use the assets binding and shared handler, never HTTP self-fetch.
      const [leagueResponse,cache]=await Promise.all([leagueHandler(new Request(new URL('/api/league/qb-controversy',url))),asset('historical-weekly')]);
      if(!leagueResponse.ok)throw Error('Live Sleeper league unavailable: '+(await leagueResponse.json()).error);
-     response=json(buildQBControversyAnalysis(await leagueResponse.json(),cache));
+     const snapshot=await leagueResponse.json();
+     const analysis=buildQBControversyAnalysis(snapshot,cache);
+     try{
+      const independent=await asset('independent-verification');
+      const scheduleRequest=new Request(new URL(`/api/player-preflight?season=${Number(snapshot.league.season)}&week=${snapshot.nfl_week}`,url));
+      const scheduleResponse=await createPlayerPreflightHandler(upstreamFetch)(scheduleRequest);
+      if(!scheduleResponse.ok)throw Error('Live independent schedule unavailable');
+      const schedule=await scheduleResponse.json();
+      analysis.verification=verifyLineupContext(snapshot,independent,schedule);
+      analysis.lineup=planVerifiedLineup(snapshot,analysis.players,analysis.verification);
+     }catch(error){
+      analysis.verification={ok:false,issues:[{severity:'error',code:'VERIFICATION_UNAVAILABLE',message:error.message}]};
+      analysis.lineup={ok:false,reason:'SCHEDULE_OR_IDENTITY_NOT_VERIFIED',issues:analysis.verification.issues};
+     }
+     response=json(analysis);
     }else return json({error:'Unknown API endpoint'},404);
     return request.method==='HEAD'?new Response(null,{status:response.status,headers:response.headers}):response;
    }catch(error){return json({error:'Live analysis unavailable',detail:error.message},503);}

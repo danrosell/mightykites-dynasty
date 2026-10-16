@@ -47,7 +47,7 @@ return async (request,context)=>{
    const owner=moved?Number(moved.owner_id):Number(orig.roster_id);
    if(owner===Number(mine.roster_id))picks.push({season:String(y),round,original_roster_id:orig.roster_id,original_team:teamName(orig),is_own:Number(orig.roster_id)===Number(mine.roster_id)});
   }
-  const body={generated_at:new Date().toISOString(),source:"Sleeper public API",username:USERNAME,nfl_week:state.week,league:{id:league.league_id,name:league.name,season:league.season,status:league.status,settings:league.settings,scoring_settings:league.scoring_settings,roster_positions:league.roster_positions},my_team:teams.find(t=>t.is_me),my_matchup:myM?{me:{team:teamName(mine),points:myM.points||0},opponent:{team:opponent?.team_name||"Opponent",points:oppM?.points||0,roster_id:oppM?.roster_id}}:null,my_picks:picks,teams};
+  const body={generated_at:new Date().toISOString(),source:"Sleeper public API",username:USERNAME,nfl_week:state.week,nfl_season:state.season,league:{id:league.league_id,name:league.name,season:league.season,status:league.status,settings:league.settings,scoring_settings:league.scoring_settings,roster_positions:league.roster_positions},my_team:teams.find(t=>t.is_me),my_matchup:myM?{me:{team:teamName(mine),points:myM.points||0},opponent:{team:opponent?.team_name||"Opponent",points:oppM?.points||0,roster_id:oppM?.roster_id}}:null,my_picks:picks,teams};
   return new Response(JSON.stringify(body,null,2),{headers:{"content-type":"application/json; charset=utf-8","cache-control":"public, max-age=60"}});
  }catch(e){return new Response(JSON.stringify({error:e.message}),{status:500,headers:{"content-type":"application/json"}})}
 };
