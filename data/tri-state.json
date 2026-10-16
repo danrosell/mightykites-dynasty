@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-16T07:18:34.748Z",
+  "generated_at": "2026-10-16T13:20:01.308Z",
   "source": "Sleeper public API",
   "username": "TheMightyKites",
   "nfl_week": 6,
@@ -60,7 +60,7 @@
       "leg": 6,
       "reserve_slots": 3,
       "reserve_allow_cov": 1,
-      "daily_waivers_last_ran": 15
+      "daily_waivers_last_ran": 16
     },
     "scoring_settings": {
       "sack": 2,
@@ -2646,16 +2646,16 @@
           "team": "TB"
         },
         {
+          "player_id": "7571",
+          "name": "Rashod Bateman",
+          "position": "WR",
+          "team": "BAL"
+        },
+        {
           "player_id": "9221",
           "name": "Jahmyr Gibbs",
           "position": "RB",
           "team": "DET"
-        },
-        {
-          "player_id": "9494",
-          "name": "Marvin Mims",
-          "position": "WR",
-          "team": "DEN"
         },
         {
           "player_id": "9508",
