@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-16T01:28:28.369Z",
+  "generated_at": "2026-10-16T07:18:32.717Z",
   "source": "Sleeper public API",
   "username": "TheMightyKites",
   "nfl_week": 6,
@@ -411,11 +411,11 @@
   "my_matchup": {
     "me": {
       "team": "The Ham Cannons",
-      "points": 3.5
+      "points": 13.25
     },
     "opponent": {
       "team": "Tenacious D",
-      "points": 0.5,
+      "points": 12,
       "roster_id": 1
     }
   },
@@ -3294,10 +3294,10 @@
           "team": "ARI"
         },
         {
-          "player_id": "7694",
-          "name": "Tommy Tremble",
+          "player_id": "10231",
+          "name": "Elijah Higgins",
           "position": "TE",
-          "team": "CAR"
+          "team": "ARI"
         },
         {
           "player_id": "3634",
@@ -3324,12 +3324,6 @@
           "name": "Andrei Iosivas",
           "position": "WR",
           "team": "CIN"
-        },
-        {
-          "player_id": "10231",
-          "name": "Elijah Higgins",
-          "position": "TE",
-          "team": "ARI"
         },
         {
           "player_id": "11559",
@@ -3390,6 +3384,12 @@
           "name": "Mack Hollins",
           "position": "WR",
           "team": "NE"
+        },
+        {
+          "player_id": "7694",
+          "name": "Tommy Tremble",
+          "position": "TE",
+          "team": "CAR"
         },
         {
           "player_id": "7891",

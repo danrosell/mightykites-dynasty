@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-16T01:28:26.748Z",
+  "generated_at": "2026-10-16T07:18:31.380Z",
   "source": "Sleeper public API",
   "username": "TheMightyKites",
   "nfl_week": 6,
@@ -299,11 +299,11 @@
   "my_matchup": {
     "me": {
       "team": "TheMightyKites",
-      "points": 0
+      "points": 6.1
     },
     "opponent": {
       "team": "chane broken",
-      "points": 2.2,
+      "points": 15.7,
       "roster_id": 17
     }
   },
@@ -2509,12 +2509,6 @@
           "team": "MIN"
         },
         {
-          "player_id": "5892",
-          "name": "David Montgomery",
-          "position": "RB",
-          "team": "HOU"
-        },
-        {
           "player_id": "7547",
           "name": "Amon-Ra St. Brown",
           "position": "WR",
@@ -2547,6 +2541,12 @@
           "name": "Josh Jacobs",
           "position": "RB",
           "team": "GB"
+        },
+        {
+          "player_id": "5892",
+          "name": "David Montgomery",
+          "position": "RB",
+          "team": "HOU"
         },
         {
           "player_id": "6803",
