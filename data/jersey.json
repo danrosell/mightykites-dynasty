@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-16T18:08:53.840Z",
+  "generated_at": "2026-10-16T21:20:33.323Z",
   "source": "Sleeper public API",
   "username": "TheMightyKites",
   "nfl_week": 6,
@@ -568,7 +568,7 @@
           "player_id": "11557",
           "name": "Joe Milton",
           "position": "QB",
-          "team": "DAL"
+          "team": "PHI"
         },
         {
           "player_id": "11618",
@@ -2403,10 +2403,10 @@
           "team": "WAS"
         },
         {
-          "player_id": "11439",
-          "name": "Jaleel McLaughlin",
+          "player_id": "8129",
+          "name": "Dameon Pierce",
           "position": "RB",
-          "team": "CLE"
+          "team": "PHI"
         },
         {
           "player_id": "8112",
@@ -2415,10 +2415,10 @@
           "team": "ATL"
         },
         {
-          "player_id": "10229",
-          "name": "Rashee Rice",
+          "player_id": "13298",
+          "name": "KC Concepcion",
           "position": "WR",
-          "team": "KC"
+          "team": "CLE"
         },
         {
           "player_id": "8121",
@@ -2433,19 +2433,31 @@
           "team": "CHI"
         },
         {
-          "player_id": "8129",
-          "name": "Dameon Pierce",
-          "position": "RB",
-          "team": "PHI"
-        },
-        {
           "player_id": "4037",
           "name": "Chris Godwin",
           "position": "WR",
           "team": "TB"
+        },
+        {
+          "player_id": "0",
+          "name": "0",
+          "position": "—",
+          "team": "FA"
         }
       ],
       "bench": [
+        {
+          "player_id": "10229",
+          "name": "Rashee Rice",
+          "position": "WR",
+          "team": "KC"
+        },
+        {
+          "player_id": "11439",
+          "name": "Jaleel McLaughlin",
+          "position": "RB",
+          "team": "CLE"
+        },
         {
           "player_id": "11729",
           "name": "Sione Vaki",
@@ -2463,12 +2475,6 @@
           "name": "Max Klare",
           "position": "TE",
           "team": "LAR"
-        },
-        {
-          "player_id": "13298",
-          "name": "KC Concepcion",
-          "position": "WR",
-          "team": "CLE"
         },
         {
           "player_id": "13320",

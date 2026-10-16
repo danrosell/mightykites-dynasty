@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-16T18:08:53.394Z",
+  "generated_at": "2026-10-16T21:20:32.885Z",
   "source": "Sleeper public API",
   "username": "TheMightyKites",
   "nfl_week": 6,
@@ -1961,7 +1961,7 @@
           "player_id": "11557",
           "name": "Joe Milton",
           "position": "QB",
-          "team": "DAL"
+          "team": "PHI"
         },
         {
           "player_id": "12503",
@@ -2736,10 +2736,10 @@
           "team": "NYG"
         },
         {
-          "player_id": "4866",
-          "name": "Saquon Barkley",
-          "position": "RB",
-          "team": "PHI"
+          "player_id": "5012",
+          "name": "Mark Andrews",
+          "position": "TE",
+          "team": "BAL"
         },
         {
           "player_id": "8151",
@@ -2792,10 +2792,10 @@
           "team": "TB"
         },
         {
-          "player_id": "5012",
-          "name": "Mark Andrews",
-          "position": "TE",
-          "team": "BAL"
+          "player_id": "4866",
+          "name": "Saquon Barkley",
+          "position": "RB",
+          "team": "PHI"
         },
         {
           "player_id": "6770",

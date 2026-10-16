@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-16T18:08:52.834Z",
+  "generated_at": "2026-10-16T21:20:32.437Z",
   "source": "Sleeper public API",
   "username": "TheMightyKites",
   "nfl_week": 6,
@@ -3028,16 +3028,16 @@
       ],
       "bench": [
         {
+          "player_id": "2449",
+          "name": "Stefon Diggs",
+          "position": "WR",
+          "team": "WAS"
+        },
+        {
           "player_id": "3163",
           "name": "Jared Goff",
           "position": "QB",
           "team": "DET"
-        },
-        {
-          "player_id": "4066",
-          "name": "Evan Engram",
-          "position": "TE",
-          "team": "DEN"
         },
         {
           "player_id": "6039",
@@ -3084,12 +3084,6 @@
           "name": "KC Concepcion",
           "position": "WR",
           "team": "CLE"
-        },
-        {
-          "player_id": "2449",
-          "name": "Stefon Diggs",
-          "position": "WR",
-          "team": "WAS"
         }
       ],
       "picks": [
@@ -3174,10 +3168,10 @@
           "team": "LAR"
         },
         {
-          "player_id": "10229",
-          "name": "Rashee Rice",
+          "player_id": "11637",
+          "name": "Keon Coleman",
           "position": "WR",
-          "team": "KC"
+          "team": "BUF"
         },
         {
           "player_id": "4217",
@@ -3192,10 +3186,10 @@
           "team": "LAR"
         },
         {
-          "player_id": "11637",
-          "name": "Keon Coleman",
+          "player_id": "8121",
+          "name": "Romeo Doubs",
           "position": "WR",
-          "team": "BUF"
+          "team": "NE"
         },
         {
           "player_id": "11564",
@@ -3205,6 +3199,12 @@
         }
       ],
       "bench": [
+        {
+          "player_id": "10229",
+          "name": "Rashee Rice",
+          "position": "WR",
+          "team": "KC"
+        },
         {
           "player_id": "12718",
           "name": "Konata Mumpfield",
@@ -3216,12 +3216,6 @@
           "name": "Geno Smith",
           "position": "QB",
           "team": "NYJ"
-        },
-        {
-          "player_id": "8121",
-          "name": "Romeo Doubs",
-          "position": "WR",
-          "team": "NE"
         },
         {
           "player_id": "8129",

@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-16T18:08:54.233Z",
+  "generated_at": "2026-10-16T21:20:33.756Z",
   "source": "Sleeper public API",
   "username": "TheMightyKites",
   "nfl_week": 6,
@@ -818,10 +818,10 @@
           "team": "CAR"
         },
         {
-          "player_id": "10229",
-          "name": "Rashee Rice",
+          "player_id": "8126",
+          "name": "Wan'Dale Robinson",
           "position": "WR",
-          "team": "KC"
+          "team": "TEN"
         },
         {
           "player_id": "8110",
@@ -848,6 +848,12 @@
           "name": "Chris Rodriguez",
           "position": "RB",
           "team": "JAX"
+        },
+        {
+          "player_id": "10229",
+          "name": "Rashee Rice",
+          "position": "WR",
+          "team": "KC"
         },
         {
           "player_id": "10859",
@@ -914,12 +920,6 @@
           "name": "Cade Otton",
           "position": "TE",
           "team": "TB"
-        },
-        {
-          "player_id": "8126",
-          "name": "Wan'Dale Robinson",
-          "position": "WR",
-          "team": "TEN"
         },
         {
           "player_id": "9228",
@@ -2537,10 +2537,10 @@
           "team": "NO"
         },
         {
-          "player_id": "8148",
-          "name": "Jameson Williams",
+          "player_id": "7571",
+          "name": "Rashod Bateman",
           "position": "WR",
-          "team": "DET"
+          "team": "BAL"
         },
         {
           "player_id": "13346",
@@ -2647,10 +2647,10 @@
           "team": "TB"
         },
         {
-          "player_id": "7571",
-          "name": "Rashod Bateman",
+          "player_id": "8148",
+          "name": "Jameson Williams",
           "position": "WR",
-          "team": "BAL"
+          "team": "DET"
         },
         {
           "player_id": "9221",
