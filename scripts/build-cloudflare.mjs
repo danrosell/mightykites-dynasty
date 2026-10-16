@@ -1,4 +1,5 @@
 // Publish only explicitly selected site assets. No repository files or secrets.
+import {buildIndependentVerification,ROSTER_SOURCE,SCHEDULE_SOURCE} from '../src/analysis/independent.mjs';
 import {mkdir,copyFile,writeFile,readFile} from 'node:fs/promises';
 const leagues=['1393340029132079104','1312927511985807360','1312464433087250432','1312173783108300800'];
 const root=new URL('../',import.meta.url);
@@ -8,7 +9,7 @@ async function get(path){
  if(!r.ok)throw Error(`Sleeper ${path}: HTTP ${r.status}`);
  return r.json();
 }
-const [players,...rosters]=await Promise.all([get('/players/nfl'),...leagues.map(id=>get(`/league/${id}/rosters`))]);
+const [state,players,...rosters]=await Promise.all([get('/state/nfl'),get('/players/nfl'),...leagues.map(id=>get(`/league/${id}/rosters`))]);
 const ids=new Set(rosters.flatMap(teams=>teams.flatMap(r=>[...(r.players||[]),...(r.starters||[]),...(r.reserve||[]),...(r.taxi||[])])).filter(id=>id!=='0'));
 const compact={};
 for(const id of ids){
@@ -24,3 +25,9 @@ await copyFile(new URL('index.html',root),new URL('dist/index.html',root));
 for(const name of ['historical-weekly','imperial','qb-controversy','jersey','tri-state'])await copyFile(new URL(`data/${name}.json`,root),new URL(`dist/data/${name}.json`,root));
 await writeFile(new URL('dist/data/player-metadata.json',root),JSON.stringify({generated_at:new Date().toISOString(),source:'Sleeper public API',players:compact}));
 console.log(`Prepared Cloudflare static assets and ${ids.size} explicit roster player identities`);
+
+async function sourceText(url){const r=await fetch(url,{signal:AbortSignal.timeout(60000)});if(!r.ok)throw Error(`Independent source unavailable: ${r.status}`);return r.text();}
+const [rosterText,scheduleText]=await Promise.all([sourceText(ROSTER_SOURCE),sourceText(SCHEDULE_SOURCE)]);
+const independent=buildIndependentVerification(rosterText,scheduleText,{season:Number(state.season),week:state.week,ids:[...ids],expectedGsis:cache.identities});
+await writeFile(new URL('dist/data/independent-verification.json',root),JSON.stringify(independent));
+console.log(`Verified ${Object.keys(independent.players).length} current player identities against nflverse; week ${independent.week} schedule has ${independent.games.length} games`);

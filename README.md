@@ -77,3 +77,35 @@ own public hostname. Lineup advice remains blocked.
 After deployment, run the live audit against the returned `workers.dev` URL,
 check all four league feeds and the dashboard, and verify Free-plan CPU usage.
 Only then change links away from Netlify. Netlify remains available for rollback.
+
+## Independent verification and legal-slot engine
+
+Cloudflare's QB Controversy response includes `verification`: current-week
+Sleeper IDs and GSIS IDs are joined to nflverse roster records, and all weekly
+ESPN games/kickoffs are cross-checked against nflverse's independent schedule.
+No player-name joins are used. Wrong season/week, conflicting IDs, duplicate
+teams, incomplete games, stale roster data (2 hours) or live schedules (15 minutes)
+block verification. Roster status is reported separately from game-day availability.
+Builds generate the compact verification asset from public feeds using existing
+free hosting; the normal hourly refresh keeps it current.
+
+`src/analysis/lineup.mjs` supplies an exact slot-assignment solver for QB/RB/WR/TE,
+FLEX, SUPER_FLEX, REC_FLEX and WRRB_FLEX (maximum 12 active slots). It prohibits
+duplicate players, freezes started starters in their original slots, excludes
+started bench players, respects verified byes and confirmed inactives, and reports
+only remaining projected points, without inventing scores for locked players.
+Unsupported slot/substitution rules and incomplete candidate projections block
+advice rather than silently restricting the comparison to players with data.
+
+**Production advice remains blocked.** There is no connected official game-day
+availability provider. NFL roster ACT is never converted into confirmed active
+status. A complete verified game-day availability payload and complete eligible
+player projections are required before any lineup can be returned. Synthetic
+tests exercise the ready path; the public endpoint accepts no enable/bypass flag.
+
+After building and starting the local Cloudflare runtime, run
+`node scripts/validate-qb-verification-live.mjs --origin http://127.0.0.1:8787`.
+The audit independently checks every roster identity and schedule against fresh
+source CSVs, checks started-player locks and confirms advice stays blocked.
+CI runs this alongside the independent projection-score audit. Use the same
+command with the deployed URL before merging or releasing this change.

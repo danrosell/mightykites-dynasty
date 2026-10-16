@@ -3,7 +3,7 @@
 const API="https://api.sleeper.app/v1";
 const TEAMS=new Set(["ARI","ATL","BAL","BUF","CAR","CHI","CIN","CLE","DAL","DEN","DET","GB","HOU","IND","JAX","KC","LAC","LAR","LV","MIA","MIN","NE","NO","NYG","NYJ","PHI","PIT","SEA","SF","TB","TEN","WAS"]);
 export function normalizeSchedule(raw,week){
-  const games=raw.filter(g=>Number(g.week)===Number(week)).map(g=>({home:g.home,away:g.away,kickoff:g.kickoff}));
+  const games=raw.filter(g=>Number(g.week)===Number(week)).map(g=>({home:g.home,away:g.away,kickoff:g.kickoff,...(g.game_id?{game_id:g.game_id}:{}),...(g.game_state?{game_state:g.game_state}:{})}));
   if(!games.length)throw new Error("No games for week "+week);
   for(const g of games)if(!TEAMS.has(g.home)||!TEAMS.has(g.away)||!Number.isFinite(Date.parse(g.kickoff)))throw new Error("Invalid schedule game");
   return games;
@@ -19,7 +19,7 @@ export function parseEspnEvents(events,week){
   const home=teams.find(x=>x.homeAway==="home"),away=teams.find(x=>x.homeAway==="away");
   const norm=x=>alias[x?.team?.abbreviation]||x?.team?.abbreviation;
   if(!home||!away)throw new Error("Missing competitors");
-  games.push({week,home:norm(home),away:norm(away),kickoff:comp.date||event.date,game_id:event.id});
+  games.push({week,home:norm(home),away:norm(away),kickoff:comp.date||event.date,game_id:event.id,game_state:event.status?.type?.state||comp.status?.type?.state});
  }
  return normalizeSchedule(games,week);
 }
@@ -38,6 +38,7 @@ return async(request)=>{
     fetcher(ESPN+"?dates="+season+"&seasontype=2&week="+week).then(r=>{if(!r.ok)throw Error("ESPN schedule HTTP "+r.status);return r.json()}),
     get("/players/nfl")
   ]);
+  if(raw.season&&(Number(raw.season.year)!==season||Number(raw.season.type)!==2))throw Error("ESPN returned a different season");
   if(Number(raw.week?.number)!==week)throw new Error("ESPN returned a different week");
   const games=parseEspnEvents(raw.events,week);
   if(games.length<12||games.length>16)throw new Error("Incomplete weekly NFL schedule");
