@@ -1,8 +1,9 @@
 {
-  "generated_at": "2026-10-16T13:19:57.834Z",
+  "generated_at": "2026-10-16T18:08:52.834Z",
   "source": "Sleeper public API",
   "username": "TheMightyKites",
   "nfl_week": 6,
+  "nfl_season": "2026",
   "league": {
     "id": "1393340029132079104",
     "name": "Imperial Gridiron Association",
@@ -60,7 +61,7 @@
       "leg": 6,
       "reserve_slots": 3,
       "reserve_allow_cov": 0,
-      "daily_waivers_last_ran": 15
+      "daily_waivers_last_ran": 16
     },
     "scoring_settings": {
       "sack": 1,
@@ -735,10 +736,10 @@
       "rank": 14,
       "starters": [
         {
-          "player_id": "8155",
-          "name": "Breece Hall",
+          "player_id": "12529",
+          "name": "TreVeyon Henderson",
           "position": "RB",
-          "team": "NYJ"
+          "team": "NE"
         },
         {
           "player_id": "9508",
@@ -837,12 +838,6 @@
       ],
       "reserve": [
         {
-          "player_id": "12529",
-          "name": "TreVeyon Henderson",
-          "position": "RB",
-          "team": "NE"
-        },
-        {
           "player_id": "13281",
           "name": "Jordyn Tyson",
           "position": "WR",
@@ -853,6 +848,12 @@
           "name": "T.J. Hockenson",
           "position": "TE",
           "team": "MIN"
+        },
+        {
+          "player_id": "8155",
+          "name": "Breece Hall",
+          "position": "RB",
+          "team": "NYJ"
         }
       ],
       "picks": [
@@ -1389,6 +1390,12 @@
           "name": "DeeJay Dallas",
           "position": "RB",
           "team": "MIN"
+        },
+        {
+          "player_id": "8116",
+          "name": "Pierre Strong",
+          "position": "RB",
+          "team": "GB"
         }
       ],
       "taxi": [
@@ -1894,10 +1901,10 @@
           "team": "LV"
         },
         {
-          "player_id": "0",
-          "name": "0",
-          "position": "—",
-          "team": "FA"
+          "player_id": "9230",
+          "name": "Tanner McKee",
+          "position": "QB",
+          "team": "PHI"
         }
       ],
       "bench": [
@@ -1906,12 +1913,6 @@
           "name": "Sam LaPorta",
           "position": "TE",
           "team": "DET"
-        },
-        {
-          "player_id": "11370",
-          "name": "Chris Brooks",
-          "position": "RB",
-          "team": "GB"
         },
         {
           "player_id": "12535",
@@ -2081,16 +2082,16 @@
           "team": "BAL"
         },
         {
-          "player_id": "8154",
-          "name": "Brian Robinson",
+          "player_id": "7021",
+          "name": "Rico Dowdle",
           "position": "RB",
-          "team": "ATL"
+          "team": "PIT"
         },
         {
-          "player_id": "9501",
-          "name": "DeMario Douglas",
-          "position": "WR",
-          "team": "NE"
+          "player_id": "13414",
+          "name": "Kaelon Black",
+          "position": "RB",
+          "team": "SF"
         },
         {
           "player_id": "4984",
@@ -2101,22 +2102,10 @@
       ],
       "bench": [
         {
-          "player_id": "12491",
-          "name": "Corey Kiner",
-          "position": "RB",
-          "team": "NE"
-        },
-        {
           "player_id": "12505",
           "name": "Jalen Royals",
           "position": "WR",
           "team": "KC"
-        },
-        {
-          "player_id": "13414",
-          "name": "Kaelon Black",
-          "position": "RB",
-          "team": "SF"
         },
         {
           "player_id": "4017",
@@ -2129,6 +2118,18 @@
           "name": "Ja'Marr Chase",
           "position": "WR",
           "team": "CIN"
+        },
+        {
+          "player_id": "8154",
+          "name": "Brian Robinson",
+          "position": "RB",
+          "team": "ATL"
+        },
+        {
+          "player_id": "9501",
+          "name": "DeMario Douglas",
+          "position": "WR",
+          "team": "NE"
         }
       ],
       "taxi": [
@@ -2153,22 +2154,10 @@
       ],
       "reserve": [
         {
-          "player_id": "11577",
-          "name": "Will Shipley",
-          "position": "RB",
-          "team": "PHI"
-        },
-        {
           "player_id": "4892",
           "name": "Baker Mayfield",
           "position": "QB",
           "team": "TB"
-        },
-        {
-          "player_id": "7021",
-          "name": "Rico Dowdle",
-          "position": "RB",
-          "team": "PIT"
         }
       ],
       "picks": [
@@ -2495,6 +2484,12 @@
           "name": "Samaje Perine",
           "position": "RB",
           "team": "CIN"
+        },
+        {
+          "player_id": "4663",
+          "name": "Austin Ekeler",
+          "position": "RB",
+          "team": "WAS"
         },
         {
           "player_id": "4993",

@@ -1,8 +1,9 @@
 {
-  "generated_at": "2026-10-16T13:19:59.289Z",
+  "generated_at": "2026-10-16T18:08:53.394Z",
   "source": "Sleeper public API",
   "username": "TheMightyKites",
   "nfl_week": 6,
+  "nfl_season": "2026",
   "league": {
     "id": "1312927511985807360",
     "name": "QB Controversy",
@@ -60,7 +61,7 @@
       "daily_waivers_base": 4,
       "reserve_slots": 2,
       "reserve_allow_cov": 1,
-      "daily_waivers_last_ran": 15
+      "daily_waivers_last_ran": 16
     },
     "scoring_settings": {
       "sack": 1,
@@ -1721,7 +1722,7 @@
           "player_id": "6149",
           "name": "Darius Slayton",
           "position": "WR",
-          "team": "IND"
+          "team": "FA"
         },
         {
           "player_id": "7537",
@@ -2148,10 +2149,10 @@
       "rank": 7,
       "starters": [
         {
-          "player_id": "12522",
-          "name": "Cam Ward",
+          "player_id": "11559",
+          "name": "Michael Penix",
           "position": "QB",
-          "team": "TEN"
+          "team": "ATL"
         },
         {
           "player_id": "8138",
@@ -2160,10 +2161,10 @@
           "team": "BUF"
         },
         {
-          "player_id": "13287",
-          "name": "Jeremiyah Love",
+          "player_id": "11576",
+          "name": "Braelon Allen",
           "position": "RB",
-          "team": "ARI"
+          "team": "NYJ"
         },
         {
           "player_id": "11632",
@@ -2172,14 +2173,14 @@
           "team": "NYG"
         },
         {
-          "player_id": "8121",
-          "name": "Romeo Doubs",
-          "position": "WR",
-          "team": "NE"
-        },
-        {
           "player_id": "4454",
           "name": "Kendrick Bourne",
+          "position": "WR",
+          "team": "ARI"
+        },
+        {
+          "player_id": "10232",
+          "name": "Michael Wilson",
           "position": "WR",
           "team": "ARI"
         },
@@ -2222,12 +2223,6 @@
           "team": "LV"
         },
         {
-          "player_id": "11576",
-          "name": "Braelon Allen",
-          "position": "RB",
-          "team": "NYJ"
-        },
-        {
           "player_id": "12486",
           "name": "Dillon Gabriel",
           "position": "QB",
@@ -2240,10 +2235,22 @@
           "team": "SEA"
         },
         {
+          "player_id": "12522",
+          "name": "Cam Ward",
+          "position": "QB",
+          "team": "TEN"
+        },
+        {
           "player_id": "12718",
           "name": "Konata Mumpfield",
           "position": "WR",
           "team": "LAR"
+        },
+        {
+          "player_id": "13287",
+          "name": "Jeremiyah Love",
+          "position": "RB",
+          "team": "ARI"
         },
         {
           "player_id": "4144",
@@ -2270,22 +2277,16 @@
           "team": "BAL"
         },
         {
-          "player_id": "6271",
-          "name": "Olamide Zaccheaus",
+          "player_id": "8121",
+          "name": "Romeo Doubs",
           "position": "WR",
-          "team": "ATL"
+          "team": "NE"
         },
         {
           "player_id": "8134",
           "name": "Khalil Shakir",
           "position": "WR",
           "team": "BUF"
-        },
-        {
-          "player_id": "8225",
-          "name": "Daniel Bellinger",
-          "position": "TE",
-          "team": "TEN"
         },
         {
           "player_id": "9506",
@@ -2340,13 +2341,6 @@
         {
           "season": "2026",
           "round": 3,
-          "original_roster_id": 7,
-          "original_team": "nickdemarinis",
-          "is_own": true
-        },
-        {
-          "season": "2027",
-          "round": 1,
           "original_roster_id": 7,
           "original_team": "nickdemarinis",
           "is_own": true
@@ -3288,10 +3282,10 @@
           "team": "CHI"
         },
         {
-          "player_id": "10232",
-          "name": "Michael Wilson",
-          "position": "WR",
-          "team": "ARI"
+          "player_id": "0",
+          "name": "0",
+          "position": "—",
+          "team": "FA"
         },
         {
           "player_id": "10231",
@@ -3324,12 +3318,6 @@
           "name": "Andrei Iosivas",
           "position": "WR",
           "team": "CIN"
-        },
-        {
-          "player_id": "11559",
-          "name": "Michael Penix",
-          "position": "QB",
-          "team": "ATL"
         },
         {
           "player_id": "11575",
@@ -3473,6 +3461,13 @@
           "original_roster_id": 11,
           "original_team": "Vrabels Secret Family",
           "is_own": true
+        },
+        {
+          "season": "2027",
+          "round": 1,
+          "original_roster_id": 7,
+          "original_team": "nickdemarinis",
+          "is_own": false
         },
         {
           "season": "2027",
@@ -3863,10 +3858,10 @@
           "team": "LAR"
         },
         {
-          "player_id": "4881",
-          "name": "Lamar Jackson",
-          "position": "QB",
-          "team": "BAL"
+          "player_id": "4983",
+          "name": "DJ Moore",
+          "position": "WR",
+          "team": "BUF"
         }
       ],
       "bench": [
@@ -3919,16 +3914,16 @@
           "team": "PHI"
         },
         {
+          "player_id": "4881",
+          "name": "Lamar Jackson",
+          "position": "QB",
+          "team": "BAL"
+        },
+        {
           "player_id": "4943",
           "name": "Sam Darnold",
           "position": "QB",
           "team": "SEA"
-        },
-        {
-          "player_id": "4983",
-          "name": "DJ Moore",
-          "position": "WR",
-          "team": "BUF"
         },
         {
           "player_id": "5859",

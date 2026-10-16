@@ -1,8 +1,9 @@
 {
-  "generated_at": "2026-10-16T13:20:01.308Z",
+  "generated_at": "2026-10-16T18:08:54.233Z",
   "source": "Sleeper public API",
   "username": "TheMightyKites",
   "nfl_week": 6,
+  "nfl_season": "2026",
   "league": {
     "id": "1312173783108300800",
     "name": "Tri State Dynasty",
