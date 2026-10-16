@@ -6,3 +6,8 @@
   from = "/api/league/*"
   to = "/.netlify/functions/league/:splat"
   status = 200
+
+[[redirects]]
+  from = "/api/optimizer/qb-controversy"
+  to = "/.netlify/functions/qb-optimizer"
+  status = 200

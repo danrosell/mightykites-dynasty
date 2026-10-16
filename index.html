@@ -32,10 +32,20 @@ try{let d=await load(L),me=d.my_team;$("status").innerHTML=`<span class="ok"><b>
 $("app").innerHTML=`<div class="grid"><div class="card"><h2>${esc(d.league.name)} <span class="pill">${L.mode}</span></h2><div class="row"><span>Team</span><b>${esc(me.team_name)}</b></div><div class="row"><span>Record</span><b>${esc(me.record)}</b></div><div class="row"><span>Points For</span><b>${me.points_for}</b></div><div class="row"><span>Standing</span><b>${me.rank}/${d.teams.length}</b></div></div>
 <div class="card"><h3>Week ${d.nfl_week}</h3>${d.my_matchup?`<div class="row"><span>${esc(d.my_matchup.me.team)}</span><b>${d.my_matchup.me.points}</b></div><div class="row"><span>${esc(d.my_matchup.opponent.team)}</span><b>${d.my_matchup.opponent.points}</b></div>`:'<div class="muted">No matchup returned.</div>'}</div>
 <div class="card"><h3>Future draft capital</h3>${d.my_picks.map(x=>`<span class="pick">${x.season} R${x.round}${x.is_own?" (own)":" (from "+esc(x.original_team)+")"}</span>`).join("")||'<span class="muted">No picks found.</span>'}</div></div>
+${L.slug==="qb-controversy"?`<div class="card" id="qb-analysis"><h3>Historical baseline projections</h3><div class="muted">Loading cache-backed analysis…</div></div>`:""}
 ${rosterCard(me,"Your roster")}
 <div class="card"><h3>League standings</h3><table><thead><tr><th>#</th><th>Team</th><th>Record</th><th>PF</th></tr></thead><tbody>${d.teams.slice().sort((a,b)=>a.rank-b.rank).map(x=>`<tr><td>${x.rank}</td><td>${esc(x.team_name)}${x.is_me?" <b>(You)</b>":""}</td><td>${esc(x.record)}</td><td>${x.points_for}</td></tr>`).join("")}</tbody></table></div>
 <div class="card"><h3>Trade scouting</h3><select onchange="other(this.value)"><option value="">Select a manager…</option>${d.teams.filter(x=>!x.is_me).map(x=>`<option value="${x.roster_id}">${esc(x.team_name)}</option>`).join("")}</select></div><div id="other"></div>
 <div class="card"><h3>Machine-readable league feed</h3><div class="muted">This is the endpoint ChatGPT and other tools can read without executing the dashboard JavaScript.</div><p class="api"><a style="color:#afc7eb" href="/api/league/${L.slug}" target="_blank">${location.origin}/api/league/${L.slug}</a></p></div>`;
+if(L.slug==="qb-controversy"){
+ try{
+  const response=await fetch("/api/optimizer/qb-controversy");
+  if(!response.ok)throw Error("Analysis endpoint returned "+response.status);
+  const a=await response.json();
+  if(selected!==1)return;
+  $("qb-analysis").innerHTML=`<h3>Historical baseline projections</h3><div class="row"><span>Projected players</span><b>${a.projected_players}/${a.roster_players}</b></div><p class="muted">Weighted game logs through Week ${Number(a.through_week)}. No opponent, injury or weather adjustment.</p><p class="muted">Lineup recommendations blocked: ${esc(a.lineup.reason)}. No schedule or player-identity assumptions made.</p><table><thead><tr><th>Player</th><th>Position</th><th>Projected points</th></tr></thead><tbody>${a.players.map(p=>`<tr><td>${esc(p.name)}</td><td>${esc(p.position)}</td><td>${p.projection.ok?Number(p.projection.projected_points).toFixed(2):esc(p.projection.reason)}</td></tr>`).join("")}</tbody></table>`;
+ }catch(e){if(selected===1)$("qb-analysis").innerHTML=`<h3>Historical baseline projections</h3><span class="error">${esc(e.message)}</span>`}
+}
 }catch(e){$("status").innerHTML=`<span class="error"><b>Bridge connection failed:</b> ${esc(e.message)}</span>`}}
 tabs();render();
 </script></body></html>

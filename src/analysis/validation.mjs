@@ -36,7 +36,7 @@ export function validateLineupInputs(snapshot, schedule, {maxAgeHours=24, now=Da
 }
 export function scoreProjectedStats(stats={},scoring={}) {
   // The Sleeper scoring keys are multipliers per event; never assume generic PPR.
-  const keys=["pass_yd","pass_td","pass_int","pass_2pt","rush_yd","rush_td","rush_att","rush_2pt","rec","rec_yd","rec_td","rec_2pt","fum_lost"];
+  const keys=["pass_yd","pass_td","pass_int","pass_2pt","rush_yd","rush_td","rush_att","rush_2pt","rec","rec_yd","rec_td","rec_2pt","fum_lost","st_td","fum_rec_td"];
   let total=keys.reduce((n,k)=>n+(Number(stats[k]||0)*Number(scoring[k]||0)),0);
   const position=stats.position;
   if(position==="TE")total+=Number(stats.rec||0)*Number(scoring.bonus_rec_te||0);
