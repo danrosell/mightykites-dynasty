@@ -2,7 +2,6 @@
 // A schedule with no player map must not be treated as a verified lineup.
 const API="https://api.sleeper.app/v1";
 const TEAMS=new Set(["ARI","ATL","BAL","BUF","CAR","CHI","CIN","CLE","DAL","DEN","DET","GB","HOU","IND","JAX","KC","LAC","LAR","LV","MIA","MIN","NE","NO","NYG","NYJ","PHI","PIT","SEA","SF","TB","TEN","WAS"]);
-async function get(path){const r=await fetch(API+path);if(!r.ok)throw new Error("Sleeper "+r.status+" "+path);return r.json()}
 export function normalizeSchedule(raw,week){
   const games=raw.filter(g=>Number(g.week)===Number(week)).map(g=>({home:g.home,away:g.away,kickoff:g.kickoff}));
   if(!games.length)throw new Error("No games for week "+week);
@@ -24,7 +23,9 @@ export function parseEspnEvents(events,week){
  }
  return normalizeSchedule(games,week);
 }
-export default async(request)=>{
+export function createPlayerPreflightHandler(fetcher=fetch){
+async function get(path){const r=await fetcher(API+path);if(!r.ok)throw new Error("Sleeper "+r.status+" "+path);return r.json()}
+return async(request)=>{
  try{
   const url=new URL(request.url);
   const requestedWeek=url.searchParams.get("week"),requestedSeason=url.searchParams.get("season");
@@ -34,7 +35,7 @@ export default async(request)=>{
   if(!Number.isInteger(week)||week<1||week>18||!Number.isInteger(season)||season<2020||season>2100)
     return Response.json({error:"Specify NFL regular season and week 1-18",received:{week:requestedWeek,season:requestedSeason},state:state?{week:state.week,season:state.season}:null},{status:400});
   const [raw,players]=await Promise.all([
-    fetch(ESPN+"?dates="+season+"&seasontype=2&week="+week).then(r=>{if(!r.ok)throw Error("ESPN schedule HTTP "+r.status);return r.json()}),
+    fetcher(ESPN+"?dates="+season+"&seasontype=2&week="+week).then(r=>{if(!r.ok)throw Error("ESPN schedule HTTP "+r.status);return r.json()}),
     get("/players/nfl")
   ]);
   if(Number(raw.week?.number)!==week)throw new Error("ESPN returned a different week");
@@ -51,3 +52,6 @@ export default async(request)=>{
   return Response.json({generated_at:new Date().toISOString(),season,week,source:{schedule:"ESPN public scoreboard (undocumented)",players:"Sleeper player metadata"},games,teams_without_game:noGame,players:result,note:"Injury status is informational, not official inactive confirmation. If source fails, do not optimize."},{headers:{"cache-control":"public, max-age=900"}});
  }catch(e){return Response.json({error:e.message,verified:false},{status:502})}
 };
+
+}
+export default request=>createPlayerPreflightHandler()(request);

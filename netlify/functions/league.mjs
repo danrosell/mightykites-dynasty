@@ -6,10 +6,12 @@ const LEAGUES={
  "tri-state":"1312173783108300800"
 };
 const API="https://api.sleeper.app/v1";
-async function j(path){const r=await fetch(API+path);if(!r.ok)throw new Error(`${path}: ${r.status}`);return r.json()}
 const pts=r=>Number((Number(r.settings?.fpts||0)+Number(r.settings?.fpts_decimal||0)/100).toFixed(2));
 const record=r=>`${r.settings?.wins||0}-${r.settings?.losses||0}${r.settings?.ties?'-'+r.settings.ties:''}`;
-export default async (request,context)=>{
+// Injecting the upstream fetch keeps the bridge portable across hosting providers.
+export function createLeagueHandler(fetcher=fetch,{requirePlayerMetadata=false}={}){
+async function j(path){const r=await fetcher(API+path);if(!r.ok)throw new Error(`${path}: ${r.status}`);return r.json()}
+return async (request,context)=>{
  try{
   const url=new URL(request.url),slug=url.pathname.split("/").filter(Boolean).pop(),id=LEAGUES[slug];
   if(!id)return new Response(JSON.stringify({error:"Unknown league",valid:Object.keys(LEAGUES)}),{status:404,headers:{"content-type":"application/json"}});
@@ -17,7 +19,7 @@ export default async (request,context)=>{
   let matchups=[];try{matchups=await j(`/league/${id}/matchups/${state.week||1}`)}catch{}
   const userById=Object.fromEntries(users.map(u=>[u.user_id,u]));
   const teamName=r=>userById[r.owner_id]?.metadata?.team_name||userById[r.owner_id]?.display_name||`Roster ${r.roster_id}`;
-  const po=id=>{const p=players[id]||{};return {player_id:id,name:p.full_name||[p.first_name,p.last_name].filter(Boolean).join(" ")||id,position:p.position||"—",team:p.team||"FA"}};
+  const po=id=>{if(requirePlayerMetadata&&id!=="0"&&!players[id])throw Error("Player metadata missing; refresh deployment: "+id);const p=players[id]||{};return {player_id:id,name:p.full_name||[p.first_name,p.last_name].filter(Boolean).join(" ")||id,position:p.position||"—",team:p.team||"FA"}};
   const meUser=users.find(u=>(u.display_name||"").toLowerCase()===USERNAME.toLowerCase());
   const mine=rosters.find(r=>r.owner_id===meUser?.user_id);
   if(!mine)throw new Error(`Could not find ${USERNAME} roster`);
@@ -49,3 +51,5 @@ export default async (request,context)=>{
   return new Response(JSON.stringify(body,null,2),{headers:{"content-type":"application/json; charset=utf-8","cache-control":"public, max-age=60"}});
  }catch(e){return new Response(JSON.stringify({error:e.message}),{status:500,headers:{"content-type":"application/json"}})}
 };
+}
+export default (request,context)=>createLeagueHandler()(request,context);

@@ -42,3 +42,38 @@ To verify a Netlify preview or production deployment, run
 This verifies actual routing, the published cache and function response as well
 as upstream roster identity and independent scoring calculations. A protected
 preview returning 401 is a failed deployment validation, not permission to merge.
+
+## Cloudflare Workers Free migration
+
+This repository also deploys to Cloudflare Workers **Free** with static assets.
+Use the free `workers.dev` address. No paid bindings, databases, storage products,
+AI APIs, custom domains or paid-plan upgrades are needed. Free limits apply;
+validate the deployed Worker on the Free plan before replacing Netlify.
+
+Install using `pnpm install --frozen-lockfile`. Run `pnpm build` to generate `dist/`
+from the dashboard, verified cache, snapshots, and a compact lookup of current
+Sleeper roster player identities. Repository files and secrets are not published.
+Run `pnpm exec wrangler deploy --dry-run` to check the bundle, and `pnpm dev`
+for the actual local Cloudflare runtime. Run the source audit against its URL:
+`node scripts/validate-qb-live.mjs --origin http://127.0.0.1:8787`.
+
+Cloudflare dashboard setup: Workers & Pages → Create application → Connect GitHub
+→ select this repository. Build command: `pnpm run build`. Deploy command:
+`pnpm exec wrangler deploy`. Select the intended branch under build settings;
+keep previews off until explicitly needed to conserve free build minutes.
+Do not select Workers Paid or add payment details for this migration.
+
+The `/api/league/*` routes still read live rosters, scoring and matchups from
+Sleeper. The compact player lookup is rebuilt at deployment and expires after
+26 hours. New roster IDs absent from that lookup fail closed until rebuilt.
+The existing hourly snapshot workflow now fetches directly from Sleeper, so it
+continues after Netlify is retired; connect the production branch to Cloudflare
+builds to refresh metadata following those commits. Historical logs continue
+refreshing through the existing daily verified nflverse workflow. All four
+league feeds and QB Controversy's optimizer route are preserved. The optimizer
+uses internal calls and the assets binding, without HTTP requests back to its
+own public hostname. Lineup advice remains blocked.
+
+After deployment, run the live audit against the returned `workers.dev` URL,
+check all four league feeds and the dashboard, and verify Free-plan CPU usage.
+Only then change links away from Netlify. Netlify remains available for rollback.

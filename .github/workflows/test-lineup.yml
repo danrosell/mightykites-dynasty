@@ -2,6 +2,10 @@ name: Validate lineup analysis
 on:
   push:
     paths:
+      - "cloudflare/**"
+      - "wrangler.jsonc"
+      - "package.json"
+      - "pnpm-lock.yaml"
       - "src/analysis/**"
       - "tests/**"
       - "scripts/**"
@@ -9,6 +13,10 @@ on:
       - ".github/workflows/test-lineup.yml"
   pull_request:
     paths:
+      - "cloudflare/**"
+      - "wrangler.jsonc"
+      - "package.json"
+      - "pnpm-lock.yaml"
       - "src/analysis/**"
       - "tests/**"
       - "scripts/**"
@@ -33,3 +41,26 @@ jobs:
           NFL_SEASON: "2026"
       - name: Audit QB Controversy functions against live Sleeper and nflverse source rows
         run: node scripts/validate-qb-live.mjs
+      - name: Build Cloudflare assets with compact live player metadata
+        run: node scripts/build-cloudflare.mjs
+      - uses: pnpm/action-setup@v4
+      - name: Install locked Cloudflare tooling
+        run: pnpm install --frozen-lockfile
+      - name: Check Cloudflare deployment package
+        run: pnpm exec wrangler deploy --dry-run
+        env:
+          WRANGLER_SEND_METRICS: "false"
+      - name: Validate real Cloudflare runtime with live Sleeper and source statistics
+        shell: bash
+        run: |
+          set -euo pipefail
+          pnpm exec wrangler dev --ip 127.0.0.1 --port 8787 > /tmp/cloudflare-runtime.log 2>&1 &
+          runtime_pid=$!
+          trap 'kill "$runtime_pid" || true' EXIT
+          for attempt in {1..30}; do
+            if curl --fail --silent http://127.0.0.1:8787/ > /dev/null; then break; fi
+            sleep 2
+          done
+          node scripts/validate-qb-live.mjs --origin http://127.0.0.1:8787
+        env:
+          WRANGLER_SEND_METRICS: "false"
