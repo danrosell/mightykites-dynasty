@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-17T10:54:20.104Z",
+  "generated_at": "2026-10-17T14:15:44.173Z",
   "source": "Sleeper public API",
   "username": "TheMightyKites",
   "nfl_week": 6,
@@ -3394,10 +3394,10 @@
           "team": "ATL"
         },
         {
-          "player_id": "11631",
-          "name": "Brian Thomas",
+          "player_id": "5859",
+          "name": "A.J. Brown",
           "position": "WR",
-          "team": "JAX"
+          "team": "NE"
         },
         {
           "player_id": "7569",
@@ -3424,6 +3424,12 @@
           "name": "Blake Corum",
           "position": "RB",
           "team": "LAR"
+        },
+        {
+          "player_id": "11631",
+          "name": "Brian Thomas",
+          "position": "WR",
+          "team": "JAX"
         },
         {
           "player_id": "12048",
@@ -3492,12 +3498,6 @@
           "team": "MIN"
         },
         {
-          "player_id": "9225",
-          "name": "Tank Bigsby",
-          "position": "RB",
-          "team": "PHI"
-        },
-        {
           "player_id": "9504",
           "name": "Kayshon Boutte",
           "position": "WR",
@@ -3525,10 +3525,10 @@
           "team": "NO"
         },
         {
-          "player_id": "5859",
-          "name": "A.J. Brown",
-          "position": "WR",
-          "team": "NE"
+          "player_id": "9225",
+          "name": "Tank Bigsby",
+          "position": "RB",
+          "team": "PHI"
         }
       ],
       "picks": [

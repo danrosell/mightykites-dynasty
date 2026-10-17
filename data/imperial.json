@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-17T10:54:19.346Z",
+  "generated_at": "2026-10-17T14:15:43.111Z",
   "source": "Sleeper public API",
   "username": "TheMightyKites",
   "nfl_week": 6,
@@ -1318,10 +1318,10 @@
           "team": "ARI"
         },
         {
-          "player_id": "0",
-          "name": "0",
-          "position": "—",
-          "team": "FA"
+          "player_id": "8116",
+          "name": "Pierre Strong",
+          "position": "RB",
+          "team": "GB"
         },
         {
           "player_id": "11620",
@@ -1390,12 +1390,6 @@
           "name": "DeeJay Dallas",
           "position": "RB",
           "team": "MIN"
-        },
-        {
-          "player_id": "8116",
-          "name": "Pierre Strong",
-          "position": "RB",
-          "team": "GB"
         }
       ],
       "taxi": [

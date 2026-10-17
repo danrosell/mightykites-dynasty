@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-17T10:54:20.409Z",
+  "generated_at": "2026-10-17T14:15:44.494Z",
   "source": "Sleeper public API",
   "username": "TheMightyKites",
   "nfl_week": 6,
@@ -61,7 +61,7 @@
       "leg": 6,
       "reserve_slots": 3,
       "reserve_allow_cov": 1,
-      "daily_waivers_last_ran": 16
+      "daily_waivers_last_ran": 17
     },
     "scoring_settings": {
       "sack": 2,
@@ -2347,10 +2347,10 @@
           "team": "NYG"
         },
         {
-          "player_id": "8800",
-          "name": "Malik Davis",
-          "position": "RB",
-          "team": "DAL"
+          "player_id": "9230",
+          "name": "Tanner McKee",
+          "position": "QB",
+          "team": "PHI"
         }
       ],
       "taxi": [
