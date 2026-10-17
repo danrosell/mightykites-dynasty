@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-17T17:20:12.214Z",
+  "generated_at": "2026-10-17T20:43:07.554Z",
   "source": "Sleeper public API",
   "username": "TheMightyKites",
   "nfl_week": 6,
@@ -2082,10 +2082,10 @@
           "team": "BAL"
         },
         {
-          "player_id": "7021",
-          "name": "Rico Dowdle",
+          "player_id": "8154",
+          "name": "Brian Robinson",
           "position": "RB",
-          "team": "PIT"
+          "team": "ATL"
         },
         {
           "player_id": "13414",
@@ -2114,16 +2114,16 @@
           "team": "CLE"
         },
         {
+          "player_id": "7021",
+          "name": "Rico Dowdle",
+          "position": "RB",
+          "team": "PIT"
+        },
+        {
           "player_id": "7564",
           "name": "Ja'Marr Chase",
           "position": "WR",
           "team": "CIN"
-        },
-        {
-          "player_id": "8154",
-          "name": "Brian Robinson",
-          "position": "RB",
-          "team": "ATL"
         },
         {
           "player_id": "9501",
