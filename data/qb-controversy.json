@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-17T20:43:07.961Z",
+  "generated_at": "2026-10-17T23:12:01.081Z",
   "source": "Sleeper public API",
   "username": "TheMightyKites",
   "nfl_week": 6,
@@ -3631,12 +3631,6 @@
           "team": "IND"
         },
         {
-          "player_id": "12472",
-          "name": "Raheim Sanders",
-          "position": "RB",
-          "team": "CLE"
-        },
-        {
           "player_id": "12495",
           "name": "Ollie Gordon",
           "position": "RB",
@@ -3653,6 +3647,12 @@
           "name": "Kaleb Johnson",
           "position": "RB",
           "team": "GB"
+        },
+        {
+          "player_id": "12531",
+          "name": "Trevor Etienne",
+          "position": "RB",
+          "team": "CAR"
         },
         {
           "player_id": "12543",
@@ -3707,10 +3707,10 @@
       ],
       "reserve": [
         {
-          "player_id": "12531",
-          "name": "Trevor Etienne",
+          "player_id": "12472",
+          "name": "Raheim Sanders",
           "position": "RB",
-          "team": "CAR"
+          "team": "CLE"
         },
         {
           "player_id": "9502",
@@ -4182,6 +4182,12 @@
           "team": "MIA"
         },
         {
+          "player_id": "11626",
+          "name": "Xavier Legette",
+          "position": "WR",
+          "team": "CAR"
+        },
+        {
           "player_id": "11650",
           "name": "Luke McCaffrey",
           "position": "WR",
@@ -4218,12 +4224,6 @@
           "team": "SF"
         },
         {
-          "player_id": "6904",
-          "name": "Jalen Hurts",
-          "position": "QB",
-          "team": "PHI"
-        },
-        {
           "player_id": "8135",
           "name": "Treylon Burks",
           "position": "WR",
@@ -4258,16 +4258,16 @@
       ],
       "reserve": [
         {
-          "player_id": "11626",
-          "name": "Xavier Legette",
-          "position": "WR",
-          "team": "CAR"
-        },
-        {
           "player_id": "13964",
           "name": "Myles Montgomery",
           "position": "RB",
           "team": "NE"
+        },
+        {
+          "player_id": "6904",
+          "name": "Jalen Hurts",
+          "position": "QB",
+          "team": "PHI"
         }
       ],
       "picks": [
