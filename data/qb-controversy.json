@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-16T21:20:32.885Z",
+  "generated_at": "2026-10-17T00:34:17.291Z",
   "source": "Sleeper public API",
   "username": "TheMightyKites",
   "nfl_week": 6,
@@ -1042,10 +1042,10 @@
           "team": "CAR"
         },
         {
-          "player_id": "12534",
-          "name": "Kyle Monangai",
+          "player_id": "13424",
+          "name": "Seth McGowan",
           "position": "RB",
-          "team": "CHI"
+          "team": "IND"
         },
         {
           "player_id": "11647",
@@ -1134,6 +1134,12 @@
           "team": "PHI"
         },
         {
+          "player_id": "12534",
+          "name": "Kyle Monangai",
+          "position": "RB",
+          "team": "CHI"
+        },
+        {
           "player_id": "12544",
           "name": "LeQuint Allen",
           "position": "RB",
@@ -1156,12 +1162,6 @@
           "name": "De'Zhaun Stribling",
           "position": "WR",
           "team": "SF"
-        },
-        {
-          "player_id": "13424",
-          "name": "Seth McGowan",
-          "position": "RB",
-          "team": "IND"
         },
         {
           "player_id": "1737",

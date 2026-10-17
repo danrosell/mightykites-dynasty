@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-16T21:20:32.437Z",
+  "generated_at": "2026-10-17T00:34:16.917Z",
   "source": "Sleeper public API",
   "username": "TheMightyKites",
   "nfl_week": 6,
@@ -2454,10 +2454,10 @@
           "team": "GB"
         },
         {
-          "player_id": "0",
-          "name": "0",
-          "position": "—",
-          "team": "FA"
+          "player_id": "4663",
+          "name": "Austin Ekeler",
+          "position": "RB",
+          "team": "WAS"
         },
         {
           "player_id": "12542",
@@ -2484,12 +2484,6 @@
           "name": "Samaje Perine",
           "position": "RB",
           "team": "CIN"
-        },
-        {
-          "player_id": "4663",
-          "name": "Austin Ekeler",
-          "position": "RB",
-          "team": "WAS"
         },
         {
           "player_id": "4993",
