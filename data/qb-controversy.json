@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-17T14:15:43.715Z",
+  "generated_at": "2026-10-17T17:20:12.585Z",
   "source": "Sleeper public API",
   "username": "TheMightyKites",
   "nfl_week": 6,
@@ -61,7 +61,7 @@
       "daily_waivers_base": 4,
       "reserve_slots": 2,
       "reserve_allow_cov": 1,
-      "daily_waivers_last_ran": 16
+      "daily_waivers_last_ran": 17
     },
     "scoring_settings": {
       "sack": 1,
@@ -3858,10 +3858,10 @@
           "team": "LAR"
         },
         {
-          "player_id": "4983",
-          "name": "DJ Moore",
+          "player_id": "5859",
+          "name": "A.J. Brown",
           "position": "WR",
-          "team": "BUF"
+          "team": "NE"
         }
       ],
       "bench": [
@@ -3926,10 +3926,10 @@
           "team": "SEA"
         },
         {
-          "player_id": "5859",
-          "name": "A.J. Brown",
+          "player_id": "4983",
+          "name": "DJ Moore",
           "position": "WR",
-          "team": "NE"
+          "team": "BUF"
         },
         {
           "player_id": "5906",

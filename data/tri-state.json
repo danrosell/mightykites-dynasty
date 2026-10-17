@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-17T14:15:44.494Z",
+  "generated_at": "2026-10-17T17:20:13.387Z",
   "source": "Sleeper public API",
   "username": "TheMightyKites",
   "nfl_week": 6,
@@ -1330,8 +1330,8 @@
           "team": "NE"
         },
         {
-          "player_id": "13287",
-          "name": "Jeremiyah Love",
+          "player_id": "8132",
+          "name": "Tyler Allgeier",
           "position": "RB",
           "team": "ARI"
         },
@@ -1366,10 +1366,10 @@
           "team": "NO"
         },
         {
-          "player_id": "12533",
-          "name": "Jacory Croskey-Merritt",
-          "position": "RB",
-          "team": "WAS"
+          "player_id": "2505",
+          "name": "Darren Waller",
+          "position": "TE",
+          "team": "CAR"
         },
         {
           "player_id": "1166",
@@ -1410,6 +1410,18 @@
           "team": "SEA"
         },
         {
+          "player_id": "12533",
+          "name": "Jacory Croskey-Merritt",
+          "position": "RB",
+          "team": "WAS"
+        },
+        {
+          "player_id": "13287",
+          "name": "Jeremiyah Love",
+          "position": "RB",
+          "team": "ARI"
+        },
+        {
           "player_id": "13298",
           "name": "KC Concepcion",
           "position": "WR",
@@ -1420,12 +1432,6 @@
           "name": "Ted Hurst",
           "position": "WR",
           "team": "TB"
-        },
-        {
-          "player_id": "2505",
-          "name": "Darren Waller",
-          "position": "TE",
-          "team": "CAR"
         },
         {
           "player_id": "3321",
@@ -1456,12 +1462,6 @@
           "name": "Tee Higgins",
           "position": "WR",
           "team": "CIN"
-        },
-        {
-          "player_id": "8132",
-          "name": "Tyler Allgeier",
-          "position": "RB",
-          "team": "ARI"
         },
         {
           "player_id": "8172",
@@ -1734,16 +1734,16 @@
           "team": "KC"
         },
         {
+          "player_id": "5859",
+          "name": "A.J. Brown",
+          "position": "WR",
+          "team": "NE"
+        },
+        {
           "player_id": "4217",
           "name": "George Kittle",
           "position": "TE",
           "team": "SF"
-        },
-        {
-          "player_id": "1373",
-          "name": "Geno Smith",
-          "position": "QB",
-          "team": "NYJ"
         }
       ],
       "bench": [
@@ -1784,16 +1784,16 @@
           "team": "CLE"
         },
         {
+          "player_id": "1373",
+          "name": "Geno Smith",
+          "position": "QB",
+          "team": "NYJ"
+        },
+        {
           "player_id": "3161",
           "name": "Carson Wentz",
           "position": "QB",
           "team": "MIN"
-        },
-        {
-          "player_id": "4033",
-          "name": "David Njoku",
-          "position": "TE",
-          "team": "LAC"
         },
         {
           "player_id": "4066",
@@ -1847,10 +1847,10 @@
       "taxi": [],
       "reserve": [
         {
-          "player_id": "5859",
-          "name": "A.J. Brown",
-          "position": "WR",
-          "team": "NE"
+          "player_id": "4033",
+          "name": "David Njoku",
+          "position": "TE",
+          "team": "LAC"
         },
         {
           "player_id": "8408",
