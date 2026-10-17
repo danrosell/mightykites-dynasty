@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-17T00:34:17.778Z",
+  "generated_at": "2026-10-17T05:40:11.086Z",
   "source": "Sleeper public API",
   "username": "TheMightyKites",
   "nfl_week": 6,
@@ -2439,10 +2439,10 @@
           "team": "TB"
         },
         {
-          "player_id": "0",
-          "name": "0",
-          "position": "—",
-          "team": "FA"
+          "player_id": "13421",
+          "name": "Eli Raridon",
+          "position": "TE",
+          "team": "NE"
         }
       ],
       "bench": [
@@ -2499,12 +2499,6 @@
           "name": "Kaytron Allen",
           "position": "RB",
           "team": "MIA"
-        },
-        {
-          "player_id": "13421",
-          "name": "Eli Raridon",
-          "position": "TE",
-          "team": "NE"
         },
         {
           "player_id": "4033",
@@ -3670,10 +3664,10 @@
           "team": "WAS"
         },
         {
-          "player_id": "13287",
-          "name": "Jeremiyah Love",
+          "player_id": "9757",
+          "name": "Kendre Miller",
           "position": "RB",
-          "team": "ARI"
+          "team": "NO"
         },
         {
           "player_id": "12507",
@@ -3706,10 +3700,10 @@
           "team": "NO"
         },
         {
-          "player_id": "12506",
-          "name": "Harold Fannin",
-          "position": "TE",
-          "team": "CLE"
+          "player_id": "8132",
+          "name": "Tyler Allgeier",
+          "position": "RB",
+          "team": "ARI"
         },
         {
           "player_id": "11624",
@@ -3756,6 +3750,12 @@
           "team": "TEN"
         },
         {
+          "player_id": "12506",
+          "name": "Harold Fannin",
+          "position": "TE",
+          "team": "CLE"
+        },
+        {
           "player_id": "12510",
           "name": "Jalen Milroe",
           "position": "QB",
@@ -3778,6 +3778,12 @@
           "name": "Malachi Fields",
           "position": "WR",
           "team": "NYG"
+        },
+        {
+          "player_id": "13287",
+          "name": "Jeremiyah Love",
+          "position": "RB",
+          "team": "ARI"
         },
         {
           "player_id": "13301",
@@ -3816,12 +3822,6 @@
           "team": "PIT"
         },
         {
-          "player_id": "8132",
-          "name": "Tyler Allgeier",
-          "position": "RB",
-          "team": "ARI"
-        },
-        {
           "player_id": "8147",
           "name": "John Metchie",
           "position": "WR",
@@ -3832,12 +3832,6 @@
           "name": "Tyquan Thornton",
           "position": "WR",
           "team": "KC"
-        },
-        {
-          "player_id": "9757",
-          "name": "Kendre Miller",
-          "position": "RB",
-          "team": "NO"
         }
       ],
       "taxi": [],

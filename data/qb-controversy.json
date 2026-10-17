@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-17T00:34:17.291Z",
+  "generated_at": "2026-10-17T05:40:10.478Z",
   "source": "Sleeper public API",
   "username": "TheMightyKites",
   "nfl_week": 6,
@@ -1944,10 +1944,10 @@
           "team": "KC"
         },
         {
-          "player_id": "1373",
-          "name": "Geno Smith",
+          "player_id": "7083",
+          "name": "Tyler Huntley",
           "position": "QB",
-          "team": "NYJ"
+          "team": "BAL"
         }
       ],
       "bench": [
@@ -1988,6 +1988,12 @@
           "team": "NO"
         },
         {
+          "player_id": "1373",
+          "name": "Geno Smith",
+          "position": "QB",
+          "team": "NYJ"
+        },
+        {
           "player_id": "4017",
           "name": "Deshaun Watson",
           "position": "QB",
@@ -2010,12 +2016,6 @@
           "name": "Colby Parkinson",
           "position": "TE",
           "team": "LAR"
-        },
-        {
-          "player_id": "7083",
-          "name": "Tyler Huntley",
-          "position": "QB",
-          "team": "BAL"
         },
         {
           "player_id": "7527",
@@ -2990,10 +2990,10 @@
           "team": "NE"
         },
         {
-          "player_id": "10229",
-          "name": "Rashee Rice",
+          "player_id": "12499",
+          "name": "Elic Ayomanor",
           "position": "WR",
-          "team": "KC"
+          "team": "TEN"
         },
         {
           "player_id": "9486",
@@ -3028,6 +3028,12 @@
       ],
       "bench": [
         {
+          "player_id": "10229",
+          "name": "Rashee Rice",
+          "position": "WR",
+          "team": "KC"
+        },
+        {
           "player_id": "11655",
           "name": "Tyrone Tracy",
           "position": "RB",
@@ -3044,12 +3050,6 @@
           "name": "Terrance Ferguson",
           "position": "TE",
           "team": "LAR"
-        },
-        {
-          "player_id": "12499",
-          "name": "Elic Ayomanor",
-          "position": "WR",
-          "team": "TEN"
         },
         {
           "player_id": "12502",

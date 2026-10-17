@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-17T00:34:16.917Z",
+  "generated_at": "2026-10-17T05:40:10.040Z",
   "source": "Sleeper public API",
   "username": "TheMightyKites",
   "nfl_week": 6,
@@ -1515,10 +1515,10 @@
           "team": "NO"
         },
         {
-          "player_id": "12547",
-          "name": "Kyle Williams",
+          "player_id": "11635",
+          "name": "Ladd McConkey",
           "position": "WR",
-          "team": "NE"
+          "team": "LAC"
         },
         {
           "player_id": "8144",
@@ -1559,10 +1559,10 @@
           "team": "LAR"
         },
         {
-          "player_id": "11635",
-          "name": "Ladd McConkey",
+          "player_id": "12547",
+          "name": "Kyle Williams",
           "position": "WR",
-          "team": "LAC"
+          "team": "NE"
         },
         {
           "player_id": "7049",
@@ -2815,10 +2815,10 @@
           "team": "PIT"
         },
         {
-          "player_id": "4035",
-          "name": "Alvin Kamara",
+          "player_id": "11576",
+          "name": "Braelon Allen",
           "position": "RB",
-          "team": "NO"
+          "team": "NYJ"
         },
         {
           "player_id": "5927",
@@ -2834,12 +2834,6 @@
         }
       ],
       "bench": [
-        {
-          "player_id": "11576",
-          "name": "Braelon Allen",
-          "position": "RB",
-          "team": "NYJ"
-        },
         {
           "player_id": "11608",
           "name": "Isaiah Williams",
@@ -2863,6 +2857,12 @@
           "name": "Tyreek Hill",
           "position": "WR",
           "team": "FA"
+        },
+        {
+          "player_id": "4035",
+          "name": "Alvin Kamara",
+          "position": "RB",
+          "team": "NO"
         }
       ],
       "taxi": [
