@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-18T06:01:29.888Z",
+  "generated_at": "2026-10-18T11:20:45.384Z",
   "source": "Sleeper public API",
   "username": "TheMightyKites",
   "nfl_week": 6,
@@ -2122,10 +2122,10 @@
           "team": "GB"
         },
         {
-          "player_id": "3271",
-          "name": "Tyler Higbee",
+          "player_id": "5022",
+          "name": "Dallas Goedert",
           "position": "TE",
-          "team": "LAR"
+          "team": "PHI"
         },
         {
           "player_id": "11628",
@@ -2134,10 +2134,10 @@
           "team": "HOU"
         },
         {
-          "player_id": "13305",
-          "name": "Mike Washington",
-          "position": "RB",
-          "team": "LV"
+          "player_id": "3271",
+          "name": "Tyler Higbee",
+          "position": "TE",
+          "team": "LAR"
         }
       ],
       "bench": [
@@ -2164,6 +2164,12 @@
           "name": "CJ Daniels",
           "position": "WR",
           "team": "LAR"
+        },
+        {
+          "player_id": "13305",
+          "name": "Mike Washington",
+          "position": "RB",
+          "team": "LV"
         },
         {
           "player_id": "13333",
@@ -2217,12 +2223,6 @@
           "player_id": "4866",
           "name": "Saquon Barkley",
           "position": "RB",
-          "team": "PHI"
-        },
-        {
-          "player_id": "5022",
-          "name": "Dallas Goedert",
-          "position": "TE",
           "team": "PHI"
         },
         {
