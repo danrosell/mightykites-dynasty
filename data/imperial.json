@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-18T18:41:26.670Z",
+  "generated_at": "2026-10-18T21:34:26.448Z",
   "source": "Sleeper public API",
   "username": "TheMightyKites",
   "nfl_week": 6,
@@ -301,11 +301,11 @@
   "my_matchup": {
     "me": {
       "team": "TheMightyKites",
-      "points": 16.7
+      "points": 67.18
     },
     "opponent": {
       "team": "chane broken",
-      "points": 38.5,
+      "points": 62,
       "roster_id": 17
     }
   },
@@ -2060,10 +2060,10 @@
           "team": "CHI"
         },
         {
-          "player_id": "4983",
-          "name": "DJ Moore",
+          "player_id": "12505",
+          "name": "Jalen Royals",
           "position": "WR",
-          "team": "BUF"
+          "team": "KC"
         },
         {
           "player_id": "8146",
@@ -2098,16 +2098,16 @@
       ],
       "bench": [
         {
-          "player_id": "12505",
-          "name": "Jalen Royals",
-          "position": "WR",
-          "team": "KC"
-        },
-        {
           "player_id": "4017",
           "name": "Deshaun Watson",
           "position": "QB",
           "team": "CLE"
+        },
+        {
+          "player_id": "4983",
+          "name": "DJ Moore",
+          "position": "WR",
+          "team": "BUF"
         },
         {
           "player_id": "7021",
