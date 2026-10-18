@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-18T15:57:49.965Z",
+  "generated_at": "2026-10-18T18:41:27.969Z",
   "source": "Sleeper public API",
   "username": "TheMightyKites",
   "nfl_week": 6,
@@ -410,11 +410,11 @@
   "my_matchup": {
     "me": {
       "team": "TheMightyKites",
-      "points": 10.8
+      "points": 65.82
     },
     "opponent": {
       "team": "jayjay1823",
-      "points": 21.34,
+      "points": 44.1,
       "roster_id": 8
     }
   },
@@ -515,10 +515,10 @@
           "team": "SEA"
         },
         {
-          "player_id": "12481",
-          "name": "Cam Skattebo",
+          "player_id": "8228",
+          "name": "Jaylen Warren",
           "position": "RB",
-          "team": "NYG"
+          "team": "PIT"
         },
         {
           "player_id": "12519",
@@ -533,10 +533,10 @@
           "team": "DEN"
         },
         {
-          "player_id": "4454",
-          "name": "Kendrick Bourne",
+          "player_id": "7525",
+          "name": "DeVonta Smith",
           "position": "WR",
-          "team": "ARI"
+          "team": "PHI"
         },
         {
           "player_id": "8130",
@@ -545,16 +545,16 @@
           "team": "ARI"
         },
         {
-          "player_id": "8228",
-          "name": "Jaylen Warren",
-          "position": "RB",
-          "team": "PIT"
-        },
-        {
           "player_id": "11581",
           "name": "MarShawn Lloyd",
           "position": "RB",
           "team": "GB"
+        },
+        {
+          "player_id": "12522",
+          "name": "Cam Ward",
+          "position": "QB",
+          "team": "TEN"
         }
       ],
       "bench": [
@@ -577,10 +577,10 @@
           "team": "HOU"
         },
         {
-          "player_id": "12522",
-          "name": "Cam Ward",
-          "position": "QB",
-          "team": "TEN"
+          "player_id": "12481",
+          "name": "Cam Skattebo",
+          "position": "RB",
+          "team": "NYG"
         },
         {
           "player_id": "3271",
@@ -593,6 +593,12 @@
           "name": "Chris Godwin",
           "position": "WR",
           "team": "TB"
+        },
+        {
+          "player_id": "4454",
+          "name": "Kendrick Bourne",
+          "position": "WR",
+          "team": "ARI"
         },
         {
           "player_id": "4881",
@@ -623,12 +629,6 @@
           "name": "Rico Dowdle",
           "position": "RB",
           "team": "PIT"
-        },
-        {
-          "player_id": "7525",
-          "name": "DeVonta Smith",
-          "position": "WR",
-          "team": "PHI"
         },
         {
           "player_id": "8136",
@@ -1992,10 +1992,10 @@
           "team": "CHI"
         },
         {
-          "player_id": "12518",
-          "name": "Tyler Warren",
-          "position": "TE",
-          "team": "IND"
+          "player_id": "5846",
+          "name": "DK Metcalf",
+          "position": "WR",
+          "team": "PIT"
         },
         {
           "player_id": "3294",
@@ -2030,6 +2030,12 @@
           "team": "WAS"
         },
         {
+          "player_id": "12518",
+          "name": "Tyler Warren",
+          "position": "TE",
+          "team": "IND"
+        },
+        {
           "player_id": "12529",
           "name": "TreVeyon Henderson",
           "position": "RB",
@@ -2046,12 +2052,6 @@
           "name": "Hunter Henry",
           "position": "TE",
           "team": "NE"
-        },
-        {
-          "player_id": "5846",
-          "name": "DK Metcalf",
-          "position": "WR",
-          "team": "PIT"
         },
         {
           "player_id": "5892",

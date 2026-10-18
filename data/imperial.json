@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-18T15:57:48.628Z",
+  "generated_at": "2026-10-18T18:41:26.670Z",
   "source": "Sleeper public API",
   "username": "TheMightyKites",
   "nfl_week": 6,
@@ -61,7 +61,7 @@
       "leg": 6,
       "reserve_slots": 3,
       "reserve_allow_cov": 0,
-      "daily_waivers_last_ran": 17
+      "daily_waivers_last_ran": 18
     },
     "scoring_settings": {
       "sack": 1,
@@ -301,11 +301,11 @@
   "my_matchup": {
     "me": {
       "team": "TheMightyKites",
-      "points": 6.1
+      "points": 16.7
     },
     "opponent": {
       "team": "chane broken",
-      "points": 21.9,
+      "points": 38.5,
       "roster_id": 17
     }
   },
@@ -1152,16 +1152,16 @@
           "team": "CAR"
         },
         {
-          "player_id": "12518",
-          "name": "Tyler Warren",
-          "position": "TE",
-          "team": "IND"
-        },
-        {
           "player_id": "3214",
           "name": "Hunter Henry",
           "position": "TE",
           "team": "NE"
+        },
+        {
+          "player_id": "11571",
+          "name": "Isaiah Davis",
+          "position": "RB",
+          "team": "NYJ"
         },
         {
           "player_id": "12536",
@@ -1184,10 +1184,10 @@
           "team": "CHI"
         },
         {
-          "player_id": "11571",
-          "name": "Isaiah Davis",
-          "position": "RB",
-          "team": "NYJ"
+          "player_id": "12518",
+          "name": "Tyler Warren",
+          "position": "TE",
+          "team": "IND"
         },
         {
           "player_id": "13317",

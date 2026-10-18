@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-18T15:57:49.025Z",
+  "generated_at": "2026-10-18T18:41:27.192Z",
   "source": "Sleeper public API",
   "username": "TheMightyKites",
   "nfl_week": 6,
@@ -61,7 +61,7 @@
       "daily_waivers_base": 4,
       "reserve_slots": 2,
       "reserve_allow_cov": 1,
-      "daily_waivers_last_ran": 17
+      "daily_waivers_last_ran": 18
     },
     "scoring_settings": {
       "sack": 1,
@@ -155,10 +155,10 @@
         "team": "CHI"
       },
       {
-        "player_id": "12512",
-        "name": "Quinshon Judkins",
+        "player_id": "4663",
+        "name": "Austin Ekeler",
         "position": "RB",
-        "team": "CLE"
+        "team": "WAS"
       },
       {
         "player_id": "7611",
@@ -241,6 +241,12 @@
         "team": "NYJ"
       },
       {
+        "player_id": "12512",
+        "name": "Quinshon Judkins",
+        "position": "RB",
+        "team": "CLE"
+      },
+      {
         "player_id": "12541",
         "name": "Dont'e Thornton",
         "position": "WR",
@@ -263,12 +269,6 @@
         "name": "Mike Washington",
         "position": "RB",
         "team": "LV"
-      },
-      {
-        "player_id": "4663",
-        "name": "Austin Ekeler",
-        "position": "RB",
-        "team": "WAS"
       },
       {
         "player_id": "7039",
@@ -412,11 +412,11 @@
   "my_matchup": {
     "me": {
       "team": "The Ham Cannons",
-      "points": 21.4
+      "points": 59.41
     },
     "opponent": {
       "team": "Tenacious D",
-      "points": 12,
+      "points": 53.92,
       "roster_id": 1
     }
   },
@@ -811,10 +811,10 @@
           "team": "SF"
         },
         {
-          "player_id": "2197",
-          "name": "Brandin Cooks",
-          "position": "WR",
-          "team": "SF"
+          "player_id": "13330",
+          "name": "Kenyon Sadiq",
+          "position": "TE",
+          "team": "NYJ"
         },
         {
           "player_id": "3257",
@@ -837,10 +837,10 @@
           "team": "SEA"
         },
         {
-          "player_id": "13330",
-          "name": "Kenyon Sadiq",
-          "position": "TE",
-          "team": "NYJ"
+          "player_id": "2197",
+          "name": "Brandin Cooks",
+          "position": "WR",
+          "team": "SF"
         },
         {
           "player_id": "3163",
@@ -2422,10 +2422,10 @@
           "team": "CHI"
         },
         {
-          "player_id": "12512",
-          "name": "Quinshon Judkins",
+          "player_id": "4663",
+          "name": "Austin Ekeler",
           "position": "RB",
-          "team": "CLE"
+          "team": "WAS"
         },
         {
           "player_id": "7611",
@@ -2508,6 +2508,12 @@
           "team": "NYJ"
         },
         {
+          "player_id": "12512",
+          "name": "Quinshon Judkins",
+          "position": "RB",
+          "team": "CLE"
+        },
+        {
           "player_id": "12541",
           "name": "Dont'e Thornton",
           "position": "WR",
@@ -2530,12 +2536,6 @@
           "name": "Mike Washington",
           "position": "RB",
           "team": "LV"
-        },
-        {
-          "player_id": "4663",
-          "name": "Austin Ekeler",
-          "position": "RB",
-          "team": "WAS"
         },
         {
           "player_id": "7039",

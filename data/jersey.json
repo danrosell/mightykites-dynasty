@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-18T15:57:49.645Z",
+  "generated_at": "2026-10-18T18:41:27.662Z",
   "source": "Sleeper public API",
   "username": "TheMightyKites",
   "nfl_week": 6,
@@ -58,7 +58,7 @@
       "leg": 6,
       "reserve_slots": 2,
       "reserve_allow_cov": 0,
-      "daily_waivers_last_ran": 17
+      "daily_waivers_last_ran": 18
     },
     "scoring_settings": {
       "sack": 1,
@@ -416,11 +416,11 @@
   "my_matchup": {
     "me": {
       "team": "TheMightyKites",
-      "points": 13.7
+      "points": 44.8
     },
     "opponent": {
       "team": "Beast Mode",
-      "points": 11.95,
+      "points": 33.05,
       "roster_id": 6
     }
   },
@@ -847,10 +847,10 @@
           "team": "LV"
         },
         {
-          "player_id": "12518",
-          "name": "Tyler Warren",
-          "position": "TE",
-          "team": "IND"
+          "player_id": "9508",
+          "name": "Tyjae Spears",
+          "position": "RB",
+          "team": "TEN"
         }
       ],
       "bench": [
@@ -895,6 +895,12 @@
           "name": "Tez Johnson",
           "position": "WR",
           "team": "TB"
+        },
+        {
+          "player_id": "12518",
+          "name": "Tyler Warren",
+          "position": "TE",
+          "team": "IND"
         },
         {
           "player_id": "12535",
@@ -967,12 +973,6 @@
           "name": "DeMario Douglas",
           "position": "WR",
           "team": "NE"
-        },
-        {
-          "player_id": "9508",
-          "name": "Tyjae Spears",
-          "position": "RB",
-          "team": "TEN"
         }
       ],
       "taxi": [],
@@ -2141,6 +2141,12 @@
         }
       ],
       "bench": [
+        {
+          "player_id": "11616",
+          "name": "Jacob Cowing",
+          "position": "WR",
+          "team": "SF"
+        },
         {
           "player_id": "12457",
           "name": "Jaydon Blue",
@@ -3658,10 +3664,10 @@
           "team": "WAS"
         },
         {
-          "player_id": "9757",
-          "name": "Kendre Miller",
+          "player_id": "8132",
+          "name": "Tyler Allgeier",
           "position": "RB",
-          "team": "NO"
+          "team": "ARI"
         },
         {
           "player_id": "12507",
@@ -3694,10 +3700,10 @@
           "team": "NO"
         },
         {
-          "player_id": "8132",
-          "name": "Tyler Allgeier",
-          "position": "RB",
-          "team": "ARI"
+          "player_id": "12506",
+          "name": "Harold Fannin",
+          "position": "TE",
+          "team": "CLE"
         },
         {
           "player_id": "11624",
@@ -3742,12 +3748,6 @@
           "name": "Gunnar Helm",
           "position": "TE",
           "team": "TEN"
-        },
-        {
-          "player_id": "12506",
-          "name": "Harold Fannin",
-          "position": "TE",
-          "team": "CLE"
         },
         {
           "player_id": "12510",
@@ -3826,6 +3826,12 @@
           "name": "Tyquan Thornton",
           "position": "WR",
           "team": "KC"
+        },
+        {
+          "player_id": "9757",
+          "name": "Kendre Miller",
+          "position": "RB",
+          "team": "NO"
         }
       ],
       "taxi": [],
