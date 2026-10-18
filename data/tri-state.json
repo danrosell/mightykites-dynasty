@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-17T23:12:01.646Z",
+  "generated_at": "2026-10-18T01:10:25.316Z",
   "source": "Sleeper public API",
   "username": "TheMightyKites",
   "nfl_week": 6,
@@ -240,6 +240,12 @@
         "team": "DET"
       },
       {
+        "player_id": "13293",
+        "name": "Ja'Kobi Lane",
+        "position": "WR",
+        "team": "BAL"
+      },
+      {
         "player_id": "13305",
         "name": "Mike Washington",
         "position": "RB",
@@ -292,12 +298,6 @@
         "name": "Chig Okonkwo",
         "position": "TE",
         "team": "WAS"
-      },
-      {
-        "player_id": "9226",
-        "name": "De'Von Achane",
-        "position": "RB",
-        "team": "MIA"
       }
     ],
     "taxi": [
@@ -328,10 +328,10 @@
         "team": "NYG"
       },
       {
-        "player_id": "13293",
-        "name": "Ja'Kobi Lane",
-        "position": "WR",
-        "team": "BAL"
+        "player_id": "9226",
+        "name": "De'Von Achane",
+        "position": "RB",
+        "team": "MIA"
       }
     ],
     "picks": [
@@ -503,10 +503,10 @@
       "rank": 5,
       "starters": [
         {
-          "player_id": "4881",
-          "name": "Lamar Jackson",
+          "player_id": "3257",
+          "name": "Jacoby Brissett",
           "position": "QB",
-          "team": "BAL"
+          "team": "ARI"
         },
         {
           "player_id": "11435",
@@ -515,10 +515,10 @@
           "team": "SEA"
         },
         {
-          "player_id": "8228",
-          "name": "Jaylen Warren",
+          "player_id": "12481",
+          "name": "Cam Skattebo",
           "position": "RB",
-          "team": "PIT"
+          "team": "NYG"
         },
         {
           "player_id": "12519",
@@ -533,10 +533,10 @@
           "team": "DEN"
         },
         {
-          "player_id": "4037",
-          "name": "Chris Godwin",
+          "player_id": "4454",
+          "name": "Kendrick Bourne",
           "position": "WR",
-          "team": "TB"
+          "team": "ARI"
         },
         {
           "player_id": "8130",
@@ -545,16 +545,16 @@
           "team": "ARI"
         },
         {
+          "player_id": "8228",
+          "name": "Jaylen Warren",
+          "position": "RB",
+          "team": "PIT"
+        },
+        {
           "player_id": "11581",
           "name": "MarShawn Lloyd",
           "position": "RB",
           "team": "GB"
-        },
-        {
-          "player_id": "3257",
-          "name": "Jacoby Brissett",
-          "position": "QB",
-          "team": "ARI"
         }
       ],
       "bench": [
@@ -577,12 +577,6 @@
           "team": "HOU"
         },
         {
-          "player_id": "12481",
-          "name": "Cam Skattebo",
-          "position": "RB",
-          "team": "NYG"
-        },
-        {
           "player_id": "12522",
           "name": "Cam Ward",
           "position": "QB",
@@ -595,10 +589,16 @@
           "team": "LAR"
         },
         {
-          "player_id": "4454",
-          "name": "Kendrick Bourne",
+          "player_id": "4037",
+          "name": "Chris Godwin",
           "position": "WR",
-          "team": "ARI"
+          "team": "TB"
+        },
+        {
+          "player_id": "4881",
+          "name": "Lamar Jackson",
+          "position": "QB",
+          "team": "BAL"
         },
         {
           "player_id": "5012",
@@ -1145,6 +1145,12 @@
           "team": "DET"
         },
         {
+          "player_id": "13293",
+          "name": "Ja'Kobi Lane",
+          "position": "WR",
+          "team": "BAL"
+        },
+        {
           "player_id": "13305",
           "name": "Mike Washington",
           "position": "RB",
@@ -1197,12 +1203,6 @@
           "name": "Chig Okonkwo",
           "position": "TE",
           "team": "WAS"
-        },
-        {
-          "player_id": "9226",
-          "name": "De'Von Achane",
-          "position": "RB",
-          "team": "MIA"
         }
       ],
       "taxi": [
@@ -1233,10 +1233,10 @@
           "team": "NYG"
         },
         {
-          "player_id": "13293",
-          "name": "Ja'Kobi Lane",
-          "position": "WR",
-          "team": "BAL"
+          "player_id": "9226",
+          "name": "De'Von Achane",
+          "position": "RB",
+          "team": "MIA"
         }
       ],
       "picks": [

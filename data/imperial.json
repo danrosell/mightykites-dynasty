@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-17T23:12:00.715Z",
+  "generated_at": "2026-10-18T01:10:23.960Z",
   "source": "Sleeper public API",
   "username": "TheMightyKites",
   "nfl_week": 6,
@@ -167,10 +167,10 @@
         "team": "ATL"
       },
       {
-        "player_id": "12533",
-        "name": "Jacory Croskey-Merritt",
+        "player_id": "13305",
+        "name": "Mike Washington",
         "position": "RB",
-        "team": "WAS"
+        "team": "LV"
       },
       {
         "player_id": "11603",
@@ -193,12 +193,6 @@
         "team": "NYG"
       },
       {
-        "player_id": "13305",
-        "name": "Mike Washington",
-        "position": "RB",
-        "team": "LV"
-      },
-      {
         "player_id": "13319",
         "name": "Oscar Delp",
         "position": "TE",
@@ -209,12 +203,6 @@
         "name": "Josh Cameron",
         "position": "WR",
         "team": "JAX"
-      },
-      {
-        "player_id": "4881",
-        "name": "Lamar Jackson",
-        "position": "QB",
-        "team": "BAL"
       }
     ],
     "taxi": [
@@ -237,7 +225,20 @@
         "team": "LV"
       }
     ],
-    "reserve": [],
+    "reserve": [
+      {
+        "player_id": "12533",
+        "name": "Jacory Croskey-Merritt",
+        "position": "RB",
+        "team": "WAS"
+      },
+      {
+        "player_id": "4881",
+        "name": "Lamar Jackson",
+        "position": "QB",
+        "team": "BAL"
+      }
+    ],
     "picks": [
       {
         "season": "2026",
@@ -409,10 +410,10 @@
           "team": "ATL"
         },
         {
-          "player_id": "12533",
-          "name": "Jacory Croskey-Merritt",
+          "player_id": "13305",
+          "name": "Mike Washington",
           "position": "RB",
-          "team": "WAS"
+          "team": "LV"
         },
         {
           "player_id": "11603",
@@ -435,12 +436,6 @@
           "team": "NYG"
         },
         {
-          "player_id": "13305",
-          "name": "Mike Washington",
-          "position": "RB",
-          "team": "LV"
-        },
-        {
           "player_id": "13319",
           "name": "Oscar Delp",
           "position": "TE",
@@ -451,12 +446,6 @@
           "name": "Josh Cameron",
           "position": "WR",
           "team": "JAX"
-        },
-        {
-          "player_id": "4881",
-          "name": "Lamar Jackson",
-          "position": "QB",
-          "team": "BAL"
         }
       ],
       "taxi": [
@@ -479,7 +468,20 @@
           "team": "LV"
         }
       ],
-      "reserve": [],
+      "reserve": [
+        {
+          "player_id": "12533",
+          "name": "Jacory Croskey-Merritt",
+          "position": "RB",
+          "team": "WAS"
+        },
+        {
+          "player_id": "4881",
+          "name": "Lamar Jackson",
+          "position": "QB",
+          "team": "BAL"
+        }
+      ],
       "picks": [
         {
           "season": "2026",

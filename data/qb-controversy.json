@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-17T23:12:01.081Z",
+  "generated_at": "2026-10-18T01:10:24.453Z",
   "source": "Sleeper public API",
   "username": "TheMightyKites",
   "nfl_week": 6,
@@ -1355,10 +1355,10 @@
           "team": "LV"
         },
         {
-          "player_id": "5967",
-          "name": "Tony Pollard",
+          "player_id": "12490",
+          "name": "Bhayshul Tuten",
           "position": "RB",
-          "team": "TEN"
+          "team": "JAX"
         },
         {
           "player_id": "8137",
@@ -1385,10 +1385,10 @@
           "team": "DAL"
         },
         {
-          "player_id": "12490",
-          "name": "Bhayshul Tuten",
+          "player_id": "7567",
+          "name": "Kenny Gainwell",
           "position": "RB",
-          "team": "JAX"
+          "team": "TB"
         },
         {
           "player_id": "8111",
@@ -1435,6 +1435,12 @@
           "team": "JAX"
         },
         {
+          "player_id": "13276",
+          "name": "Omar Cooper",
+          "position": "WR",
+          "team": "NYJ"
+        },
+        {
           "player_id": "13338",
           "name": "Kevin Coleman",
           "position": "WR",
@@ -1457,12 +1463,6 @@
           "name": "Darnell Mooney",
           "position": "WR",
           "team": "NYG"
-        },
-        {
-          "player_id": "7567",
-          "name": "Kenny Gainwell",
-          "position": "RB",
-          "team": "TB"
         },
         {
           "player_id": "7591",
@@ -1510,12 +1510,6 @@
         }
       ],
       "reserve": [
-        {
-          "player_id": "13276",
-          "name": "Omar Cooper",
-          "position": "WR",
-          "team": "NYJ"
-        },
         {
           "player_id": "13281",
           "name": "Jordyn Tyson",
@@ -1565,6 +1559,13 @@
           "original_roster_id": 4,
           "original_team": "PRIMETIME",
           "is_own": true
+        },
+        {
+          "season": "2027",
+          "round": 3,
+          "original_roster_id": 6,
+          "original_team": "BC & the Old Guys",
+          "is_own": false
         },
         {
           "season": "2028",
@@ -1926,10 +1927,10 @@
           "team": "LAR"
         },
         {
-          "player_id": "3214",
-          "name": "Hunter Henry",
+          "player_id": "1466",
+          "name": "Travis Kelce",
           "position": "TE",
-          "team": "NE"
+          "team": "KC"
         },
         {
           "player_id": "6790",
@@ -1938,10 +1939,10 @@
           "team": "CHI"
         },
         {
-          "player_id": "1466",
-          "name": "Travis Kelce",
-          "position": "TE",
-          "team": "KC"
+          "player_id": "5967",
+          "name": "Tony Pollard",
+          "position": "RB",
+          "team": "TEN"
         },
         {
           "player_id": "7083",
@@ -1994,6 +1995,12 @@
           "team": "NYJ"
         },
         {
+          "player_id": "3214",
+          "name": "Hunter Henry",
+          "position": "TE",
+          "team": "NE"
+        },
+        {
           "player_id": "4017",
           "name": "Deshaun Watson",
           "position": "QB",
@@ -2010,12 +2017,6 @@
           "name": "Cole Kmet",
           "position": "TE",
           "team": "CHI"
-        },
-        {
-          "player_id": "6865",
-          "name": "Colby Parkinson",
-          "position": "TE",
-          "team": "LAR"
         },
         {
           "player_id": "7527",
@@ -2082,13 +2083,6 @@
         {
           "season": "2027",
           "round": 1,
-          "original_roster_id": 6,
-          "original_team": "BC & the Old Guys",
-          "is_own": true
-        },
-        {
-          "season": "2027",
-          "round": 3,
           "original_roster_id": 6,
           "original_team": "BC & the Old Guys",
           "is_own": true
