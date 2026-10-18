@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-18T01:10:25.044Z",
+  "generated_at": "2026-10-18T06:01:29.888Z",
   "source": "Sleeper public API",
   "username": "TheMightyKites",
   "nfl_week": 6,
@@ -3069,8 +3069,8 @@
           "team": "SF"
         },
         {
-          "player_id": "13294",
-          "name": "Makai Lemon",
+          "player_id": "7525",
+          "name": "DeVonta Smith",
           "position": "WR",
           "team": "PHI"
         },
@@ -3119,6 +3119,12 @@
           "team": "NYG"
         },
         {
+          "player_id": "12531",
+          "name": "Trevor Etienne",
+          "position": "RB",
+          "team": "CAR"
+        },
+        {
           "player_id": "12542",
           "name": "Efton Chism",
           "position": "WR",
@@ -3129,6 +3135,12 @@
           "name": "Ty Simpson",
           "position": "QB",
           "team": "LAR"
+        },
+        {
+          "player_id": "13294",
+          "name": "Makai Lemon",
+          "position": "WR",
+          "team": "PHI"
         },
         {
           "player_id": "13401",
@@ -3147,12 +3159,6 @@
           "name": "Sam Darnold",
           "position": "QB",
           "team": "SEA"
-        },
-        {
-          "player_id": "5880",
-          "name": "Parris Campbell",
-          "position": "WR",
-          "team": "FA"
         },
         {
           "player_id": "5955",
@@ -3185,12 +3191,6 @@
           "team": "IND"
         },
         {
-          "player_id": "7525",
-          "name": "DeVonta Smith",
-          "position": "WR",
-          "team": "PHI"
-        },
-        {
           "player_id": "7543",
           "name": "Travis Etienne",
           "position": "RB",
@@ -3205,12 +3205,6 @@
       ],
       "taxi": [],
       "reserve": [
-        {
-          "player_id": "12531",
-          "name": "Trevor Etienne",
-          "position": "RB",
-          "team": "CAR"
-        },
         {
           "player_id": "9502",
           "name": "Tank Dell",

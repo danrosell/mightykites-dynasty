@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-18T01:10:23.960Z",
+  "generated_at": "2026-10-18T06:01:29.251Z",
   "source": "Sleeper public API",
   "username": "TheMightyKites",
   "nfl_week": 6,
@@ -2980,10 +2980,10 @@
           "team": "SF"
         },
         {
-          "player_id": "9511",
-          "name": "Keaton Mitchell",
+          "player_id": "7567",
+          "name": "Kenny Gainwell",
           "position": "RB",
-          "team": "LAC"
+          "team": "TB"
         },
         {
           "player_id": "7526",
@@ -3004,16 +3004,16 @@
           "team": "CHI"
         },
         {
-          "player_id": "7567",
-          "name": "Kenny Gainwell",
-          "position": "RB",
-          "team": "TB"
+          "player_id": "13298",
+          "name": "KC Concepcion",
+          "position": "WR",
+          "team": "CLE"
         },
         {
-          "player_id": "3634",
-          "name": "Kalif Raymond",
+          "player_id": "2449",
+          "name": "Stefon Diggs",
           "position": "WR",
-          "team": "CHI"
+          "team": "WAS"
         },
         {
           "player_id": "11581",
@@ -3023,12 +3023,6 @@
         }
       ],
       "bench": [
-        {
-          "player_id": "2449",
-          "name": "Stefon Diggs",
-          "position": "WR",
-          "team": "WAS"
-        },
         {
           "player_id": "3163",
           "name": "Jared Goff",
@@ -3052,6 +3046,12 @@
           "name": "Greg Dulcich",
           "position": "TE",
           "team": "MIA"
+        },
+        {
+          "player_id": "9511",
+          "name": "Keaton Mitchell",
+          "position": "RB",
+          "team": "LAC"
         }
       ],
       "taxi": [
@@ -3074,14 +3074,7 @@
           "team": "NO"
         }
       ],
-      "reserve": [
-        {
-          "player_id": "13298",
-          "name": "KC Concepcion",
-          "position": "WR",
-          "team": "CLE"
-        }
-      ],
+      "reserve": [],
       "picks": [
         {
           "season": "2026",

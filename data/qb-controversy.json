@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-18T01:10:24.453Z",
+  "generated_at": "2026-10-18T06:01:29.557Z",
   "source": "Sleeper public API",
   "username": "TheMightyKites",
   "nfl_week": 6,
@@ -4132,10 +4132,10 @@
           "team": "TEN"
         },
         {
-          "player_id": "8145",
-          "name": "Jeremy Ruckert",
-          "position": "TE",
-          "team": "NYJ"
+          "player_id": "13770",
+          "name": "J. Michael Sturdivant",
+          "position": "WR",
+          "team": "GB"
         },
         {
           "player_id": "7670",
@@ -4188,12 +4188,6 @@
           "team": "WAS"
         },
         {
-          "player_id": "13770",
-          "name": "J. Michael Sturdivant",
-          "position": "WR",
-          "team": "GB"
-        },
-        {
           "player_id": "3321",
           "name": "Tyreek Hill",
           "position": "WR",
@@ -4222,6 +4216,12 @@
           "name": "Treylon Burks",
           "position": "WR",
           "team": "WAS"
+        },
+        {
+          "player_id": "8145",
+          "name": "Jeremy Ruckert",
+          "position": "TE",
+          "team": "NYJ"
         },
         {
           "player_id": "8188",
