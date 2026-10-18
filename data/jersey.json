@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-18T11:20:45.384Z",
+  "generated_at": "2026-10-18T15:57:49.645Z",
   "source": "Sleeper public API",
   "username": "TheMightyKites",
   "nfl_week": 6,
@@ -416,11 +416,11 @@
   "my_matchup": {
     "me": {
       "team": "TheMightyKites",
-      "points": 0
+      "points": 13.7
     },
     "opponent": {
       "team": "Beast Mode",
-      "points": 5.55,
+      "points": 11.95,
       "roster_id": 6
     }
   },
@@ -2439,10 +2439,10 @@
           "team": "TB"
         },
         {
-          "player_id": "13421",
-          "name": "Eli Raridon",
-          "position": "TE",
-          "team": "NE"
+          "player_id": "11439",
+          "name": "Jaleel McLaughlin",
+          "position": "RB",
+          "team": "CLE"
         }
       ],
       "bench": [
@@ -2451,12 +2451,6 @@
           "name": "Rashee Rice",
           "position": "WR",
           "team": "KC"
-        },
-        {
-          "player_id": "11439",
-          "name": "Jaleel McLaughlin",
-          "position": "RB",
-          "team": "CLE"
         },
         {
           "player_id": "11729",
@@ -2499,6 +2493,12 @@
           "name": "Kaytron Allen",
           "position": "RB",
           "team": "MIA"
+        },
+        {
+          "player_id": "13421",
+          "name": "Eli Raridon",
+          "position": "TE",
+          "team": "NE"
         },
         {
           "player_id": "4033",

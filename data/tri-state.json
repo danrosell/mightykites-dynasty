@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-18T11:20:45.838Z",
+  "generated_at": "2026-10-18T15:57:49.965Z",
   "source": "Sleeper public API",
   "username": "TheMightyKites",
   "nfl_week": 6,
@@ -61,7 +61,7 @@
       "leg": 6,
       "reserve_slots": 3,
       "reserve_allow_cov": 1,
-      "daily_waivers_last_ran": 17
+      "daily_waivers_last_ran": 18
     },
     "scoring_settings": {
       "sack": 2,
@@ -410,11 +410,11 @@
   "my_matchup": {
     "me": {
       "team": "TheMightyKites",
-      "points": 0
+      "points": 10.8
     },
     "opponent": {
       "team": "jayjay1823",
-      "points": 0,
+      "points": 21.34,
       "roster_id": 8
     }
   },
@@ -1380,9 +1380,9 @@
       ],
       "bench": [
         {
-          "player_id": "11577",
-          "name": "Will Shipley",
-          "position": "RB",
+          "player_id": "11557",
+          "name": "Joe Milton",
+          "position": "QB",
           "team": "PHI"
         },
         {

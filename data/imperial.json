@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-18T11:20:44.273Z",
+  "generated_at": "2026-10-18T15:57:48.628Z",
   "source": "Sleeper public API",
   "username": "TheMightyKites",
   "nfl_week": 6,
@@ -305,7 +305,7 @@
     },
     "opponent": {
       "team": "chane broken",
-      "points": 15.7,
+      "points": 21.9,
       "roster_id": 17
     }
   },
@@ -1694,10 +1694,10 @@
           "team": "BAL"
         },
         {
-          "player_id": "4037",
-          "name": "Chris Godwin",
+          "player_id": "5859",
+          "name": "A.J. Brown",
           "position": "WR",
-          "team": "TB"
+          "team": "NE"
         },
         {
           "player_id": "5022",
@@ -1712,16 +1712,16 @@
           "team": "JAX"
         },
         {
-          "player_id": "11631",
-          "name": "Brian Thomas",
+          "player_id": "4037",
+          "name": "Chris Godwin",
           "position": "WR",
-          "team": "JAX"
+          "team": "TB"
         },
         {
-          "player_id": "3257",
-          "name": "Jacoby Brissett",
+          "player_id": "2306",
+          "name": "Jameis Winston",
           "position": "QB",
-          "team": "ARI"
+          "team": "NYG"
         }
       ],
       "bench": [
@@ -1732,16 +1732,16 @@
           "team": "ATL"
         },
         {
+          "player_id": "11631",
+          "name": "Brian Thomas",
+          "position": "WR",
+          "team": "JAX"
+        },
+        {
           "player_id": "11783",
           "name": "Ryan Flournoy",
           "position": "WR",
           "team": "DAL"
-        },
-        {
-          "player_id": "2306",
-          "name": "Jameis Winston",
-          "position": "QB",
-          "team": "NYG"
         },
         {
           "player_id": "9221",
@@ -1782,12 +1782,6 @@
           "name": "Jaxson Dart",
           "position": "QB",
           "team": "NYG"
-        },
-        {
-          "player_id": "5859",
-          "name": "A.J. Brown",
-          "position": "WR",
-          "team": "NE"
         }
       ],
       "picks": [
@@ -3157,10 +3151,10 @@
           "team": "LAR"
         },
         {
-          "player_id": "11637",
-          "name": "Keon Coleman",
+          "player_id": "8121",
+          "name": "Romeo Doubs",
           "position": "WR",
-          "team": "BUF"
+          "team": "NE"
         },
         {
           "player_id": "4217",
@@ -3175,10 +3169,10 @@
           "team": "LAR"
         },
         {
-          "player_id": "8121",
-          "name": "Romeo Doubs",
+          "player_id": "11637",
+          "name": "Keon Coleman",
           "position": "WR",
-          "team": "NE"
+          "team": "BUF"
         },
         {
           "player_id": "11564",
