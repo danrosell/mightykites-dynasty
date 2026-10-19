@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-18T21:34:26.797Z",
+  "generated_at": "2026-10-19T00:14:44.457Z",
   "source": "Sleeper public API",
   "username": "TheMightyKites",
   "nfl_week": 6,
@@ -416,7 +416,7 @@
     },
     "opponent": {
       "team": "Tenacious D",
-      "points": 100.41,
+      "points": 108.51,
       "roster_id": 1
     }
   },
