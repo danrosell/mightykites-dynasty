@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-19T00:14:44.457Z",
+  "generated_at": "2026-10-19T04:55:04.900Z",
   "source": "Sleeper public API",
   "username": "TheMightyKites",
   "nfl_week": 6,
@@ -412,11 +412,11 @@
   "my_matchup": {
     "me": {
       "team": "The Ham Cannons",
-      "points": 95.51
+      "points": 117.91
     },
     "opponent": {
       "team": "Tenacious D",
-      "points": 108.51,
+      "points": 117.91,
       "roster_id": 1
     }
   },
