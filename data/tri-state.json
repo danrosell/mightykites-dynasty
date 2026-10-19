@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-19T17:33:41.086Z",
+  "generated_at": "2026-10-19T22:27:44.518Z",
   "source": "Sleeper public API",
   "username": "TheMightyKites",
   "nfl_week": 6,
@@ -1832,6 +1832,12 @@
           "team": "DET"
         },
         {
+          "player_id": "8408",
+          "name": "Jordan Mason",
+          "position": "RB",
+          "team": "MIN"
+        },
+        {
           "player_id": "9229",
           "name": "Anthony Richardson",
           "position": "QB",
@@ -1851,12 +1857,6 @@
           "name": "David Njoku",
           "position": "TE",
           "team": "LAC"
-        },
-        {
-          "player_id": "8408",
-          "name": "Jordan Mason",
-          "position": "RB",
-          "team": "MIN"
         },
         {
           "player_id": "9753",
