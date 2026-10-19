@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-19T10:53:37.825Z",
+  "generated_at": "2026-10-19T17:33:40.118Z",
   "source": "Sleeper public API",
   "username": "TheMightyKites",
   "nfl_week": 6,
@@ -61,7 +61,7 @@
       "daily_waivers_base": 4,
       "reserve_slots": 2,
       "reserve_allow_cov": 1,
-      "daily_waivers_last_ran": 18
+      "daily_waivers_last_ran": 19
     },
     "scoring_settings": {
       "sack": 1,
@@ -3276,10 +3276,10 @@
           "team": "CHI"
         },
         {
-          "player_id": "0",
-          "name": "0",
-          "position": "—",
-          "team": "FA"
+          "player_id": "13301",
+          "name": "Antonio Williams",
+          "position": "WR",
+          "team": "WAS"
         },
         {
           "player_id": "10231",
@@ -3398,12 +3398,6 @@
           "name": "Nicholas Singleton",
           "position": "RB",
           "team": "TEN"
-        },
-        {
-          "player_id": "13301",
-          "name": "Antonio Williams",
-          "position": "WR",
-          "team": "WAS"
         }
       ],
       "reserve": [
