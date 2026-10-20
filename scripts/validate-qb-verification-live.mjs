@@ -39,7 +39,7 @@ for(const p of roster){
   // Historical crosswalk can corroborate a Sleeper-to-GSIS identity, but it
   // cannot establish a current team, roster status or game-day availability.
   const gsis=cache.identities?.[p.player_id];
-  assert.ok(typeof gsis==='string'&&/^00-\\d{7}$/.test(gsis),'Missing verified historical GSIS mapping '+p.player_id);
+  assert.ok(typeof gsis==='string'&&/^00-\d{7}$/.test(gsis),'Missing verified historical GSIS mapping '+p.player_id);
   assert.ok(gaps.some(g=>g.player_id===p.player_id),'Missing independent identity must block verification');
   assert.equal(v.players[p.player_id],undefined);
   continue;
