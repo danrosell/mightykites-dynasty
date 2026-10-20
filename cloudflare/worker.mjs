@@ -1,3 +1,4 @@
+import {summarizeProjectionCoverage} from '../src/analysis/projection-coverage.mjs';
 import {probeAvailabilitySources} from '../src/analysis/availability-source-probe.mjs';
 import {verifyLineupContext} from '../src/analysis/independent.mjs';
 import {planVerifiedLineup} from '../src/analysis/lineup.mjs';
