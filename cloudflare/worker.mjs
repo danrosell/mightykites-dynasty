@@ -1,3 +1,4 @@
+import {summarizeProjectionCoverage} from '../src/analysis/projection-coverage.mjs';
 import {probeAvailabilitySources} from '../src/analysis/availability-source-probe.mjs';
 import {summarizeVerificationReadiness} from '../src/analysis/verification-readiness.mjs';
 import {summarizeIdentityCoverage} from '../src/analysis/identity-coverage.mjs';
@@ -63,6 +64,7 @@ export default {
       analysis.identity_coverage=summarizeIdentityCoverage(snapshot,analysis.verification,cache);
       analysis.lineup={ok:false,reason:'SCHEDULE_OR_IDENTITY_NOT_VERIFIED',issues:analysis.verification.issues};
      }
+     analysis.projection_coverage=summarizeProjectionCoverage(analysis,cache);
      analysis.readiness=summarizeVerificationReadiness(analysis);
      response=json(analysis);
     }else return json({error:'Unknown API endpoint'},404);
