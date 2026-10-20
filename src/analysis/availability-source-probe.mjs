@@ -17,7 +17,7 @@ export async function probeAvailabilitySources({season,week,fetcher=fetch,checke
  if(nfl.status==='fulfilled'){
   const body=await nfl.value.text();
   report.sources.nfl={url:NFL_INACTIVES_URL,reachable:true,http_status:nfl.value.status,content_type:nfl.value.headers.get('content-type'),bytes:body.length,
-   html_observations:{contains_inactive_word:/\\binactives?\\b/i.test(body),contains_placeholder:/coming soon|no inactives|check back/i.test(body)},
+   html_observations:{contains_inactive_word:/\binactives?\b/i.test(body),contains_placeholder:/coming soon|no inactives|check back/i.test(body)},
    structured_game_decisions_verified:false,publication_time_verified:false};
  }else report.sources.nfl={url:NFL_INACTIVES_URL,reachable:false,error:String(nfl.reason?.message||nfl.reason)};
  if(espn.status==='fulfilled'){
