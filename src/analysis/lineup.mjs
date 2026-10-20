@@ -48,7 +48,8 @@ export function planVerifiedLineup(snapshot,players,verification,{now=Date.now()
   // A caller-provided 'confirmed' flag is not independent evidence. Require
   // game-specific, timestamped provenance before accepting an active/inactive claim.
   const proof=Date.parse(a?.reported_at);
-  const provenance=availability?.source==='NFL_OFFICIAL_GAME_DAY_INACTIVES'&&
+  const provenance=availability?.source==='NFL_OFFICIAL_GAME_DAY_STATUS'&&
+   a?.evidence_type===(a?.status==='active'?'EXPLICIT_ACTIVE':'EXPLICIT_INACTIVE')&&
    typeof a?.source_url==='string'&&/^https:\/\/(www\.)?nfl\.com\//.test(a.source_url)&&
    Number.isFinite(proof)&&proof<=now+300000&&now-proof<=24*3600000;
   const fresh=Number.isFinite(stamp)&&stamp<=now+300000&&now-stamp<=90*60000;
