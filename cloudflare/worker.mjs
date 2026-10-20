@@ -1,5 +1,7 @@
 import {summarizeProjectionCoverage} from '../src/analysis/projection-coverage.mjs';
 import {probeAvailabilitySources} from '../src/analysis/availability-source-probe.mjs';
+import {summarizeVerificationReadiness} from '../src/analysis/verification-readiness.mjs';
+import {summarizeIdentityCoverage} from '../src/analysis/identity-coverage.mjs';
 import {verifyLineupContext} from '../src/analysis/independent.mjs';
 import {planVerifiedLineup} from '../src/analysis/lineup.mjs';
 import {createPlayerPreflightHandler} from '../netlify/functions/player-preflight.mjs';
@@ -55,11 +57,15 @@ export default {
       if(!scheduleResponse.ok)throw Error('Live independent schedule unavailable');
       const schedule=await scheduleResponse.json();
       analysis.verification=verifyLineupContext(snapshot,independent,schedule);
+      analysis.identity_coverage=summarizeIdentityCoverage(snapshot,analysis.verification,cache);
       analysis.lineup=planVerifiedLineup(snapshot,analysis.players,analysis.verification);
      }catch(error){
       analysis.verification={ok:false,issues:[{severity:'error',code:'VERIFICATION_UNAVAILABLE',message:error.message}]};
+      analysis.identity_coverage=summarizeIdentityCoverage(snapshot,analysis.verification,cache);
       analysis.lineup={ok:false,reason:'SCHEDULE_OR_IDENTITY_NOT_VERIFIED',issues:analysis.verification.issues};
      }
+     analysis.projection_coverage=summarizeProjectionCoverage(analysis,cache);
+     analysis.readiness=summarizeVerificationReadiness(analysis);
      response=json(analysis);
     }else return json({error:'Unknown API endpoint'},404);
     return request.method==='HEAD'?new Response(null,{status:response.status,headers:response.headers}):response;
