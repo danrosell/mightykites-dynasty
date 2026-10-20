@@ -9,6 +9,7 @@ async function read(url,type='json'){const r=await fetch(url,{signal:AbortSignal
 const [snapshot,analysis,independent,schedule,rosterCSV,scheduleCSV]=await Promise.all([
  read(origin+'/api/league/qb-controversy'),read(origin+'/api/optimizer/qb-controversy'),read(origin+'/data/independent-verification.json'),read(origin+'/api/player-preflight'),read(ROSTER_SOURCE,'text'),read(SCHEDULE_SOURCE,'text')
 ]);
+const cache=await read(origin+'/data/historical-weekly.json');
 const v=analysis.verification,now=Date.now(),week=snapshot.nfl_week,season=Number(snapshot.league.season);
 assert.ok(v&&Array.isArray(v.issues),'Missing verification report');
 // nflverse may omit rostered players. That is an identity coverage gap, not
@@ -35,6 +36,10 @@ assert.equal(Object.keys(v.players).length+gaps.length,roster.length,'Every rost
 for(const p of roster){
  const rows=rosters.filter(r=>r.sleeper_id.trim()===p.player_id);
  if(rows.length===0){
+  // Historical crosswalk can corroborate a Sleeper-to-GSIS identity, but it
+  // cannot establish a current team, roster status or game-day availability.
+  const gsis=cache.identities?.[p.player_id];
+  assert.ok(typeof gsis==='string'&&/^00-\\d{7}$/.test(gsis),'Missing verified historical GSIS mapping '+p.player_id);
   assert.ok(gaps.some(g=>g.player_id===p.player_id),'Missing independent identity must block verification');
   assert.equal(v.players[p.player_id],undefined);
   continue;
@@ -51,4 +56,4 @@ for(const p of roster){
 assert.equal(analysis.lineup.ok,false);assert.equal(analysis.lineup.reason,gaps.length?'SCHEDULE_OR_IDENTITY_NOT_VERIFIED':'AVAILABILITY_OR_PROJECTIONS_NOT_VERIFIED');assert.equal(analysis.lineup.slots,undefined);
 if(gaps.length)assert.ok(analysis.lineup.issues.some(i=>i.code==='UNVERIFIED_PLAYER'));
 else assert.ok(analysis.lineup.issues.some(i=>i.code==='AVAILABILITY_NOT_VERIFIED'));
-console.log(JSON.stringify({checked_at:new Date().toISOString(),origin,season,week,verified_players:Object.keys(v.players).length,unverified_player_ids:gaps.map(x=>x.player_id),cross_checked_games:expected.length,locked_starters:snapshot.my_team.starters.filter(p=>v.players[p.player_id]?.started).map(p=>p.name),missing_eligible_projections:analysis.lineup.issues.filter(i=>i.code==='MISSING_PLAYER_PROJECTION').length,lineup_advice_blocked:true},null,2));
+console.log(JSON.stringify({checked_at:new Date().toISOString(),origin,season,week,verified_players:Object.keys(v.players).length,unverified_players:gaps.map(x=>{const p=roster.find(p=>p.player_id===x.player_id);return {player_id:x.player_id,name:p?.name||null,team_from_sleeper_unverified:p?.team||null,gsis_from_historical_crosswalk:cache.identities[x.player_id],reason:'MISSING_CURRENT_INDEPENDENT_ROSTER_ROW',game_day_availability:'UNKNOWN'};}),cross_checked_games:expected.length,locked_starters:snapshot.my_team.starters.filter(p=>v.players[p.player_id]?.started).map(p=>p.name),missing_eligible_projections:analysis.lineup.issues.filter(i=>i.code==='MISSING_PLAYER_PROJECTION').length,lineup_advice_blocked:true},null,2));
