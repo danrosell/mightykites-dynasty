@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-20T13:39:01.520Z",
+  "generated_at": "2026-10-20T18:31:42.428Z",
   "source": "Sleeper public API",
   "username": "TheMightyKites",
   "nfl_week": 7,
@@ -11,7 +11,7 @@
     "status": "in_season",
     "settings": {
       "best_ball": 0,
-      "last_report": 5,
+      "last_report": 6,
       "waiver_budget": 200,
       "disable_adds": 0,
       "capacity_override": 0,
@@ -61,7 +61,7 @@
       "leg": 6,
       "reserve_slots": 3,
       "reserve_allow_cov": 0,
-      "daily_waivers_last_ran": 19
+      "daily_waivers_last_ran": 20
     },
     "scoring_settings": {
       "sack": 1,
@@ -203,6 +203,12 @@
         "name": "Josh Cameron",
         "position": "WR",
         "team": "JAX"
+      },
+      {
+        "player_id": "4881",
+        "name": "Lamar Jackson",
+        "position": "QB",
+        "team": "BAL"
       }
     ],
     "taxi": [
@@ -231,12 +237,6 @@
         "name": "Jacory Croskey-Merritt",
         "position": "RB",
         "team": "WAS"
-      },
-      {
-        "player_id": "4881",
-        "name": "Lamar Jackson",
-        "position": "QB",
-        "team": "BAL"
       }
     ],
     "picks": [
@@ -446,6 +446,12 @@
           "name": "Josh Cameron",
           "position": "WR",
           "team": "JAX"
+        },
+        {
+          "player_id": "4881",
+          "name": "Lamar Jackson",
+          "position": "QB",
+          "team": "BAL"
         }
       ],
       "taxi": [
@@ -474,12 +480,6 @@
           "name": "Jacory Croskey-Merritt",
           "position": "RB",
           "team": "WAS"
-        },
-        {
-          "player_id": "4881",
-          "name": "Lamar Jackson",
-          "position": "QB",
-          "team": "BAL"
         }
       ],
       "picks": [
@@ -744,10 +744,10 @@
           "team": "NE"
         },
         {
-          "player_id": "9508",
-          "name": "Tyjae Spears",
+          "player_id": "8155",
+          "name": "Breece Hall",
           "position": "RB",
-          "team": "TEN"
+          "team": "NYJ"
         },
         {
           "player_id": "12501",
@@ -768,10 +768,10 @@
           "team": "LAR"
         },
         {
-          "player_id": "4454",
-          "name": "Kendrick Bourne",
-          "position": "WR",
-          "team": "ARI"
+          "player_id": "5844",
+          "name": "T.J. Hockenson",
+          "position": "TE",
+          "team": "MIN"
         },
         {
           "player_id": "11624",
@@ -788,22 +788,10 @@
       ],
       "bench": [
         {
-          "player_id": "11625",
-          "name": "Adonai Mitchell",
-          "position": "WR",
-          "team": "NYJ"
-        },
-        {
           "player_id": "12048",
           "name": "George Holani",
           "position": "RB",
           "team": "SEA"
-        },
-        {
-          "player_id": "12509",
-          "name": "Tre' Harris",
-          "position": "WR",
-          "team": "LAC"
         },
         {
           "player_id": "12545",
@@ -816,6 +804,18 @@
           "name": "Makai Lemon",
           "position": "WR",
           "team": "PHI"
+        },
+        {
+          "player_id": "4454",
+          "name": "Kendrick Bourne",
+          "position": "WR",
+          "team": "ARI"
+        },
+        {
+          "player_id": "9508",
+          "name": "Tyjae Spears",
+          "position": "RB",
+          "team": "TEN"
         }
       ],
       "taxi": [
@@ -840,22 +840,22 @@
       ],
       "reserve": [
         {
+          "player_id": "11625",
+          "name": "Adonai Mitchell",
+          "position": "WR",
+          "team": "NYJ"
+        },
+        {
+          "player_id": "12509",
+          "name": "Tre' Harris",
+          "position": "WR",
+          "team": "LAC"
+        },
+        {
           "player_id": "13281",
           "name": "Jordyn Tyson",
           "position": "WR",
           "team": "NO"
-        },
-        {
-          "player_id": "5844",
-          "name": "T.J. Hockenson",
-          "position": "TE",
-          "team": "MIN"
-        },
-        {
-          "player_id": "8155",
-          "name": "Breece Hall",
-          "position": "RB",
-          "team": "NYJ"
         }
       ],
       "picks": [
@@ -975,10 +975,10 @@
           "team": "SEA"
         },
         {
-          "player_id": "9486",
-          "name": "Dontayvion Wicks",
+          "player_id": "6794",
+          "name": "Justin Jefferson",
           "position": "WR",
-          "team": "PHI"
+          "team": "MIN"
         },
         {
           "player_id": "9479",
@@ -987,11 +987,25 @@
           "team": "PIT"
         },
         {
+          "player_id": "11628",
+          "name": "Marvin Harrison",
+          "position": "WR",
+          "team": "HOU"
+        },
+        {
           "player_id": "2505",
           "name": "Darren Waller",
           "position": "TE",
           "team": "CAR"
         },
+        {
+          "player_id": "12522",
+          "name": "Cam Ward",
+          "position": "QB",
+          "team": "TEN"
+        }
+      ],
+      "bench": [
         {
           "player_id": "12502",
           "name": "Gunnar Helm",
@@ -999,30 +1013,10 @@
           "team": "TEN"
         },
         {
-          "player_id": "6797",
-          "name": "Justin Herbert",
-          "position": "QB",
-          "team": "LAC"
-        }
-      ],
-      "bench": [
-        {
-          "player_id": "11557",
-          "name": "Joe Milton",
-          "position": "QB",
-          "team": "PHI"
-        },
-        {
-          "player_id": "11628",
-          "name": "Marvin Harrison",
-          "position": "WR",
-          "team": "HOU"
-        },
-        {
-          "player_id": "12522",
-          "name": "Cam Ward",
-          "position": "QB",
-          "team": "TEN"
+          "player_id": "12531",
+          "name": "Trevor Etienne",
+          "position": "RB",
+          "team": "CAR"
         },
         {
           "player_id": "6783",
@@ -1031,10 +1025,16 @@
           "team": "CLE"
         },
         {
-          "player_id": "6794",
-          "name": "Justin Jefferson",
+          "player_id": "6797",
+          "name": "Justin Herbert",
+          "position": "QB",
+          "team": "LAC"
+        },
+        {
+          "player_id": "9486",
+          "name": "Dontayvion Wicks",
           "position": "WR",
-          "team": "MIN"
+          "team": "PHI"
         }
       ],
       "taxi": [
@@ -1053,10 +1053,10 @@
       ],
       "reserve": [
         {
-          "player_id": "12531",
-          "name": "Trevor Etienne",
-          "position": "RB",
-          "team": "CAR"
+          "player_id": "11557",
+          "name": "Joe Milton",
+          "position": "QB",
+          "team": "PHI"
         },
         {
           "player_id": "13286",
@@ -1547,13 +1547,19 @@
           "team": "WAS"
         },
         {
+          "player_id": "9758",
+          "name": "C.J. Stroud",
+          "position": "QB",
+          "team": "HOU"
+        }
+      ],
+      "bench": [
+        {
           "player_id": "11563",
           "name": "Bo Nix",
           "position": "QB",
           "team": "DEN"
-        }
-      ],
-      "bench": [
+        },
         {
           "player_id": "11586",
           "name": "Blake Corum",
@@ -1577,12 +1583,6 @@
           "name": "Jordan Addison",
           "position": "WR",
           "team": "MIN"
-        },
-        {
-          "player_id": "9758",
-          "name": "C.J. Stroud",
-          "position": "QB",
-          "team": "HOU"
         }
       ],
       "taxi": [
@@ -1741,7 +1741,7 @@
           "player_id": "7528",
           "name": "Najee Harris",
           "position": "RB",
-          "team": "NYG"
+          "team": "FA"
         },
         {
           "player_id": "9480",
@@ -2218,10 +2218,10 @@
           "team": "LAC"
         },
         {
-          "player_id": "7571",
-          "name": "Rashod Bateman",
+          "player_id": "13276",
+          "name": "Omar Cooper",
           "position": "WR",
-          "team": "BAL"
+          "team": "NYJ"
         },
         {
           "player_id": "11834",
@@ -2230,10 +2230,10 @@
           "team": "NO"
         },
         {
-          "player_id": "6826",
-          "name": "Cole Kmet",
+          "player_id": "9482",
+          "name": "Michael Mayer",
           "position": "TE",
-          "team": "CHI"
+          "team": "LV"
         },
         {
           "player_id": "6865",
@@ -2242,16 +2242,16 @@
           "team": "LAR"
         },
         {
-          "player_id": "9482",
-          "name": "Michael Mayer",
-          "position": "TE",
-          "team": "LV"
+          "player_id": "7571",
+          "name": "Rashod Bateman",
+          "position": "WR",
+          "team": "BAL"
         },
         {
-          "player_id": "12521",
-          "name": "Elijah Arroyo",
-          "position": "TE",
-          "team": "SEA"
+          "player_id": "8148",
+          "name": "Jameson Williams",
+          "position": "WR",
+          "team": "DET"
         }
       ],
       "bench": [
@@ -2274,10 +2274,16 @@
           "team": "IND"
         },
         {
-          "player_id": "8148",
-          "name": "Jameson Williams",
-          "position": "WR",
-          "team": "DET"
+          "player_id": "12521",
+          "name": "Elijah Arroyo",
+          "position": "TE",
+          "team": "SEA"
+        },
+        {
+          "player_id": "6826",
+          "name": "Cole Kmet",
+          "position": "TE",
+          "team": "CHI"
         }
       ],
       "taxi": [
@@ -2301,12 +2307,6 @@
         }
       ],
       "reserve": [
-        {
-          "player_id": "13276",
-          "name": "Omar Cooper",
-          "position": "WR",
-          "team": "NYJ"
-        },
         {
           "player_id": "9502",
           "name": "Tank Dell",

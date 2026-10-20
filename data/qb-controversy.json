@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-20T13:39:01.960Z",
+  "generated_at": "2026-10-20T18:31:42.766Z",
   "source": "Sleeper public API",
   "username": "TheMightyKites",
   "nfl_week": 7,
@@ -11,7 +11,7 @@
     "status": "in_season",
     "settings": {
       "best_ball": 0,
-      "last_report": 5,
+      "last_report": 6,
       "waiver_budget": 200,
       "disable_adds": 0,
       "capacity_override": 0,
@@ -61,7 +61,7 @@
       "daily_waivers_base": 4,
       "reserve_slots": 2,
       "reserve_allow_cov": 1,
-      "daily_waivers_last_ran": 19
+      "daily_waivers_last_ran": 20
     },
     "scoring_settings": {
       "sack": 1,
@@ -894,7 +894,7 @@
           "player_id": "7528",
           "name": "Najee Harris",
           "position": "RB",
-          "team": "NYG"
+          "team": "FA"
         },
         {
           "player_id": "7585",
@@ -1355,10 +1355,10 @@
           "team": "LV"
         },
         {
-          "player_id": "12490",
-          "name": "Bhayshul Tuten",
+          "player_id": "9224",
+          "name": "Chase Brown",
           "position": "RB",
-          "team": "JAX"
+          "team": "CIN"
         },
         {
           "player_id": "8137",
@@ -1373,22 +1373,16 @@
           "team": "CLE"
         },
         {
-          "player_id": "11637",
-          "name": "Keon Coleman",
+          "player_id": "13276",
+          "name": "Omar Cooper",
           "position": "WR",
-          "team": "BUF"
+          "team": "NYJ"
         },
         {
-          "player_id": "8110",
-          "name": "Jake Ferguson",
+          "player_id": "10859",
+          "name": "Sam LaPorta",
           "position": "TE",
-          "team": "DAL"
-        },
-        {
-          "player_id": "7567",
-          "name": "Kenny Gainwell",
-          "position": "RB",
-          "team": "TB"
+          "team": "DET"
         },
         {
           "player_id": "8111",
@@ -1397,19 +1391,19 @@
           "team": "TB"
         },
         {
-          "player_id": "9511",
-          "name": "Keaton Mitchell",
-          "position": "RB",
-          "team": "LAC"
+          "player_id": "8110",
+          "name": "Jake Ferguson",
+          "position": "TE",
+          "team": "DAL"
+        },
+        {
+          "player_id": "8161",
+          "name": "Malik Willis",
+          "position": "QB",
+          "team": "MIA"
         }
       ],
       "bench": [
-        {
-          "player_id": "10859",
-          "name": "Sam LaPorta",
-          "position": "TE",
-          "team": "DET"
-        },
         {
           "player_id": "11433",
           "name": "Nate Adkins",
@@ -1423,22 +1417,28 @@
           "team": "DEN"
         },
         {
+          "player_id": "11637",
+          "name": "Keon Coleman",
+          "position": "WR",
+          "team": "BUF"
+        },
+        {
           "player_id": "12476",
           "name": "Devin Neal",
           "position": "RB",
           "team": "WAS"
         },
         {
+          "player_id": "12490",
+          "name": "Bhayshul Tuten",
+          "position": "RB",
+          "team": "JAX"
+        },
+        {
           "player_id": "12500",
           "name": "Quinn Ewers",
           "position": "QB",
           "team": "JAX"
-        },
-        {
-          "player_id": "13276",
-          "name": "Omar Cooper",
-          "position": "WR",
-          "team": "NYJ"
         },
         {
           "player_id": "13338",
@@ -1465,16 +1465,16 @@
           "team": "NYG"
         },
         {
+          "player_id": "7567",
+          "name": "Kenny Gainwell",
+          "position": "RB",
+          "team": "TB"
+        },
+        {
           "player_id": "7591",
           "name": "Justin Fields",
           "position": "QB",
           "team": "KC"
-        },
-        {
-          "player_id": "8161",
-          "name": "Malik Willis",
-          "position": "QB",
-          "team": "MIA"
         },
         {
           "player_id": "8162",
@@ -1483,10 +1483,10 @@
           "team": "DAL"
         },
         {
-          "player_id": "9224",
-          "name": "Chase Brown",
+          "player_id": "9511",
+          "name": "Keaton Mitchell",
           "position": "RB",
-          "team": "CIN"
+          "team": "LAC"
         }
       ],
       "taxi": [
@@ -2149,10 +2149,10 @@
           "team": "ATL"
         },
         {
-          "player_id": "8138",
-          "name": "James Cook",
+          "player_id": "11586",
+          "name": "Blake Corum",
           "position": "RB",
-          "team": "BUF"
+          "team": "LAR"
         },
         {
           "player_id": "11576",
@@ -2185,10 +2185,10 @@
           "team": "PIT"
         },
         {
-          "player_id": "11586",
-          "name": "Blake Corum",
+          "player_id": "13287",
+          "name": "Jeremiyah Love",
           "position": "RB",
-          "team": "LAR"
+          "team": "ARI"
         },
         {
           "player_id": "6806",
@@ -2241,12 +2241,6 @@
           "team": "LAR"
         },
         {
-          "player_id": "13287",
-          "name": "Jeremiyah Love",
-          "position": "RB",
-          "team": "ARI"
-        },
-        {
           "player_id": "4144",
           "name": "Jonnu Smith",
           "position": "TE",
@@ -2280,6 +2274,12 @@
           "player_id": "8134",
           "name": "Khalil Shakir",
           "position": "WR",
+          "team": "BUF"
+        },
+        {
+          "player_id": "8138",
+          "name": "James Cook",
+          "position": "RB",
           "team": "BUF"
         },
         {
@@ -2688,10 +2688,10 @@
       "rank": 1,
       "starters": [
         {
-          "player_id": "2306",
-          "name": "Jameis Winston",
+          "player_id": "6770",
+          "name": "Joe Burrow",
           "position": "QB",
-          "team": "NYG"
+          "team": "CIN"
         },
         {
           "player_id": "9509",
@@ -2712,10 +2712,10 @@
           "team": "ATL"
         },
         {
-          "player_id": "2133",
-          "name": "Davante Adams",
+          "player_id": "9501",
+          "name": "DeMario Douglas",
           "position": "WR",
-          "team": "LAR"
+          "team": "NE"
         },
         {
           "player_id": "2216",
@@ -2730,10 +2730,10 @@
           "team": "NYG"
         },
         {
-          "player_id": "5012",
-          "name": "Mark Andrews",
-          "position": "TE",
-          "team": "BAL"
+          "player_id": "4866",
+          "name": "Saquon Barkley",
+          "position": "RB",
+          "team": "PHI"
         },
         {
           "player_id": "8151",
@@ -2762,6 +2762,18 @@
           "team": "CIN"
         },
         {
+          "player_id": "2133",
+          "name": "Davante Adams",
+          "position": "WR",
+          "team": "LAR"
+        },
+        {
+          "player_id": "2306",
+          "name": "Jameis Winston",
+          "position": "QB",
+          "team": "NYG"
+        },
+        {
           "player_id": "2307",
           "name": "Marcus Mariota",
           "position": "QB",
@@ -2786,16 +2798,10 @@
           "team": "TB"
         },
         {
-          "player_id": "4866",
-          "name": "Saquon Barkley",
-          "position": "RB",
-          "team": "PHI"
-        },
-        {
-          "player_id": "6770",
-          "name": "Joe Burrow",
-          "position": "QB",
-          "team": "CIN"
+          "player_id": "5012",
+          "name": "Mark Andrews",
+          "position": "TE",
+          "team": "BAL"
         },
         {
           "player_id": "7049",
@@ -2826,12 +2832,6 @@
           "name": "Jalen Nailor",
           "position": "WR",
           "team": "LV"
-        },
-        {
-          "player_id": "9501",
-          "name": "DeMario Douglas",
-          "position": "WR",
-          "team": "NE"
         }
       ],
       "taxi": [
