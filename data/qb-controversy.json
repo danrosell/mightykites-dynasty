@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-20T18:31:42.766Z",
+  "generated_at": "2026-10-20T22:23:08.248Z",
   "source": "Sleeper public API",
   "username": "TheMightyKites",
   "nfl_week": 7,
@@ -787,10 +787,10 @@
           "team": "CIN"
         },
         {
-          "player_id": "9487",
-          "name": "Parker Washington",
+          "player_id": "2197",
+          "name": "Brandin Cooks",
           "position": "WR",
-          "team": "JAX"
+          "team": "SF"
         },
         {
           "player_id": "5045",
@@ -835,12 +835,6 @@
           "name": "George Holani",
           "position": "RB",
           "team": "SEA"
-        },
-        {
-          "player_id": "2197",
-          "name": "Brandin Cooks",
-          "position": "WR",
-          "team": "SF"
         },
         {
           "player_id": "3257",
@@ -907,6 +901,12 @@
           "name": "Dameon Pierce",
           "position": "RB",
           "team": "PHI"
+        },
+        {
+          "player_id": "9487",
+          "name": "Parker Washington",
+          "position": "WR",
+          "team": "JAX"
         }
       ],
       "taxi": [

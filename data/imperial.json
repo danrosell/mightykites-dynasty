@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-20T18:31:42.428Z",
+  "generated_at": "2026-10-20T22:23:07.666Z",
   "source": "Sleeper public API",
   "username": "TheMightyKites",
   "nfl_week": 7,
@@ -203,12 +203,6 @@
         "name": "Josh Cameron",
         "position": "WR",
         "team": "JAX"
-      },
-      {
-        "player_id": "4881",
-        "name": "Lamar Jackson",
-        "position": "QB",
-        "team": "BAL"
       }
     ],
     "taxi": [
@@ -237,6 +231,12 @@
         "name": "Jacory Croskey-Merritt",
         "position": "RB",
         "team": "WAS"
+      },
+      {
+        "player_id": "4881",
+        "name": "Lamar Jackson",
+        "position": "QB",
+        "team": "BAL"
       }
     ],
     "picks": [
@@ -446,12 +446,6 @@
           "name": "Josh Cameron",
           "position": "WR",
           "team": "JAX"
-        },
-        {
-          "player_id": "4881",
-          "name": "Lamar Jackson",
-          "position": "QB",
-          "team": "BAL"
         }
       ],
       "taxi": [
@@ -480,6 +474,12 @@
           "name": "Jacory Croskey-Merritt",
           "position": "RB",
           "team": "WAS"
+        },
+        {
+          "player_id": "4881",
+          "name": "Lamar Jackson",
+          "position": "QB",
+          "team": "BAL"
         }
       ],
       "picks": [
@@ -2212,10 +2212,10 @@
           "team": "LV"
         },
         {
-          "player_id": "11647",
-          "name": "Kimani Vidal",
+          "player_id": "11643",
+          "name": "Jaylen Wright",
           "position": "RB",
-          "team": "LAC"
+          "team": "MIA"
         },
         {
           "player_id": "13276",
@@ -2256,10 +2256,10 @@
       ],
       "bench": [
         {
-          "player_id": "11643",
-          "name": "Jaylen Wright",
+          "player_id": "11647",
+          "name": "Kimani Vidal",
           "position": "RB",
-          "team": "MIA"
+          "team": "LAC"
         },
         {
           "player_id": "11729",
@@ -3133,10 +3133,10 @@
           "team": "NE"
         },
         {
-          "player_id": "12507",
-          "name": "Omarion Hampton",
+          "player_id": "8150",
+          "name": "Kyren Williams",
           "position": "RB",
-          "team": "LAC"
+          "team": "LAR"
         },
         {
           "player_id": "2133",
@@ -3157,16 +3157,16 @@
           "team": "SF"
         },
         {
-          "player_id": "8150",
-          "name": "Kyren Williams",
+          "player_id": "8129",
+          "name": "Dameon Pierce",
           "position": "RB",
-          "team": "LAR"
+          "team": "PHI"
         },
         {
-          "player_id": "11637",
-          "name": "Keon Coleman",
+          "player_id": "10229",
+          "name": "Rashee Rice",
           "position": "WR",
-          "team": "BUF"
+          "team": "KC"
         },
         {
           "player_id": "11564",
@@ -3177,10 +3177,16 @@
       ],
       "bench": [
         {
-          "player_id": "10229",
-          "name": "Rashee Rice",
+          "player_id": "11637",
+          "name": "Keon Coleman",
           "position": "WR",
-          "team": "KC"
+          "team": "BUF"
+        },
+        {
+          "player_id": "12507",
+          "name": "Omarion Hampton",
+          "position": "RB",
+          "team": "LAC"
         },
         {
           "player_id": "12718",
@@ -3193,12 +3199,6 @@
           "name": "Geno Smith",
           "position": "QB",
           "team": "NYJ"
-        },
-        {
-          "player_id": "8129",
-          "name": "Dameon Pierce",
-          "position": "RB",
-          "team": "PHI"
         },
         {
           "player_id": "8180",

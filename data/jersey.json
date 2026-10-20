@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-20T18:31:43.091Z",
+  "generated_at": "2026-10-20T22:23:08.683Z",
   "source": "Sleeper public API",
   "username": "TheMightyKites",
   "nfl_week": 7,
@@ -149,10 +149,10 @@
     "rank": 1,
     "starters": [
       {
-        "player_id": "4984",
-        "name": "Josh Allen",
+        "player_id": "13425",
+        "name": "Jalon Daniels",
         "position": "QB",
-        "team": "BUF"
+        "team": "TB"
       },
       {
         "player_id": "12481",
@@ -253,12 +253,6 @@
         "team": "BAL"
       },
       {
-        "player_id": "13425",
-        "name": "Jalon Daniels",
-        "position": "QB",
-        "team": "TB"
-      },
-      {
         "player_id": "1479",
         "name": "Keenan Allen",
         "position": "WR",
@@ -281,6 +275,12 @@
         "name": "Evan Engram",
         "position": "TE",
         "team": "DEN"
+      },
+      {
+        "player_id": "4984",
+        "name": "Josh Allen",
+        "position": "QB",
+        "team": "BUF"
       },
       {
         "player_id": "5995",
@@ -1651,7 +1651,7 @@
           "player_id": "7561",
           "name": "Elijah Mitchell",
           "position": "RB",
-          "team": "FA"
+          "team": "PHI"
         },
         {
           "player_id": "7716",
@@ -1810,10 +1810,10 @@
       "rank": 1,
       "starters": [
         {
-          "player_id": "4984",
-          "name": "Josh Allen",
+          "player_id": "13425",
+          "name": "Jalon Daniels",
           "position": "QB",
-          "team": "BUF"
+          "team": "TB"
         },
         {
           "player_id": "12481",
@@ -1914,12 +1914,6 @@
           "team": "BAL"
         },
         {
-          "player_id": "13425",
-          "name": "Jalon Daniels",
-          "position": "QB",
-          "team": "TB"
-        },
-        {
           "player_id": "1479",
           "name": "Keenan Allen",
           "position": "WR",
@@ -1942,6 +1936,12 @@
           "name": "Evan Engram",
           "position": "TE",
           "team": "DEN"
+        },
+        {
+          "player_id": "4984",
+          "name": "Josh Allen",
+          "position": "QB",
+          "team": "BUF"
         },
         {
           "player_id": "5995",
