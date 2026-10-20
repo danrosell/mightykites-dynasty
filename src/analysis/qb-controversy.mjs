@@ -26,7 +26,7 @@ export function buildQBControversyAnalysis(snapshot, cache, schedule=null, optio
   const logs=cache.players[p.player_id];
   if(!logs)return {...p,projection:{ok:false,reason:"NO_VERIFIED_GAME_LOGS"}};
   if(!cache.identities?.[p.player_id])return {...p,projection:{ok:false,reason:"NO_VERIFIED_CACHE_IDENTITY"}};
-  if(!Array.isArray(logs)||logs.some(g=>!Number.isInteger(g.season)||g.season<cache.season-1||g.season>cache.season||!Number.isInteger(g.week)||g.week<1||g.week>18||(g.season===cache.season&&g.week>=snapshot.nfl_week)||g.played!==true))throw Error("Invalid season or unfinished game in cache");
+  if(!Array.isArray(logs)||logs.some(g=>!Number.isInteger(g.season)||g.season<cache.season-1||g.season>cache.season||!Number.isInteger(g.week)||g.week<1||g.week>18||(g.season===cache.season&&g.week>snapshot.nfl_week)||g.played!==true))throw Error("Invalid season or unfinished game in cache");
   return {...p,projection:projectFromGameLogs(logs.filter(g=>g.season<cache.season||g.week<snapshot.nfl_week),snapshot.league.scoring_settings,{position:p.position,requireComplete:true})};
  });
  const validation=validateLineupInputs(snapshot,schedule,options);
