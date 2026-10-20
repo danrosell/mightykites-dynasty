@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-20T07:42:54.253Z",
+  "generated_at": "2026-10-20T13:39:01.960Z",
   "source": "Sleeper public API",
   "username": "TheMightyKites",
   "nfl_week": 7,
@@ -155,10 +155,10 @@
         "team": "CHI"
       },
       {
-        "player_id": "4663",
-        "name": "Austin Ekeler",
+        "player_id": "12512",
+        "name": "Quinshon Judkins",
         "position": "RB",
-        "team": "WAS"
+        "team": "CLE"
       },
       {
         "player_id": "7611",
@@ -185,12 +185,6 @@
         "team": "GB"
       },
       {
-        "player_id": "9480",
-        "name": "Brenton Strange",
-        "position": "TE",
-        "team": "JAX"
-      },
-      {
         "player_id": "7553",
         "name": "Kyle Pitts",
         "position": "TE",
@@ -201,6 +195,12 @@
         "name": "AJ Barner",
         "position": "TE",
         "team": "SEA"
+      },
+      {
+        "player_id": "11620",
+        "name": "Rome Odunze",
+        "position": "WR",
+        "team": "CHI"
       },
       {
         "player_id": "13425",
@@ -223,12 +223,6 @@
         "team": "NO"
       },
       {
-        "player_id": "11620",
-        "name": "Rome Odunze",
-        "position": "WR",
-        "team": "CHI"
-      },
-      {
         "player_id": "12491",
         "name": "Corey Kiner",
         "position": "RB",
@@ -239,12 +233,6 @@
         "name": "Mason Taylor",
         "position": "TE",
         "team": "NYJ"
-      },
-      {
-        "player_id": "12512",
-        "name": "Quinshon Judkins",
-        "position": "RB",
-        "team": "CLE"
       },
       {
         "player_id": "12541",
@@ -271,22 +259,34 @@
         "team": "LV"
       },
       {
+        "player_id": "13345",
+        "name": "Jonah Coleman",
+        "position": "RB",
+        "team": "DEN"
+      },
+      {
+        "player_id": "4663",
+        "name": "Austin Ekeler",
+        "position": "RB",
+        "team": "WAS"
+      },
+      {
         "player_id": "7039",
         "name": "Cody White",
         "position": "WR",
         "team": "LV"
       },
       {
-        "player_id": "8142",
-        "name": "Alec Pierce",
-        "position": "WR",
-        "team": "IND"
-      },
-      {
         "player_id": "9229",
         "name": "Anthony Richardson",
         "position": "QB",
         "team": "IND"
+      },
+      {
+        "player_id": "9480",
+        "name": "Brenton Strange",
+        "position": "TE",
+        "team": "JAX"
       },
       {
         "player_id": "9504",
@@ -317,10 +317,10 @@
     ],
     "reserve": [
       {
-        "player_id": "13345",
-        "name": "Jonah Coleman",
-        "position": "RB",
-        "team": "DEN"
+        "player_id": "8142",
+        "name": "Alec Pierce",
+        "position": "WR",
+        "team": "IND"
       },
       {
         "player_id": "9226",
@@ -530,10 +530,16 @@
           "team": "TB"
         },
         {
-          "player_id": "8676",
-          "name": "Rashid Shaheed",
+          "player_id": "6794",
+          "name": "Justin Jefferson",
           "position": "WR",
-          "team": "SEA"
+          "team": "MIN"
+        },
+        {
+          "player_id": "6801",
+          "name": "Tee Higgins",
+          "position": "WR",
+          "team": "CIN"
         },
         {
           "player_id": "12514",
@@ -542,10 +548,10 @@
           "team": "TB"
         },
         {
-          "player_id": "9500",
-          "name": "Josh Downs",
-          "position": "WR",
-          "team": "IND"
+          "player_id": "7600",
+          "name": "Pat Freiermuth",
+          "position": "TE",
+          "team": "PIT"
         },
         {
           "player_id": "8130",
@@ -554,21 +560,15 @@
           "team": "ARI"
         },
         {
-          "player_id": "7600",
-          "name": "Pat Freiermuth",
-          "position": "TE",
-          "team": "PIT"
-        },
-        {
-          "player_id": "9757",
-          "name": "Kendre Miller",
-          "position": "RB",
-          "team": "NO"
-        },
-        {
           "player_id": "8167",
           "name": "Christian Watson",
           "position": "WR",
+          "team": "GB"
+        },
+        {
+          "player_id": "5850",
+          "name": "Josh Jacobs",
+          "position": "RB",
           "team": "GB"
         }
       ],
@@ -610,24 +610,6 @@
           "team": "TB"
         },
         {
-          "player_id": "5850",
-          "name": "Josh Jacobs",
-          "position": "RB",
-          "team": "GB"
-        },
-        {
-          "player_id": "6794",
-          "name": "Justin Jefferson",
-          "position": "WR",
-          "team": "MIN"
-        },
-        {
-          "player_id": "6801",
-          "name": "Tee Higgins",
-          "position": "WR",
-          "team": "CIN"
-        },
-        {
           "player_id": "7021",
           "name": "Rico Dowdle",
           "position": "RB",
@@ -652,10 +634,28 @@
           "team": "WAS"
         },
         {
+          "player_id": "8676",
+          "name": "Rashid Shaheed",
+          "position": "WR",
+          "team": "SEA"
+        },
+        {
           "player_id": "9494",
           "name": "Marvin Mims",
           "position": "WR",
           "team": "DEN"
+        },
+        {
+          "player_id": "9500",
+          "name": "Josh Downs",
+          "position": "WR",
+          "team": "IND"
+        },
+        {
+          "player_id": "9757",
+          "name": "Kendre Miller",
+          "position": "RB",
+          "team": "NO"
         }
       ],
       "taxi": [
@@ -769,22 +769,22 @@
           "team": "KC"
         },
         {
-          "player_id": "8129",
-          "name": "Dameon Pierce",
+          "player_id": "9221",
+          "name": "Jahmyr Gibbs",
           "position": "RB",
-          "team": "PHI"
+          "team": "DET"
         },
         {
-          "player_id": "7528",
-          "name": "Najee Harris",
+          "player_id": "4199",
+          "name": "Aaron Jones",
           "position": "RB",
-          "team": "NYG"
+          "team": "MIN"
         },
         {
-          "player_id": "5927",
-          "name": "Terry McLaurin",
+          "player_id": "7564",
+          "name": "Ja'Marr Chase",
           "position": "WR",
-          "team": "WAS"
+          "team": "CIN"
         },
         {
           "player_id": "9487",
@@ -817,10 +817,10 @@
           "team": "NYJ"
         },
         {
-          "player_id": "3257",
-          "name": "Jacoby Brissett",
+          "player_id": "3163",
+          "name": "Jared Goff",
           "position": "QB",
-          "team": "ARI"
+          "team": "DET"
         }
       ],
       "bench": [
@@ -843,22 +843,16 @@
           "team": "SF"
         },
         {
-          "player_id": "3163",
-          "name": "Jared Goff",
+          "player_id": "3257",
+          "name": "Jacoby Brissett",
           "position": "QB",
-          "team": "DET"
+          "team": "ARI"
         },
         {
           "player_id": "4066",
           "name": "Evan Engram",
           "position": "TE",
           "team": "DEN"
-        },
-        {
-          "player_id": "4199",
-          "name": "Aaron Jones",
-          "position": "RB",
-          "team": "MIN"
         },
         {
           "player_id": "5872",
@@ -871,6 +865,12 @@
           "name": "David Montgomery",
           "position": "RB",
           "team": "HOU"
+        },
+        {
+          "player_id": "5927",
+          "name": "Terry McLaurin",
+          "position": "WR",
+          "team": "WAS"
         },
         {
           "player_id": "6011",
@@ -891,10 +891,10 @@
           "team": "ATL"
         },
         {
-          "player_id": "7564",
-          "name": "Ja'Marr Chase",
-          "position": "WR",
-          "team": "CIN"
+          "player_id": "7528",
+          "name": "Najee Harris",
+          "position": "RB",
+          "team": "NYG"
         },
         {
           "player_id": "7585",
@@ -903,10 +903,10 @@
           "team": "HOU"
         },
         {
-          "player_id": "9221",
-          "name": "Jahmyr Gibbs",
+          "player_id": "8129",
+          "name": "Dameon Pierce",
           "position": "RB",
-          "team": "DET"
+          "team": "PHI"
         }
       ],
       "taxi": [
@@ -2422,10 +2422,10 @@
           "team": "CHI"
         },
         {
-          "player_id": "4663",
-          "name": "Austin Ekeler",
+          "player_id": "12512",
+          "name": "Quinshon Judkins",
           "position": "RB",
-          "team": "WAS"
+          "team": "CLE"
         },
         {
           "player_id": "7611",
@@ -2452,12 +2452,6 @@
           "team": "GB"
         },
         {
-          "player_id": "9480",
-          "name": "Brenton Strange",
-          "position": "TE",
-          "team": "JAX"
-        },
-        {
           "player_id": "7553",
           "name": "Kyle Pitts",
           "position": "TE",
@@ -2468,6 +2462,12 @@
           "name": "AJ Barner",
           "position": "TE",
           "team": "SEA"
+        },
+        {
+          "player_id": "11620",
+          "name": "Rome Odunze",
+          "position": "WR",
+          "team": "CHI"
         },
         {
           "player_id": "13425",
@@ -2490,12 +2490,6 @@
           "team": "NO"
         },
         {
-          "player_id": "11620",
-          "name": "Rome Odunze",
-          "position": "WR",
-          "team": "CHI"
-        },
-        {
           "player_id": "12491",
           "name": "Corey Kiner",
           "position": "RB",
@@ -2506,12 +2500,6 @@
           "name": "Mason Taylor",
           "position": "TE",
           "team": "NYJ"
-        },
-        {
-          "player_id": "12512",
-          "name": "Quinshon Judkins",
-          "position": "RB",
-          "team": "CLE"
         },
         {
           "player_id": "12541",
@@ -2538,22 +2526,34 @@
           "team": "LV"
         },
         {
+          "player_id": "13345",
+          "name": "Jonah Coleman",
+          "position": "RB",
+          "team": "DEN"
+        },
+        {
+          "player_id": "4663",
+          "name": "Austin Ekeler",
+          "position": "RB",
+          "team": "WAS"
+        },
+        {
           "player_id": "7039",
           "name": "Cody White",
           "position": "WR",
           "team": "LV"
         },
         {
-          "player_id": "8142",
-          "name": "Alec Pierce",
-          "position": "WR",
-          "team": "IND"
-        },
-        {
           "player_id": "9229",
           "name": "Anthony Richardson",
           "position": "QB",
           "team": "IND"
+        },
+        {
+          "player_id": "9480",
+          "name": "Brenton Strange",
+          "position": "TE",
+          "team": "JAX"
         },
         {
           "player_id": "9504",
@@ -2584,10 +2584,10 @@
       ],
       "reserve": [
         {
-          "player_id": "13345",
-          "name": "Jonah Coleman",
-          "position": "RB",
-          "team": "DEN"
+          "player_id": "8142",
+          "name": "Alec Pierce",
+          "position": "WR",
+          "team": "IND"
         },
         {
           "player_id": "9226",
