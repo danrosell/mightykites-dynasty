@@ -10,7 +10,14 @@ const [snapshot,analysis,independent,schedule,rosterCSV,scheduleCSV]=await Promi
  read(origin+'/api/league/qb-controversy'),read(origin+'/api/optimizer/qb-controversy'),read(origin+'/data/independent-verification.json'),read(origin+'/api/player-preflight'),read(ROSTER_SOURCE,'text'),read(SCHEDULE_SOURCE,'text')
 ]);
 const v=analysis.verification,now=Date.now(),week=snapshot.nfl_week,season=Number(snapshot.league.season);
-assert.equal(v?.ok,true,JSON.stringify(v?.issues));assert.equal(v.week,week);assert.equal(v.season,season);
+assert.ok(v&&Array.isArray(v.issues),'Missing verification report');
+// nflverse may omit rostered players. That is an identity coverage gap, not
+// permission to infer their identities or fail an otherwise valid deployment.
+const gaps=v.issues.filter(x=>x.code==='UNVERIFIED_PLAYER');
+const otherErrors=v.issues.filter(x=>x.severity==='error'&&x.code!=='UNVERIFIED_PLAYER');
+assert.deepEqual(otherErrors,[],'Unexpected independent verification errors');
+assert.equal(v.ok,gaps.length===0,'Verification must fail closed on coverage gaps');
+assert.equal(v.week,week);assert.equal(v.season,season);
 assert.equal(v.source.players,ROSTER_SOURCE);assert.equal(v.source.schedule,SCHEDULE_SOURCE);
 for(const [stamp,max] of [[v.independent_at,2*3600000],[v.schedule_at,15*60000]]){const age=now-Date.parse(stamp);assert.ok(age>=-300000&&age<=max,'Stale/future verification');}
 const rosters=parseCSV(rosterCSV).filter(r=>Number(r.season)===season&&Number(r.week)===week&&r.game_type==='REG');
@@ -24,16 +31,24 @@ for(const g of schedule.games){
  assert.equal(`${parts.year}-${parts.month}-${parts.day}`,rows[0].gameday);assert.equal(`${parts.hour}:${parts.minute}`,rows[0].gametime);
 }
 const roster=[...snapshot.my_team.starters,...snapshot.my_team.bench];
-assert.equal(Object.keys(v.players).length,roster.length);
+assert.equal(Object.keys(v.players).length+gaps.length,roster.length,'Every roster player must be verified or explicitly flagged');
 for(const p of roster){
- const rows=rosters.filter(r=>r.sleeper_id.trim()===p.player_id);assert.equal(rows.length,1,`Identity coverage ${p.player_id}`);
+ const rows=rosters.filter(r=>r.sleeper_id.trim()===p.player_id);
+ if(rows.length===0){
+  assert.ok(gaps.some(g=>g.player_id===p.player_id),'Missing independent identity must block verification');
+  assert.equal(v.players[p.player_id],undefined);
+  continue;
+ }
+ assert.equal(rows.length,1,`Ambiguous identity ${p.player_id}`);
  const r=rows[0],verified=v.players[p.player_id];
+ assert.ok(verified,'Matching independent record missing from verification');
  assert.equal(verified.gsis_id,r.gsis_id.trim());assert.equal(verified.team,norm(r.team));assert.equal(verified.position,r.position);assert.equal(verified.status,r.status);
  assert.equal(verified.team,p.team);assert.equal(verified.position,p.position);
  const game=schedule.games.find(g=>[g.home,g.away].includes(verified.team));
  assert.equal(verified.has_game,!!game);
  if(game){assert.equal(verified.game.game_id,game.game_id);assert.equal(verified.started,game.game_state==='in'||game.game_state==='post'||Date.parse(game.kickoff)<=Date.parse(v.checked_at));}
 }
-assert.equal(analysis.lineup.ok,false);assert.equal(analysis.lineup.reason,'AVAILABILITY_OR_PROJECTIONS_NOT_VERIFIED');assert.equal(analysis.lineup.slots,undefined);
-assert.ok(analysis.lineup.issues.some(i=>i.code==='AVAILABILITY_NOT_VERIFIED'));
-console.log(JSON.stringify({checked_at:new Date().toISOString(),origin,season,week,verified_players:roster.length,cross_checked_games:expected.length,locked_starters:snapshot.my_team.starters.filter(p=>v.players[p.player_id].started).map(p=>p.name),missing_eligible_projections:analysis.lineup.issues.filter(i=>i.code==='MISSING_PLAYER_PROJECTION').length,lineup_advice_blocked:true},null,2));
+assert.equal(analysis.lineup.ok,false);assert.equal(analysis.lineup.reason,gaps.length?'SCHEDULE_OR_IDENTITY_NOT_VERIFIED':'AVAILABILITY_OR_PROJECTIONS_NOT_VERIFIED');assert.equal(analysis.lineup.slots,undefined);
+if(gaps.length)assert.ok(analysis.lineup.issues.some(i=>i.code==='UNVERIFIED_PLAYER'));
+else assert.ok(analysis.lineup.issues.some(i=>i.code==='AVAILABILITY_NOT_VERIFIED'));
+console.log(JSON.stringify({checked_at:new Date().toISOString(),origin,season,week,verified_players:Object.keys(v.players).length,unverified_player_ids:gaps.map(x=>x.player_id),cross_checked_games:expected.length,locked_starters:snapshot.my_team.starters.filter(p=>v.players[p.player_id]?.started).map(p=>p.name),missing_eligible_projections:analysis.lineup.issues.filter(i=>i.code==='MISSING_PLAYER_PROJECTION').length,lineup_advice_blocked:true},null,2));
