@@ -34,7 +34,7 @@ function context(){
  const players=[{player_id:'q',name:'QB',position:'QB',projection:{ok:true,projected_points:20}},{player_id:'w',name:'WR',position:'WR',projection:{ok:true,projected_points:10}},{player_id:'r',name:'RB',position:'RB',projection:{ok:true,projected_points:15}}];
  const snapshot={league:{roster_positions:['QB','FLEX','BN'],settings:{}},my_team:{starters:players.slice(0,2),bench:players.slice(2)}};
  const verification={ok:true,season:2026,week:6,players:Object.fromEntries(players.map(p=>[p.player_id,{has_game:true,started:false,status:'ACT',game:{game_id:'event'}}]))};
- const availability={season:2026,week:6,source:'independent confirmed fixture',generated_at:new Date(now).toISOString(),players:Object.fromEntries(players.map(p=>[p.player_id,{status:'active',confirmed:true,game_id:'event'}]))};
+ const availability={season:2026,week:6,source:'NFL_OFFICIAL_GAME_DAY_STATUS',generated_at:new Date(now).toISOString(),players:Object.fromEntries(players.map(p=>[p.player_id,{status:'active',confirmed:true,game_id:'event',evidence_type:'EXPLICIT_ACTIVE',reported_at:new Date(now).toISOString(),source_url:'https://www.nfl.com/games/verified-event'}]))};
  return {players,snapshot,verification,availability};
 }
 test('verified complete inputs can produce a legal lineup',()=>{
@@ -59,7 +59,7 @@ test('started bench players cannot enter and locked starters cannot move',()=>{
 test('verified byes and confirmed inactive players are excluded without zero projections',()=>{
  const c=context();c.verification.players.r.has_game=false;c.players[2].projection={ok:false};
  let r=planVerifiedLineup(c.snapshot,c.players,c.verification,{now,availability:c.availability});assert.equal(r.ok,true);assert.equal(r.remaining_projected_points,30);
- c.verification.players.r.has_game=true;c.availability.players.r.status='inactive';
+ c.verification.players.r.has_game=true;c.availability.players.r.status='inactive';c.availability.players.r.evidence_type='EXPLICIT_INACTIVE';
  r=planVerifiedLineup(c.snapshot,c.players,c.verification,{now,availability:c.availability});assert.equal(r.ok,true);assert.equal(r.remaining_projected_points,30);
 });
 
@@ -73,9 +73,25 @@ test('NFL reserve status cannot silently exclude a potentially elevated player',
  const c=context();c.verification.players.r.status='RES';
  assert.equal(planVerifiedLineup(c.snapshot,c.players,c.verification,{now}).ok,false);
  assert.equal(planVerifiedLineup(c.snapshot,c.players,c.verification,{now,availability:c.availability}).ok,false);
- c.availability.players.r.status='inactive';assert.equal(planVerifiedLineup(c.snapshot,c.players,c.verification,{now,availability:c.availability}).ok,true);
+ c.availability.players.r.status='inactive';c.availability.players.r.evidence_type='EXPLICIT_INACTIVE';assert.equal(planVerifiedLineup(c.snapshot,c.players,c.verification,{now,availability:c.availability}).ok,true);
 });
 test('completed lineups still do not produce advice without an availability provider',()=>{
  const c=context();for(const v of Object.values(c.verification.players))v.started=true;
  assert.equal(planVerifiedLineup(c.snapshot,c.players,c.verification,{now}).ok,false);
+});
+
+test('unproven active claims, inferred actives and stale source evidence never authorize lineup advice',()=>{
+ for(const mutate of [
+  c=>c.availability.source='unverified blog',
+  c=>c.availability.players.q.source_url='https://example.com/inactives',
+  c=>c.availability.players.q.evidence_type='NOT_LISTED_IN_INACTIVES',
+  c=>c.availability.players.q.reported_at='2026-10-01T00:00:00Z',
+  c=>delete c.availability.players.q.reported_at,
+  c=>c.availability.players.q.evidence_type='EXPLICIT_INACTIVE'
+ ]){
+  const c=context();mutate(c);
+  const result=planVerifiedLineup(c.snapshot,c.players,c.verification,{now,availability:c.availability});
+  assert.equal(result.ok,false);
+  assert.ok(result.issues.some(i=>i.code==='AVAILABILITY_NOT_VERIFIED'));
+ }
 });

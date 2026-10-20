@@ -45,8 +45,15 @@ export function planVerifiedLineup(snapshot,players,verification,{now=Date.now()
   if(!['ACT','RES'].includes(v.status)){issues.push({code:'UNKNOWN_NFL_ROSTER_STATUS',player_id:p.player_id});continue;}
   // NFL roster ACT is not a game-day active declaration. No optimistic defaults.
   const a=availability?.players?.[p.player_id],stamp=Date.parse(availability?.generated_at);
+  // A caller-provided 'confirmed' flag is not independent evidence. Require
+  // game-specific, timestamped provenance before accepting an active/inactive claim.
+  const proof=Date.parse(a?.reported_at);
+  const provenance=availability?.source==='NFL_OFFICIAL_GAME_DAY_STATUS'&&
+   a?.evidence_type===(a?.status==='active'?'EXPLICIT_ACTIVE':'EXPLICIT_INACTIVE')&&
+   typeof a?.source_url==='string'&&/^https:\/\/(www\.)?nfl\.com\//.test(a.source_url)&&
+   Number.isFinite(proof)&&proof<=now+300000&&now-proof<=24*3600000;
   const fresh=Number.isFinite(stamp)&&stamp<=now+300000&&now-stamp<=90*60000;
-  if(!fresh||availability?.season!==verification.season||availability?.week!==verification.week||!availability?.source||a?.confirmed!==true||a?.game_id!==v.game?.game_id||!['active','inactive'].includes(a?.status))issues.push({code:'AVAILABILITY_NOT_VERIFIED',player_id:p.player_id});
+  if(!fresh||availability?.season!==verification.season||availability?.week!==verification.week||!provenance||a?.confirmed!==true||a?.game_id!==v.game?.game_id||!['active','inactive'].includes(a?.status))issues.push({code:'AVAILABILITY_NOT_VERIFIED',player_id:p.player_id});
   else if(a.status==='inactive')continue;
   else if(v.status!=='ACT')issues.push({code:'ROSTER_AVAILABILITY_CONFLICT',player_id:p.player_id});
   if(p.projection?.ok!==true||!Number.isFinite(p.projection.projected_points))issues.push({code:'MISSING_PLAYER_PROJECTION',player_id:p.player_id});
