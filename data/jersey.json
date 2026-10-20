@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-10-20T01:54:15.554Z",
+  "generated_at": "2026-10-20T07:42:54.619Z",
   "source": "Sleeper public API",
   "username": "TheMightyKites",
-  "nfl_week": 6,
+  "nfl_week": 7,
   "nfl_season": "2026",
   "league": {
     "id": "1312464433087250432",
@@ -28,7 +28,7 @@
       "playoff_type": 1,
       "taxi_slots": 0,
       "sub_start_time_eligibility": 0,
-      "last_scored_leg": 5,
+      "last_scored_leg": 6,
       "daily_waivers_days": 5461,
       "playoff_week_start": 15,
       "waiver_clear_days": 1,
@@ -142,10 +142,10 @@
     "owner_id": "866511772801196032",
     "team_name": "TheMightyKites",
     "is_me": true,
-    "record": "4-1",
-    "wins": 4,
+    "record": "5-1",
+    "wins": 5,
     "losses": 1,
-    "points_for": 733.25,
+    "points_for": 841.3,
     "rank": 1,
     "starters": [
       {
@@ -416,12 +416,12 @@
   "my_matchup": {
     "me": {
       "team": "TheMightyKites",
-      "points": 108.05
+      "points": 0
     },
     "opponent": {
-      "team": "Beast Mode",
-      "points": 90.25,
-      "roster_id": 6
+      "team": "James Jones #1 WR",
+      "points": 0,
+      "roster_id": 11
     }
   },
   "my_picks": [
@@ -502,11 +502,11 @@
       "owner_id": "646587866931236864",
       "team_name": "PRIMETIME",
       "is_me": false,
-      "record": "3-2",
-      "wins": 3,
+      "record": "4-2",
+      "wins": 4,
       "losses": 2,
-      "points_for": 729.9,
-      "rank": 5,
+      "points_for": 873.3,
+      "rank": 3,
       "starters": [
         {
           "player_id": "3294",
@@ -792,11 +792,11 @@
       "owner_id": "405783718150565888",
       "team_name": "Tenacious D",
       "is_me": false,
-      "record": "3-2",
-      "wins": 3,
+      "record": "4-2",
+      "wins": 4,
       "losses": 2,
-      "points_for": 851.9,
-      "rank": 4,
+      "points_for": 969.2,
+      "rank": 2,
       "starters": [
         {
           "player_id": "421",
@@ -1117,11 +1117,11 @@
       "owner_id": "651198204880187392",
       "team_name": "The Rusty Trombones",
       "is_me": false,
-      "record": "0-5",
-      "wins": 0,
+      "record": "1-5",
+      "wins": 1,
       "losses": 5,
-      "points_for": 421.2,
-      "rank": 12,
+      "points_for": 535.6,
+      "rank": 11,
       "starters": [
         {
           "player_id": "6797",
@@ -1477,10 +1477,10 @@
       "owner_id": "469353230271246336",
       "team_name": "pvanexter",
       "is_me": false,
-      "record": "1-4",
+      "record": "1-5",
       "wins": 1,
-      "losses": 4,
-      "points_for": 525.05,
+      "losses": 5,
+      "points_for": 624.15,
       "rank": 10,
       "starters": [
         {
@@ -1803,10 +1803,10 @@
       "owner_id": "866511772801196032",
       "team_name": "TheMightyKites",
       "is_me": true,
-      "record": "4-1",
-      "wins": 4,
+      "record": "5-1",
+      "wins": 5,
       "losses": 1,
-      "points_for": 733.25,
+      "points_for": 841.3,
       "rank": 1,
       "starters": [
         {
@@ -2079,11 +2079,11 @@
       "owner_id": "655144672024444928",
       "team_name": "Beast Mode",
       "is_me": false,
-      "record": "4-1",
+      "record": "4-2",
       "wins": 4,
-      "losses": 1,
-      "points_for": 713.65,
-      "rank": 3,
+      "losses": 2,
+      "points_for": 803.9,
+      "rank": 5,
       "starters": [
         {
           "player_id": "11563",
@@ -2390,10 +2390,10 @@
       "owner_id": "655180332705849344",
       "team_name": "LSU BOYZZZ",
       "is_me": false,
-      "record": "2-3",
-      "wins": 2,
+      "record": "3-3",
+      "wins": 3,
       "losses": 3,
-      "points_for": 545.1,
+      "points_for": 662.8,
       "rank": 8,
       "starters": [
         {
@@ -2708,11 +2708,11 @@
       "owner_id": "920729976993824768",
       "team_name": "Prestige Worldwide ***",
       "is_me": false,
-      "record": "4-1",
+      "record": "4-2",
       "wins": 4,
-      "losses": 1,
-      "points_for": 715.75,
-      "rank": 2,
+      "losses": 2,
+      "points_for": 856.25,
+      "rank": 4,
       "starters": [
         {
           "player_id": "4046",
@@ -3026,11 +3026,11 @@
       "owner_id": "444967805956124672",
       "team_name": "Bijans World",
       "is_me": false,
-      "record": "3-2",
+      "record": "3-3",
       "wins": 3,
-      "losses": 2,
-      "points_for": 607.15,
-      "rank": 6,
+      "losses": 3,
+      "points_for": 714.15,
+      "rank": 7,
       "starters": [
         {
           "player_id": "9758",
@@ -3345,10 +3345,10 @@
       "owner_id": "653300850810236928",
       "team_name": "kherri04",
       "is_me": false,
-      "record": "2-3",
+      "record": "2-4",
       "wins": 2,
-      "losses": 3,
-      "points_for": 504.2,
+      "losses": 4,
+      "points_for": 609.4,
       "rank": 9,
       "starters": [
         {
@@ -3651,11 +3651,11 @@
       "owner_id": "76814635617370112",
       "team_name": "James Jones #1 WR",
       "is_me": false,
-      "record": "3-2",
-      "wins": 3,
+      "record": "4-2",
+      "wins": 4,
       "losses": 2,
-      "points_for": 578,
-      "rank": 7,
+      "points_for": 686.3,
+      "rank": 6,
       "starters": [
         {
           "player_id": "11566",
@@ -3963,11 +3963,11 @@
       "owner_id": "921190198774525952",
       "team_name": "Roll Tide ",
       "is_me": false,
-      "record": "1-4",
+      "record": "1-5",
       "wins": 1,
-      "losses": 4,
-      "points_for": 455.1,
-      "rank": 11,
+      "losses": 5,
+      "points_for": 535,
+      "rank": 12,
       "starters": [
         {
           "player_id": "6804",

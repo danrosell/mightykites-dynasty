@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-10-20T01:54:14.858Z",
+  "generated_at": "2026-10-20T07:42:53.805Z",
   "source": "Sleeper public API",
   "username": "TheMightyKites",
-  "nfl_week": 6,
+  "nfl_week": 7,
   "nfl_season": "2026",
   "league": {
     "id": "1393340029132079104",
@@ -29,7 +29,7 @@
       "playoff_type": 1,
       "taxi_slots": 3,
       "sub_start_time_eligibility": 0,
-      "last_scored_leg": 5,
+      "last_scored_leg": 6,
       "daily_waivers_days": 5461,
       "sub_lock_if_starter_active": 0,
       "playoff_week_start": 15,
@@ -130,11 +130,11 @@
     "owner_id": "866511772801196032",
     "team_name": "TheMightyKites",
     "is_me": true,
-    "record": "3-2",
-    "wins": 3,
+    "record": "4-2",
+    "wins": 4,
     "losses": 2,
-    "points_for": 588.6,
-    "rank": 7,
+    "points_for": 697.38,
+    "rank": 5,
     "starters": [
       {
         "player_id": "3198",
@@ -301,12 +301,12 @@
   "my_matchup": {
     "me": {
       "team": "TheMightyKites",
-      "points": 108.78
+      "points": 0
     },
     "opponent": {
-      "team": "chane broken",
-      "points": 96.82,
-      "roster_id": 17
+      "team": "The Rusty Trombones",
+      "points": 0,
+      "roster_id": 9
     }
   },
   "my_picks": [
@@ -373,11 +373,11 @@
       "owner_id": "866511772801196032",
       "team_name": "TheMightyKites",
       "is_me": true,
-      "record": "3-2",
-      "wins": 3,
+      "record": "4-2",
+      "wins": 4,
       "losses": 2,
-      "points_for": 588.6,
-      "rank": 7,
+      "points_for": 697.38,
+      "rank": 5,
       "starters": [
         {
           "player_id": "3198",
@@ -546,11 +546,11 @@
       "owner_id": "646587866931236864",
       "team_name": "Chosen Sentinels ",
       "is_me": false,
-      "record": "4-1",
+      "record": "4-2",
       "wins": 4,
-      "losses": 1,
-      "points_for": 572.46,
-      "rank": 3,
+      "losses": 2,
+      "points_for": 651.6,
+      "rank": 8,
       "starters": [
         {
           "player_id": "8228",
@@ -731,10 +731,10 @@
       "owner_id": "240850597853523968",
       "team_name": "Diamond Dogs",
       "is_me": false,
-      "record": "2-3",
+      "record": "2-4",
       "wins": 2,
-      "losses": 3,
-      "points_for": 458.92,
+      "losses": 4,
+      "points_for": 530.3,
       "rank": 14,
       "starters": [
         {
@@ -950,10 +950,10 @@
       "owner_id": "997275974532124672",
       "team_name": "Trade Federation",
       "is_me": false,
-      "record": "0-5",
+      "record": "0-6",
       "wins": 0,
-      "losses": 5,
-      "points_for": 440.74,
+      "losses": 6,
+      "points_for": 494.8,
       "rank": 17,
       "starters": [
         {
@@ -1121,11 +1121,11 @@
       "owner_id": "405783718150565888",
       "team_name": "The Jersey Syndicate",
       "is_me": false,
-      "record": "4-1",
-      "wins": 4,
+      "record": "5-1",
+      "wins": 5,
       "losses": 1,
-      "points_for": 480.92,
-      "rank": 6,
+      "points_for": 594.24,
+      "rank": 4,
       "starters": [
         {
           "player_id": "11435",
@@ -1313,10 +1313,10 @@
       "owner_id": "853771044882878464",
       "team_name": "COMMANDO Squad",
       "is_me": false,
-      "record": "0-5",
+      "record": "0-6",
       "wins": 0,
-      "losses": 5,
-      "points_for": 468.76,
+      "losses": 6,
+      "points_for": 553.06,
       "rank": 16,
       "starters": [
         {
@@ -1498,11 +1498,11 @@
       "owner_id": "837558765766148096",
       "team_name": "DatTightDik",
       "is_me": false,
-      "record": "3-2",
+      "record": "3-3",
       "wins": 3,
-      "losses": 2,
-      "points_for": 513.14,
-      "rank": 10,
+      "losses": 3,
+      "points_for": 592.72,
+      "rank": 11,
       "starters": [
         {
           "player_id": "9509",
@@ -1669,11 +1669,11 @@
       "owner_id": "1113561927516647424",
       "team_name": "Welcome to the Gulag ",
       "is_me": false,
-      "record": "3-2",
-      "wins": 3,
+      "record": "4-2",
+      "wins": 4,
       "losses": 2,
-      "points_for": 576.02,
-      "rank": 8,
+      "points_for": 656.9,
+      "rank": 7,
       "starters": [
         {
           "player_id": "7528",
@@ -1848,10 +1848,10 @@
       "owner_id": "651198204880187392",
       "team_name": "The Rusty Trombones",
       "is_me": false,
-      "record": "0-5",
-      "wins": 0,
+      "record": "1-5",
+      "wins": 1,
       "losses": 5,
-      "points_for": 490.42,
+      "points_for": 603.62,
       "rank": 15,
       "starters": [
         {
@@ -2041,10 +2041,10 @@
       "owner_id": "562785236463558656",
       "team_name": "Tuten & Bootin’",
       "is_me": false,
-      "record": "4-1",
-      "wins": 4,
+      "record": "5-1",
+      "wins": 5,
       "losses": 1,
-      "points_for": 572.76,
+      "points_for": 661.16,
       "rank": 2,
       "starters": [
         {
@@ -2199,10 +2199,10 @@
       "owner_id": "728386650316595200",
       "team_name": "Last Place",
       "is_me": false,
-      "record": "0-5",
+      "record": "0-6",
       "wins": 0,
-      "losses": 5,
-      "points_for": 332.8,
+      "losses": 6,
+      "points_for": 402.7,
       "rank": 18,
       "starters": [
         {
@@ -2413,11 +2413,11 @@
       "owner_id": "860239702840692736",
       "team_name": "Big Willie Style ",
       "is_me": false,
-      "record": "4-1",
+      "record": "4-2",
       "wins": 4,
-      "losses": 1,
-      "points_for": 526.24,
-      "rank": 5,
+      "losses": 2,
+      "points_for": 601.9,
+      "rank": 9,
       "starters": [
         {
           "player_id": "12489",
@@ -2604,11 +2604,11 @@
       "owner_id": "989223576035233792",
       "team_name": "The X Factors",
       "is_me": false,
-      "record": "4-1",
-      "wins": 4,
+      "record": "5-1",
+      "wins": 5,
       "losses": 1,
-      "points_for": 531.34,
-      "rank": 4,
+      "points_for": 617.46,
+      "rank": 3,
       "starters": [
         {
           "player_id": "6806",
@@ -2774,10 +2774,10 @@
       "owner_id": "998355322244861952",
       "team_name": "nickdemarinis",
       "is_me": false,
-      "record": "4-1",
-      "wins": 4,
+      "record": "5-1",
+      "wins": 5,
       "losses": 1,
-      "points_for": 578.52,
+      "points_for": 666.54,
       "rank": 1,
       "starters": [
         {
@@ -2961,11 +2961,11 @@
       "owner_id": "1393669384832036864",
       "team_name": "Shake & Bake",
       "is_me": false,
-      "record": "3-2",
+      "record": "3-3",
       "wins": 3,
-      "losses": 2,
-      "points_for": 490.7,
-      "rank": 11,
+      "losses": 3,
+      "points_for": 590.4,
+      "rank": 12,
       "starters": [
         {
           "player_id": "4034",
@@ -3126,11 +3126,11 @@
       "owner_id": "920729976993824768",
       "team_name": "The Superb Owls",
       "is_me": false,
-      "record": "3-2",
-      "wins": 3,
+      "record": "4-2",
+      "wins": 4,
       "losses": 2,
-      "points_for": 565.52,
-      "rank": 9,
+      "points_for": 664.92,
+      "rank": 6,
       "starters": [
         {
           "player_id": "7611",
@@ -3317,10 +3317,10 @@
       "owner_id": "853768203292241920",
       "team_name": "chane broken",
       "is_me": false,
-      "record": "2-3",
+      "record": "2-4",
       "wins": 2,
-      "losses": 3,
-      "points_for": 472.62,
+      "losses": 4,
+      "points_for": 569.44,
       "rank": 13,
       "starters": [
         {
@@ -3488,11 +3488,11 @@
       "owner_id": "988442937585401856",
       "team_name": "Eyes On The Prize McBride",
       "is_me": false,
-      "record": "2-3",
-      "wins": 2,
+      "record": "3-3",
+      "wins": 3,
       "losses": 3,
-      "points_for": 553.34,
-      "rank": 12,
+      "points_for": 637.68,
+      "rank": 10,
       "starters": [
         {
           "player_id": "8138",
