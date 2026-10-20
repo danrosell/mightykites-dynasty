@@ -1,3 +1,4 @@
+import {summarizeIdentityCoverage} from '../src/analysis/identity-coverage.mjs';
 import {verifyLineupContext} from '../src/analysis/independent.mjs';
 import {planVerifiedLineup} from '../src/analysis/lineup.mjs';
 import {createPlayerPreflightHandler} from '../netlify/functions/player-preflight.mjs';
@@ -49,9 +50,11 @@ export default {
       if(!scheduleResponse.ok)throw Error('Live independent schedule unavailable');
       const schedule=await scheduleResponse.json();
       analysis.verification=verifyLineupContext(snapshot,independent,schedule);
+      analysis.identity_coverage=summarizeIdentityCoverage(snapshot,analysis.verification,cache);
       analysis.lineup=planVerifiedLineup(snapshot,analysis.players,analysis.verification);
      }catch(error){
       analysis.verification={ok:false,issues:[{severity:'error',code:'VERIFICATION_UNAVAILABLE',message:error.message}]};
+      analysis.identity_coverage=summarizeIdentityCoverage(snapshot,analysis.verification,cache);
       analysis.lineup={ok:false,reason:'SCHEDULE_OR_IDENTITY_NOT_VERIFIED',issues:analysis.verification.issues};
      }
      response=json(analysis);
