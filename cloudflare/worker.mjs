@@ -1,3 +1,4 @@
+import {probeAvailabilitySources} from '../src/analysis/availability-source-probe.mjs';
 import {verifyLineupContext} from '../src/analysis/independent.mjs';
 import {planVerifiedLineup} from '../src/analysis/lineup.mjs';
 import {createPlayerPreflightHandler} from '../netlify/functions/player-preflight.mjs';
@@ -31,7 +32,11 @@ export default {
     const leagueHandler=createLeagueHandler(upstreamFetch,{requirePlayerMetadata:true});
     const slug=path.startsWith('/api/league/')?path.slice('/api/league/'.length):path.startsWith('/.netlify/functions/league/')?path.slice('/.netlify/functions/league/'.length):null;
     let response;
-    if(path==='/api/player-preflight'||path==='/.netlify/functions/player-preflight'){
+    if(path==='/api/availability-source-probe'){
+     const season=Number(url.searchParams.get('season')),week=Number(url.searchParams.get('week'));
+     if(!Number.isInteger(season)||season<2020||season>2100||!Number.isInteger(week)||week<1||week>18)return json({error:'Specify valid season and week'},400);
+     response=json(await probeAvailabilitySources({season,week}));
+    }else if(path==='/api/player-preflight'||path==='/.netlify/functions/player-preflight'){
      response=await createPlayerPreflightHandler(upstreamFetch)(request);
     }else if(slug!==null){
      if(!leagues.has(slug))return json({error:'Unknown league'},404);
