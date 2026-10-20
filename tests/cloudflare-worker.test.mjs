@@ -57,3 +57,9 @@ test('identity mismatch preserves historical baselines and blocks lineup advice'
  const r=await worker.fetch(new Request('https://site.workers.dev/api/optimizer/qb-controversy'),envFor(metadata,cache,changed)),body=await r.json();
  assert.equal(r.status,200);assert.equal(body.verification.ok,false);assert.equal(body.lineup.ok,false);assert.equal(body.projected_players,1);
 }));
+
+test('availability source probe rejects invalid season/week and cannot authorize advice',async()=>{
+ const r=await worker.fetch(new Request('https://site.workers.dev/api/availability-source-probe?season=2026&week=19'),envFor());
+ assert.equal(r.status,400);
+ assert.equal((await r.json()).error,'Specify valid season and week');
+});
