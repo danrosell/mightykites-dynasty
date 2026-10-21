@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-21T13:55:11.276Z",
+  "generated_at": "2026-10-21T18:44:28.512Z",
   "source": "Sleeper public API",
   "username": "TheMightyKites",
   "nfl_week": 7,
@@ -58,7 +58,7 @@
       "leg": 7,
       "reserve_slots": 2,
       "reserve_allow_cov": 0,
-      "daily_waivers_last_ran": 20
+      "daily_waivers_last_ran": 21
     },
     "scoring_settings": {
       "sack": 1,
@@ -205,10 +205,10 @@
     ],
     "bench": [
       {
-        "player_id": "11237",
-        "name": "Jacob Saylors",
-        "position": "RB",
-        "team": "DET"
+        "player_id": "11565",
+        "name": "J.J. McCarthy",
+        "position": "QB",
+        "team": "NYG"
       },
       {
         "player_id": "11571",
@@ -227,12 +227,6 @@
         "name": "Darius Cooper",
         "position": "WR",
         "team": "PHI"
-      },
-      {
-        "player_id": "13289",
-        "name": "Drew Allar",
-        "position": "QB",
-        "team": "PIT"
       },
       {
         "player_id": "13307",
@@ -317,6 +311,12 @@
         "name": "Chig Okonkwo",
         "position": "TE",
         "team": "WAS"
+      },
+      {
+        "player_id": "9230",
+        "name": "Tanner McKee",
+        "position": "QB",
+        "team": "PHI"
       },
       {
         "player_id": "9482",
@@ -1866,10 +1866,10 @@
       ],
       "bench": [
         {
-          "player_id": "11237",
-          "name": "Jacob Saylors",
-          "position": "RB",
-          "team": "DET"
+          "player_id": "11565",
+          "name": "J.J. McCarthy",
+          "position": "QB",
+          "team": "NYG"
         },
         {
           "player_id": "11571",
@@ -1888,12 +1888,6 @@
           "name": "Darius Cooper",
           "position": "WR",
           "team": "PHI"
-        },
-        {
-          "player_id": "13289",
-          "name": "Drew Allar",
-          "position": "QB",
-          "team": "PIT"
         },
         {
           "player_id": "13307",
@@ -1978,6 +1972,12 @@
           "name": "Chig Okonkwo",
           "position": "TE",
           "team": "WAS"
+        },
+        {
+          "player_id": "9230",
+          "name": "Tanner McKee",
+          "position": "QB",
+          "team": "PHI"
         },
         {
           "player_id": "9482",
@@ -2151,7 +2151,7 @@
           "player_id": "12457",
           "name": "Jaydon Blue",
           "position": "RB",
-          "team": "PHI"
+          "team": "FA"
         },
         {
           "player_id": "12504",
@@ -2403,10 +2403,10 @@
           "team": "KC"
         },
         {
-          "player_id": "11729",
-          "name": "Sione Vaki",
-          "position": "RB",
-          "team": "DET"
+          "player_id": "0",
+          "name": "0",
+          "position": "—",
+          "team": "FA"
         },
         {
           "player_id": "11439",
@@ -2463,6 +2463,12 @@
           "name": "Colston Loveland",
           "position": "TE",
           "team": "CHI"
+        },
+        {
+          "player_id": "12634",
+          "name": "Jordan Watkins",
+          "position": "WR",
+          "team": "SF"
         },
         {
           "player_id": "13298",
@@ -3814,6 +3820,12 @@
           "name": "Pat Freiermuth",
           "position": "TE",
           "team": "PIT"
+        },
+        {
+          "player_id": "8122",
+          "name": "Zonovan Knight",
+          "position": "RB",
+          "team": "ARI"
         },
         {
           "player_id": "8147",

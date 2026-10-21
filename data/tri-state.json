@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-21T13:55:11.629Z",
+  "generated_at": "2026-10-21T18:44:28.867Z",
   "source": "Sleeper public API",
   "username": "TheMightyKites",
   "nfl_week": 7,
@@ -551,10 +551,10 @@
           "team": "LAR"
         },
         {
-          "player_id": "5012",
-          "name": "Mark Andrews",
-          "position": "TE",
-          "team": "BAL"
+          "player_id": "3257",
+          "name": "Jacoby Brissett",
+          "position": "QB",
+          "team": "ARI"
         }
       ],
       "bench": [
@@ -595,12 +595,6 @@
           "team": "TEN"
         },
         {
-          "player_id": "3257",
-          "name": "Jacoby Brissett",
-          "position": "QB",
-          "team": "ARI"
-        },
-        {
           "player_id": "4037",
           "name": "Chris Godwin",
           "position": "WR",
@@ -611,6 +605,12 @@
           "name": "Kendrick Bourne",
           "position": "WR",
           "team": "ARI"
+        },
+        {
+          "player_id": "5012",
+          "name": "Mark Andrews",
+          "position": "TE",
+          "team": "BAL"
         },
         {
           "player_id": "6783",
@@ -2243,10 +2243,10 @@
           "team": "GB"
         },
         {
-          "player_id": "7528",
-          "name": "Najee Harris",
-          "position": "RB",
-          "team": "FA"
+          "player_id": "13294",
+          "name": "Makai Lemon",
+          "position": "WR",
+          "team": "PHI"
         },
         {
           "player_id": "4943",
@@ -2305,12 +2305,6 @@
           "team": "SEA"
         },
         {
-          "player_id": "13294",
-          "name": "Makai Lemon",
-          "position": "WR",
-          "team": "PHI"
-        },
-        {
           "player_id": "13337",
           "name": "Emmett Johnson",
           "position": "RB",
@@ -2333,6 +2327,12 @@
           "name": "Justin Herbert",
           "position": "QB",
           "team": "LAC"
+        },
+        {
+          "player_id": "7528",
+          "name": "Najee Harris",
+          "position": "RB",
+          "team": "FA"
         },
         {
           "player_id": "9230",

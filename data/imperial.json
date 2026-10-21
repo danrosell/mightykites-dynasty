@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-21T13:55:10.198Z",
+  "generated_at": "2026-10-21T18:44:27.593Z",
   "source": "Sleeper public API",
   "username": "TheMightyKites",
   "nfl_week": 7,
@@ -61,7 +61,7 @@
       "leg": 7,
       "reserve_slots": 3,
       "reserve_allow_cov": 0,
-      "daily_waivers_last_ran": 20
+      "daily_waivers_last_ran": 21
     },
     "scoring_settings": {
       "sack": 1,
@@ -203,6 +203,12 @@
         "name": "Matthew Stafford",
         "position": "QB",
         "team": "LAR"
+      },
+      {
+        "player_id": "4950",
+        "name": "Christian Kirk",
+        "position": "WR",
+        "team": "SF"
       }
     ],
     "taxi": [
@@ -440,6 +446,12 @@
           "name": "Matthew Stafford",
           "position": "QB",
           "team": "LAR"
+        },
+        {
+          "player_id": "4950",
+          "name": "Christian Kirk",
+          "position": "WR",
+          "team": "SF"
         }
       ],
       "taxi": [
@@ -995,16 +1007,16 @@
       ],
       "bench": [
         {
+          "player_id": "11557",
+          "name": "Joe Milton",
+          "position": "QB",
+          "team": "PHI"
+        },
+        {
           "player_id": "12502",
           "name": "Gunnar Helm",
           "position": "TE",
           "team": "TEN"
-        },
-        {
-          "player_id": "12531",
-          "name": "Trevor Etienne",
-          "position": "RB",
-          "team": "CAR"
         },
         {
           "player_id": "6783",
@@ -1040,12 +1052,6 @@
         }
       ],
       "reserve": [
-        {
-          "player_id": "11557",
-          "name": "Joe Milton",
-          "position": "QB",
-          "team": "PHI"
-        },
         {
           "player_id": "13286",
           "name": "Jadarian Price",
@@ -1561,10 +1567,10 @@
           "team": "NE"
         },
         {
-          "player_id": "7049",
-          "name": "Jauan Jennings",
-          "position": "WR",
-          "team": "MIN"
+          "player_id": "4066",
+          "name": "Evan Engram",
+          "position": "TE",
+          "team": "DEN"
         },
         {
           "player_id": "8210",
@@ -1714,16 +1720,16 @@
       ],
       "bench": [
         {
+          "player_id": "11565",
+          "name": "J.J. McCarthy",
+          "position": "QB",
+          "team": "NYG"
+        },
+        {
           "player_id": "11631",
           "name": "Brian Thomas",
           "position": "WR",
           "team": "JAX"
-        },
-        {
-          "player_id": "2306",
-          "name": "Jameis Winston",
-          "position": "QB",
-          "team": "NYG"
         },
         {
           "player_id": "7528",
@@ -1899,6 +1905,12 @@
           "team": "DET"
         },
         {
+          "player_id": "11655",
+          "name": "Tyrone Tracy",
+          "position": "RB",
+          "team": "NYG"
+        },
+        {
           "player_id": "7527",
           "name": "Mac Jones",
           "position": "QB",
@@ -2072,10 +2084,10 @@
           "team": "ATL"
         },
         {
-          "player_id": "13414",
-          "name": "Kaelon Black",
-          "position": "RB",
-          "team": "SF"
+          "player_id": "9501",
+          "name": "DeMario Douglas",
+          "position": "WR",
+          "team": "NE"
         },
         {
           "player_id": "4017",
@@ -2098,16 +2110,22 @@
           "team": "KC"
         },
         {
+          "player_id": "13414",
+          "name": "Kaelon Black",
+          "position": "RB",
+          "team": "SF"
+        },
+        {
+          "player_id": "4892",
+          "name": "Baker Mayfield",
+          "position": "QB",
+          "team": "TB"
+        },
+        {
           "player_id": "4984",
           "name": "Josh Allen",
           "position": "QB",
           "team": "BUF"
-        },
-        {
-          "player_id": "9501",
-          "name": "DeMario Douglas",
-          "position": "WR",
-          "team": "NE"
         }
       ],
       "taxi": [
@@ -2131,12 +2149,6 @@
         }
       ],
       "reserve": [
-        {
-          "player_id": "4892",
-          "name": "Baker Mayfield",
-          "position": "QB",
-          "team": "TB"
-        },
         {
           "player_id": "4983",
           "name": "DJ Moore",
@@ -2835,6 +2847,12 @@
           "name": "Tyreek Hill",
           "position": "WR",
           "team": "FA"
+        },
+        {
+          "player_id": "8135",
+          "name": "Treylon Burks",
+          "position": "WR",
+          "team": "WAS"
         }
       ],
       "taxi": [
@@ -3000,10 +3018,10 @@
       ],
       "bench": [
         {
-          "player_id": "11581",
-          "name": "MarShawn Lloyd",
+          "player_id": "12491",
+          "name": "Corey Kiner",
           "position": "RB",
-          "team": "GB"
+          "team": "NE"
         },
         {
           "player_id": "2449",
@@ -3177,6 +3195,12 @@
           "team": "LAC"
         },
         {
+          "player_id": "12634",
+          "name": "Jordan Watkins",
+          "position": "WR",
+          "team": "SF"
+        },
+        {
           "player_id": "12718",
           "name": "Konata Mumpfield",
           "position": "WR",
@@ -3187,12 +3211,6 @@
           "name": "Geno Smith",
           "position": "QB",
           "team": "NYJ"
-        },
-        {
-          "player_id": "8180",
-          "name": "Jalen Nailor",
-          "position": "WR",
-          "team": "LV"
         }
       ],
       "taxi": [
@@ -3489,10 +3507,10 @@
           "team": "TEN"
         },
         {
-          "player_id": "11627",
-          "name": "Troy Franklin",
+          "player_id": "2197",
+          "name": "Brandin Cooks",
           "position": "WR",
-          "team": "DEN"
+          "team": "SF"
         },
         {
           "player_id": "6801",
@@ -3507,10 +3525,10 @@
           "team": "ARI"
         },
         {
-          "player_id": "2197",
-          "name": "Brandin Cooks",
+          "player_id": "11627",
+          "name": "Troy Franklin",
           "position": "WR",
-          "team": "SF"
+          "team": "DEN"
         },
         {
           "player_id": "7039",

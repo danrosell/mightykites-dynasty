@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-21T13:55:10.802Z",
+  "generated_at": "2026-10-21T18:44:28.062Z",
   "source": "Sleeper public API",
   "username": "TheMightyKites",
   "nfl_week": 7,
@@ -61,7 +61,7 @@
       "daily_waivers_base": 4,
       "reserve_slots": 2,
       "reserve_allow_cov": 1,
-      "daily_waivers_last_ran": 20
+      "daily_waivers_last_ran": 21
     },
     "scoring_settings": {
       "sack": 1,
@@ -831,6 +831,12 @@
           "team": "CLE"
         },
         {
+          "player_id": "11593",
+          "name": "Brevyn Spann-Ford",
+          "position": "TE",
+          "team": "DAL"
+        },
+        {
           "player_id": "12048",
           "name": "George Holani",
           "position": "RB",
@@ -865,12 +871,6 @@
           "name": "Terry McLaurin",
           "position": "WR",
           "team": "WAS"
-        },
-        {
-          "player_id": "6011",
-          "name": "Gardner Minshew",
-          "position": "QB",
-          "team": "ARI"
         },
         {
           "player_id": "6130",
@@ -1131,7 +1131,7 @@
           "player_id": "12457",
           "name": "Jaydon Blue",
           "position": "RB",
-          "team": "PHI"
+          "team": "FA"
         },
         {
           "player_id": "12534",
@@ -2810,10 +2810,10 @@
           "team": "ATL"
         },
         {
-          "player_id": "8168",
-          "name": "Skyy Moore",
-          "position": "WR",
-          "team": "GB"
+          "player_id": "8122",
+          "name": "Zonovan Knight",
+          "position": "RB",
+          "team": "ARI"
         },
         {
           "player_id": "8172",
