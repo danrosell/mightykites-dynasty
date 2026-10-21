@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-21T01:41:09.151Z",
+  "generated_at": "2026-10-21T07:47:27.287Z",
   "source": "Sleeper public API",
   "username": "TheMightyKites",
   "nfl_week": 7,
@@ -55,7 +55,7 @@
       "trade_review_days": 0,
       "bench_lock": 0,
       "offseason_adds": 1,
-      "leg": 6,
+      "leg": 7,
       "reserve_slots": 2,
       "reserve_allow_cov": 0,
       "daily_waivers_last_ran": 20
@@ -3658,10 +3658,10 @@
       "rank": 6,
       "starters": [
         {
-          "player_id": "11566",
-          "name": "Jayden Daniels",
+          "player_id": "5849",
+          "name": "Kyler Murray",
           "position": "QB",
-          "team": "WAS"
+          "team": "MIN"
         },
         {
           "player_id": "8132",
@@ -3670,10 +3670,10 @@
           "team": "ARI"
         },
         {
-          "player_id": "12507",
-          "name": "Omarion Hampton",
+          "player_id": "12495",
+          "name": "Ollie Gordon",
           "position": "RB",
-          "team": "LAC"
+          "team": "MIA"
         },
         {
           "player_id": "11632",
@@ -3706,10 +3706,10 @@
           "team": "CLE"
         },
         {
-          "player_id": "11624",
-          "name": "Xavier Worthy",
+          "player_id": "6801",
+          "name": "Tee Higgins",
           "position": "WR",
-          "team": "KC"
+          "team": "CIN"
         }
       ],
       "bench": [
@@ -3718,6 +3718,12 @@
           "name": "Michael Penix",
           "position": "QB",
           "team": "ATL"
+        },
+        {
+          "player_id": "11566",
+          "name": "Jayden Daniels",
+          "position": "QB",
+          "team": "WAS"
         },
         {
           "player_id": "11575",
@@ -3732,22 +3738,28 @@
           "team": "MIA"
         },
         {
+          "player_id": "11624",
+          "name": "Xavier Worthy",
+          "position": "WR",
+          "team": "KC"
+        },
+        {
           "player_id": "12467",
           "name": "Jordan James",
           "position": "RB",
           "team": "SF"
         },
         {
-          "player_id": "12495",
-          "name": "Ollie Gordon",
-          "position": "RB",
-          "team": "MIA"
-        },
-        {
           "player_id": "12502",
           "name": "Gunnar Helm",
           "position": "TE",
           "team": "TEN"
+        },
+        {
+          "player_id": "12507",
+          "name": "Omarion Hampton",
+          "position": "RB",
+          "team": "LAC"
         },
         {
           "player_id": "12510",
@@ -3798,18 +3810,6 @@
           "team": "JAX"
         },
         {
-          "player_id": "5849",
-          "name": "Kyler Murray",
-          "position": "QB",
-          "team": "MIN"
-        },
-        {
-          "player_id": "6801",
-          "name": "Tee Higgins",
-          "position": "WR",
-          "team": "CIN"
-        },
-        {
           "player_id": "7600",
           "name": "Pat Freiermuth",
           "position": "TE",
@@ -3822,12 +3822,6 @@
           "team": "CAR"
         },
         {
-          "player_id": "8188",
-          "name": "Tyquan Thornton",
-          "position": "WR",
-          "team": "KC"
-        },
-        {
           "player_id": "9757",
           "name": "Kendre Miller",
           "position": "RB",
@@ -3835,7 +3829,14 @@
         }
       ],
       "taxi": [],
-      "reserve": [],
+      "reserve": [
+        {
+          "player_id": "8188",
+          "name": "Tyquan Thornton",
+          "position": "WR",
+          "team": "KC"
+        }
+      ],
       "picks": [
         {
           "season": "2026",

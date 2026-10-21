@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-21T01:41:09.436Z",
+  "generated_at": "2026-10-21T07:47:27.668Z",
   "source": "Sleeper public API",
   "username": "TheMightyKites",
   "nfl_week": 7,
@@ -58,7 +58,7 @@
       "trade_review_days": 0,
       "bench_lock": 0,
       "offseason_adds": 1,
-      "leg": 6,
+      "leg": 7,
       "reserve_slots": 3,
       "reserve_allow_cov": 1,
       "daily_waivers_last_ran": 20
@@ -3055,16 +3055,16 @@
           "team": "NYG"
         },
         {
+          "player_id": "4866",
+          "name": "Saquon Barkley",
+          "position": "RB",
+          "team": "PHI"
+        },
+        {
           "player_id": "12489",
           "name": "RJ Harvey",
           "position": "RB",
           "team": "DEN"
-        },
-        {
-          "player_id": "7611",
-          "name": "Rhamondre Stevenson",
-          "position": "RB",
-          "team": "NE"
         },
         {
           "player_id": "7569",
@@ -3153,12 +3153,6 @@
           "team": "MIN"
         },
         {
-          "player_id": "4866",
-          "name": "Saquon Barkley",
-          "position": "RB",
-          "team": "PHI"
-        },
-        {
           "player_id": "4892",
           "name": "Baker Mayfield",
           "position": "QB",
@@ -3181,6 +3175,12 @@
           "name": "Trevor Lawrence",
           "position": "QB",
           "team": "JAX"
+        },
+        {
+          "player_id": "7611",
+          "name": "Rhamondre Stevenson",
+          "position": "RB",
+          "team": "NE"
         },
         {
           "player_id": "8138",

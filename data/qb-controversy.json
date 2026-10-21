@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-21T01:41:08.746Z",
+  "generated_at": "2026-10-21T07:47:26.871Z",
   "source": "Sleeper public API",
   "username": "TheMightyKites",
   "nfl_week": 7,
@@ -57,7 +57,7 @@
       "trade_review_days": 0,
       "bench_lock": 1,
       "offseason_adds": 1,
-      "leg": 6,
+      "leg": 7,
       "daily_waivers_base": 4,
       "reserve_slots": 2,
       "reserve_allow_cov": 1,
@@ -4078,10 +4078,10 @@
       "rank": 14,
       "starters": [
         {
-          "player_id": "9999",
-          "name": "Will Levis",
+          "player_id": "5849",
+          "name": "Kyler Murray",
           "position": "QB",
-          "team": "NYJ"
+          "team": "MIN"
         },
         {
           "player_id": "8132",
@@ -4090,16 +4090,16 @@
           "team": "ARI"
         },
         {
-          "player_id": "8136",
-          "name": "Rachaad White",
+          "player_id": "9508",
+          "name": "Tyjae Spears",
           "position": "RB",
-          "team": "WAS"
+          "team": "TEN"
         },
         {
-          "player_id": "13394",
-          "name": "Josh Cameron",
+          "player_id": "11610",
+          "name": "Malik Washington",
           "position": "WR",
-          "team": "JAX"
+          "team": "MIA"
         },
         {
           "player_id": "11628",
@@ -4120,10 +4120,10 @@
           "team": "CLE"
         },
         {
-          "player_id": "9508",
-          "name": "Tyjae Spears",
-          "position": "RB",
-          "team": "TEN"
+          "player_id": "5844",
+          "name": "T.J. Hockenson",
+          "position": "TE",
+          "team": "MIN"
         },
         {
           "player_id": "13770",
@@ -4132,10 +4132,10 @@
           "team": "GB"
         },
         {
-          "player_id": "7670",
-          "name": "Joshua Palmer",
-          "position": "WR",
-          "team": "BUF"
+          "player_id": "8145",
+          "name": "Jeremy Ruckert",
+          "position": "TE",
+          "team": "NYJ"
         }
       ],
       "bench": [
@@ -4164,12 +4164,6 @@
           "team": "HOU"
         },
         {
-          "player_id": "11610",
-          "name": "Malik Washington",
-          "position": "WR",
-          "team": "MIA"
-        },
-        {
           "player_id": "11626",
           "name": "Xavier Legette",
           "position": "WR",
@@ -4182,22 +4176,16 @@
           "team": "WAS"
         },
         {
+          "player_id": "13394",
+          "name": "Josh Cameron",
+          "position": "WR",
+          "team": "JAX"
+        },
+        {
           "player_id": "3321",
           "name": "Tyreek Hill",
           "position": "WR",
           "team": "FA"
-        },
-        {
-          "player_id": "5844",
-          "name": "T.J. Hockenson",
-          "position": "TE",
-          "team": "MIN"
-        },
-        {
-          "player_id": "5849",
-          "name": "Kyler Murray",
-          "position": "QB",
-          "team": "MIN"
         },
         {
           "player_id": "6803",
@@ -4206,22 +4194,34 @@
           "team": "SF"
         },
         {
+          "player_id": "7670",
+          "name": "Joshua Palmer",
+          "position": "WR",
+          "team": "BUF"
+        },
+        {
           "player_id": "8135",
           "name": "Treylon Burks",
           "position": "WR",
           "team": "WAS"
         },
         {
-          "player_id": "8145",
-          "name": "Jeremy Ruckert",
-          "position": "TE",
-          "team": "NYJ"
+          "player_id": "8136",
+          "name": "Rachaad White",
+          "position": "RB",
+          "team": "WAS"
         },
         {
           "player_id": "8188",
           "name": "Tyquan Thornton",
           "position": "WR",
           "team": "KC"
+        },
+        {
+          "player_id": "9999",
+          "name": "Will Levis",
+          "position": "QB",
+          "team": "NYJ"
         }
       ],
       "taxi": [

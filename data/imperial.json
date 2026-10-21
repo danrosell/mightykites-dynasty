@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-21T01:41:07.971Z",
+  "generated_at": "2026-10-21T07:47:26.034Z",
   "source": "Sleeper public API",
   "username": "TheMightyKites",
   "nfl_week": 7,
@@ -58,7 +58,7 @@
       "trade_review_days": 0,
       "bench_lock": 0,
       "offseason_adds": 0,
-      "leg": 6,
+      "leg": 7,
       "reserve_slots": 3,
       "reserve_allow_cov": 0,
       "daily_waivers_last_ran": 20
@@ -2048,10 +2048,10 @@
       "rank": 2,
       "starters": [
         {
-          "player_id": "12490",
-          "name": "Bhayshul Tuten",
+          "player_id": "7021",
+          "name": "Rico Dowdle",
           "position": "RB",
-          "team": "JAX"
+          "team": "PIT"
         },
         {
           "player_id": "6790",
@@ -2060,10 +2060,10 @@
           "team": "CHI"
         },
         {
-          "player_id": "12505",
-          "name": "Jalen Royals",
+          "player_id": "7564",
+          "name": "Ja'Marr Chase",
           "position": "WR",
-          "team": "KC"
+          "team": "CIN"
         },
         {
           "player_id": "8146",
@@ -2090,36 +2090,30 @@
           "team": "SF"
         },
         {
-          "player_id": "4984",
-          "name": "Josh Allen",
-          "position": "QB",
-          "team": "BUF"
-        }
-      ],
-      "bench": [
-        {
           "player_id": "4017",
           "name": "Deshaun Watson",
           "position": "QB",
           "team": "CLE"
-        },
+        }
+      ],
+      "bench": [
         {
-          "player_id": "4983",
-          "name": "DJ Moore",
-          "position": "WR",
-          "team": "BUF"
-        },
-        {
-          "player_id": "7021",
-          "name": "Rico Dowdle",
+          "player_id": "12490",
+          "name": "Bhayshul Tuten",
           "position": "RB",
-          "team": "PIT"
+          "team": "JAX"
         },
         {
-          "player_id": "7564",
-          "name": "Ja'Marr Chase",
+          "player_id": "12505",
+          "name": "Jalen Royals",
           "position": "WR",
-          "team": "CIN"
+          "team": "KC"
+        },
+        {
+          "player_id": "4984",
+          "name": "Josh Allen",
+          "position": "QB",
+          "team": "BUF"
         },
         {
           "player_id": "9501",
@@ -2154,6 +2148,12 @@
           "name": "Baker Mayfield",
           "position": "QB",
           "team": "TB"
+        },
+        {
+          "player_id": "4983",
+          "name": "DJ Moore",
+          "position": "WR",
+          "team": "BUF"
         }
       ],
       "picks": [
