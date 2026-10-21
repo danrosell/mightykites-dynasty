@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-21T07:47:27.668Z",
+  "generated_at": "2026-10-21T13:55:11.629Z",
   "source": "Sleeper public API",
   "username": "TheMightyKites",
   "nfl_week": 7,
@@ -61,7 +61,7 @@
       "leg": 7,
       "reserve_slots": 3,
       "reserve_allow_cov": 1,
-      "daily_waivers_last_ran": 20
+      "daily_waivers_last_ran": 21
     },
     "scoring_settings": {
       "sack": 2,
@@ -178,10 +178,10 @@
         "team": "CIN"
       },
       {
-        "player_id": "9486",
-        "name": "Dontayvion Wicks",
+        "player_id": "10213",
+        "name": "Tre Tucker",
         "position": "WR",
-        "team": "PHI"
+        "team": "LV"
       },
       {
         "player_id": "11604",
@@ -203,12 +203,6 @@
       }
     ],
     "bench": [
-      {
-        "player_id": "10213",
-        "name": "Tre Tucker",
-        "position": "WR",
-        "team": "LV"
-      },
       {
         "player_id": "11630",
         "name": "Roman Wilson",
@@ -258,12 +252,6 @@
         "team": "SEA"
       },
       {
-        "player_id": "4663",
-        "name": "Austin Ekeler",
-        "position": "RB",
-        "team": "WAS"
-      },
-      {
         "player_id": "4983",
         "name": "DJ Moore",
         "position": "WR",
@@ -298,6 +286,18 @@
         "name": "Chig Okonkwo",
         "position": "TE",
         "team": "WAS"
+      },
+      {
+        "player_id": "9486",
+        "name": "Dontayvion Wicks",
+        "position": "WR",
+        "team": "PHI"
+      },
+      {
+        "player_id": "9501",
+        "name": "DeMario Douglas",
+        "position": "WR",
+        "team": "NE"
       }
     ],
     "taxi": [
@@ -1083,10 +1083,10 @@
           "team": "CIN"
         },
         {
-          "player_id": "9486",
-          "name": "Dontayvion Wicks",
+          "player_id": "10213",
+          "name": "Tre Tucker",
           "position": "WR",
-          "team": "PHI"
+          "team": "LV"
         },
         {
           "player_id": "11604",
@@ -1108,12 +1108,6 @@
         }
       ],
       "bench": [
-        {
-          "player_id": "10213",
-          "name": "Tre Tucker",
-          "position": "WR",
-          "team": "LV"
-        },
         {
           "player_id": "11630",
           "name": "Roman Wilson",
@@ -1163,12 +1157,6 @@
           "team": "SEA"
         },
         {
-          "player_id": "4663",
-          "name": "Austin Ekeler",
-          "position": "RB",
-          "team": "WAS"
-        },
-        {
           "player_id": "4983",
           "name": "DJ Moore",
           "position": "WR",
@@ -1203,6 +1191,18 @@
           "name": "Chig Okonkwo",
           "position": "TE",
           "team": "WAS"
+        },
+        {
+          "player_id": "9486",
+          "name": "Dontayvion Wicks",
+          "position": "WR",
+          "team": "PHI"
+        },
+        {
+          "player_id": "9501",
+          "name": "DeMario Douglas",
+          "position": "WR",
+          "team": "NE"
         }
       ],
       "taxi": [
@@ -1380,10 +1380,22 @@
       ],
       "bench": [
         {
+          "player_id": "10235",
+          "name": "Roschon Johnson",
+          "position": "RB",
+          "team": "CHI"
+        },
+        {
           "player_id": "11557",
           "name": "Joe Milton",
           "position": "QB",
           "team": "PHI"
+        },
+        {
+          "player_id": "11588",
+          "name": "Jawhar Jordan",
+          "position": "RB",
+          "team": "HOU"
         },
         {
           "player_id": "11783",
@@ -1402,6 +1414,12 @@
           "name": "Elijah Arroyo",
           "position": "TE",
           "team": "SEA"
+        },
+        {
+          "player_id": "12718",
+          "name": "Konata Mumpfield",
+          "position": "WR",
+          "team": "LAR"
         },
         {
           "player_id": "13317",
@@ -1440,10 +1458,22 @@
           "team": "MIA"
         },
         {
+          "player_id": "8676",
+          "name": "Rashid Shaheed",
+          "position": "WR",
+          "team": "SEA"
+        },
+        {
           "player_id": "9479",
           "name": "Darnell Washington",
           "position": "TE",
           "team": "PIT"
+        },
+        {
+          "player_id": "9502",
+          "name": "Tank Dell",
+          "position": "WR",
+          "team": "HOU"
         }
       ],
       "taxi": [
@@ -1725,10 +1755,10 @@
           "team": "SF"
         },
         {
-          "player_id": "5859",
-          "name": "A.J. Brown",
-          "position": "WR",
-          "team": "NE"
+          "player_id": "1466",
+          "name": "Travis Kelce",
+          "position": "TE",
+          "team": "KC"
         },
         {
           "player_id": "1166",
@@ -1781,18 +1811,6 @@
           "team": "NYJ"
         },
         {
-          "player_id": "1466",
-          "name": "Travis Kelce",
-          "position": "TE",
-          "team": "KC"
-        },
-        {
-          "player_id": "2133",
-          "name": "Davante Adams",
-          "position": "WR",
-          "team": "LAR"
-        },
-        {
           "player_id": "2216",
           "name": "Mike Evans",
           "position": "WR",
@@ -1817,6 +1835,12 @@
           "team": "NO"
         },
         {
+          "player_id": "5859",
+          "name": "A.J. Brown",
+          "position": "WR",
+          "team": "NE"
+        },
+        {
           "player_id": "8408",
           "name": "Jordan Mason",
           "position": "RB",
@@ -1829,6 +1853,12 @@
           "team": "IND"
         },
         {
+          "player_id": "9753",
+          "name": "Zach Charbonnet",
+          "position": "RB",
+          "team": "SEA"
+        },
+        {
           "player_id": "9754",
           "name": "Quentin Johnston",
           "position": "WR",
@@ -1837,6 +1867,12 @@
       ],
       "taxi": [],
       "reserve": [
+        {
+          "player_id": "2133",
+          "name": "Davante Adams",
+          "position": "WR",
+          "team": "LAR"
+        },
         {
           "player_id": "4033",
           "name": "David Njoku",
@@ -1848,12 +1884,6 @@
           "name": "Jalen Hurts",
           "position": "QB",
           "team": "PHI"
-        },
-        {
-          "player_id": "9753",
-          "name": "Zach Charbonnet",
-          "position": "RB",
-          "team": "SEA"
         }
       ],
       "picks": [
@@ -2545,12 +2575,6 @@
           "team": "ATL"
         },
         {
-          "player_id": "11583",
-          "name": "Jonathon Brooks",
-          "position": "RB",
-          "team": "CAR"
-        },
-        {
           "player_id": "11597",
           "name": "Theo Johnson",
           "position": "TE",
@@ -2617,6 +2641,12 @@
           "team": "BAL"
         },
         {
+          "player_id": "7694",
+          "name": "Tommy Tremble",
+          "position": "TE",
+          "team": "CAR"
+        },
+        {
           "player_id": "9508",
           "name": "Tyjae Spears",
           "position": "RB",
@@ -2637,6 +2667,12 @@
       ],
       "taxi": [],
       "reserve": [
+        {
+          "player_id": "11583",
+          "name": "Jonathon Brooks",
+          "position": "RB",
+          "team": "CAR"
+        },
         {
           "player_id": "13281",
           "name": "Jordyn Tyson",
@@ -2832,6 +2868,12 @@
           "team": "CAR"
         },
         {
+          "player_id": "12048",
+          "name": "George Holani",
+          "position": "RB",
+          "team": "SEA"
+        },
+        {
           "player_id": "12471",
           "name": "DJ Giddens",
           "position": "RB",
@@ -2854,12 +2896,6 @@
           "name": "Antonio Williams",
           "position": "WR",
           "team": "WAS"
-        },
-        {
-          "player_id": "1339",
-          "name": "Zach Ertz",
-          "position": "TE",
-          "team": "PHI"
         },
         {
           "player_id": "13394",

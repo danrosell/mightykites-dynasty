@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-21T07:47:26.871Z",
+  "generated_at": "2026-10-21T13:55:10.802Z",
   "source": "Sleeper public API",
   "username": "TheMightyKites",
   "nfl_week": 7,
@@ -3527,10 +3527,10 @@
       "rank": 5,
       "starters": [
         {
-          "player_id": "7523",
-          "name": "Trevor Lawrence",
+          "player_id": "9230",
+          "name": "Tanner McKee",
           "position": "QB",
-          "team": "JAX"
+          "team": "PHI"
         },
         {
           "player_id": "12481",
@@ -3551,10 +3551,10 @@
           "team": "DAL"
         },
         {
-          "player_id": "6783",
-          "name": "Jerry Jeudy",
+          "player_id": "8148",
+          "name": "Jameson Williams",
           "position": "WR",
-          "team": "CLE"
+          "team": "DET"
         },
         {
           "player_id": "7525",
@@ -3581,13 +3581,19 @@
           "team": "KC"
         },
         {
+          "player_id": "6783",
+          "name": "Jerry Jeudy",
+          "position": "WR",
+          "team": "CLE"
+        }
+      ],
+      "bench": [
+        {
           "player_id": "11566",
           "name": "Jayden Daniels",
           "position": "QB",
           "team": "WAS"
-        }
-      ],
-      "bench": [
+        },
         {
           "player_id": "11625",
           "name": "Adonai Mitchell",
@@ -3605,12 +3611,6 @@
           "name": "Jordan James",
           "position": "RB",
           "team": "SF"
-        },
-        {
-          "player_id": "12469",
-          "name": "Dylan Sampson",
-          "position": "RB",
-          "team": "CLE"
         },
         {
           "player_id": "12471",
@@ -3655,10 +3655,10 @@
           "team": "PHI"
         },
         {
-          "player_id": "8148",
-          "name": "Jameson Williams",
-          "position": "WR",
-          "team": "DET"
+          "player_id": "7523",
+          "name": "Trevor Lawrence",
+          "position": "QB",
+          "team": "JAX"
         },
         {
           "player_id": "8408",
@@ -3667,10 +3667,10 @@
           "team": "MIN"
         },
         {
-          "player_id": "9230",
-          "name": "Tanner McKee",
-          "position": "QB",
-          "team": "PHI"
+          "player_id": "9502",
+          "name": "Tank Dell",
+          "position": "WR",
+          "team": "HOU"
         }
       ],
       "taxi": [
@@ -3695,16 +3695,16 @@
       ],
       "reserve": [
         {
-          "player_id": "12472",
-          "name": "Raheim Sanders",
+          "player_id": "12469",
+          "name": "Dylan Sampson",
           "position": "RB",
           "team": "CLE"
         },
         {
-          "player_id": "9502",
-          "name": "Tank Dell",
-          "position": "WR",
-          "team": "HOU"
+          "player_id": "12472",
+          "name": "Raheim Sanders",
+          "position": "RB",
+          "team": "CLE"
         }
       ],
       "picks": [

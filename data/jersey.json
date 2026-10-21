@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-21T07:47:27.287Z",
+  "generated_at": "2026-10-21T13:55:11.276Z",
   "source": "Sleeper public API",
   "username": "TheMightyKites",
   "nfl_week": 7,
@@ -173,10 +173,10 @@
         "team": "CAR"
       },
       {
-        "player_id": "2133",
-        "name": "Davante Adams",
+        "player_id": "7547",
+        "name": "Amon-Ra St. Brown",
         "position": "WR",
-        "team": "LAR"
+        "team": "DET"
       },
       {
         "player_id": "12501",
@@ -191,10 +191,10 @@
         "team": "NE"
       },
       {
-        "player_id": "5947",
-        "name": "Jakobi Meyers",
-        "position": "WR",
-        "team": "JAX"
+        "player_id": "4035",
+        "name": "Alvin Kamara",
+        "position": "RB",
+        "team": "NO"
       },
       {
         "player_id": "12474",
@@ -259,16 +259,16 @@
         "team": "IND"
       },
       {
+        "player_id": "2133",
+        "name": "Davante Adams",
+        "position": "WR",
+        "team": "LAR"
+      },
+      {
         "player_id": "3321",
         "name": "Tyreek Hill",
         "position": "WR",
         "team": "FA"
-      },
-      {
-        "player_id": "4035",
-        "name": "Alvin Kamara",
-        "position": "RB",
-        "team": "NO"
       },
       {
         "player_id": "4066",
@@ -281,6 +281,12 @@
         "name": "Josh Allen",
         "position": "QB",
         "team": "BUF"
+      },
+      {
+        "player_id": "5947",
+        "name": "Jakobi Meyers",
+        "position": "WR",
+        "team": "JAX"
       },
       {
         "player_id": "5995",
@@ -299,12 +305,6 @@
         "name": "Rico Dowdle",
         "position": "RB",
         "team": "PIT"
-      },
-      {
-        "player_id": "7547",
-        "name": "Amon-Ra St. Brown",
-        "position": "WR",
-        "team": "DET"
       },
       {
         "player_id": "8111",
@@ -1222,6 +1222,12 @@
           "team": "LAC"
         },
         {
+          "player_id": "12469",
+          "name": "Dylan Sampson",
+          "position": "RB",
+          "team": "CLE"
+        },
+        {
           "player_id": "12471",
           "name": "DJ Giddens",
           "position": "RB",
@@ -1264,12 +1270,6 @@
           "team": "MIA"
         },
         {
-          "player_id": "13417",
-          "name": "De'Zhaun Stribling",
-          "position": "WR",
-          "team": "SF"
-        },
-        {
           "player_id": "6797",
           "name": "Justin Herbert",
           "position": "QB",
@@ -1303,16 +1303,16 @@
       "taxi": [],
       "reserve": [
         {
-          "player_id": "12469",
-          "name": "Dylan Sampson",
-          "position": "RB",
-          "team": "CLE"
-        },
-        {
           "player_id": "12484",
           "name": "Jayden Higgins",
           "position": "WR",
           "team": "HOU"
+        },
+        {
+          "player_id": "13417",
+          "name": "De'Zhaun Stribling",
+          "position": "WR",
+          "team": "SF"
         }
       ],
       "picks": [
@@ -1834,10 +1834,10 @@
           "team": "CAR"
         },
         {
-          "player_id": "2133",
-          "name": "Davante Adams",
+          "player_id": "7547",
+          "name": "Amon-Ra St. Brown",
           "position": "WR",
-          "team": "LAR"
+          "team": "DET"
         },
         {
           "player_id": "12501",
@@ -1852,10 +1852,10 @@
           "team": "NE"
         },
         {
-          "player_id": "5947",
-          "name": "Jakobi Meyers",
-          "position": "WR",
-          "team": "JAX"
+          "player_id": "4035",
+          "name": "Alvin Kamara",
+          "position": "RB",
+          "team": "NO"
         },
         {
           "player_id": "12474",
@@ -1920,16 +1920,16 @@
           "team": "IND"
         },
         {
+          "player_id": "2133",
+          "name": "Davante Adams",
+          "position": "WR",
+          "team": "LAR"
+        },
+        {
           "player_id": "3321",
           "name": "Tyreek Hill",
           "position": "WR",
           "team": "FA"
-        },
-        {
-          "player_id": "4035",
-          "name": "Alvin Kamara",
-          "position": "RB",
-          "team": "NO"
         },
         {
           "player_id": "4066",
@@ -1942,6 +1942,12 @@
           "name": "Josh Allen",
           "position": "QB",
           "team": "BUF"
+        },
+        {
+          "player_id": "5947",
+          "name": "Jakobi Meyers",
+          "position": "WR",
+          "team": "JAX"
         },
         {
           "player_id": "5995",
@@ -1960,12 +1966,6 @@
           "name": "Rico Dowdle",
           "position": "RB",
           "team": "PIT"
-        },
-        {
-          "player_id": "7547",
-          "name": "Amon-Ra St. Brown",
-          "position": "WR",
-          "team": "DET"
         },
         {
           "player_id": "8111",
@@ -2232,6 +2232,12 @@
           "team": "PHI"
         },
         {
+          "player_id": "4950",
+          "name": "Christian Kirk",
+          "position": "WR",
+          "team": "SF"
+        },
+        {
           "player_id": "5848",
           "name": "Marquise Brown",
           "position": "WR",
@@ -2242,12 +2248,6 @@
           "name": "Noah Fant",
           "position": "TE",
           "team": "NO"
-        },
-        {
-          "player_id": "6904",
-          "name": "Jalen Hurts",
-          "position": "QB",
-          "team": "PHI"
         },
         {
           "player_id": "8143",
@@ -2271,10 +2271,10 @@
           "team": "CAR"
         },
         {
-          "player_id": "4950",
-          "name": "Christian Kirk",
-          "position": "WR",
-          "team": "SF"
+          "player_id": "6904",
+          "name": "Jalen Hurts",
+          "position": "QB",
+          "team": "PHI"
         }
       ],
       "picks": [
@@ -3983,10 +3983,10 @@
           "team": "NYG"
         },
         {
-          "player_id": "7528",
-          "name": "Najee Harris",
+          "player_id": "5850",
+          "name": "Josh Jacobs",
           "position": "RB",
-          "team": "FA"
+          "team": "GB"
         },
         {
           "player_id": "11620",
@@ -4001,10 +4001,10 @@
           "team": "NYJ"
         },
         {
-          "player_id": "11608",
-          "name": "Isaiah Williams",
+          "player_id": "4039",
+          "name": "Cooper Kupp",
           "position": "WR",
-          "team": "NYJ"
+          "team": "SEA"
         },
         {
           "player_id": "1466",
@@ -4013,24 +4013,36 @@
           "team": "KC"
         },
         {
-          "player_id": "4039",
-          "name": "Cooper Kupp",
+          "player_id": "5844",
+          "name": "T.J. Hockenson",
+          "position": "TE",
+          "team": "MIN"
+        },
+        {
+          "player_id": "4993",
+          "name": "Mike Gesicki",
+          "position": "TE",
+          "team": "CIN"
+        }
+      ],
+      "bench": [
+        {
+          "player_id": "11608",
+          "name": "Isaiah Williams",
           "position": "WR",
-          "team": "SEA"
+          "team": "NYJ"
+        },
+        {
+          "player_id": "12498",
+          "name": "Mason Taylor",
+          "position": "TE",
+          "team": "NYJ"
         },
         {
           "player_id": "12499",
           "name": "Elic Ayomanor",
           "position": "WR",
           "team": "TEN"
-        }
-      ],
-      "bench": [
-        {
-          "player_id": "12498",
-          "name": "Mason Taylor",
-          "position": "TE",
-          "team": "NYJ"
         },
         {
           "player_id": "13277",
@@ -4063,24 +4075,6 @@
           "team": "BUF"
         },
         {
-          "player_id": "4993",
-          "name": "Mike Gesicki",
-          "position": "TE",
-          "team": "CIN"
-        },
-        {
-          "player_id": "5844",
-          "name": "T.J. Hockenson",
-          "position": "TE",
-          "team": "MIN"
-        },
-        {
-          "player_id": "5850",
-          "name": "Josh Jacobs",
-          "position": "RB",
-          "team": "GB"
-        },
-        {
           "player_id": "5906",
           "name": "Dawson Knox",
           "position": "TE",
@@ -4103,6 +4097,12 @@
           "name": "AJ Dillon",
           "position": "RB",
           "team": "CAR"
+        },
+        {
+          "player_id": "7528",
+          "name": "Najee Harris",
+          "position": "RB",
+          "team": "FA"
         },
         {
           "player_id": "7562",

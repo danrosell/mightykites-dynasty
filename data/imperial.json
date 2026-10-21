@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-21T07:47:26.034Z",
+  "generated_at": "2026-10-21T13:55:10.198Z",
   "source": "Sleeper public API",
   "username": "TheMightyKites",
   "nfl_week": 7,
@@ -179,10 +179,10 @@
         "team": "SEA"
       },
       {
-        "player_id": "421",
-        "name": "Matthew Stafford",
+        "player_id": "4881",
+        "name": "Lamar Jackson",
         "position": "QB",
-        "team": "LAR"
+        "team": "BAL"
       }
     ],
     "bench": [
@@ -199,10 +199,10 @@
         "team": "NO"
       },
       {
-        "player_id": "13394",
-        "name": "Josh Cameron",
-        "position": "WR",
-        "team": "JAX"
+        "player_id": "421",
+        "name": "Matthew Stafford",
+        "position": "QB",
+        "team": "LAR"
       }
     ],
     "taxi": [
@@ -231,12 +231,6 @@
         "name": "Jacory Croskey-Merritt",
         "position": "RB",
         "team": "WAS"
-      },
-      {
-        "player_id": "4881",
-        "name": "Lamar Jackson",
-        "position": "QB",
-        "team": "BAL"
       }
     ],
     "picks": [
@@ -422,10 +416,10 @@
           "team": "SEA"
         },
         {
-          "player_id": "421",
-          "name": "Matthew Stafford",
+          "player_id": "4881",
+          "name": "Lamar Jackson",
           "position": "QB",
-          "team": "LAR"
+          "team": "BAL"
         }
       ],
       "bench": [
@@ -442,10 +436,10 @@
           "team": "NO"
         },
         {
-          "player_id": "13394",
-          "name": "Josh Cameron",
-          "position": "WR",
-          "team": "JAX"
+          "player_id": "421",
+          "name": "Matthew Stafford",
+          "position": "QB",
+          "team": "LAR"
         }
       ],
       "taxi": [
@@ -474,12 +468,6 @@
           "name": "Jacory Croskey-Merritt",
           "position": "RB",
           "team": "WAS"
-        },
-        {
-          "player_id": "4881",
-          "name": "Lamar Jackson",
-          "position": "QB",
-          "team": "BAL"
         }
       ],
       "picks": [
@@ -1158,10 +1146,10 @@
           "team": "NE"
         },
         {
-          "player_id": "11571",
-          "name": "Isaiah Davis",
-          "position": "RB",
-          "team": "NYJ"
+          "player_id": "12518",
+          "name": "Tyler Warren",
+          "position": "TE",
+          "team": "IND"
         },
         {
           "player_id": "12536",
@@ -1184,10 +1172,10 @@
           "team": "CHI"
         },
         {
-          "player_id": "12518",
-          "name": "Tyler Warren",
-          "position": "TE",
-          "team": "IND"
+          "player_id": "11571",
+          "name": "Isaiah Davis",
+          "position": "RB",
+          "team": "NYJ"
         },
         {
           "player_id": "13317",
@@ -1326,10 +1314,10 @@
           "team": "ARI"
         },
         {
-          "player_id": "8116",
-          "name": "Pierre Strong",
+          "player_id": "12495",
+          "name": "Ollie Gordon",
           "position": "RB",
-          "team": "GB"
+          "team": "MIA"
         },
         {
           "player_id": "11620",
@@ -1362,18 +1350,18 @@
           "team": "IND"
         },
         {
-          "player_id": "11566",
-          "name": "Jayden Daniels",
+          "player_id": "5870",
+          "name": "Daniel Jones",
           "position": "QB",
-          "team": "WAS"
+          "team": "IND"
         }
       ],
       "bench": [
         {
-          "player_id": "12495",
-          "name": "Ollie Gordon",
-          "position": "RB",
-          "team": "MIA"
+          "player_id": "11566",
+          "name": "Jayden Daniels",
+          "position": "QB",
+          "team": "WAS"
         },
         {
           "player_id": "2307",
@@ -1388,16 +1376,16 @@
           "team": "SEA"
         },
         {
-          "player_id": "5870",
-          "name": "Daniel Jones",
-          "position": "QB",
-          "team": "IND"
-        },
-        {
           "player_id": "6931",
           "name": "DeeJay Dallas",
           "position": "RB",
           "team": "MIN"
+        },
+        {
+          "player_id": "8116",
+          "name": "Pierre Strong",
+          "position": "RB",
+          "team": "GB"
         }
       ],
       "taxi": [
@@ -1517,10 +1505,10 @@
           "team": "NO"
         },
         {
-          "player_id": "11635",
-          "name": "Ladd McConkey",
+          "player_id": "9756",
+          "name": "Jordan Addison",
           "position": "WR",
-          "team": "LAC"
+          "team": "MIN"
         },
         {
           "player_id": "8144",
@@ -1541,10 +1529,10 @@
           "team": "HOU"
         },
         {
-          "player_id": "8210",
-          "name": "Chig Okonkwo",
-          "position": "TE",
-          "team": "WAS"
+          "player_id": "11586",
+          "name": "Blake Corum",
+          "position": "RB",
+          "team": "LAR"
         },
         {
           "player_id": "9758",
@@ -1561,10 +1549,10 @@
           "team": "DEN"
         },
         {
-          "player_id": "11586",
-          "name": "Blake Corum",
-          "position": "RB",
-          "team": "LAR"
+          "player_id": "11635",
+          "name": "Ladd McConkey",
+          "position": "WR",
+          "team": "LAC"
         },
         {
           "player_id": "12547",
@@ -1579,10 +1567,10 @@
           "team": "MIN"
         },
         {
-          "player_id": "9756",
-          "name": "Jordan Addison",
-          "position": "WR",
-          "team": "MIN"
+          "player_id": "8210",
+          "name": "Chig Okonkwo",
+          "position": "TE",
+          "team": "WAS"
         }
       ],
       "taxi": [
