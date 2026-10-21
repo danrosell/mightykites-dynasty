@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-21T18:44:27.593Z",
+  "generated_at": "2026-10-21T22:26:38.881Z",
   "source": "Sleeper public API",
   "username": "TheMightyKites",
   "nfl_week": 7,
@@ -162,13 +162,13 @@
       },
       {
         "player_id": "7553",
-        "name": "Kyle Pitts",
+        "name": "Kyle Pitts Sr.",
         "position": "TE",
         "team": "ATL"
       },
       {
         "player_id": "13305",
-        "name": "Mike Washington",
+        "name": "Mike Washington Jr.",
         "position": "RB",
         "team": "LV"
       },
@@ -203,18 +203,12 @@
         "name": "Matthew Stafford",
         "position": "QB",
         "team": "LAR"
-      },
-      {
-        "player_id": "4950",
-        "name": "Christian Kirk",
-        "position": "WR",
-        "team": "SF"
       }
     ],
     "taxi": [
       {
         "player_id": "12544",
-        "name": "LeQuint Allen",
+        "name": "LeQuint Allen Jr.",
         "position": "RB",
         "team": "JAX"
       },
@@ -237,6 +231,12 @@
         "name": "Jacory Croskey-Merritt",
         "position": "RB",
         "team": "WAS"
+      },
+      {
+        "player_id": "4950",
+        "name": "Christian Kirk",
+        "position": "WR",
+        "team": "SF"
       }
     ],
     "picks": [
@@ -405,13 +405,13 @@
         },
         {
           "player_id": "7553",
-          "name": "Kyle Pitts",
+          "name": "Kyle Pitts Sr.",
           "position": "TE",
           "team": "ATL"
         },
         {
           "player_id": "13305",
-          "name": "Mike Washington",
+          "name": "Mike Washington Jr.",
           "position": "RB",
           "team": "LV"
         },
@@ -446,18 +446,12 @@
           "name": "Matthew Stafford",
           "position": "QB",
           "team": "LAR"
-        },
-        {
-          "player_id": "4950",
-          "name": "Christian Kirk",
-          "position": "WR",
-          "team": "SF"
         }
       ],
       "taxi": [
         {
           "player_id": "12544",
-          "name": "LeQuint Allen",
+          "name": "LeQuint Allen Jr.",
           "position": "RB",
           "team": "JAX"
         },
@@ -480,6 +474,12 @@
           "name": "Jacory Croskey-Merritt",
           "position": "RB",
           "team": "WAS"
+        },
+        {
+          "player_id": "4950",
+          "name": "Christian Kirk",
+          "position": "WR",
+          "team": "SF"
         }
       ],
       "picks": [
@@ -578,7 +578,7 @@
         },
         {
           "player_id": "12506",
-          "name": "Harold Fannin",
+          "name": "Harold Fannin Jr.",
           "position": "TE",
           "team": "CLE"
         },
@@ -595,10 +595,10 @@
           "team": "NO"
         },
         {
-          "player_id": "7523",
-          "name": "Trevor Lawrence",
-          "position": "QB",
-          "team": "JAX"
+          "player_id": "13274",
+          "name": "Germie Bernard",
+          "position": "WR",
+          "team": "PIT"
         }
       ],
       "bench": [
@@ -615,16 +615,16 @@
           "team": "CIN"
         },
         {
-          "player_id": "13274",
-          "name": "Germie Bernard",
-          "position": "WR",
-          "team": "PIT"
-        },
-        {
           "player_id": "13402",
           "name": "Skyler Bell",
           "position": "WR",
           "team": "BUF"
+        },
+        {
+          "player_id": "7523",
+          "name": "Trevor Lawrence",
+          "position": "QB",
+          "team": "JAX"
         }
       ],
       "taxi": [
@@ -988,7 +988,7 @@
         },
         {
           "player_id": "11628",
-          "name": "Marvin Harrison",
+          "name": "Marvin Harrison Jr.",
           "position": "WR",
           "team": "HOU"
         },
@@ -1185,7 +1185,7 @@
         },
         {
           "player_id": "13317",
-          "name": "Ted Hurst",
+          "name": "Ted Hurst III",
           "position": "WR",
           "team": "TB"
         },
@@ -1321,7 +1321,7 @@
         },
         {
           "player_id": "12495",
-          "name": "Ollie Gordon",
+          "name": "Ollie Gordon II",
           "position": "RB",
           "team": "MIA"
         },
@@ -1389,7 +1389,7 @@
         },
         {
           "player_id": "8116",
-          "name": "Pierre Strong",
+          "name": "Pierre Strong Jr.",
           "position": "RB",
           "team": "GB"
         }
@@ -1523,10 +1523,10 @@
           "team": "NO"
         },
         {
-          "player_id": "10236",
-          "name": "Dalton Kincaid",
+          "player_id": "4066",
+          "name": "Evan Engram",
           "position": "TE",
-          "team": "BUF"
+          "team": "DEN"
         },
         {
           "player_id": "12474",
@@ -1549,6 +1549,12 @@
       ],
       "bench": [
         {
+          "player_id": "10236",
+          "name": "Dalton Kincaid",
+          "position": "TE",
+          "team": "BUF"
+        },
+        {
           "player_id": "11563",
           "name": "Bo Nix",
           "position": "QB",
@@ -1565,12 +1571,6 @@
           "name": "Kyle Williams",
           "position": "WR",
           "team": "NE"
-        },
-        {
-          "player_id": "4066",
-          "name": "Evan Engram",
-          "position": "TE",
-          "team": "DEN"
         },
         {
           "player_id": "8210",
@@ -1707,13 +1707,13 @@
         },
         {
           "player_id": "4037",
-          "name": "Chris Godwin",
+          "name": "Chris Godwin Jr.",
           "position": "WR",
           "team": "TB"
         },
         {
           "player_id": "11559",
-          "name": "Michael Penix",
+          "name": "Michael Penix Jr.",
           "position": "QB",
           "team": "ATL"
         }
@@ -1727,7 +1727,7 @@
         },
         {
           "player_id": "11631",
-          "name": "Brian Thomas",
+          "name": "Brian Thomas Jr.",
           "position": "WR",
           "team": "JAX"
         },
@@ -1849,10 +1849,10 @@
       "rank": 15,
       "starters": [
         {
-          "player_id": "13347",
-          "name": "Demond Claiborne",
+          "player_id": "11655",
+          "name": "Tyrone Tracy Jr.",
           "position": "RB",
-          "team": "MIN"
+          "team": "NYG"
         },
         {
           "player_id": "13424",
@@ -1873,14 +1873,14 @@
           "team": "TB"
         },
         {
-          "player_id": "7828",
-          "name": "Noah Gray",
+          "player_id": "10859",
+          "name": "Sam LaPorta",
           "position": "TE",
-          "team": "KC"
+          "team": "DET"
         },
         {
           "player_id": "12519",
-          "name": "Luther Burden",
+          "name": "Luther Burden III",
           "position": "WR",
           "team": "CHI"
         },
@@ -1899,22 +1899,22 @@
       ],
       "bench": [
         {
-          "player_id": "10859",
-          "name": "Sam LaPorta",
-          "position": "TE",
-          "team": "DET"
-        },
-        {
-          "player_id": "11655",
-          "name": "Tyrone Tracy",
+          "player_id": "13347",
+          "name": "Demond Claiborne",
           "position": "RB",
-          "team": "NYG"
+          "team": "MIN"
         },
         {
           "player_id": "7527",
           "name": "Mac Jones",
           "position": "QB",
           "team": "SF"
+        },
+        {
+          "player_id": "7828",
+          "name": "Noah Gray",
+          "position": "TE",
+          "team": "KC"
         },
         {
           "player_id": "8136",
@@ -1932,7 +1932,7 @@
       "taxi": [
         {
           "player_id": "13338",
-          "name": "Kevin Coleman",
+          "name": "Kevin Coleman Jr.",
           "position": "WR",
           "team": "MIA"
         },
@@ -2079,7 +2079,7 @@
         },
         {
           "player_id": "8154",
-          "name": "Brian Robinson",
+          "name": "Brian Robinson Jr.",
           "position": "RB",
           "team": "ATL"
         },
@@ -2219,7 +2219,7 @@
         },
         {
           "player_id": "13276",
-          "name": "Omar Cooper",
+          "name": "Omar Cooper Jr.",
           "position": "WR",
           "team": "NYJ"
         },
@@ -2471,7 +2471,7 @@
       "bench": [
         {
           "player_id": "10219",
-          "name": "Chris Rodriguez",
+          "name": "Chris Rodriguez Jr.",
           "position": "RB",
           "team": "JAX"
         },
@@ -2636,7 +2636,7 @@
         },
         {
           "player_id": "5872",
-          "name": "Deebo Samuel",
+          "name": "Deebo Samuel Sr.",
           "position": "WR",
           "team": "SF"
         },
@@ -2720,7 +2720,7 @@
         },
         {
           "player_id": "13353",
-          "name": "Chris Brazzell",
+          "name": "Chris Brazzell II",
           "position": "WR",
           "team": "CAR"
         }
@@ -2999,7 +2999,7 @@
         },
         {
           "player_id": "13298",
-          "name": "KC Concepcion",
+          "name": "KC Concepcion Jr.",
           "position": "WR",
           "team": "CLE"
         },
@@ -3145,10 +3145,10 @@
           "team": "LAR"
         },
         {
-          "player_id": "2133",
-          "name": "Davante Adams",
+          "player_id": "12634",
+          "name": "Jordan Watkins",
           "position": "WR",
-          "team": "LAR"
+          "team": "SF"
         },
         {
           "player_id": "8121",
@@ -3195,12 +3195,6 @@
           "team": "LAC"
         },
         {
-          "player_id": "12634",
-          "name": "Jordan Watkins",
-          "position": "WR",
-          "team": "SF"
-        },
-        {
           "player_id": "12718",
           "name": "Konata Mumpfield",
           "position": "WR",
@@ -3211,6 +3205,12 @@
           "name": "Geno Smith",
           "position": "QB",
           "team": "NYJ"
+        },
+        {
+          "player_id": "2133",
+          "name": "Davante Adams",
+          "position": "WR",
+          "team": "LAR"
         }
       ],
       "taxi": [
@@ -3325,7 +3325,7 @@
       "starters": [
         {
           "player_id": "8151",
-          "name": "Kenneth Walker",
+          "name": "Kenneth Walker III",
           "position": "RB",
           "team": "KC"
         },
@@ -3393,7 +3393,7 @@
         },
         {
           "player_id": "4199",
-          "name": "Aaron Jones",
+          "name": "Aaron Jones Sr.",
           "position": "RB",
           "team": "MIN"
         },
@@ -3427,7 +3427,7 @@
         },
         {
           "player_id": "7543",
-          "name": "Travis Etienne",
+          "name": "Travis Etienne Jr.",
           "position": "RB",
           "team": "NO"
         },
@@ -3496,7 +3496,7 @@
       "starters": [
         {
           "player_id": "8138",
-          "name": "James Cook",
+          "name": "James Cook III",
           "position": "RB",
           "team": "BUF"
         },
@@ -3604,7 +3604,7 @@
         },
         {
           "player_id": "6819",
-          "name": "Michael Pittman",
+          "name": "Michael Pittman Jr.",
           "position": "WR",
           "team": "PIT"
         }
