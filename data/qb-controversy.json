@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-20T22:23:08.248Z",
+  "generated_at": "2026-10-21T01:41:08.746Z",
   "source": "Sleeper public API",
   "username": "TheMightyKites",
   "nfl_week": 7,
@@ -2762,12 +2762,6 @@
           "team": "CIN"
         },
         {
-          "player_id": "2133",
-          "name": "Davante Adams",
-          "position": "WR",
-          "team": "LAR"
-        },
-        {
           "player_id": "2306",
           "name": "Jameis Winston",
           "position": "QB",
@@ -2832,6 +2826,12 @@
           "name": "Jalen Nailor",
           "position": "WR",
           "team": "LV"
+        },
+        {
+          "player_id": "9753",
+          "name": "Zach Charbonnet",
+          "position": "RB",
+          "team": "SEA"
         }
       ],
       "taxi": [
@@ -2856,16 +2856,16 @@
       ],
       "reserve": [
         {
+          "player_id": "2133",
+          "name": "Davante Adams",
+          "position": "WR",
+          "team": "LAR"
+        },
+        {
           "player_id": "8698",
           "name": "Jake Tonges",
           "position": "TE",
           "team": "SF"
-        },
-        {
-          "player_id": "9753",
-          "name": "Zach Charbonnet",
-          "position": "RB",
-          "team": "SEA"
         }
       ],
       "picks": [
@@ -2972,22 +2972,22 @@
           "team": "HOU"
         },
         {
-          "player_id": "12533",
-          "name": "Jacory Croskey-Merritt",
+          "player_id": "11655",
+          "name": "Tyrone Tracy",
           "position": "RB",
-          "team": "WAS"
+          "team": "NYG"
         },
         {
-          "player_id": "12542",
-          "name": "Efton Chism",
+          "player_id": "10229",
+          "name": "Rashee Rice",
           "position": "WR",
-          "team": "NE"
+          "team": "KC"
         },
         {
-          "player_id": "12499",
-          "name": "Elic Ayomanor",
+          "player_id": "13293",
+          "name": "Ja'Kobi Lane",
           "position": "WR",
-          "team": "TEN"
+          "team": "BAL"
         },
         {
           "player_id": "9486",
@@ -2995,6 +2995,32 @@
           "position": "WR",
           "team": "PHI"
         },
+        {
+          "player_id": "12502",
+          "name": "Gunnar Helm",
+          "position": "TE",
+          "team": "TEN"
+        },
+        {
+          "player_id": "9482",
+          "name": "Michael Mayer",
+          "position": "TE",
+          "team": "LV"
+        },
+        {
+          "player_id": "12529",
+          "name": "TreVeyon Henderson",
+          "position": "RB",
+          "team": "NE"
+        },
+        {
+          "player_id": "6804",
+          "name": "Jordan Love",
+          "position": "QB",
+          "team": "GB"
+        }
+      ],
+      "bench": [
         {
           "player_id": "10236",
           "name": "Dalton Kincaid",
@@ -3006,32 +3032,6 @@
           "name": "MarShawn Lloyd",
           "position": "RB",
           "team": "GB"
-        },
-        {
-          "player_id": "13150",
-          "name": "Darius Cooper",
-          "position": "WR",
-          "team": "PHI"
-        },
-        {
-          "player_id": "6804",
-          "name": "Jordan Love",
-          "position": "QB",
-          "team": "GB"
-        }
-      ],
-      "bench": [
-        {
-          "player_id": "10229",
-          "name": "Rashee Rice",
-          "position": "WR",
-          "team": "KC"
-        },
-        {
-          "player_id": "11655",
-          "name": "Tyrone Tracy",
-          "position": "RB",
-          "team": "NYG"
         },
         {
           "player_id": "12482",
@@ -3046,9 +3046,9 @@
           "team": "LAR"
         },
         {
-          "player_id": "12502",
-          "name": "Gunnar Helm",
-          "position": "TE",
+          "player_id": "12499",
+          "name": "Elic Ayomanor",
+          "position": "WR",
           "team": "TEN"
         },
         {
@@ -3058,28 +3058,34 @@
           "team": "LAC"
         },
         {
-          "player_id": "12529",
-          "name": "TreVeyon Henderson",
-          "position": "RB",
-          "team": "NE"
-        },
-        {
           "player_id": "12530",
           "name": "Travis Hunter",
           "position": "DB",
           "team": "JAX"
         },
         {
+          "player_id": "12533",
+          "name": "Jacory Croskey-Merritt",
+          "position": "RB",
+          "team": "WAS"
+        },
+        {
+          "player_id": "12542",
+          "name": "Efton Chism",
+          "position": "WR",
+          "team": "NE"
+        },
+        {
+          "player_id": "13150",
+          "name": "Darius Cooper",
+          "position": "WR",
+          "team": "PHI"
+        },
+        {
           "player_id": "13264",
           "name": "Dohnte Meyers",
           "position": "WR",
           "team": "CIN"
-        },
-        {
-          "player_id": "13293",
-          "name": "Ja'Kobi Lane",
-          "position": "WR",
-          "team": "BAL"
         },
         {
           "player_id": "13297",
@@ -3092,12 +3098,6 @@
           "name": "Charlie Kolar",
           "position": "TE",
           "team": "LAC"
-        },
-        {
-          "player_id": "9482",
-          "name": "Michael Mayer",
-          "position": "TE",
-          "team": "LV"
         },
         {
           "player_id": "9754",

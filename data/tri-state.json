@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-20T22:23:09.125Z",
+  "generated_at": "2026-10-21T01:41:09.436Z",
   "source": "Sleeper public API",
   "username": "TheMightyKites",
   "nfl_week": 7,
@@ -503,16 +503,16 @@
       "rank": 6,
       "starters": [
         {
-          "player_id": "3257",
-          "name": "Jacoby Brissett",
+          "player_id": "4881",
+          "name": "Lamar Jackson",
           "position": "QB",
-          "team": "ARI"
+          "team": "BAL"
         },
         {
-          "player_id": "11435",
-          "name": "Emanuel Wilson",
+          "player_id": "12474",
+          "name": "Woody Marks",
           "position": "RB",
-          "team": "SEA"
+          "team": "HOU"
         },
         {
           "player_id": "8228",
@@ -545,24 +545,36 @@
           "team": "ARI"
         },
         {
-          "player_id": "11581",
-          "name": "MarShawn Lloyd",
-          "position": "RB",
-          "team": "GB"
+          "player_id": "3271",
+          "name": "Tyler Higbee",
+          "position": "TE",
+          "team": "LAR"
         },
         {
-          "player_id": "12522",
-          "name": "Cam Ward",
-          "position": "QB",
-          "team": "TEN"
+          "player_id": "5012",
+          "name": "Mark Andrews",
+          "position": "TE",
+          "team": "BAL"
         }
       ],
       "bench": [
+        {
+          "player_id": "11435",
+          "name": "Emanuel Wilson",
+          "position": "RB",
+          "team": "SEA"
+        },
         {
           "player_id": "11575",
           "name": "Ray Davis",
           "position": "RB",
           "team": "BUF"
+        },
+        {
+          "player_id": "11581",
+          "name": "MarShawn Lloyd",
+          "position": "RB",
+          "team": "GB"
         },
         {
           "player_id": "11592",
@@ -571,22 +583,22 @@
           "team": "CIN"
         },
         {
-          "player_id": "12474",
-          "name": "Woody Marks",
-          "position": "RB",
-          "team": "HOU"
-        },
-        {
           "player_id": "12481",
           "name": "Cam Skattebo",
           "position": "RB",
           "team": "NYG"
         },
         {
-          "player_id": "3271",
-          "name": "Tyler Higbee",
-          "position": "TE",
-          "team": "LAR"
+          "player_id": "12522",
+          "name": "Cam Ward",
+          "position": "QB",
+          "team": "TEN"
+        },
+        {
+          "player_id": "3257",
+          "name": "Jacoby Brissett",
+          "position": "QB",
+          "team": "ARI"
         },
         {
           "player_id": "4037",
@@ -599,18 +611,6 @@
           "name": "Kendrick Bourne",
           "position": "WR",
           "team": "ARI"
-        },
-        {
-          "player_id": "4881",
-          "name": "Lamar Jackson",
-          "position": "QB",
-          "team": "BAL"
-        },
-        {
-          "player_id": "5012",
-          "name": "Mark Andrews",
-          "position": "TE",
-          "team": "BAL"
         },
         {
           "player_id": "6783",
@@ -1386,12 +1386,6 @@
           "team": "PHI"
         },
         {
-          "player_id": "11608",
-          "name": "Isaiah Williams",
-          "position": "WR",
-          "team": "NYJ"
-        },
-        {
           "player_id": "11783",
           "name": "Ryan Flournoy",
           "position": "WR",
@@ -1432,12 +1426,6 @@
           "name": "Samaje Perine",
           "position": "RB",
           "team": "CIN"
-        },
-        {
-          "player_id": "4177",
-          "name": "Mack Hollins",
-          "position": "WR",
-          "team": "NE"
         },
         {
           "player_id": "8134",

@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-20T22:23:07.666Z",
+  "generated_at": "2026-10-21T01:41:07.971Z",
   "source": "Sleeper public API",
   "username": "TheMightyKites",
   "nfl_week": 7,
@@ -2811,10 +2811,10 @@
           "team": "NYJ"
         },
         {
-          "player_id": "5927",
-          "name": "Terry McLaurin",
-          "position": "WR",
-          "team": "WAS"
+          "player_id": "4035",
+          "name": "Alvin Kamara",
+          "position": "RB",
+          "team": "NO"
         },
         {
           "player_id": "4943",
@@ -2847,12 +2847,6 @@
           "name": "Tyreek Hill",
           "position": "WR",
           "team": "FA"
-        },
-        {
-          "player_id": "4035",
-          "name": "Alvin Kamara",
-          "position": "RB",
-          "team": "NO"
         }
       ],
       "taxi": [
@@ -2875,6 +2869,12 @@
           "name": "Jayden Reed",
           "position": "WR",
           "team": "GB"
+        },
+        {
+          "player_id": "5927",
+          "name": "Terry McLaurin",
+          "position": "WR",
+          "team": "WAS"
         }
       ],
       "picks": [
