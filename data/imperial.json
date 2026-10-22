@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-22T13:53:34.237Z",
+  "generated_at": "2026-10-22T18:37:29.121Z",
   "source": "Sleeper public API",
   "username": "TheMightyKites",
   "nfl_week": 7,
@@ -61,7 +61,7 @@
       "leg": 7,
       "reserve_slots": 3,
       "reserve_allow_cov": 0,
-      "daily_waivers_last_ran": 21
+      "daily_waivers_last_ran": 22
     },
     "scoring_settings": {
       "sack": 1,
@@ -167,10 +167,10 @@
         "team": "ATL"
       },
       {
-        "player_id": "13305",
-        "name": "Mike Washington Jr.",
+        "player_id": "8122",
+        "name": "Zonovan Knight",
         "position": "RB",
-        "team": "LV"
+        "team": "ARI"
       },
       {
         "player_id": "11603",
@@ -193,6 +193,12 @@
         "team": "NYG"
       },
       {
+        "player_id": "13305",
+        "name": "Mike Washington Jr.",
+        "position": "RB",
+        "team": "LV"
+      },
+      {
         "player_id": "13319",
         "name": "Oscar Delp",
         "position": "TE",
@@ -203,6 +209,12 @@
         "name": "Matthew Stafford",
         "position": "QB",
         "team": "LAR"
+      },
+      {
+        "player_id": "8119",
+        "name": "Jahan Dotson",
+        "position": "WR",
+        "team": "ATL"
       }
     ],
     "taxi": [
@@ -410,10 +422,10 @@
           "team": "ATL"
         },
         {
-          "player_id": "13305",
-          "name": "Mike Washington Jr.",
+          "player_id": "8122",
+          "name": "Zonovan Knight",
           "position": "RB",
-          "team": "LV"
+          "team": "ARI"
         },
         {
           "player_id": "11603",
@@ -436,6 +448,12 @@
           "team": "NYG"
         },
         {
+          "player_id": "13305",
+          "name": "Mike Washington Jr.",
+          "position": "RB",
+          "team": "LV"
+        },
+        {
           "player_id": "13319",
           "name": "Oscar Delp",
           "position": "TE",
@@ -446,6 +464,12 @@
           "name": "Matthew Stafford",
           "position": "QB",
           "team": "LAR"
+        },
+        {
+          "player_id": "8119",
+          "name": "Jahan Dotson",
+          "position": "WR",
+          "team": "ATL"
         }
       ],
       "taxi": [
@@ -625,6 +649,12 @@
           "name": "Trevor Lawrence",
           "position": "QB",
           "team": "JAX"
+        },
+        {
+          "player_id": "7694",
+          "name": "Tommy Tremble",
+          "position": "TE",
+          "team": "CAR"
         }
       ],
       "taxi": [
@@ -1380,12 +1410,6 @@
           "name": "Cooper Kupp",
           "position": "WR",
           "team": "SEA"
-        },
-        {
-          "player_id": "6931",
-          "name": "DeeJay Dallas",
-          "position": "RB",
-          "team": "MIN"
         },
         {
           "player_id": "8116",
@@ -3495,10 +3519,10 @@
       "rank": 10,
       "starters": [
         {
-          "player_id": "8138",
-          "name": "James Cook III",
+          "player_id": "6130",
+          "name": "Devin Singletary",
           "position": "RB",
-          "team": "BUF"
+          "team": "NYG"
         },
         {
           "player_id": "5967",
@@ -3557,16 +3581,16 @@
           "team": "CHI"
         },
         {
-          "player_id": "5857",
-          "name": "Noah Fant",
-          "position": "TE",
-          "team": "NO"
-        },
-        {
           "player_id": "5947",
           "name": "Jakobi Meyers",
           "position": "WR",
           "team": "JAX"
+        },
+        {
+          "player_id": "8138",
+          "name": "James Cook III",
+          "position": "RB",
+          "team": "BUF"
         },
         {
           "player_id": "9228",

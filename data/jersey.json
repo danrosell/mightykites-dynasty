@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-22T13:53:35.322Z",
+  "generated_at": "2026-10-22T18:37:30.010Z",
   "source": "Sleeper public API",
   "username": "TheMightyKites",
   "nfl_week": 7,
@@ -58,7 +58,7 @@
       "leg": 7,
       "reserve_slots": 2,
       "reserve_allow_cov": 0,
-      "daily_waivers_last_ran": 21
+      "daily_waivers_last_ran": 22
     },
     "scoring_settings": {
       "sack": 1,
@@ -2397,58 +2397,58 @@
       "rank": 8,
       "starters": [
         {
-          "player_id": "7591",
-          "name": "Justin Fields",
-          "position": "QB",
-          "team": "KC"
+          "player_id": "0",
+          "name": "0",
+          "position": "—",
+          "team": "FA"
         },
         {
-          "player_id": "8207",
-          "name": "Tyler Goodson",
-          "position": "RB",
-          "team": "DAL"
+          "player_id": "0",
+          "name": "0",
+          "position": "—",
+          "team": "FA"
         },
         {
-          "player_id": "11439",
-          "name": "Jaleel McLaughlin",
-          "position": "RB",
-          "team": "CLE"
+          "player_id": "0",
+          "name": "0",
+          "position": "—",
+          "team": "FA"
         },
         {
-          "player_id": "7090",
-          "name": "Darnell Mooney",
-          "position": "WR",
-          "team": "NYG"
+          "player_id": "0",
+          "name": "0",
+          "position": "—",
+          "team": "FA"
         },
         {
-          "player_id": "12540",
-          "name": "Chimere Dike",
-          "position": "WR",
-          "team": "TEN"
+          "player_id": "0",
+          "name": "0",
+          "position": "—",
+          "team": "FA"
         },
         {
-          "player_id": "13320",
-          "name": "Zachariah Branch",
-          "position": "WR",
-          "team": "ATL"
+          "player_id": "0",
+          "name": "0",
+          "position": "—",
+          "team": "FA"
         },
         {
-          "player_id": "13278",
-          "name": "Max Klare",
+          "player_id": "12517",
+          "name": "Colston Loveland",
           "position": "TE",
-          "team": "LAR"
+          "team": "CHI"
         },
         {
-          "player_id": "1339",
-          "name": "Zach Ertz",
-          "position": "TE",
-          "team": "PHI"
+          "player_id": "0",
+          "name": "0",
+          "position": "—",
+          "team": "FA"
         },
         {
-          "player_id": "13329",
-          "name": "Malik Benson",
-          "position": "WR",
-          "team": "LV"
+          "player_id": "0",
+          "name": "0",
+          "position": "—",
+          "team": "FA"
         }
       ],
       "bench": [
@@ -2459,10 +2459,16 @@
           "team": "KC"
         },
         {
-          "player_id": "12517",
-          "name": "Colston Loveland",
-          "position": "TE",
-          "team": "CHI"
+          "player_id": "11439",
+          "name": "Jaleel McLaughlin",
+          "position": "RB",
+          "team": "CLE"
+        },
+        {
+          "player_id": "12540",
+          "name": "Chimere Dike",
+          "position": "WR",
+          "team": "TEN"
         },
         {
           "player_id": "12634",
@@ -2471,10 +2477,34 @@
           "team": "SF"
         },
         {
+          "player_id": "13278",
+          "name": "Max Klare",
+          "position": "TE",
+          "team": "LAR"
+        },
+        {
           "player_id": "13298",
           "name": "KC Concepcion Jr.",
           "position": "WR",
           "team": "CLE"
+        },
+        {
+          "player_id": "13320",
+          "name": "Zachariah Branch",
+          "position": "WR",
+          "team": "ATL"
+        },
+        {
+          "player_id": "13329",
+          "name": "Malik Benson",
+          "position": "WR",
+          "team": "LV"
+        },
+        {
+          "player_id": "1339",
+          "name": "Zach Ertz",
+          "position": "TE",
+          "team": "PHI"
         },
         {
           "player_id": "13405",
@@ -2531,10 +2561,22 @@
           "team": "MIN"
         },
         {
+          "player_id": "7090",
+          "name": "Darnell Mooney",
+          "position": "WR",
+          "team": "NYG"
+        },
+        {
           "player_id": "7564",
           "name": "Ja'Marr Chase",
           "position": "WR",
           "team": "CIN"
+        },
+        {
+          "player_id": "7591",
+          "name": "Justin Fields",
+          "position": "QB",
+          "team": "KC"
         },
         {
           "player_id": "8112",
@@ -2571,6 +2613,12 @@
           "name": "Brock Purdy",
           "position": "QB",
           "team": "SF"
+        },
+        {
+          "player_id": "8207",
+          "name": "Tyler Goodson",
+          "position": "RB",
+          "team": "DAL"
         }
       ],
       "taxi": [],

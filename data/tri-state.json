@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-22T13:53:35.656Z",
+  "generated_at": "2026-10-22T18:37:30.342Z",
   "source": "Sleeper public API",
   "username": "TheMightyKites",
   "nfl_week": 7,
@@ -1330,10 +1330,10 @@
           "team": "ARI"
         },
         {
-          "player_id": "8129",
-          "name": "Dameon Pierce",
+          "player_id": "10235",
+          "name": "Roschon Johnson",
           "position": "RB",
-          "team": "PHI"
+          "team": "CHI"
         },
         {
           "player_id": "13274",
@@ -1360,10 +1360,10 @@
           "team": "NO"
         },
         {
-          "player_id": "13287",
-          "name": "Jeremiyah Love",
+          "player_id": "8129",
+          "name": "Dameon Pierce",
           "position": "RB",
-          "team": "ARI"
+          "team": "PHI"
         },
         {
           "player_id": "4017",
@@ -1373,12 +1373,6 @@
         }
       ],
       "bench": [
-        {
-          "player_id": "10235",
-          "name": "Roschon Johnson",
-          "position": "RB",
-          "team": "CHI"
-        },
         {
           "player_id": "11557",
           "name": "Joe Milton",
@@ -1414,6 +1408,12 @@
           "name": "Konata Mumpfield",
           "position": "WR",
           "team": "LAR"
+        },
+        {
+          "player_id": "13287",
+          "name": "Jeremiyah Love",
+          "position": "RB",
+          "team": "ARI"
         },
         {
           "player_id": "13317",
