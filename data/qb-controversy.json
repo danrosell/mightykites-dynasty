@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-21T22:26:39.454Z",
+  "generated_at": "2026-10-22T01:36:23.244Z",
   "source": "Sleeper public API",
   "username": "TheMightyKites",
   "nfl_week": 7,
@@ -3258,10 +3258,10 @@
           "team": "CLE"
         },
         {
-          "player_id": "6039",
-          "name": "Ty Johnson",
+          "player_id": "4147",
+          "name": "Samaje Perine",
           "position": "RB",
-          "team": "BUF"
+          "team": "CIN"
         },
         {
           "player_id": "8146",
@@ -3270,16 +3270,16 @@
           "team": "NYJ"
         },
         {
+          "player_id": "13274",
+          "name": "Germie Bernard",
+          "position": "WR",
+          "team": "PIT"
+        },
+        {
           "player_id": "12519",
           "name": "Luther Burden III",
           "position": "WR",
           "team": "CHI"
-        },
-        {
-          "player_id": "13301",
-          "name": "Antonio Williams",
-          "position": "WR",
-          "team": "WAS"
         },
         {
           "player_id": "10231",
@@ -3288,16 +3288,16 @@
           "team": "ARI"
         },
         {
+          "player_id": "7694",
+          "name": "Tommy Tremble",
+          "position": "TE",
+          "team": "CAR"
+        },
+        {
           "player_id": "3634",
           "name": "Kalif Raymond",
           "position": "WR",
           "team": "CHI"
-        },
-        {
-          "player_id": "13274",
-          "name": "Germie Bernard",
-          "position": "WR",
-          "team": "PIT"
         },
         {
           "player_id": "1166",
@@ -3350,16 +3350,16 @@
           "team": "TEN"
         },
         {
+          "player_id": "13301",
+          "name": "Antonio Williams",
+          "position": "WR",
+          "team": "WAS"
+        },
+        {
           "player_id": "13349",
           "name": "Eli Stowers",
           "position": "TE",
           "team": "PHI"
-        },
-        {
-          "player_id": "4147",
-          "name": "Samaje Perine",
-          "position": "RB",
-          "team": "CIN"
         },
         {
           "player_id": "4177",
@@ -3368,10 +3368,10 @@
           "team": "NE"
         },
         {
-          "player_id": "7694",
-          "name": "Tommy Tremble",
-          "position": "TE",
-          "team": "CAR"
+          "player_id": "6039",
+          "name": "Ty Johnson",
+          "position": "RB",
+          "team": "BUF"
         },
         {
           "player_id": "7891",

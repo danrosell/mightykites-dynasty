@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-21T22:26:40.345Z",
+  "generated_at": "2026-10-22T01:36:24.218Z",
   "source": "Sleeper public API",
   "username": "TheMightyKites",
   "nfl_week": 7,
@@ -166,10 +166,10 @@
         "team": "TB"
       },
       {
-        "player_id": "11834",
-        "name": "Devaughn Vele",
+        "player_id": "9501",
+        "name": "DeMario Douglas",
         "position": "WR",
-        "team": "NO"
+        "team": "NE"
       },
       {
         "player_id": "7564",
@@ -214,6 +214,12 @@
         "name": "Jaylen Wright",
         "position": "RB",
         "team": "MIA"
+      },
+      {
+        "player_id": "11834",
+        "name": "Devaughn Vele",
+        "position": "WR",
+        "team": "NO"
       },
       {
         "player_id": "12493",
@@ -292,12 +298,6 @@
         "name": "Dontayvion Wicks",
         "position": "WR",
         "team": "PHI"
-      },
-      {
-        "player_id": "9501",
-        "name": "DeMario Douglas",
-        "position": "WR",
-        "team": "NE"
       }
     ],
     "taxi": [
@@ -1065,10 +1065,10 @@
           "team": "TB"
         },
         {
-          "player_id": "11834",
-          "name": "Devaughn Vele",
+          "player_id": "9501",
+          "name": "DeMario Douglas",
           "position": "WR",
-          "team": "NO"
+          "team": "NE"
         },
         {
           "player_id": "7564",
@@ -1113,6 +1113,12 @@
           "name": "Jaylen Wright",
           "position": "RB",
           "team": "MIA"
+        },
+        {
+          "player_id": "11834",
+          "name": "Devaughn Vele",
+          "position": "WR",
+          "team": "NO"
         },
         {
           "player_id": "12493",
@@ -1191,12 +1197,6 @@
           "name": "Dontayvion Wicks",
           "position": "WR",
           "team": "PHI"
-        },
-        {
-          "player_id": "9501",
-          "name": "DeMario Douglas",
-          "position": "WR",
-          "team": "NE"
         }
       ],
       "taxi": [
