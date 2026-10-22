@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-22T07:43:07.054Z",
+  "generated_at": "2026-10-22T13:53:35.656Z",
   "source": "Sleeper public API",
   "username": "TheMightyKites",
   "nfl_week": 7,
@@ -61,7 +61,7 @@
       "leg": 7,
       "reserve_slots": 3,
       "reserve_allow_cov": 1,
-      "daily_waivers_last_ran": 21
+      "daily_waivers_last_ran": 22
     },
     "scoring_settings": {
       "sack": 2,
@@ -1731,10 +1731,10 @@
           "team": "LAR"
         },
         {
-          "player_id": "7547",
-          "name": "Amon-Ra St. Brown",
+          "player_id": "5859",
+          "name": "A.J. Brown",
           "position": "WR",
-          "team": "DET"
+          "team": "NE"
         },
         {
           "player_id": "6801",
@@ -1749,10 +1749,10 @@
           "team": "SF"
         },
         {
-          "player_id": "1466",
-          "name": "Travis Kelce",
-          "position": "TE",
-          "team": "KC"
+          "player_id": "7547",
+          "name": "Amon-Ra St. Brown",
+          "position": "WR",
+          "team": "DET"
         },
         {
           "player_id": "1166",
@@ -1805,6 +1805,12 @@
           "team": "NYJ"
         },
         {
+          "player_id": "1466",
+          "name": "Travis Kelce",
+          "position": "TE",
+          "team": "KC"
+        },
+        {
           "player_id": "2216",
           "name": "Mike Evans",
           "position": "WR",
@@ -1827,12 +1833,6 @@
           "name": "Alvin Kamara",
           "position": "RB",
           "team": "NO"
-        },
-        {
-          "player_id": "5859",
-          "name": "A.J. Brown",
-          "position": "WR",
-          "team": "NE"
         },
         {
           "player_id": "8408",

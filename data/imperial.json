@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-22T07:43:05.584Z",
+  "generated_at": "2026-10-22T13:53:34.237Z",
   "source": "Sleeper public API",
   "username": "TheMightyKites",
   "nfl_week": 7,
@@ -1314,10 +1314,10 @@
       "rank": 16,
       "starters": [
         {
-          "player_id": "13287",
-          "name": "Jeremiyah Love",
+          "player_id": "8408",
+          "name": "Jordan Mason",
           "position": "RB",
-          "team": "ARI"
+          "team": "MIN"
         },
         {
           "player_id": "12495",
@@ -1370,10 +1370,10 @@
           "team": "WAS"
         },
         {
-          "player_id": "2307",
-          "name": "Marcus Mariota",
-          "position": "QB",
-          "team": "WAS"
+          "player_id": "13287",
+          "name": "Jeremiyah Love",
+          "position": "RB",
+          "team": "ARI"
         },
         {
           "player_id": "4039",
@@ -1392,6 +1392,12 @@
           "name": "Pierre Strong Jr.",
           "position": "RB",
           "team": "GB"
+        },
+        {
+          "player_id": "9753",
+          "name": "Zach Charbonnet",
+          "position": "RB",
+          "team": "SEA"
         }
       ],
       "taxi": [
@@ -1416,16 +1422,10 @@
           "team": "DEN"
         },
         {
-          "player_id": "8408",
-          "name": "Jordan Mason",
-          "position": "RB",
-          "team": "MIN"
-        },
-        {
-          "player_id": "9753",
-          "name": "Zach Charbonnet",
-          "position": "RB",
-          "team": "SEA"
+          "player_id": "2307",
+          "name": "Marcus Mariota",
+          "position": "QB",
+          "team": "WAS"
         }
       ],
       "picks": [
@@ -2635,10 +2635,10 @@
           "team": "LV"
         },
         {
-          "player_id": "5872",
-          "name": "Deebo Samuel Sr.",
-          "position": "WR",
-          "team": "SF"
+          "player_id": "12481",
+          "name": "Cam Skattebo",
+          "position": "RB",
+          "team": "NYG"
         },
         {
           "player_id": "1466",
@@ -2661,12 +2661,6 @@
           "team": "CLE"
         },
         {
-          "player_id": "12481",
-          "name": "Cam Skattebo",
-          "position": "RB",
-          "team": "NYG"
-        },
-        {
           "player_id": "13288",
           "name": "Nicholas Singleton",
           "position": "RB",
@@ -2677,6 +2671,12 @@
           "name": "Jalon Daniels",
           "position": "QB",
           "team": "TB"
+        },
+        {
+          "player_id": "5872",
+          "name": "Deebo Samuel Sr.",
+          "position": "WR",
+          "team": "SF"
         },
         {
           "player_id": "9754",
@@ -3330,16 +3330,16 @@
           "team": "KC"
         },
         {
-          "player_id": "5995",
-          "name": "Justice Hill",
+          "player_id": "4199",
+          "name": "Aaron Jones Sr.",
           "position": "RB",
-          "team": "BAL"
+          "team": "MIN"
         },
         {
-          "player_id": "1479",
-          "name": "Keenan Allen",
+          "player_id": "13279",
+          "name": "Carnell Tate",
           "position": "WR",
-          "team": "IND"
+          "team": "TEN"
         },
         {
           "player_id": "5045",
@@ -3374,12 +3374,6 @@
       ],
       "bench": [
         {
-          "player_id": "13279",
-          "name": "Carnell Tate",
-          "position": "WR",
-          "team": "TEN"
-        },
-        {
           "player_id": "13293",
           "name": "Ja'Kobi Lane",
           "position": "WR",
@@ -3392,10 +3386,16 @@
           "team": "NYJ"
         },
         {
-          "player_id": "4199",
-          "name": "Aaron Jones Sr.",
+          "player_id": "1479",
+          "name": "Keenan Allen",
+          "position": "WR",
+          "team": "IND"
+        },
+        {
+          "player_id": "5995",
+          "name": "Justice Hill",
           "position": "RB",
-          "team": "MIN"
+          "team": "BAL"
         },
         {
           "player_id": "6804",
