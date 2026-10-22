@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-22T18:37:29.581Z",
+  "generated_at": "2026-10-22T22:26:12.129Z",
   "source": "Sleeper public API",
   "username": "TheMightyKites",
   "nfl_week": 7,
@@ -1137,7 +1137,7 @@
           "player_id": "12457",
           "name": "Jaydon Blue",
           "position": "RB",
-          "team": "FA"
+          "team": "PHI"
         },
         {
           "player_id": "12544",

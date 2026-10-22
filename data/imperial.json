@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-22T18:37:29.121Z",
+  "generated_at": "2026-10-22T22:26:11.530Z",
   "source": "Sleeper public API",
   "username": "TheMightyKites",
   "nfl_week": 7,
@@ -1885,10 +1885,10 @@
           "team": "IND"
         },
         {
-          "player_id": "12535",
-          "name": "Isaac TeSlaa",
+          "player_id": "12519",
+          "name": "Luther Burden III",
           "position": "WR",
-          "team": "DET"
+          "team": "CHI"
         },
         {
           "player_id": "12514",
@@ -1903,10 +1903,10 @@
           "team": "DET"
         },
         {
-          "player_id": "12519",
-          "name": "Luther Burden III",
+          "player_id": "12535",
+          "name": "Isaac TeSlaa",
           "position": "WR",
-          "team": "CHI"
+          "team": "DET"
         },
         {
           "player_id": "10213",
