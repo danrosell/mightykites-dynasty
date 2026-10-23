@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-22T22:26:12.629Z",
+  "generated_at": "2026-10-23T01:37:11.788Z",
   "source": "Sleeper public API",
   "username": "TheMightyKites",
   "nfl_week": 7,
@@ -416,11 +416,11 @@
   "my_matchup": {
     "me": {
       "team": "TheMightyKites",
-      "points": 0
+      "points": 2.6
     },
     "opponent": {
       "team": "James Jones #1 WR",
-      "points": 0,
+      "points": 14.2,
       "roster_id": 11
     }
   },
@@ -1546,12 +1546,6 @@
           "team": "SEA"
         },
         {
-          "player_id": "11577",
-          "name": "Will Shipley",
-          "position": "RB",
-          "team": "PHI"
-        },
-        {
           "player_id": "11581",
           "name": "MarShawn Lloyd",
           "position": "RB",
@@ -1580,12 +1574,6 @@
           "name": "Tre' Harris",
           "position": "WR",
           "team": "LAC"
-        },
-        {
-          "player_id": "13286",
-          "name": "Jadarian Price",
-          "position": "RB",
-          "team": "SEA"
         },
         {
           "player_id": "13311",
@@ -1661,7 +1649,20 @@
         }
       ],
       "taxi": [],
-      "reserve": [],
+      "reserve": [
+        {
+          "player_id": "11577",
+          "name": "Will Shipley",
+          "position": "RB",
+          "team": "PHI"
+        },
+        {
+          "player_id": "13286",
+          "name": "Jadarian Price",
+          "position": "RB",
+          "team": "SEA"
+        }
+      ],
       "picks": [
         {
           "season": "2026",
@@ -2763,10 +2764,10 @@
       "rank": 4,
       "starters": [
         {
-          "player_id": "4046",
-          "name": "Patrick Mahomes",
+          "player_id": "11560",
+          "name": "Caleb Williams",
           "position": "QB",
-          "team": "KC"
+          "team": "CHI"
         },
         {
           "player_id": "4034",
@@ -2819,12 +2820,6 @@
       ],
       "bench": [
         {
-          "player_id": "11560",
-          "name": "Caleb Williams",
-          "position": "QB",
-          "team": "CHI"
-        },
-        {
           "player_id": "11592",
           "name": "Erick All Jr.",
           "position": "TE",
@@ -2871,6 +2866,12 @@
           "name": "Deshaun Watson",
           "position": "QB",
           "team": "CLE"
+        },
+        {
+          "player_id": "4046",
+          "name": "Patrick Mahomes",
+          "position": "QB",
+          "team": "KC"
         },
         {
           "player_id": "4663",

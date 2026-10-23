@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-22T22:26:12.129Z",
+  "generated_at": "2026-10-23T01:37:11.378Z",
   "source": "Sleeper public API",
   "username": "TheMightyKites",
   "nfl_week": 7,
@@ -412,7 +412,7 @@
   "my_matchup": {
     "me": {
       "team": "The Ham Cannons",
-      "points": 0
+      "points": 14.62
     },
     "opponent": {
       "team": "Horny for Herbert ",
@@ -512,10 +512,10 @@
       "rank": 9,
       "starters": [
         {
-          "player_id": "5870",
-          "name": "Daniel Jones",
+          "player_id": "4892",
+          "name": "Baker Mayfield",
           "position": "QB",
-          "team": "IND"
+          "team": "TB"
         },
         {
           "player_id": "8228",
@@ -604,10 +604,10 @@
           "team": "MIN"
         },
         {
-          "player_id": "4892",
-          "name": "Baker Mayfield",
+          "player_id": "5870",
+          "name": "Daniel Jones",
           "position": "QB",
-          "team": "TB"
+          "team": "IND"
         },
         {
           "player_id": "7021",
@@ -3587,10 +3587,10 @@
           "team": "KC"
         },
         {
-          "player_id": "6783",
-          "name": "Jerry Jeudy",
-          "position": "WR",
-          "team": "CLE"
+          "player_id": "12495",
+          "name": "Ollie Gordon II",
+          "position": "RB",
+          "team": "MIA"
         }
       ],
       "bench": [
@@ -3625,12 +3625,6 @@
           "team": "IND"
         },
         {
-          "player_id": "12495",
-          "name": "Ollie Gordon II",
-          "position": "RB",
-          "team": "MIA"
-        },
-        {
           "player_id": "12496",
           "name": "Tai Felton",
           "position": "WR",
@@ -3659,6 +3653,12 @@
           "name": "Marquise Brown",
           "position": "WR",
           "team": "PHI"
+        },
+        {
+          "player_id": "6783",
+          "name": "Jerry Jeudy",
+          "position": "WR",
+          "team": "CLE"
         },
         {
           "player_id": "7523",
@@ -3798,10 +3798,10 @@
       "rank": 2,
       "starters": [
         {
-          "player_id": "0",
-          "name": "0",
-          "position": "—",
-          "team": "FA"
+          "player_id": "4881",
+          "name": "Lamar Jackson",
+          "position": "QB",
+          "team": "BAL"
         },
         {
           "player_id": "4034",
@@ -3906,12 +3906,6 @@
           "name": "Zach Ertz",
           "position": "TE",
           "team": "PHI"
-        },
-        {
-          "player_id": "4881",
-          "name": "Lamar Jackson",
-          "position": "QB",
-          "team": "BAL"
         },
         {
           "player_id": "4943",

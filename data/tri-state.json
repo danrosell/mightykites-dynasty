@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-22T22:26:13.497Z",
+  "generated_at": "2026-10-23T01:37:12.001Z",
   "source": "Sleeper public API",
   "username": "TheMightyKites",
   "nfl_week": 7,
@@ -410,11 +410,11 @@
   "my_matchup": {
     "me": {
       "team": "TheMightyKites",
-      "points": 0
+      "points": 10
     },
     "opponent": {
       "team": "Average Joe's Gym 2qb",
-      "points": 0,
+      "points": 14.2,
       "roster_id": 1
     }
   },
@@ -3085,10 +3085,10 @@
           "team": "NYG"
         },
         {
-          "player_id": "4866",
-          "name": "Saquon Barkley",
+          "player_id": "7611",
+          "name": "Rhamondre Stevenson",
           "position": "RB",
-          "team": "PHI"
+          "team": "NE"
         },
         {
           "player_id": "12489",
@@ -3121,16 +3121,16 @@
           "team": "NYG"
         },
         {
-          "player_id": "12514",
-          "name": "Emeka Egbuka",
-          "position": "WR",
-          "team": "TB"
-        },
-        {
           "player_id": "11646",
           "name": "Jalen Coker",
           "position": "WR",
           "team": "CAR"
+        },
+        {
+          "player_id": "4866",
+          "name": "Saquon Barkley",
+          "position": "RB",
+          "team": "PHI"
         }
       ],
       "bench": [
@@ -3171,6 +3171,12 @@
           "team": "LAR"
         },
         {
+          "player_id": "12514",
+          "name": "Emeka Egbuka",
+          "position": "WR",
+          "team": "TB"
+        },
+        {
           "player_id": "12536",
           "name": "Jaylin Noel",
           "position": "WR",
@@ -3205,12 +3211,6 @@
           "name": "Trevor Lawrence",
           "position": "QB",
           "team": "JAX"
-        },
-        {
-          "player_id": "7611",
-          "name": "Rhamondre Stevenson",
-          "position": "RB",
-          "team": "NE"
         },
         {
           "player_id": "8138",

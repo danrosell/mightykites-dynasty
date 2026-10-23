@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-22T22:26:11.530Z",
+  "generated_at": "2026-10-23T01:37:10.927Z",
   "source": "Sleeper public API",
   "username": "TheMightyKites",
   "nfl_week": 7,
@@ -317,7 +317,7 @@
     },
     "opponent": {
       "team": "The Rusty Trombones",
-      "points": 0,
+      "points": 14.2,
       "roster_id": 9
     }
   },
@@ -1194,19 +1194,13 @@
           "team": "HOU"
         },
         {
-          "player_id": "96",
-          "name": "Aaron Rodgers",
-          "position": "QB",
-          "team": "PIT"
-        }
-      ],
-      "bench": [
-        {
           "player_id": "11560",
           "name": "Caleb Williams",
           "position": "QB",
           "team": "CHI"
-        },
+        }
+      ],
+      "bench": [
         {
           "player_id": "11571",
           "name": "Isaiah Davis",
@@ -1230,6 +1224,12 @@
           "name": "Carson Wentz",
           "position": "QB",
           "team": "MIN"
+        },
+        {
+          "player_id": "96",
+          "name": "Aaron Rodgers",
+          "position": "QB",
+          "team": "PIT"
         }
       ],
       "taxi": [
@@ -1891,10 +1891,10 @@
           "team": "CHI"
         },
         {
-          "player_id": "12514",
-          "name": "Emeka Egbuka",
+          "player_id": "10213",
+          "name": "Tre Tucker",
           "position": "WR",
-          "team": "TB"
+          "team": "LV"
         },
         {
           "player_id": "10859",
@@ -1909,10 +1909,10 @@
           "team": "DET"
         },
         {
-          "player_id": "10213",
-          "name": "Tre Tucker",
+          "player_id": "12514",
+          "name": "Emeka Egbuka",
           "position": "WR",
-          "team": "LV"
+          "team": "TB"
         },
         {
           "player_id": "9230",
@@ -3175,10 +3175,10 @@
           "team": "SF"
         },
         {
-          "player_id": "8121",
-          "name": "Romeo Doubs",
+          "player_id": "12718",
+          "name": "Konata Mumpfield",
           "position": "WR",
-          "team": "NE"
+          "team": "LAR"
         },
         {
           "player_id": "4217",
@@ -3219,12 +3219,6 @@
           "team": "LAC"
         },
         {
-          "player_id": "12718",
-          "name": "Konata Mumpfield",
-          "position": "WR",
-          "team": "LAR"
-        },
-        {
           "player_id": "1373",
           "name": "Geno Smith",
           "position": "QB",
@@ -3235,6 +3229,12 @@
           "name": "Davante Adams",
           "position": "WR",
           "team": "LAR"
+        },
+        {
+          "player_id": "8121",
+          "name": "Romeo Doubs",
+          "position": "WR",
+          "team": "NE"
         }
       ],
       "taxi": [
