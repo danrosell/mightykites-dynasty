@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-23T07:40:35.106Z",
+  "generated_at": "2026-10-23T13:33:59.659Z",
   "source": "Sleeper public API",
   "username": "TheMightyKites",
   "nfl_week": 7,
@@ -61,7 +61,7 @@
       "leg": 7,
       "reserve_slots": 3,
       "reserve_allow_cov": 1,
-      "daily_waivers_last_ran": 22
+      "daily_waivers_last_ran": 23
     },
     "scoring_settings": {
       "sack": 2,
@@ -2617,6 +2617,12 @@
           "team": "MIA"
         },
         {
+          "player_id": "2197",
+          "name": "Brandin Cooks",
+          "position": "WR",
+          "team": "SF"
+        },
+        {
           "player_id": "6826",
           "name": "Cole Kmet",
           "position": "TE",
@@ -2627,12 +2633,6 @@
           "name": "Kenny Gainwell",
           "position": "RB",
           "team": "TB"
-        },
-        {
-          "player_id": "7571",
-          "name": "Rashod Bateman",
-          "position": "WR",
-          "team": "BAL"
         },
         {
           "player_id": "7694",

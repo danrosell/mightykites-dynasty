@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-23T07:40:34.783Z",
+  "generated_at": "2026-10-23T13:33:59.308Z",
   "source": "Sleeper public API",
   "username": "TheMightyKites",
   "nfl_week": 7,
@@ -2416,22 +2416,22 @@
           "team": "FA"
         },
         {
-          "player_id": "0",
-          "name": "0",
-          "position": "—",
-          "team": "FA"
+          "player_id": "6794",
+          "name": "Justin Jefferson",
+          "position": "WR",
+          "team": "MIN"
         },
         {
-          "player_id": "0",
-          "name": "0",
-          "position": "—",
-          "team": "FA"
+          "player_id": "7564",
+          "name": "Ja'Marr Chase",
+          "position": "WR",
+          "team": "CIN"
         },
         {
-          "player_id": "0",
-          "name": "0",
-          "position": "—",
-          "team": "FA"
+          "player_id": "8112",
+          "name": "Drake London",
+          "position": "WR",
+          "team": "ATL"
         },
         {
           "player_id": "12517",
@@ -2556,34 +2556,16 @@
           "team": "SF"
         },
         {
-          "player_id": "6794",
-          "name": "Justin Jefferson",
-          "position": "WR",
-          "team": "MIN"
-        },
-        {
           "player_id": "7090",
           "name": "Darnell Mooney",
           "position": "WR",
           "team": "NYG"
         },
         {
-          "player_id": "7564",
-          "name": "Ja'Marr Chase",
-          "position": "WR",
-          "team": "CIN"
-        },
-        {
           "player_id": "7591",
           "name": "Justin Fields",
           "position": "QB",
           "team": "KC"
-        },
-        {
-          "player_id": "8112",
-          "name": "Drake London",
-          "position": "WR",
-          "team": "ATL"
         },
         {
           "player_id": "8121",
