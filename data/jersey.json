@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-23T13:33:59.308Z",
+  "generated_at": "2026-10-23T18:27:54.552Z",
   "source": "Sleeper public API",
   "username": "TheMightyKites",
   "nfl_week": 7,
@@ -58,7 +58,7 @@
       "leg": 7,
       "reserve_slots": 2,
       "reserve_allow_cov": 0,
-      "daily_waivers_last_ran": 22
+      "daily_waivers_last_ran": 23
     },
     "scoring_settings": {
       "sack": 1,
@@ -1154,10 +1154,10 @@
           "team": "PIT"
         },
         {
-          "player_id": "12514",
-          "name": "Emeka Egbuka",
+          "player_id": "10213",
+          "name": "Tre Tucker",
           "position": "WR",
-          "team": "TB"
+          "team": "LV"
         },
         {
           "player_id": "9484",
@@ -1172,10 +1172,10 @@
           "team": "PIT"
         },
         {
-          "player_id": "10213",
-          "name": "Tre Tucker",
+          "player_id": "11627",
+          "name": "Troy Franklin",
           "position": "WR",
-          "team": "LV"
+          "team": "DEN"
         }
       ],
       "bench": [
@@ -1196,12 +1196,6 @@
           "name": "Xavier Legette",
           "position": "WR",
           "team": "CAR"
-        },
-        {
-          "player_id": "11627",
-          "name": "Troy Franklin",
-          "position": "WR",
-          "team": "DEN"
         },
         {
           "player_id": "11635",
@@ -1232,6 +1226,12 @@
           "name": "Raheim Sanders",
           "position": "RB",
           "team": "CLE"
+        },
+        {
+          "player_id": "12514",
+          "name": "Emeka Egbuka",
+          "position": "WR",
+          "team": "TB"
         },
         {
           "player_id": "12522",

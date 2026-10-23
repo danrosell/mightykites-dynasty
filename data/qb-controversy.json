@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-23T13:33:58.903Z",
+  "generated_at": "2026-10-23T18:27:54.165Z",
   "source": "Sleeper public API",
   "username": "TheMightyKites",
   "nfl_week": 7,
@@ -61,7 +61,7 @@
       "daily_waivers_base": 4,
       "reserve_slots": 2,
       "reserve_allow_cov": 1,
-      "daily_waivers_last_ran": 22
+      "daily_waivers_last_ran": 23
     },
     "scoring_settings": {
       "sack": 1,
@@ -1072,16 +1072,16 @@
           "team": "MIA"
         },
         {
-          "player_id": "12518",
-          "name": "Tyler Warren",
-          "position": "TE",
-          "team": "IND"
-        },
-        {
           "player_id": "7828",
           "name": "Noah Gray",
           "position": "TE",
           "team": "KC"
+        },
+        {
+          "player_id": "3155",
+          "name": "Laquon Treadwell",
+          "position": "WR",
+          "team": "IND"
         },
         {
           "player_id": "13317",
@@ -1140,10 +1140,10 @@
           "team": "PHI"
         },
         {
-          "player_id": "12544",
-          "name": "LeQuint Allen Jr.",
-          "position": "RB",
-          "team": "JAX"
+          "player_id": "12518",
+          "name": "Tyler Warren",
+          "position": "TE",
+          "team": "IND"
         },
         {
           "player_id": "13275",
@@ -1164,16 +1164,16 @@
           "team": "SF"
         },
         {
+          "player_id": "13420",
+          "name": "Bryce Lance",
+          "position": "WR",
+          "team": "NO"
+        },
+        {
           "player_id": "1737",
           "name": "Case Keenum",
           "position": "QB",
           "team": "CHI"
-        },
-        {
-          "player_id": "3155",
-          "name": "Laquon Treadwell",
-          "position": "WR",
-          "team": "IND"
         },
         {
           "player_id": "6797",
@@ -1194,12 +1194,6 @@
           "name": "Matt Hibner",
           "position": "TE",
           "team": "BAL"
-        },
-        {
-          "player_id": "13420",
-          "name": "Bryce Lance",
-          "position": "WR",
-          "team": "NO"
         }
       ],
       "reserve": [

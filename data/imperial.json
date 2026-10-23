@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-23T13:33:58.397Z",
+  "generated_at": "2026-10-23T18:27:53.814Z",
   "source": "Sleeper public API",
   "username": "TheMightyKites",
   "nfl_week": 7,
@@ -61,7 +61,7 @@
       "leg": 7,
       "reserve_slots": 3,
       "reserve_allow_cov": 0,
-      "daily_waivers_last_ran": 22
+      "daily_waivers_last_ran": 23
     },
     "scoring_settings": {
       "sack": 1,
@@ -2102,10 +2102,10 @@
           "team": "BAL"
         },
         {
-          "player_id": "8154",
-          "name": "Brian Robinson Jr.",
+          "player_id": "13414",
+          "name": "Kaelon Black",
           "position": "RB",
-          "team": "ATL"
+          "team": "SF"
         },
         {
           "player_id": "9501",
@@ -2134,12 +2134,6 @@
           "team": "KC"
         },
         {
-          "player_id": "13414",
-          "name": "Kaelon Black",
-          "position": "RB",
-          "team": "SF"
-        },
-        {
           "player_id": "4892",
           "name": "Baker Mayfield",
           "position": "QB",
@@ -2150,6 +2144,12 @@
           "name": "Josh Allen",
           "position": "QB",
           "team": "BUF"
+        },
+        {
+          "player_id": "8154",
+          "name": "Brian Robinson Jr.",
+          "position": "RB",
+          "team": "ATL"
         }
       ],
       "taxi": [

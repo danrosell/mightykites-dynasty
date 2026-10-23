@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-23T13:33:59.659Z",
+  "generated_at": "2026-10-23T18:27:54.858Z",
   "source": "Sleeper public API",
   "username": "TheMightyKites",
   "nfl_week": 7,
@@ -1980,10 +1980,10 @@
           "team": "GB"
         },
         {
-          "player_id": "12518",
-          "name": "Tyler Warren",
+          "player_id": "7600",
+          "name": "Pat Freiermuth",
           "position": "TE",
-          "team": "IND"
+          "team": "PIT"
         },
         {
           "player_id": "6794",
@@ -2022,6 +2022,12 @@
           "name": "Colston Loveland",
           "position": "TE",
           "team": "CHI"
+        },
+        {
+          "player_id": "12518",
+          "name": "Tyler Warren",
+          "position": "TE",
+          "team": "IND"
         },
         {
           "player_id": "12529",
@@ -2070,12 +2076,6 @@
           "name": "Jauan Jennings",
           "position": "WR",
           "team": "MIN"
-        },
-        {
-          "player_id": "7600",
-          "name": "Pat Freiermuth",
-          "position": "TE",
-          "team": "PIT"
         },
         {
           "player_id": "8121",
