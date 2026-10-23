@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-23T18:27:53.814Z",
+  "generated_at": "2026-10-23T22:19:05.337Z",
   "source": "Sleeper public API",
   "username": "TheMightyKites",
   "nfl_week": 7,
@@ -3010,10 +3010,10 @@
           "team": "DEN"
         },
         {
-          "player_id": "2216",
-          "name": "Mike Evans",
+          "player_id": "13298",
+          "name": "KC Concepcion Jr.",
           "position": "WR",
-          "team": "SF"
+          "team": "CLE"
         },
         {
           "player_id": "12517",
@@ -3022,10 +3022,10 @@
           "team": "CHI"
         },
         {
-          "player_id": "13298",
-          "name": "KC Concepcion Jr.",
+          "player_id": "13296",
+          "name": "Caleb Douglas",
           "position": "WR",
-          "team": "CLE"
+          "team": "MIA"
         },
         {
           "player_id": "8172",
@@ -3074,12 +3074,6 @@
       ],
       "taxi": [
         {
-          "player_id": "13296",
-          "name": "Caleb Douglas",
-          "position": "WR",
-          "team": "MIA"
-        },
-        {
           "player_id": "13380",
           "name": "Brenen Thompson",
           "position": "WR",
@@ -3092,7 +3086,14 @@
           "team": "NO"
         }
       ],
-      "reserve": [],
+      "reserve": [
+        {
+          "player_id": "2216",
+          "name": "Mike Evans",
+          "position": "WR",
+          "team": "SF"
+        }
+      ],
       "picks": [
         {
           "season": "2026",
@@ -3193,10 +3194,10 @@
           "team": "PHI"
         },
         {
-          "player_id": "10229",
-          "name": "Rashee Rice",
-          "position": "WR",
-          "team": "KC"
+          "player_id": "0",
+          "name": "0",
+          "position": "—",
+          "team": "FA"
         },
         {
           "player_id": "11564",
@@ -3206,6 +3207,12 @@
         }
       ],
       "bench": [
+        {
+          "player_id": "10229",
+          "name": "Rashee Rice",
+          "position": "WR",
+          "team": "KC"
+        },
         {
           "player_id": "11637",
           "name": "Keon Coleman",
@@ -3223,12 +3230,6 @@
           "name": "Geno Smith",
           "position": "QB",
           "team": "NYJ"
-        },
-        {
-          "player_id": "2133",
-          "name": "Davante Adams",
-          "position": "WR",
-          "team": "LAR"
         },
         {
           "player_id": "8121",
@@ -3271,10 +3272,10 @@
           "team": "PIT"
         },
         {
-          "player_id": "8698",
-          "name": "Jake Tonges",
-          "position": "TE",
-          "team": "SF"
+          "player_id": "2133",
+          "name": "Davante Adams",
+          "position": "WR",
+          "team": "LAR"
         }
       ],
       "picks": [

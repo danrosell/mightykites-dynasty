@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-23T18:27:54.165Z",
+  "generated_at": "2026-10-23T22:19:06.063Z",
   "source": "Sleeper public API",
   "username": "TheMightyKites",
   "nfl_week": 7,
@@ -2972,10 +2972,10 @@
           "team": "NYG"
         },
         {
-          "player_id": "10229",
-          "name": "Rashee Rice",
+          "player_id": "12499",
+          "name": "Elic Ayomanor",
           "position": "WR",
-          "team": "KC"
+          "team": "TEN"
         },
         {
           "player_id": "13293",
@@ -3016,6 +3016,12 @@
       ],
       "bench": [
         {
+          "player_id": "10229",
+          "name": "Rashee Rice",
+          "position": "WR",
+          "team": "KC"
+        },
+        {
           "player_id": "10236",
           "name": "Dalton Kincaid",
           "position": "TE",
@@ -3038,12 +3044,6 @@
           "name": "Terrance Ferguson",
           "position": "TE",
           "team": "LAR"
-        },
-        {
-          "player_id": "12499",
-          "name": "Elic Ayomanor",
-          "position": "WR",
-          "team": "TEN"
         },
         {
           "player_id": "12509",
