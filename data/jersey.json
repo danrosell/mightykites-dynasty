@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-24T01:40:42.213Z",
+  "generated_at": "2026-10-24T07:24:19.056Z",
   "source": "Sleeper public API",
   "username": "TheMightyKites",
   "nfl_week": 7,
@@ -3695,16 +3695,16 @@
           "team": "CHI"
         },
         {
-          "player_id": "7002",
-          "name": "Juwan Johnson",
-          "position": "TE",
-          "team": "NO"
-        },
-        {
           "player_id": "12506",
           "name": "Harold Fannin Jr.",
           "position": "TE",
           "team": "CLE"
+        },
+        {
+          "player_id": "11624",
+          "name": "Xavier Worthy",
+          "position": "WR",
+          "team": "KC"
         },
         {
           "player_id": "6801",
@@ -3737,12 +3737,6 @@
           "name": "Malik Washington",
           "position": "WR",
           "team": "MIA"
-        },
-        {
-          "player_id": "11624",
-          "name": "Xavier Worthy",
-          "position": "WR",
-          "team": "KC"
         },
         {
           "player_id": "12467",
@@ -3809,6 +3803,12 @@
           "name": "Josh Cameron",
           "position": "WR",
           "team": "JAX"
+        },
+        {
+          "player_id": "7002",
+          "name": "Juwan Johnson",
+          "position": "TE",
+          "team": "NO"
         },
         {
           "player_id": "7600",
