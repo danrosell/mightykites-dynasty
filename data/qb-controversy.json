@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-24T12:45:31.627Z",
+  "generated_at": "2026-10-24T16:41:04.024Z",
   "source": "Sleeper public API",
   "username": "TheMightyKites",
   "nfl_week": 7,
@@ -61,7 +61,7 @@
       "daily_waivers_base": 4,
       "reserve_slots": 2,
       "reserve_allow_cov": 1,
-      "daily_waivers_last_ran": 23
+      "daily_waivers_last_ran": 24
     },
     "scoring_settings": {
       "sack": 1,
@@ -843,6 +843,12 @@
           "team": "SEA"
         },
         {
+          "player_id": "13273",
+          "name": "Josh Cuevas",
+          "position": "TE",
+          "team": "BAL"
+        },
+        {
           "player_id": "3257",
           "name": "Jacoby Brissett",
           "position": "QB",
@@ -883,12 +889,6 @@
           "name": "Tua Tagovailoa",
           "position": "QB",
           "team": "ATL"
-        },
-        {
-          "player_id": "7528",
-          "name": "Najee Harris",
-          "position": "RB",
-          "team": "FA"
         },
         {
           "player_id": "7585",

@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-24T12:45:32.468Z",
+  "generated_at": "2026-10-24T16:41:04.890Z",
   "source": "Sleeper public API",
   "username": "TheMightyKites",
   "nfl_week": 7,
@@ -824,10 +824,10 @@
           "team": "TEN"
         },
         {
-          "player_id": "8110",
-          "name": "Jake Ferguson",
+          "player_id": "10859",
+          "name": "Sam LaPorta",
           "position": "TE",
-          "team": "DAL"
+          "team": "DET"
         },
         {
           "player_id": "7594",
@@ -836,10 +836,10 @@
           "team": "CAR"
         },
         {
-          "player_id": "421",
-          "name": "Matthew Stafford",
+          "player_id": "9228",
+          "name": "Bryce Young",
           "position": "QB",
-          "team": "LAR"
+          "team": "CAR"
         }
       ],
       "bench": [
@@ -854,12 +854,6 @@
           "name": "Rashee Rice",
           "position": "WR",
           "team": "KC"
-        },
-        {
-          "player_id": "10859",
-          "name": "Sam LaPorta",
-          "position": "TE",
-          "team": "DET"
         },
         {
           "player_id": "11586",
@@ -904,6 +898,12 @@
           "team": "WAS"
         },
         {
+          "player_id": "421",
+          "name": "Matthew Stafford",
+          "position": "QB",
+          "team": "LAR"
+        },
+        {
           "player_id": "7527",
           "name": "Mac Jones",
           "position": "QB",
@@ -916,16 +916,16 @@
           "team": "KC"
         },
         {
+          "player_id": "8110",
+          "name": "Jake Ferguson",
+          "position": "TE",
+          "team": "DAL"
+        },
+        {
           "player_id": "8111",
           "name": "Cade Otton",
           "position": "TE",
           "team": "TB"
-        },
-        {
-          "player_id": "9228",
-          "name": "Bryce Young",
-          "position": "QB",
-          "team": "CAR"
         },
         {
           "player_id": "9504",
