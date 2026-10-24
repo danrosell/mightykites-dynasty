@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-24T07:24:19.432Z",
+  "generated_at": "2026-10-24T12:45:32.468Z",
   "source": "Sleeper public API",
   "username": "TheMightyKites",
   "nfl_week": 7,
@@ -61,7 +61,7 @@
       "leg": 7,
       "reserve_slots": 3,
       "reserve_allow_cov": 1,
-      "daily_waivers_last_ran": 23
+      "daily_waivers_last_ran": 24
     },
     "scoring_settings": {
       "sack": 2,
@@ -2082,6 +2082,18 @@
           "name": "Romeo Doubs",
           "position": "WR",
           "team": "NE"
+        },
+        {
+          "player_id": "8122",
+          "name": "Zonovan Knight",
+          "position": "RB",
+          "team": "ARI"
+        },
+        {
+          "player_id": "8135",
+          "name": "Treylon Burks",
+          "position": "WR",
+          "team": "WAS"
         }
       ],
       "taxi": [
