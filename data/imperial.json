@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-24T19:33:02.298Z",
+  "generated_at": "2026-10-24T22:33:37.028Z",
   "source": "Sleeper public API",
   "username": "TheMightyKites",
   "nfl_week": 7,
@@ -179,10 +179,10 @@
         "team": "SEA"
       },
       {
-        "player_id": "4881",
-        "name": "Lamar Jackson",
+        "player_id": "421",
+        "name": "Matthew Stafford",
         "position": "QB",
-        "team": "BAL"
+        "team": "LAR"
       }
     ],
     "bench": [
@@ -205,10 +205,10 @@
         "team": "NO"
       },
       {
-        "player_id": "421",
-        "name": "Matthew Stafford",
+        "player_id": "4881",
+        "name": "Lamar Jackson",
         "position": "QB",
-        "team": "LAR"
+        "team": "BAL"
       },
       {
         "player_id": "8119",
@@ -434,10 +434,10 @@
           "team": "SEA"
         },
         {
-          "player_id": "4881",
-          "name": "Lamar Jackson",
+          "player_id": "421",
+          "name": "Matthew Stafford",
           "position": "QB",
-          "team": "BAL"
+          "team": "LAR"
         }
       ],
       "bench": [
@@ -460,10 +460,10 @@
           "team": "NO"
         },
         {
-          "player_id": "421",
-          "name": "Matthew Stafford",
+          "player_id": "4881",
+          "name": "Lamar Jackson",
           "position": "QB",
-          "team": "LAR"
+          "team": "BAL"
         },
         {
           "player_id": "8119",
@@ -1909,10 +1909,10 @@
           "team": "DET"
         },
         {
-          "player_id": "12514",
-          "name": "Emeka Egbuka",
-          "position": "WR",
-          "team": "TB"
+          "player_id": "12469",
+          "name": "Dylan Sampson",
+          "position": "RB",
+          "team": "CLE"
         },
         {
           "player_id": "9230",
@@ -1923,10 +1923,10 @@
       ],
       "bench": [
         {
-          "player_id": "12469",
-          "name": "Dylan Sampson",
-          "position": "RB",
-          "team": "CLE"
+          "player_id": "12514",
+          "name": "Emeka Egbuka",
+          "position": "WR",
+          "team": "TB"
         },
         {
           "player_id": "13347",
@@ -2635,16 +2635,16 @@
           "team": "CIN"
         },
         {
-          "player_id": "8126",
-          "name": "Wan'Dale Robinson",
-          "position": "WR",
-          "team": "TEN"
-        },
-        {
           "player_id": "7525",
           "name": "DeVonta Smith",
           "position": "WR",
           "team": "PHI"
+        },
+        {
+          "player_id": "8126",
+          "name": "Wan'Dale Robinson",
+          "position": "WR",
+          "team": "TEN"
         },
         {
           "player_id": "11604",

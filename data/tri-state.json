@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-24T19:33:03.071Z",
+  "generated_at": "2026-10-24T22:33:38.311Z",
   "source": "Sleeper public API",
   "username": "TheMightyKites",
   "nfl_week": 7,
@@ -503,10 +503,10 @@
       "rank": 6,
       "starters": [
         {
-          "player_id": "4881",
-          "name": "Lamar Jackson",
+          "player_id": "3257",
+          "name": "Jacoby Brissett",
           "position": "QB",
-          "team": "BAL"
+          "team": "ARI"
         },
         {
           "player_id": "12474",
@@ -533,10 +533,10 @@
           "team": "DEN"
         },
         {
-          "player_id": "7525",
-          "name": "DeVonta Smith",
-          "position": "WR",
-          "team": "PHI"
+          "player_id": "0",
+          "name": "0",
+          "position": "—",
+          "team": "FA"
         },
         {
           "player_id": "8130",
@@ -551,10 +551,10 @@
           "team": "LAR"
         },
         {
-          "player_id": "3257",
-          "name": "Jacoby Brissett",
-          "position": "QB",
-          "team": "ARI"
+          "player_id": "0",
+          "name": "0",
+          "position": "—",
+          "team": "FA"
         }
       ],
       "bench": [
@@ -607,6 +607,18 @@
           "team": "ARI"
         },
         {
+          "player_id": "4881",
+          "name": "Lamar Jackson",
+          "position": "QB",
+          "team": "BAL"
+        },
+        {
+          "player_id": "4950",
+          "name": "Christian Kirk",
+          "position": "WR",
+          "team": "SF"
+        },
+        {
           "player_id": "5012",
           "name": "Mark Andrews",
           "position": "TE",
@@ -629,6 +641,12 @@
           "name": "Rico Dowdle",
           "position": "RB",
           "team": "PIT"
+        },
+        {
+          "player_id": "7525",
+          "name": "DeVonta Smith",
+          "position": "WR",
+          "team": "PHI"
         },
         {
           "player_id": "8136",
@@ -681,12 +699,6 @@
           "name": "James Conner",
           "position": "RB",
           "team": "ARI"
-        },
-        {
-          "player_id": "4950",
-          "name": "Christian Kirk",
-          "position": "WR",
-          "team": "SF"
         }
       ],
       "picks": [

@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-24T19:33:02.869Z",
+  "generated_at": "2026-10-24T22:33:37.925Z",
   "source": "Sleeper public API",
   "username": "TheMightyKites",
   "nfl_week": 7,
@@ -149,10 +149,10 @@
     "rank": 1,
     "starters": [
       {
-        "player_id": "11565",
-        "name": "J.J. McCarthy",
+        "player_id": "9230",
+        "name": "Tanner McKee",
         "position": "QB",
-        "team": "NYG"
+        "team": "PHI"
       },
       {
         "player_id": "12481",
@@ -204,6 +204,12 @@
       }
     ],
     "bench": [
+      {
+        "player_id": "11565",
+        "name": "J.J. McCarthy",
+        "position": "QB",
+        "team": "NYG"
+      },
       {
         "player_id": "11571",
         "name": "Isaiah Davis",
@@ -311,12 +317,6 @@
         "name": "Chig Okonkwo",
         "position": "TE",
         "team": "WAS"
-      },
-      {
-        "player_id": "9230",
-        "name": "Tanner McKee",
-        "position": "QB",
-        "team": "PHI"
       },
       {
         "player_id": "9482",
@@ -1130,10 +1130,10 @@
           "team": "CIN"
         },
         {
-          "player_id": "12469",
-          "name": "Dylan Sampson",
+          "player_id": "13345",
+          "name": "Jonah Coleman",
           "position": "RB",
-          "team": "CLE"
+          "team": "DEN"
         },
         {
           "player_id": "12491",
@@ -1216,6 +1216,12 @@
           "team": "LAC"
         },
         {
+          "player_id": "12469",
+          "name": "Dylan Sampson",
+          "position": "RB",
+          "team": "CLE"
+        },
+        {
           "player_id": "12471",
           "name": "DJ Giddens",
           "position": "RB",
@@ -1250,12 +1256,6 @@
           "name": "Nicholas Singleton",
           "position": "RB",
           "team": "TEN"
-        },
-        {
-          "player_id": "13345",
-          "name": "Jonah Coleman",
-          "position": "RB",
-          "team": "DEN"
         },
         {
           "player_id": "13347",
@@ -1811,10 +1811,10 @@
       "rank": 1,
       "starters": [
         {
-          "player_id": "11565",
-          "name": "J.J. McCarthy",
+          "player_id": "9230",
+          "name": "Tanner McKee",
           "position": "QB",
-          "team": "NYG"
+          "team": "PHI"
         },
         {
           "player_id": "12481",
@@ -1866,6 +1866,12 @@
         }
       ],
       "bench": [
+        {
+          "player_id": "11565",
+          "name": "J.J. McCarthy",
+          "position": "QB",
+          "team": "NYG"
+        },
         {
           "player_id": "11571",
           "name": "Isaiah Davis",
@@ -1973,12 +1979,6 @@
           "name": "Chig Okonkwo",
           "position": "TE",
           "team": "WAS"
-        },
-        {
-          "player_id": "9230",
-          "name": "Tanner McKee",
-          "position": "QB",
-          "team": "PHI"
         },
         {
           "player_id": "9482",
