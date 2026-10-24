@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-24T16:41:04.336Z",
+  "generated_at": "2026-10-24T19:33:02.869Z",
   "source": "Sleeper public API",
   "username": "TheMightyKites",
   "nfl_week": 7,
@@ -2129,10 +2129,10 @@
           "team": "PHI"
         },
         {
-          "player_id": "11628",
-          "name": "Marvin Harrison Jr.",
-          "position": "WR",
-          "team": "HOU"
+          "player_id": "4199",
+          "name": "Aaron Jones Sr.",
+          "position": "RB",
+          "team": "MIN"
         },
         {
           "player_id": "3271",
@@ -2147,6 +2147,12 @@
           "name": "Jacob Cowing",
           "position": "WR",
           "team": "SF"
+        },
+        {
+          "player_id": "11628",
+          "name": "Marvin Harrison Jr.",
+          "position": "WR",
+          "team": "HOU"
         },
         {
           "player_id": "12457",
@@ -2215,12 +2221,6 @@
           "team": "IND"
         },
         {
-          "player_id": "4199",
-          "name": "Aaron Jones Sr.",
-          "position": "RB",
-          "team": "MIN"
-        },
-        {
           "player_id": "4454",
           "name": "Kendrick Bourne",
           "position": "WR",
@@ -2249,12 +2249,6 @@
           "name": "Noah Fant",
           "position": "TE",
           "team": "NO"
-        },
-        {
-          "player_id": "8143",
-          "name": "Jerome Ford",
-          "position": "RB",
-          "team": "ARI"
         },
         {
           "player_id": "9753",

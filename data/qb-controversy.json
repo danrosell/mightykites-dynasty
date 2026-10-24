@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-24T16:41:04.024Z",
+  "generated_at": "2026-10-24T19:33:02.608Z",
   "source": "Sleeper public API",
   "username": "TheMightyKites",
   "nfl_week": 7,
@@ -3613,6 +3613,12 @@
           "team": "SF"
         },
         {
+          "player_id": "12469",
+          "name": "Dylan Sampson",
+          "position": "RB",
+          "team": "CLE"
+        },
+        {
           "player_id": "12471",
           "name": "DJ Giddens",
           "position": "RB",
@@ -3661,12 +3667,6 @@
           "team": "JAX"
         },
         {
-          "player_id": "8408",
-          "name": "Jordan Mason",
-          "position": "RB",
-          "team": "MIN"
-        },
-        {
           "player_id": "9502",
           "name": "Tank Dell",
           "position": "WR",
@@ -3695,16 +3695,16 @@
       ],
       "reserve": [
         {
-          "player_id": "12469",
-          "name": "Dylan Sampson",
-          "position": "RB",
-          "team": "CLE"
-        },
-        {
           "player_id": "12472",
           "name": "Raheim Sanders",
           "position": "RB",
           "team": "CLE"
+        },
+        {
+          "player_id": "8408",
+          "name": "Jordan Mason",
+          "position": "RB",
+          "team": "MIN"
         }
       ],
       "picks": [
@@ -3792,10 +3792,10 @@
       "rank": 2,
       "starters": [
         {
-          "player_id": "4881",
-          "name": "Lamar Jackson",
+          "player_id": "4943",
+          "name": "Sam Darnold",
           "position": "QB",
-          "team": "BAL"
+          "team": "SEA"
         },
         {
           "player_id": "4034",
@@ -3902,10 +3902,10 @@
           "team": "PHI"
         },
         {
-          "player_id": "4943",
-          "name": "Sam Darnold",
+          "player_id": "4881",
+          "name": "Lamar Jackson",
           "position": "QB",
-          "team": "SEA"
+          "team": "BAL"
         },
         {
           "player_id": "4983",

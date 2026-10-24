@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-24T16:41:03.670Z",
+  "generated_at": "2026-10-24T19:33:02.298Z",
   "source": "Sleeper public API",
   "username": "TheMightyKites",
   "nfl_week": 7,
@@ -1923,6 +1923,12 @@
       ],
       "bench": [
         {
+          "player_id": "12469",
+          "name": "Dylan Sampson",
+          "position": "RB",
+          "team": "CLE"
+        },
+        {
           "player_id": "13347",
           "name": "Demond Claiborne",
           "position": "RB",
@@ -1933,12 +1939,6 @@
           "name": "Mac Jones",
           "position": "QB",
           "team": "SF"
-        },
-        {
-          "player_id": "7828",
-          "name": "Noah Gray",
-          "position": "TE",
-          "team": "KC"
         },
         {
           "player_id": "8136",
@@ -1968,12 +1968,6 @@
         }
       ],
       "reserve": [
-        {
-          "player_id": "12469",
-          "name": "Dylan Sampson",
-          "position": "RB",
-          "team": "CLE"
-        },
         {
           "player_id": "12487",
           "name": "Terrance Ferguson",
