@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-25T01:16:29.536Z",
+  "generated_at": "2026-10-25T06:18:15.462Z",
   "source": "Sleeper public API",
   "username": "TheMightyKites",
   "nfl_week": 7,
@@ -178,10 +178,10 @@
         "team": "CIN"
       },
       {
-        "player_id": "10213",
-        "name": "Tre Tucker",
+        "player_id": "11834",
+        "name": "Devaughn Vele",
         "position": "WR",
-        "team": "LV"
+        "team": "NO"
       },
       {
         "player_id": "11604",
@@ -204,6 +204,12 @@
     ],
     "bench": [
       {
+        "player_id": "10213",
+        "name": "Tre Tucker",
+        "position": "WR",
+        "team": "LV"
+      },
+      {
         "player_id": "11630",
         "name": "Roman Wilson",
         "position": "WR",
@@ -214,12 +220,6 @@
         "name": "Jaylen Wright",
         "position": "RB",
         "team": "MIA"
-      },
-      {
-        "player_id": "11834",
-        "name": "Devaughn Vele",
-        "position": "WR",
-        "team": "NO"
       },
       {
         "player_id": "12493",
@@ -1089,10 +1089,10 @@
           "team": "CIN"
         },
         {
-          "player_id": "10213",
-          "name": "Tre Tucker",
+          "player_id": "11834",
+          "name": "Devaughn Vele",
           "position": "WR",
-          "team": "LV"
+          "team": "NO"
         },
         {
           "player_id": "11604",
@@ -1115,6 +1115,12 @@
       ],
       "bench": [
         {
+          "player_id": "10213",
+          "name": "Tre Tucker",
+          "position": "WR",
+          "team": "LV"
+        },
+        {
           "player_id": "11630",
           "name": "Roman Wilson",
           "position": "WR",
@@ -1125,12 +1131,6 @@
           "name": "Jaylen Wright",
           "position": "RB",
           "team": "MIA"
-        },
-        {
-          "player_id": "11834",
-          "name": "Devaughn Vele",
-          "position": "WR",
-          "team": "NO"
         },
         {
           "player_id": "12493",

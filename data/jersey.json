@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-25T01:16:29.234Z",
+  "generated_at": "2026-10-25T06:18:14.987Z",
   "source": "Sleeper public API",
   "username": "TheMightyKites",
   "nfl_week": 7,
@@ -149,10 +149,10 @@
     "rank": 1,
     "starters": [
       {
-        "player_id": "9230",
-        "name": "Tanner McKee",
+        "player_id": "11565",
+        "name": "J.J. McCarthy",
         "position": "QB",
-        "team": "PHI"
+        "team": "NYG"
       },
       {
         "player_id": "12481",
@@ -204,12 +204,6 @@
       }
     ],
     "bench": [
-      {
-        "player_id": "11565",
-        "name": "J.J. McCarthy",
-        "position": "QB",
-        "team": "NYG"
-      },
       {
         "player_id": "11571",
         "name": "Isaiah Davis",
@@ -317,6 +311,12 @@
         "name": "Chig Okonkwo",
         "position": "TE",
         "team": "WAS"
+      },
+      {
+        "player_id": "9230",
+        "name": "Tanner McKee",
+        "position": "QB",
+        "team": "PHI"
       },
       {
         "player_id": "9482",
@@ -1811,10 +1811,10 @@
       "rank": 1,
       "starters": [
         {
-          "player_id": "9230",
-          "name": "Tanner McKee",
+          "player_id": "11565",
+          "name": "J.J. McCarthy",
           "position": "QB",
-          "team": "PHI"
+          "team": "NYG"
         },
         {
           "player_id": "12481",
@@ -1866,12 +1866,6 @@
         }
       ],
       "bench": [
-        {
-          "player_id": "11565",
-          "name": "J.J. McCarthy",
-          "position": "QB",
-          "team": "NYG"
-        },
         {
           "player_id": "11571",
           "name": "Isaiah Davis",
@@ -1979,6 +1973,12 @@
           "name": "Chig Okonkwo",
           "position": "TE",
           "team": "WAS"
+        },
+        {
+          "player_id": "9230",
+          "name": "Tanner McKee",
+          "position": "QB",
+          "team": "PHI"
         },
         {
           "player_id": "9482",
@@ -3659,10 +3659,10 @@
           "team": "MIN"
         },
         {
-          "player_id": "8132",
-          "name": "Tyler Allgeier",
+          "player_id": "9757",
+          "name": "Kendre Miller",
           "position": "RB",
-          "team": "ARI"
+          "team": "NO"
         },
         {
           "player_id": "12495",
@@ -3817,16 +3817,16 @@
           "team": "ARI"
         },
         {
+          "player_id": "8132",
+          "name": "Tyler Allgeier",
+          "position": "RB",
+          "team": "ARI"
+        },
+        {
           "player_id": "8147",
           "name": "John Metchie III",
           "position": "WR",
           "team": "CAR"
-        },
-        {
-          "player_id": "9757",
-          "name": "Kendre Miller",
-          "position": "RB",
-          "team": "NO"
         }
       ],
       "taxi": [],

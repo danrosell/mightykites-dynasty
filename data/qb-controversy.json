@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-25T01:16:28.962Z",
+  "generated_at": "2026-10-25T06:18:14.592Z",
   "source": "Sleeper public API",
   "username": "TheMightyKites",
   "nfl_week": 7,
@@ -2712,10 +2712,10 @@
           "team": "NE"
         },
         {
-          "player_id": "2216",
-          "name": "Mike Evans",
+          "player_id": "4037",
+          "name": "Chris Godwin Jr.",
           "position": "WR",
-          "team": "SF"
+          "team": "TB"
         },
         {
           "player_id": "8131",
@@ -2756,6 +2756,12 @@
           "team": "CIN"
         },
         {
+          "player_id": "2216",
+          "name": "Mike Evans",
+          "position": "WR",
+          "team": "SF"
+        },
+        {
           "player_id": "2306",
           "name": "Jameis Winston",
           "position": "QB",
@@ -2778,12 +2784,6 @@
           "name": "Darren Waller",
           "position": "TE",
           "team": "CAR"
-        },
-        {
-          "player_id": "4037",
-          "name": "Chris Godwin Jr.",
-          "position": "WR",
-          "team": "TB"
         },
         {
           "player_id": "5012",

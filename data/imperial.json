@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-25T01:16:28.618Z",
+  "generated_at": "2026-10-25T06:18:14.109Z",
   "source": "Sleeper public API",
   "username": "TheMightyKites",
   "nfl_week": 7,
@@ -167,10 +167,10 @@
         "team": "ATL"
       },
       {
-        "player_id": "8122",
-        "name": "Zonovan Knight",
-        "position": "RB",
-        "team": "ARI"
+        "player_id": "4950",
+        "name": "Christian Kirk",
+        "position": "WR",
+        "team": "SF"
       },
       {
         "player_id": "11603",
@@ -205,16 +205,16 @@
         "team": "NO"
       },
       {
-        "player_id": "4881",
-        "name": "Lamar Jackson",
-        "position": "QB",
-        "team": "BAL"
-      },
-      {
         "player_id": "8119",
         "name": "Jahan Dotson",
         "position": "WR",
         "team": "ATL"
+      },
+      {
+        "player_id": "8122",
+        "name": "Zonovan Knight",
+        "position": "RB",
+        "team": "ARI"
       }
     ],
     "taxi": [
@@ -245,10 +245,10 @@
         "team": "WAS"
       },
       {
-        "player_id": "4950",
-        "name": "Christian Kirk",
-        "position": "WR",
-        "team": "SF"
+        "player_id": "4881",
+        "name": "Lamar Jackson",
+        "position": "QB",
+        "team": "BAL"
       }
     ],
     "picks": [
@@ -422,10 +422,10 @@
           "team": "ATL"
         },
         {
-          "player_id": "8122",
-          "name": "Zonovan Knight",
-          "position": "RB",
-          "team": "ARI"
+          "player_id": "4950",
+          "name": "Christian Kirk",
+          "position": "WR",
+          "team": "SF"
         },
         {
           "player_id": "11603",
@@ -460,16 +460,16 @@
           "team": "NO"
         },
         {
-          "player_id": "4881",
-          "name": "Lamar Jackson",
-          "position": "QB",
-          "team": "BAL"
-        },
-        {
           "player_id": "8119",
           "name": "Jahan Dotson",
           "position": "WR",
           "team": "ATL"
+        },
+        {
+          "player_id": "8122",
+          "name": "Zonovan Knight",
+          "position": "RB",
+          "team": "ARI"
         }
       ],
       "taxi": [
@@ -500,10 +500,10 @@
           "team": "WAS"
         },
         {
-          "player_id": "4950",
-          "name": "Christian Kirk",
-          "position": "WR",
-          "team": "SF"
+          "player_id": "4881",
+          "name": "Lamar Jackson",
+          "position": "QB",
+          "team": "BAL"
         }
       ],
       "picks": [
@@ -2138,12 +2138,6 @@
           "name": "Josh Allen",
           "position": "QB",
           "team": "BUF"
-        },
-        {
-          "player_id": "8154",
-          "name": "Brian Robinson Jr.",
-          "position": "RB",
-          "team": "ATL"
         }
       ],
       "taxi": [
@@ -2172,6 +2166,12 @@
           "name": "DJ Moore",
           "position": "WR",
           "team": "BUF"
+        },
+        {
+          "player_id": "8154",
+          "name": "Brian Robinson Jr.",
+          "position": "RB",
+          "team": "ATL"
         }
       ],
       "picks": [
