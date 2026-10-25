@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-25T19:44:20.882Z",
+  "generated_at": "2026-10-25T22:38:24.123Z",
   "source": "Sleeper public API",
   "username": "TheMightyKites",
   "nfl_week": 7,
@@ -313,11 +313,11 @@
   "my_matchup": {
     "me": {
       "team": "TheMightyKites",
-      "points": 29.2
+      "points": 47.36
     },
     "opponent": {
       "team": "The Rusty Trombones",
-      "points": 45.2,
+      "points": 56.4,
       "roster_id": 9
     }
   },
@@ -1585,6 +1585,12 @@
           "team": "BUF"
         },
         {
+          "player_id": "11563",
+          "name": "Bo Nix",
+          "position": "QB",
+          "team": "DEN"
+        },
+        {
           "player_id": "11635",
           "name": "Ladd McConkey",
           "position": "WR",
@@ -1595,12 +1601,6 @@
           "name": "Kyle Williams",
           "position": "WR",
           "team": "NE"
-        },
-        {
-          "player_id": "13425",
-          "name": "Jalon Daniels",
-          "position": "QB",
-          "team": "TB"
         },
         {
           "player_id": "8210",
