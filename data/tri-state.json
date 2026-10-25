@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-25T06:18:15.462Z",
+  "generated_at": "2026-10-25T12:37:31.628Z",
   "source": "Sleeper public API",
   "username": "TheMightyKites",
   "nfl_week": 7,
@@ -61,7 +61,7 @@
       "leg": 7,
       "reserve_slots": 3,
       "reserve_allow_cov": 1,
-      "daily_waivers_last_ran": 24
+      "daily_waivers_last_ran": 25
     },
     "scoring_settings": {
       "sack": 2,
@@ -1737,10 +1737,10 @@
           "team": "GB"
         },
         {
-          "player_id": "9493",
-          "name": "Puka Nacua",
+          "player_id": "7547",
+          "name": "Amon-Ra St. Brown",
           "position": "WR",
-          "team": "LAR"
+          "team": "DET"
         },
         {
           "player_id": "5859",
@@ -1761,10 +1761,10 @@
           "team": "SF"
         },
         {
-          "player_id": "7547",
-          "name": "Amon-Ra St. Brown",
+          "player_id": "9493",
+          "name": "Puka Nacua",
           "position": "WR",
-          "team": "DET"
+          "team": "LAR"
         },
         {
           "player_id": "1166",

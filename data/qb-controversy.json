@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-25T06:18:14.592Z",
+  "generated_at": "2026-10-25T12:37:30.848Z",
   "source": "Sleeper public API",
   "username": "TheMightyKites",
   "nfl_week": 7,
@@ -524,10 +524,10 @@
           "team": "PIT"
         },
         {
-          "player_id": "11584",
-          "name": "Bucky Irving",
+          "player_id": "9757",
+          "name": "Kendre Miller",
           "position": "RB",
-          "team": "TB"
+          "team": "NO"
         },
         {
           "player_id": "6794",
@@ -542,10 +542,10 @@
           "team": "CIN"
         },
         {
-          "player_id": "12514",
-          "name": "Emeka Egbuka",
+          "player_id": "8167",
+          "name": "Christian Watson",
           "position": "WR",
-          "team": "TB"
+          "team": "GB"
         },
         {
           "player_id": "7600",
@@ -560,10 +560,10 @@
           "team": "ARI"
         },
         {
-          "player_id": "8167",
-          "name": "Christian Watson",
-          "position": "WR",
-          "team": "GB"
+          "player_id": "11584",
+          "name": "Bucky Irving",
+          "position": "RB",
+          "team": "TB"
         },
         {
           "player_id": "5850",
@@ -590,6 +590,12 @@
           "name": "Jaxson Dart",
           "position": "QB",
           "team": "NYG"
+        },
+        {
+          "player_id": "12514",
+          "name": "Emeka Egbuka",
+          "position": "WR",
+          "team": "TB"
         },
         {
           "player_id": "2078",
@@ -650,12 +656,6 @@
           "name": "Josh Downs",
           "position": "WR",
           "team": "IND"
-        },
-        {
-          "player_id": "9757",
-          "name": "Kendre Miller",
-          "position": "RB",
-          "team": "NO"
         }
       ],
       "taxi": [
@@ -1989,10 +1989,10 @@
           "team": "NYJ"
         },
         {
-          "player_id": "5854",
-          "name": "Drew Lock",
-          "position": "QB",
-          "team": "SEA"
+          "player_id": "4950",
+          "name": "Christian Kirk",
+          "position": "WR",
+          "team": "SF"
         },
         {
           "player_id": "5947",
@@ -2051,14 +2051,7 @@
           "team": "JAX"
         }
       ],
-      "reserve": [
-        {
-          "player_id": "4950",
-          "name": "Christian Kirk",
-          "position": "WR",
-          "team": "SF"
-        }
-      ],
+      "reserve": [],
       "picks": [
         {
           "season": "2026",
@@ -3601,12 +3594,6 @@
           "team": "NYJ"
         },
         {
-          "player_id": "12455",
-          "name": "Brashard Smith",
-          "position": "RB",
-          "team": "KC"
-        },
-        {
           "player_id": "12467",
           "name": "Jordan James",
           "position": "RB",
@@ -3667,6 +3654,12 @@
           "team": "JAX"
         },
         {
+          "player_id": "8408",
+          "name": "Jordan Mason",
+          "position": "RB",
+          "team": "MIN"
+        },
+        {
           "player_id": "9502",
           "name": "Tank Dell",
           "position": "WR",
@@ -3695,16 +3688,16 @@
       ],
       "reserve": [
         {
+          "player_id": "12455",
+          "name": "Brashard Smith",
+          "position": "RB",
+          "team": "KC"
+        },
+        {
           "player_id": "12472",
           "name": "Raheim Sanders",
           "position": "RB",
           "team": "CLE"
-        },
-        {
-          "player_id": "8408",
-          "name": "Jordan Mason",
-          "position": "RB",
-          "team": "MIN"
         }
       ],
       "picks": [
@@ -4126,10 +4119,10 @@
           "team": "MIN"
         },
         {
-          "player_id": "13770",
-          "name": "J. Michael Sturdivant",
-          "position": "WR",
-          "team": "GB"
+          "player_id": "11599",
+          "name": "Cade Stover",
+          "position": "TE",
+          "team": "HOU"
         },
         {
           "player_id": "8145",
@@ -4158,12 +4151,6 @@
           "team": "PHI"
         },
         {
-          "player_id": "11599",
-          "name": "Cade Stover",
-          "position": "TE",
-          "team": "HOU"
-        },
-        {
           "player_id": "11626",
           "name": "Xavier Legette",
           "position": "WR",
@@ -4180,6 +4167,12 @@
           "name": "Josh Cameron",
           "position": "WR",
           "team": "JAX"
+        },
+        {
+          "player_id": "13770",
+          "name": "J. Michael Sturdivant",
+          "position": "WR",
+          "team": "GB"
         },
         {
           "player_id": "3321",

@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-25T06:18:14.987Z",
+  "generated_at": "2026-10-25T12:37:31.327Z",
   "source": "Sleeper public API",
   "username": "TheMightyKites",
   "nfl_week": 7,
@@ -841,10 +841,10 @@
           "team": "LV"
         },
         {
-          "player_id": "12518",
-          "name": "Tyler Warren",
-          "position": "TE",
-          "team": "IND"
+          "player_id": "12512",
+          "name": "Quinshon Judkins",
+          "position": "RB",
+          "team": "CLE"
         },
         {
           "player_id": "9224",
@@ -891,10 +891,10 @@
           "team": "TB"
         },
         {
-          "player_id": "12512",
-          "name": "Quinshon Judkins",
-          "position": "RB",
-          "team": "CLE"
+          "player_id": "12518",
+          "name": "Tyler Warren",
+          "position": "TE",
+          "team": "IND"
         },
         {
           "player_id": "12535",
@@ -3659,10 +3659,10 @@
           "team": "MIN"
         },
         {
-          "player_id": "9757",
-          "name": "Kendre Miller",
+          "player_id": "8132",
+          "name": "Tyler Allgeier",
           "position": "RB",
-          "team": "NO"
+          "team": "ARI"
         },
         {
           "player_id": "12495",
@@ -3817,16 +3817,16 @@
           "team": "ARI"
         },
         {
-          "player_id": "8132",
-          "name": "Tyler Allgeier",
-          "position": "RB",
-          "team": "ARI"
-        },
-        {
           "player_id": "8147",
           "name": "John Metchie III",
           "position": "WR",
           "team": "CAR"
+        },
+        {
+          "player_id": "9757",
+          "name": "Kendre Miller",
+          "position": "RB",
+          "team": "NO"
         }
       ],
       "taxi": [],

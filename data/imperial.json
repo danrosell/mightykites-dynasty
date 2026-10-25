@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-25T06:18:14.109Z",
+  "generated_at": "2026-10-25T12:37:30.475Z",
   "source": "Sleeper public API",
   "username": "TheMightyKites",
   "nfl_week": 7,
@@ -1182,10 +1182,10 @@
           "team": "NE"
         },
         {
-          "player_id": "12518",
-          "name": "Tyler Warren",
-          "position": "TE",
-          "team": "IND"
+          "player_id": "13317",
+          "name": "Ted Hurst III",
+          "position": "WR",
+          "team": "TB"
         },
         {
           "player_id": "12536",
@@ -1208,10 +1208,10 @@
           "team": "NYJ"
         },
         {
-          "player_id": "13317",
-          "name": "Ted Hurst III",
-          "position": "WR",
-          "team": "TB"
+          "player_id": "12518",
+          "name": "Tyler Warren",
+          "position": "TE",
+          "team": "IND"
         },
         {
           "player_id": "13405",
