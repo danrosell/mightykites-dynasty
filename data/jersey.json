@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-25T12:37:31.327Z",
+  "generated_at": "2026-10-25T17:05:38.004Z",
   "source": "Sleeper public API",
   "username": "TheMightyKites",
   "nfl_week": 7,
@@ -58,7 +58,7 @@
       "leg": 7,
       "reserve_slots": 2,
       "reserve_allow_cov": 0,
-      "daily_waivers_last_ran": 24
+      "daily_waivers_last_ran": 25
     },
     "scoring_settings": {
       "sack": 1,
@@ -416,11 +416,11 @@
   "my_matchup": {
     "me": {
       "team": "TheMightyKites",
-      "points": 14.1
+      "points": 28.5
     },
     "opponent": {
       "team": "James Jones #1 WR",
-      "points": 23.7,
+      "points": 25.6,
       "roster_id": 11
     }
   },
@@ -2191,6 +2191,12 @@
           "team": "IND"
         },
         {
+          "player_id": "13335",
+          "name": "Cole Payton",
+          "position": "QB",
+          "team": "PHI"
+        },
+        {
           "player_id": "13337",
           "name": "Emmett Johnson",
           "position": "RB",
@@ -2398,10 +2404,10 @@
           "team": "SF"
         },
         {
-          "player_id": "8155",
-          "name": "Breece Hall",
+          "player_id": "4718",
+          "name": "Dare Ogunbowale",
           "position": "RB",
-          "team": "NYJ"
+          "team": "HOU"
         },
         {
           "player_id": "4147",
@@ -2452,12 +2458,6 @@
           "name": "Rashee Rice",
           "position": "WR",
           "team": "KC"
-        },
-        {
-          "player_id": "11439",
-          "name": "Jaleel McLaughlin",
-          "position": "RB",
-          "team": "CLE"
         },
         {
           "player_id": "12540",
@@ -2560,6 +2560,12 @@
           "name": "Rachaad White",
           "position": "RB",
           "team": "WAS"
+        },
+        {
+          "player_id": "8155",
+          "name": "Breece Hall",
+          "position": "RB",
+          "team": "NYJ"
         },
         {
           "player_id": "8207",
@@ -2722,10 +2728,10 @@
           "team": "SF"
         },
         {
-          "player_id": "8150",
-          "name": "Kyren Williams",
+          "player_id": "11576",
+          "name": "Braelon Allen",
           "position": "RB",
-          "team": "LAR"
+          "team": "NYJ"
         },
         {
           "player_id": "11834",
@@ -2740,10 +2746,10 @@
           "team": "DET"
         },
         {
-          "player_id": "9493",
-          "name": "Puka Nacua",
+          "player_id": "11783",
+          "name": "Ryan Flournoy",
           "position": "WR",
-          "team": "LAR"
+          "team": "DAL"
         },
         {
           "player_id": "8131",
@@ -2752,16 +2758,16 @@
           "team": "NYG"
         },
         {
-          "player_id": "11783",
-          "name": "Ryan Flournoy",
+          "player_id": "9493",
+          "name": "Puka Nacua",
           "position": "WR",
-          "team": "DAL"
+          "team": "LAR"
         },
         {
-          "player_id": "11576",
-          "name": "Braelon Allen",
+          "player_id": "8150",
+          "name": "Kyren Williams",
           "position": "RB",
-          "team": "NYJ"
+          "team": "LAR"
         }
       ],
       "bench": [
@@ -3070,8 +3076,8 @@
           "team": "SF"
         },
         {
-          "player_id": "7525",
-          "name": "DeVonta Smith",
+          "player_id": "13294",
+          "name": "Makai Lemon",
           "position": "WR",
           "team": "PHI"
         },
@@ -3138,12 +3144,6 @@
           "team": "LAR"
         },
         {
-          "player_id": "13294",
-          "name": "Makai Lemon",
-          "position": "WR",
-          "team": "PHI"
-        },
-        {
           "player_id": "13401",
           "name": "Michael Trigg",
           "position": "TE",
@@ -3168,12 +3168,6 @@
           "team": "FA"
         },
         {
-          "player_id": "5987",
-          "name": "Alexander Mattison",
-          "position": "RB",
-          "team": "FA"
-        },
-        {
           "player_id": "6814",
           "name": "Laviska Shenault",
           "position": "WR",
@@ -3192,6 +3186,12 @@
           "team": "IND"
         },
         {
+          "player_id": "7525",
+          "name": "DeVonta Smith",
+          "position": "WR",
+          "team": "PHI"
+        },
+        {
           "player_id": "7543",
           "name": "Travis Etienne Jr.",
           "position": "RB",
@@ -3202,10 +3202,7 @@
           "name": "Treylon Burks",
           "position": "WR",
           "team": "WAS"
-        }
-      ],
-      "taxi": [],
-      "reserve": [
+        },
         {
           "player_id": "9502",
           "name": "Tank Dell",
@@ -3213,6 +3210,8 @@
           "team": "HOU"
         }
       ],
+      "taxi": [],
+      "reserve": [],
       "picks": [
         {
           "season": "2026",

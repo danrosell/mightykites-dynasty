@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-25T12:37:30.475Z",
+  "generated_at": "2026-10-25T17:05:37.197Z",
   "source": "Sleeper public API",
   "username": "TheMightyKites",
   "nfl_week": 7,
@@ -61,7 +61,7 @@
       "leg": 7,
       "reserve_slots": 3,
       "reserve_allow_cov": 0,
-      "daily_waivers_last_ran": 24
+      "daily_waivers_last_ran": 25
     },
     "scoring_settings": {
       "sack": 1,
@@ -313,7 +313,7 @@
   "my_matchup": {
     "me": {
       "team": "TheMightyKites",
-      "points": 0
+      "points": 7.7
     },
     "opponent": {
       "team": "The Rusty Trombones",
@@ -774,10 +774,10 @@
           "team": "NE"
         },
         {
-          "player_id": "8155",
-          "name": "Breece Hall",
+          "player_id": "12048",
+          "name": "George Holani",
           "position": "RB",
-          "team": "NYJ"
+          "team": "SEA"
         },
         {
           "player_id": "12501",
@@ -818,10 +818,10 @@
       ],
       "bench": [
         {
-          "player_id": "12048",
-          "name": "George Holani",
-          "position": "RB",
-          "team": "SEA"
+          "player_id": "11625",
+          "name": "Adonai Mitchell",
+          "position": "WR",
+          "team": "NYJ"
         },
         {
           "player_id": "12545",
@@ -842,10 +842,10 @@
           "team": "ARI"
         },
         {
-          "player_id": "9508",
-          "name": "Tyjae Spears",
+          "player_id": "8155",
+          "name": "Breece Hall",
           "position": "RB",
-          "team": "TEN"
+          "team": "NYJ"
         }
       ],
       "taxi": [
@@ -870,12 +870,6 @@
       ],
       "reserve": [
         {
-          "player_id": "11625",
-          "name": "Adonai Mitchell",
-          "position": "WR",
-          "team": "NYJ"
-        },
-        {
           "player_id": "12509",
           "name": "Tre' Harris",
           "position": "WR",
@@ -886,6 +880,12 @@
           "name": "Jordyn Tyson",
           "position": "WR",
           "team": "NO"
+        },
+        {
+          "player_id": "9508",
+          "name": "Tyjae Spears",
+          "position": "RB",
+          "team": "TEN"
         }
       ],
       "picks": [
@@ -1400,16 +1400,16 @@
           "team": "WAS"
         },
         {
-          "player_id": "13287",
-          "name": "Jeremiyah Love",
-          "position": "RB",
-          "team": "ARI"
-        },
-        {
           "player_id": "4039",
           "name": "Cooper Kupp",
           "position": "WR",
           "team": "SEA"
+        },
+        {
+          "player_id": "4718",
+          "name": "Dare Ogunbowale",
+          "position": "RB",
+          "team": "HOU"
         },
         {
           "player_id": "8116",
@@ -1444,6 +1444,12 @@
           "name": "Pat Bryant",
           "position": "WR",
           "team": "DEN"
+        },
+        {
+          "player_id": "13287",
+          "name": "Jeremiyah Love",
+          "position": "RB",
+          "team": "ARI"
         },
         {
           "player_id": "2307",
@@ -1579,12 +1585,6 @@
           "team": "BUF"
         },
         {
-          "player_id": "11563",
-          "name": "Bo Nix",
-          "position": "QB",
-          "team": "DEN"
-        },
-        {
           "player_id": "11635",
           "name": "Ladd McConkey",
           "position": "WR",
@@ -1595,6 +1595,12 @@
           "name": "Kyle Williams",
           "position": "WR",
           "team": "NE"
+        },
+        {
+          "player_id": "13425",
+          "name": "Jalon Daniels",
+          "position": "QB",
+          "team": "TB"
         },
         {
           "player_id": "8210",
@@ -2635,10 +2641,10 @@
           "team": "CIN"
         },
         {
-          "player_id": "7525",
-          "name": "DeVonta Smith",
+          "player_id": "8180",
+          "name": "Jalen Nailor",
           "position": "WR",
-          "team": "PHI"
+          "team": "LV"
         },
         {
           "player_id": "8126",
@@ -2685,16 +2691,16 @@
           "team": "TEN"
         },
         {
-          "player_id": "3257",
-          "name": "Jacoby Brissett",
-          "position": "QB",
-          "team": "ARI"
-        },
-        {
           "player_id": "5872",
           "name": "Deebo Samuel Sr.",
           "position": "WR",
           "team": "SF"
+        },
+        {
+          "player_id": "7525",
+          "name": "DeVonta Smith",
+          "position": "WR",
+          "team": "PHI"
         },
         {
           "player_id": "9754",
@@ -3188,10 +3194,10 @@
           "team": "PHI"
         },
         {
-          "player_id": "0",
-          "name": "0",
-          "position": "—",
-          "team": "FA"
+          "player_id": "12485",
+          "name": "Tez Johnson",
+          "position": "WR",
+          "team": "TB"
         },
         {
           "player_id": "11564",

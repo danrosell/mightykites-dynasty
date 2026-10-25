@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-25T12:37:31.628Z",
+  "generated_at": "2026-10-25T17:05:38.279Z",
   "source": "Sleeper public API",
   "username": "TheMightyKites",
   "nfl_week": 7,
@@ -410,11 +410,11 @@
   "my_matchup": {
     "me": {
       "team": "TheMightyKites",
-      "points": 24.3
+      "points": 54.52
     },
     "opponent": {
       "team": "Average Joe's Gym 2qb",
-      "points": 23.7,
+      "points": 40.4,
       "roster_id": 1
     }
   },
@@ -527,16 +527,16 @@
           "team": "CHI"
         },
         {
+          "player_id": "4037",
+          "name": "Chris Godwin Jr.",
+          "position": "WR",
+          "team": "TB"
+        },
+        {
           "player_id": "7526",
           "name": "Jaylen Waddle",
           "position": "WR",
           "team": "DEN"
-        },
-        {
-          "player_id": "0",
-          "name": "0",
-          "position": "—",
-          "team": "FA"
         },
         {
           "player_id": "8130",
@@ -551,10 +551,10 @@
           "team": "LAR"
         },
         {
-          "player_id": "0",
-          "name": "0",
-          "position": "—",
-          "team": "FA"
+          "player_id": "8161",
+          "name": "Malik Willis",
+          "position": "QB",
+          "team": "MIA"
         }
       ],
       "bench": [
@@ -595,12 +595,6 @@
           "team": "TEN"
         },
         {
-          "player_id": "4037",
-          "name": "Chris Godwin Jr.",
-          "position": "WR",
-          "team": "TB"
-        },
-        {
           "player_id": "4454",
           "name": "Kendrick Bourne",
           "position": "WR",
@@ -631,12 +625,6 @@
           "team": "CLE"
         },
         {
-          "player_id": "6803",
-          "name": "Brandon Aiyuk",
-          "position": "WR",
-          "team": "SF"
-        },
-        {
           "player_id": "7021",
           "name": "Rico Dowdle",
           "position": "RB",
@@ -653,12 +641,6 @@
           "name": "Rachaad White",
           "position": "RB",
           "team": "WAS"
-        },
-        {
-          "player_id": "8161",
-          "name": "Malik Willis",
-          "position": "QB",
-          "team": "MIA"
         },
         {
           "player_id": "9506",
@@ -2830,10 +2812,10 @@
           "team": "ATL"
         },
         {
-          "player_id": "0",
-          "name": "0",
-          "position": "—",
-          "team": "FA"
+          "player_id": "12048",
+          "name": "George Holani",
+          "position": "RB",
+          "team": "SEA"
         },
         {
           "player_id": "9997",
@@ -2884,12 +2866,6 @@
           "name": "Xavier Legette",
           "position": "WR",
           "team": "CAR"
-        },
-        {
-          "player_id": "12048",
-          "name": "George Holani",
-          "position": "RB",
-          "team": "SEA"
         },
         {
           "player_id": "12471",
@@ -3115,10 +3091,10 @@
           "team": "NE"
         },
         {
-          "player_id": "12489",
-          "name": "RJ Harvey",
+          "player_id": "11576",
+          "name": "Braelon Allen",
           "position": "RB",
-          "team": "DEN"
+          "team": "NYJ"
         },
         {
           "player_id": "7569",
@@ -3171,12 +3147,6 @@
           "team": "WAS"
         },
         {
-          "player_id": "11576",
-          "name": "Braelon Allen",
-          "position": "RB",
-          "team": "NYJ"
-        },
-        {
           "player_id": "11628",
           "name": "Marvin Harrison Jr.",
           "position": "WR",
@@ -3193,6 +3163,12 @@
           "name": "Terrance Ferguson",
           "position": "TE",
           "team": "LAR"
+        },
+        {
+          "player_id": "12489",
+          "name": "RJ Harvey",
+          "position": "RB",
+          "team": "DEN"
         },
         {
           "player_id": "12514",

@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-25T12:37:30.848Z",
+  "generated_at": "2026-10-25T17:05:37.593Z",
   "source": "Sleeper public API",
   "username": "TheMightyKites",
   "nfl_week": 7,
@@ -61,7 +61,7 @@
       "daily_waivers_base": 4,
       "reserve_slots": 2,
       "reserve_allow_cov": 1,
-      "daily_waivers_last_ran": 24
+      "daily_waivers_last_ran": 25
     },
     "scoring_settings": {
       "sack": 1,
@@ -412,7 +412,7 @@
   "my_matchup": {
     "me": {
       "team": "The Ham Cannons",
-      "points": 55.22
+      "points": 71.62
     },
     "opponent": {
       "team": "Horny for Herbert ",
@@ -1885,10 +1885,10 @@
       "rank": 3,
       "starters": [
         {
-          "player_id": "4017",
-          "name": "Deshaun Watson",
+          "player_id": "7083",
+          "name": "Tyler Huntley",
           "position": "QB",
-          "team": "CLE"
+          "team": "BAL"
         },
         {
           "player_id": "3198",
@@ -1989,6 +1989,12 @@
           "team": "NYJ"
         },
         {
+          "player_id": "4017",
+          "name": "Deshaun Watson",
+          "position": "QB",
+          "team": "CLE"
+        },
+        {
           "player_id": "4950",
           "name": "Christian Kirk",
           "position": "WR",
@@ -2011,12 +2017,6 @@
           "name": "Cole Kmet",
           "position": "TE",
           "team": "CHI"
-        },
-        {
-          "player_id": "7083",
-          "name": "Tyler Huntley",
-          "position": "QB",
-          "team": "BAL"
         },
         {
           "player_id": "7527",
@@ -2977,8 +2977,8 @@
           "team": "BAL"
         },
         {
-          "player_id": "9486",
-          "name": "Dontayvion Wicks",
+          "player_id": "13150",
+          "name": "Darius Cooper",
           "position": "WR",
           "team": "PHI"
         },
@@ -3063,12 +3063,6 @@
           "team": "NE"
         },
         {
-          "player_id": "13150",
-          "name": "Darius Cooper",
-          "position": "WR",
-          "team": "PHI"
-        },
-        {
           "player_id": "13264",
           "name": "Dohnte Meyers",
           "position": "WR",
@@ -3085,6 +3079,12 @@
           "name": "Charlie Kolar",
           "position": "TE",
           "team": "LAC"
+        },
+        {
+          "player_id": "9486",
+          "name": "Dontayvion Wicks",
+          "position": "WR",
+          "team": "PHI"
         },
         {
           "player_id": "9754",
@@ -3550,10 +3550,10 @@
           "team": "DET"
         },
         {
-          "player_id": "7525",
-          "name": "DeVonta Smith",
+          "player_id": "11624",
+          "name": "Xavier Worthy",
           "position": "WR",
-          "team": "PHI"
+          "team": "KC"
         },
         {
           "player_id": "11604",
@@ -3568,10 +3568,10 @@
           "team": "CHI"
         },
         {
-          "player_id": "11624",
-          "name": "Xavier Worthy",
-          "position": "WR",
-          "team": "KC"
+          "player_id": "8408",
+          "name": "Jordan Mason",
+          "position": "RB",
+          "team": "MIN"
         },
         {
           "player_id": "12495",
@@ -3612,12 +3612,6 @@
           "team": "IND"
         },
         {
-          "player_id": "12496",
-          "name": "Tai Felton",
-          "position": "WR",
-          "team": "MIN"
-        },
-        {
           "player_id": "12504",
           "name": "Kaleb Johnson",
           "position": "RB",
@@ -3634,6 +3628,12 @@
           "name": "Tahj Brooks",
           "position": "RB",
           "team": "CIN"
+        },
+        {
+          "player_id": "13335",
+          "name": "Cole Payton",
+          "position": "QB",
+          "team": "PHI"
         },
         {
           "player_id": "5848",
@@ -3654,10 +3654,10 @@
           "team": "JAX"
         },
         {
-          "player_id": "8408",
-          "name": "Jordan Mason",
-          "position": "RB",
-          "team": "MIN"
+          "player_id": "7525",
+          "name": "DeVonta Smith",
+          "position": "WR",
+          "team": "PHI"
         },
         {
           "player_id": "9502",
