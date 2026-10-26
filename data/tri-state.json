@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-25T22:38:25.159Z",
+  "generated_at": "2026-10-26T01:17:57.334Z",
   "source": "Sleeper public API",
   "username": "TheMightyKites",
   "nfl_week": 7,
@@ -410,11 +410,11 @@
   "my_matchup": {
     "me": {
       "team": "TheMightyKites",
-      "points": 120.22
+      "points": 129.32
     },
     "opponent": {
       "team": "Average Joe's Gym 2qb",
-      "points": 125.62,
+      "points": 144,
       "roster_id": 1
     }
   },
