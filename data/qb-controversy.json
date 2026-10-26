@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-26T01:17:56.567Z",
+  "generated_at": "2026-10-26T07:53:58.153Z",
   "source": "Sleeper public API",
   "username": "TheMightyKites",
   "nfl_week": 7,
@@ -412,11 +412,11 @@
   "my_matchup": {
     "me": {
       "team": "The Ham Cannons",
-      "points": 160.07
+      "points": 167.07
     },
     "opponent": {
       "team": "Horny for Herbert ",
-      "points": 90.1,
+      "points": 93.75,
       "roster_id": 3
     }
   },
