@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-26T15:16:37.736Z",
+  "generated_at": "2026-10-26T20:37:39.203Z",
   "source": "Sleeper public API",
   "username": "TheMightyKites",
   "nfl_week": 7,
@@ -61,7 +61,7 @@
       "leg": 7,
       "reserve_slots": 3,
       "reserve_allow_cov": 0,
-      "daily_waivers_last_ran": 25
+      "daily_waivers_last_ran": 26
     },
     "scoring_settings": {
       "sack": 1,
@@ -1762,10 +1762,10 @@
           "team": "JAX"
         },
         {
-          "player_id": "7528",
-          "name": "Najee Harris",
-          "position": "RB",
-          "team": "FA"
+          "player_id": "5848",
+          "name": "Marquise Brown",
+          "position": "WR",
+          "team": "PHI"
         },
         {
           "player_id": "9480",
