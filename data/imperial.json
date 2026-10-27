@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-27T13:20:40.273Z",
+  "generated_at": "2026-10-27T19:28:41.394Z",
   "source": "Sleeper public API",
   "username": "TheMightyKites",
   "nfl_week": 8,
@@ -11,7 +11,7 @@
     "status": "in_season",
     "settings": {
       "best_ball": 0,
-      "last_report": 6,
+      "last_report": 7,
       "waiver_budget": 200,
       "disable_adds": 0,
       "capacity_override": 0,
@@ -61,7 +61,7 @@
       "leg": 7,
       "reserve_slots": 3,
       "reserve_allow_cov": 0,
-      "daily_waivers_last_ran": 26
+      "daily_waivers_last_ran": 27
     },
     "scoring_settings": {
       "sack": 1,
@@ -167,10 +167,10 @@
         "team": "ATL"
       },
       {
-        "player_id": "4950",
-        "name": "Christian Kirk",
-        "position": "WR",
-        "team": "SF"
+        "player_id": "8122",
+        "name": "Zonovan Knight",
+        "position": "RB",
+        "team": "ARI"
       },
       {
         "player_id": "11603",
@@ -205,16 +205,16 @@
         "team": "NO"
       },
       {
+        "player_id": "4950",
+        "name": "Christian Kirk",
+        "position": "WR",
+        "team": "SF"
+      },
+      {
         "player_id": "8119",
         "name": "Jahan Dotson",
         "position": "WR",
         "team": "ATL"
-      },
-      {
-        "player_id": "8122",
-        "name": "Zonovan Knight",
-        "position": "RB",
-        "team": "ARI"
       }
     ],
     "taxi": [
@@ -422,10 +422,10 @@
           "team": "ATL"
         },
         {
-          "player_id": "4950",
-          "name": "Christian Kirk",
-          "position": "WR",
-          "team": "SF"
+          "player_id": "8122",
+          "name": "Zonovan Knight",
+          "position": "RB",
+          "team": "ARI"
         },
         {
           "player_id": "11603",
@@ -460,16 +460,16 @@
           "team": "NO"
         },
         {
+          "player_id": "4950",
+          "name": "Christian Kirk",
+          "position": "WR",
+          "team": "SF"
+        },
+        {
           "player_id": "8119",
           "name": "Jahan Dotson",
           "position": "WR",
           "team": "ATL"
-        },
-        {
-          "player_id": "8122",
-          "name": "Zonovan Knight",
-          "position": "RB",
-          "team": "ARI"
         }
       ],
       "taxi": [
@@ -583,10 +583,10 @@
           "team": "PIT"
         },
         {
-          "player_id": "13277",
-          "name": "CJ Donaldson",
+          "player_id": "13345",
+          "name": "Jonah Coleman",
           "position": "RB",
-          "team": "NO"
+          "team": "DEN"
         },
         {
           "player_id": "9493",
@@ -613,16 +613,16 @@
           "team": "GB"
         },
         {
-          "player_id": "7002",
-          "name": "Juwan Johnson",
-          "position": "TE",
-          "team": "NO"
-        },
-        {
           "player_id": "13274",
           "name": "Germie Bernard",
           "position": "WR",
           "team": "PIT"
+        },
+        {
+          "player_id": "7523",
+          "name": "Trevor Lawrence",
+          "position": "QB",
+          "team": "JAX"
         }
       ],
       "bench": [
@@ -645,10 +645,10 @@
           "team": "BUF"
         },
         {
-          "player_id": "7523",
-          "name": "Trevor Lawrence",
-          "position": "QB",
-          "team": "JAX"
+          "player_id": "7002",
+          "name": "Juwan Johnson",
+          "position": "TE",
+          "team": "NO"
         },
         {
           "player_id": "7694",
@@ -685,10 +685,10 @@
           "team": "CLE"
         },
         {
-          "player_id": "13345",
-          "name": "Jonah Coleman",
+          "player_id": "13277",
+          "name": "CJ Donaldson",
           "position": "RB",
-          "team": "DEN"
+          "team": "NO"
         },
         {
           "player_id": "8800",
@@ -1017,10 +1017,10 @@
           "team": "PIT"
         },
         {
-          "player_id": "11628",
-          "name": "Marvin Harrison Jr.",
+          "player_id": "9486",
+          "name": "Dontayvion Wicks",
           "position": "WR",
-          "team": "HOU"
+          "team": "PHI"
         },
         {
           "player_id": "2505",
@@ -1029,10 +1029,10 @@
           "team": "CAR"
         },
         {
-          "player_id": "12522",
-          "name": "Cam Ward",
+          "player_id": "6797",
+          "name": "Justin Herbert",
           "position": "QB",
-          "team": "TEN"
+          "team": "LAC"
         }
       ],
       "bench": [
@@ -1043,9 +1043,21 @@
           "team": "PHI"
         },
         {
+          "player_id": "11628",
+          "name": "Marvin Harrison Jr.",
+          "position": "WR",
+          "team": "HOU"
+        },
+        {
           "player_id": "12502",
           "name": "Gunnar Helm",
           "position": "TE",
+          "team": "TEN"
+        },
+        {
+          "player_id": "12522",
+          "name": "Cam Ward",
+          "position": "QB",
           "team": "TEN"
         },
         {
@@ -1053,18 +1065,6 @@
           "name": "Jerry Jeudy",
           "position": "WR",
           "team": "CLE"
-        },
-        {
-          "player_id": "6797",
-          "name": "Justin Herbert",
-          "position": "QB",
-          "team": "LAC"
-        },
-        {
-          "player_id": "9486",
-          "name": "Dontayvion Wicks",
-          "position": "WR",
-          "team": "PHI"
         }
       ],
       "taxi": [
@@ -1730,16 +1730,16 @@
           "team": "PHI"
         },
         {
+          "player_id": "9480",
+          "name": "Brenton Strange",
+          "position": "TE",
+          "team": "JAX"
+        },
+        {
           "player_id": "11783",
           "name": "Ryan Flournoy",
           "position": "WR",
           "team": "DAL"
-        },
-        {
-          "player_id": "4037",
-          "name": "Chris Godwin Jr.",
-          "position": "WR",
-          "team": "TB"
         },
         {
           "player_id": "11559",
@@ -1762,16 +1762,16 @@
           "team": "JAX"
         },
         {
+          "player_id": "4037",
+          "name": "Chris Godwin Jr.",
+          "position": "WR",
+          "team": "TB"
+        },
+        {
           "player_id": "5848",
           "name": "Marquise Brown",
           "position": "WR",
           "team": "PHI"
-        },
-        {
-          "player_id": "9480",
-          "name": "Brenton Strange",
-          "position": "TE",
-          "team": "JAX"
         },
         {
           "player_id": "9504",
@@ -2835,10 +2835,10 @@
           "team": "NYJ"
         },
         {
-          "player_id": "4035",
-          "name": "Alvin Kamara",
-          "position": "RB",
-          "team": "NO"
+          "player_id": "8135",
+          "name": "Treylon Burks",
+          "position": "WR",
+          "team": "WAS"
         },
         {
           "player_id": "4943",
@@ -2873,10 +2873,10 @@
           "team": "FA"
         },
         {
-          "player_id": "8135",
-          "name": "Treylon Burks",
-          "position": "WR",
-          "team": "WAS"
+          "player_id": "4035",
+          "name": "Alvin Kamara",
+          "position": "RB",
+          "team": "NO"
         }
       ],
       "taxi": [
@@ -3170,10 +3170,10 @@
           "team": "LAR"
         },
         {
-          "player_id": "12634",
-          "name": "Jordan Watkins",
+          "player_id": "11637",
+          "name": "Keon Coleman",
           "position": "WR",
-          "team": "SF"
+          "team": "BUF"
         },
         {
           "player_id": "12718",
@@ -3214,16 +3214,16 @@
           "team": "KC"
         },
         {
-          "player_id": "11637",
-          "name": "Keon Coleman",
-          "position": "WR",
-          "team": "BUF"
-        },
-        {
           "player_id": "12507",
           "name": "Omarion Hampton",
           "position": "RB",
           "team": "LAC"
+        },
+        {
+          "player_id": "12634",
+          "name": "Jordan Watkins",
+          "position": "WR",
+          "team": "SF"
         },
         {
           "player_id": "1373",

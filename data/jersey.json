@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-27T13:20:41.176Z",
+  "generated_at": "2026-10-27T19:28:42.386Z",
   "source": "Sleeper public API",
   "username": "TheMightyKites",
   "nfl_week": 8,
@@ -11,7 +11,7 @@
     "status": "in_season",
     "settings": {
       "best_ball": 0,
-      "last_report": 6,
+      "last_report": 7,
       "waiver_budget": 200,
       "disable_adds": 0,
       "divisions": 0,
@@ -58,7 +58,7 @@
       "leg": 7,
       "reserve_slots": 2,
       "reserve_allow_cov": 0,
-      "daily_waivers_last_ran": 26
+      "daily_waivers_last_ran": 27
     },
     "scoring_settings": {
       "sack": 1,
@@ -1484,10 +1484,10 @@
       "rank": 10,
       "starters": [
         {
-          "player_id": "12545",
-          "name": "Tyler Shough",
+          "player_id": "5870",
+          "name": "Daniel Jones",
           "position": "QB",
-          "team": "NO"
+          "team": "IND"
         },
         {
           "player_id": "11584",
@@ -1520,16 +1520,16 @@
           "team": "IND"
         },
         {
-          "player_id": "2505",
-          "name": "Darren Waller",
-          "position": "TE",
-          "team": "CAR"
-        },
-        {
           "player_id": "10859",
           "name": "Sam LaPorta",
           "position": "TE",
           "team": "DET"
+        },
+        {
+          "player_id": "12490",
+          "name": "Bhayshul Tuten",
+          "position": "RB",
+          "team": "JAX"
         },
         {
           "player_id": "6806",
@@ -1558,12 +1558,6 @@
           "team": "CAR"
         },
         {
-          "player_id": "12490",
-          "name": "Bhayshul Tuten",
-          "position": "RB",
-          "team": "JAX"
-        },
-        {
           "player_id": "12503",
           "name": "Isaiah Bond",
           "position": "WR",
@@ -1574,6 +1568,12 @@
           "name": "Tre' Harris",
           "position": "WR",
           "team": "LAC"
+        },
+        {
+          "player_id": "12545",
+          "name": "Tyler Shough",
+          "position": "QB",
+          "team": "NO"
         },
         {
           "player_id": "13311",
@@ -1606,16 +1606,16 @@
           "team": "NYG"
         },
         {
+          "player_id": "2505",
+          "name": "Darren Waller",
+          "position": "TE",
+          "team": "CAR"
+        },
+        {
           "player_id": "4351",
           "name": "Tim Patrick",
           "position": "WR",
           "team": "NYJ"
-        },
-        {
-          "player_id": "5870",
-          "name": "Daniel Jones",
-          "position": "QB",
-          "team": "IND"
         },
         {
           "player_id": "6130",
@@ -2758,10 +2758,10 @@
           "team": "CHI"
         },
         {
-          "player_id": "4034",
-          "name": "Christian McCaffrey",
+          "player_id": "8150",
+          "name": "Kyren Williams",
           "position": "RB",
-          "team": "SF"
+          "team": "LAR"
         },
         {
           "player_id": "11576",
@@ -2770,10 +2770,10 @@
           "team": "NYJ"
         },
         {
-          "player_id": "11834",
-          "name": "Devaughn Vele",
+          "player_id": "2449",
+          "name": "Stefon Diggs",
           "position": "WR",
-          "team": "NO"
+          "team": "WAS"
         },
         {
           "player_id": "8148",
@@ -2788,10 +2788,10 @@
           "team": "DAL"
         },
         {
-          "player_id": "8131",
-          "name": "Isaiah Likely",
+          "player_id": "6865",
+          "name": "Colby Parkinson",
           "position": "TE",
-          "team": "NYG"
+          "team": "LAR"
         },
         {
           "player_id": "9493",
@@ -2800,10 +2800,10 @@
           "team": "LAR"
         },
         {
-          "player_id": "8150",
-          "name": "Kyren Williams",
+          "player_id": "4034",
+          "name": "Christian McCaffrey",
           "position": "RB",
-          "team": "LAR"
+          "team": "SF"
         }
       ],
       "bench": [
@@ -2812,6 +2812,12 @@
           "name": "Erick All Jr.",
           "position": "TE",
           "team": "CIN"
+        },
+        {
+          "player_id": "11834",
+          "name": "Devaughn Vele",
+          "position": "WR",
+          "team": "NO"
         },
         {
           "player_id": "12533",
@@ -2824,6 +2830,12 @@
           "name": "Ja'Kobi Lane",
           "position": "WR",
           "team": "BAL"
+        },
+        {
+          "player_id": "13349",
+          "name": "Eli Stowers",
+          "position": "TE",
+          "team": "PHI"
         },
         {
           "player_id": "13380",
@@ -2842,12 +2854,6 @@
           "name": "Mike Evans",
           "position": "WR",
           "team": "SF"
-        },
-        {
-          "player_id": "2449",
-          "name": "Stefon Diggs",
-          "position": "WR",
-          "team": "WAS"
         },
         {
           "player_id": "4017",
@@ -2880,18 +2886,6 @@
           "team": "HOU"
         },
         {
-          "player_id": "6826",
-          "name": "Cole Kmet",
-          "position": "TE",
-          "team": "CHI"
-        },
-        {
-          "player_id": "6865",
-          "name": "Colby Parkinson",
-          "position": "TE",
-          "team": "LAR"
-        },
-        {
           "player_id": "7049",
           "name": "Jauan Jennings",
           "position": "WR",
@@ -2908,6 +2902,12 @@
           "name": "Charlie Kolar",
           "position": "TE",
           "team": "LAC"
+        },
+        {
+          "player_id": "8131",
+          "name": "Isaiah Likely",
+          "position": "TE",
+          "team": "NYG"
         },
         {
           "player_id": "8142",
@@ -2931,10 +2931,10 @@
       "taxi": [],
       "reserve": [
         {
-          "player_id": "13349",
-          "name": "Eli Stowers",
+          "player_id": "6826",
+          "name": "Cole Kmet",
           "position": "TE",
-          "team": "PHI"
+          "team": "CHI"
         },
         {
           "player_id": "8205",

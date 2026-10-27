@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-27T13:20:40.656Z",
+  "generated_at": "2026-10-27T19:28:41.992Z",
   "source": "Sleeper public API",
   "username": "TheMightyKites",
   "nfl_week": 8,
@@ -11,7 +11,7 @@
     "status": "in_season",
     "settings": {
       "best_ball": 0,
-      "last_report": 6,
+      "last_report": 7,
       "waiver_budget": 200,
       "disable_adds": 0,
       "capacity_override": 0,
@@ -61,7 +61,7 @@
       "daily_waivers_base": 4,
       "reserve_slots": 2,
       "reserve_allow_cov": 1,
-      "daily_waivers_last_ran": 26
+      "daily_waivers_last_ran": 27
     },
     "scoring_settings": {
       "sack": 1,
@@ -1379,16 +1379,16 @@
           "team": "DET"
         },
         {
-          "player_id": "8111",
-          "name": "Cade Otton",
-          "position": "TE",
-          "team": "TB"
+          "player_id": "12490",
+          "name": "Bhayshul Tuten",
+          "position": "RB",
+          "team": "JAX"
         },
         {
-          "player_id": "8110",
-          "name": "Jake Ferguson",
-          "position": "TE",
-          "team": "DAL"
+          "player_id": "11637",
+          "name": "Keon Coleman",
+          "position": "WR",
+          "team": "BUF"
         },
         {
           "player_id": "8161",
@@ -1411,22 +1411,10 @@
           "team": "DEN"
         },
         {
-          "player_id": "11637",
-          "name": "Keon Coleman",
-          "position": "WR",
-          "team": "BUF"
-        },
-        {
           "player_id": "12476",
           "name": "Devin Neal",
           "position": "RB",
           "team": "WAS"
-        },
-        {
-          "player_id": "12490",
-          "name": "Bhayshul Tuten",
-          "position": "RB",
-          "team": "JAX"
         },
         {
           "player_id": "12500",
@@ -1469,6 +1457,18 @@
           "name": "Justin Fields",
           "position": "QB",
           "team": "KC"
+        },
+        {
+          "player_id": "8110",
+          "name": "Jake Ferguson",
+          "position": "TE",
+          "team": "DAL"
+        },
+        {
+          "player_id": "8111",
+          "name": "Cade Otton",
+          "position": "TE",
+          "team": "TB"
         },
         {
           "player_id": "8162",
@@ -1610,10 +1610,10 @@
       "rank": 8,
       "starters": [
         {
-          "player_id": "8183",
-          "name": "Brock Purdy",
+          "player_id": "96",
+          "name": "Aaron Rodgers",
           "position": "QB",
-          "team": "SF"
+          "team": "PIT"
         },
         {
           "player_id": "12507",
@@ -1622,16 +1622,16 @@
           "team": "LAC"
         },
         {
-          "player_id": "4035",
-          "name": "Alvin Kamara",
+          "player_id": "11435",
+          "name": "Emanuel Wilson",
           "position": "RB",
-          "team": "NO"
+          "team": "SEA"
         },
         {
-          "player_id": "8144",
-          "name": "Chris Olave",
+          "player_id": "9756",
+          "name": "Jordan Addison",
           "position": "WR",
-          "team": "NO"
+          "team": "MIN"
         },
         {
           "player_id": "8126",
@@ -1646,10 +1646,10 @@
           "team": "CLE"
         },
         {
-          "player_id": "5001",
-          "name": "Dalton Schultz",
+          "player_id": "4993",
+          "name": "Mike Gesicki",
           "position": "TE",
-          "team": "HOU"
+          "team": "CIN"
         },
         {
           "player_id": "3271",
@@ -1658,25 +1658,19 @@
           "team": "LAR"
         },
         {
-          "player_id": "11435",
-          "name": "Emanuel Wilson",
-          "position": "RB",
+          "player_id": "4039",
+          "name": "Cooper Kupp",
+          "position": "WR",
           "team": "SEA"
         },
-        {
-          "player_id": "96",
-          "name": "Aaron Rodgers",
-          "position": "QB",
-          "team": "PIT"
-        }
-      ],
-      "bench": [
         {
           "player_id": "11631",
           "name": "Brian Thomas Jr.",
           "position": "WR",
           "team": "JAX"
-        },
+        }
+      ],
+      "bench": [
         {
           "player_id": "1837",
           "name": "Jimmy Garoppolo",
@@ -1690,10 +1684,10 @@
           "team": "ATL"
         },
         {
-          "player_id": "4039",
-          "name": "Cooper Kupp",
-          "position": "WR",
-          "team": "SEA"
+          "player_id": "4035",
+          "name": "Alvin Kamara",
+          "position": "RB",
+          "team": "NO"
         },
         {
           "player_id": "4381",
@@ -1702,10 +1696,10 @@
           "team": "FA"
         },
         {
-          "player_id": "4993",
-          "name": "Mike Gesicki",
+          "player_id": "5001",
+          "name": "Dalton Schultz",
           "position": "TE",
-          "team": "CIN"
+          "team": "HOU"
         },
         {
           "player_id": "5970",
@@ -1726,22 +1720,28 @@
           "team": "CLE"
         },
         {
+          "player_id": "8144",
+          "name": "Chris Olave",
+          "position": "WR",
+          "team": "NO"
+        },
+        {
           "player_id": "8147",
           "name": "John Metchie III",
           "position": "WR",
           "team": "CAR"
         },
         {
+          "player_id": "8183",
+          "name": "Brock Purdy",
+          "position": "QB",
+          "team": "SF"
+        },
+        {
           "player_id": "827",
           "name": "Tyrod Taylor",
           "position": "QB",
           "team": "GB"
-        },
-        {
-          "player_id": "9756",
-          "name": "Jordan Addison",
-          "position": "WR",
-          "team": "MIN"
         }
       ],
       "taxi": [
@@ -2130,28 +2130,28 @@
       "rank": 5,
       "starters": [
         {
-          "player_id": "9758",
-          "name": "C.J. Stroud",
+          "player_id": "11559",
+          "name": "Michael Penix Jr.",
           "position": "QB",
-          "team": "HOU"
+          "team": "ATL"
         },
         {
-          "player_id": "6806",
-          "name": "J.K. Dobbins",
+          "player_id": "8138",
+          "name": "James Cook III",
           "position": "RB",
-          "team": "DEN"
+          "team": "BUF"
         },
         {
-          "player_id": "11576",
-          "name": "Braelon Allen",
+          "player_id": "13287",
+          "name": "Jeremiyah Love",
           "position": "RB",
-          "team": "NYJ"
+          "team": "ARI"
         },
         {
-          "player_id": "11632",
-          "name": "Malik Nabers",
+          "player_id": "8134",
+          "name": "Khalil Shakir",
           "position": "WR",
-          "team": "NYG"
+          "team": "BUF"
         },
         {
           "player_id": "4454",
@@ -2166,16 +2166,10 @@
           "team": "ARI"
         },
         {
-          "player_id": "9479",
-          "name": "Darnell Washington",
+          "player_id": "13421",
+          "name": "Eli Raridon",
           "position": "TE",
-          "team": "PIT"
-        },
-        {
-          "player_id": "5857",
-          "name": "Noah Fant",
-          "position": "TE",
-          "team": "NO"
+          "team": "NE"
         },
         {
           "player_id": "11586",
@@ -2184,10 +2178,16 @@
           "team": "LAR"
         },
         {
-          "player_id": "11559",
-          "name": "Michael Penix Jr.",
+          "player_id": "11576",
+          "name": "Braelon Allen",
+          "position": "RB",
+          "team": "NYJ"
+        },
+        {
+          "player_id": "12522",
+          "name": "Cam Ward",
           "position": "QB",
-          "team": "ATL"
+          "team": "TEN"
         }
       ],
       "bench": [
@@ -2204,34 +2204,22 @@
           "team": "LV"
         },
         {
+          "player_id": "11632",
+          "name": "Malik Nabers",
+          "position": "WR",
+          "team": "NYG"
+        },
+        {
           "player_id": "12486",
           "name": "Dillon Gabriel",
           "position": "QB",
           "team": "CLE"
         },
         {
-          "player_id": "12521",
-          "name": "Elijah Arroyo",
-          "position": "TE",
-          "team": "SEA"
-        },
-        {
-          "player_id": "12522",
-          "name": "Cam Ward",
-          "position": "QB",
-          "team": "TEN"
-        },
-        {
           "player_id": "12718",
           "name": "Konata Mumpfield",
           "position": "WR",
           "team": "LAR"
-        },
-        {
-          "player_id": "13287",
-          "name": "Jeremiyah Love",
-          "position": "RB",
-          "team": "ARI"
         },
         {
           "player_id": "4144",
@@ -2246,10 +2234,22 @@
           "team": "FA"
         },
         {
+          "player_id": "5857",
+          "name": "Noah Fant",
+          "position": "TE",
+          "team": "NO"
+        },
+        {
           "player_id": "5995",
           "name": "Justice Hill",
           "position": "RB",
           "team": "BAL"
+        },
+        {
+          "player_id": "6806",
+          "name": "J.K. Dobbins",
+          "position": "RB",
+          "team": "DEN"
         },
         {
           "player_id": "8121",
@@ -2258,22 +2258,22 @@
           "team": "NE"
         },
         {
-          "player_id": "8134",
-          "name": "Khalil Shakir",
-          "position": "WR",
-          "team": "BUF"
-        },
-        {
-          "player_id": "8138",
-          "name": "James Cook III",
-          "position": "RB",
-          "team": "BUF"
+          "player_id": "9479",
+          "name": "Darnell Washington",
+          "position": "TE",
+          "team": "PIT"
         },
         {
           "player_id": "9506",
           "name": "Sean Tucker",
           "position": "RB",
           "team": "TB"
+        },
+        {
+          "player_id": "9758",
+          "name": "C.J. Stroud",
+          "position": "QB",
+          "team": "HOU"
         }
       ],
       "taxi": [
@@ -2282,12 +2282,6 @@
           "name": "Oscar Delp",
           "position": "TE",
           "team": "NO"
-        },
-        {
-          "player_id": "13421",
-          "name": "Eli Raridon",
-          "position": "TE",
-          "team": "NE"
         }
       ],
       "reserve": [
