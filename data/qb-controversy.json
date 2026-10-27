@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-27T19:28:41.992Z",
+  "generated_at": "2026-10-27T23:50:09.900Z",
   "source": "Sleeper public API",
   "username": "TheMightyKites",
   "nfl_week": 8,
@@ -1885,10 +1885,10 @@
       "rank": 3,
       "starters": [
         {
-          "player_id": "7083",
-          "name": "Tyler Huntley",
+          "player_id": "1373",
+          "name": "Geno Smith",
           "position": "QB",
-          "team": "BAL"
+          "team": "NYJ"
         },
         {
           "player_id": "3198",
@@ -1921,10 +1921,10 @@
           "team": "LAR"
         },
         {
-          "player_id": "3214",
-          "name": "Hunter Henry",
+          "player_id": "1466",
+          "name": "Travis Kelce",
           "position": "TE",
-          "team": "NE"
+          "team": "KC"
         },
         {
           "player_id": "7588",
@@ -1933,10 +1933,10 @@
           "team": "DAL"
         },
         {
-          "player_id": "1466",
-          "name": "Travis Kelce",
-          "position": "TE",
-          "team": "KC"
+          "player_id": "5967",
+          "name": "Tony Pollard",
+          "position": "RB",
+          "team": "TEN"
         },
         {
           "player_id": "421",
@@ -1983,10 +1983,10 @@
           "team": "NO"
         },
         {
-          "player_id": "1373",
-          "name": "Geno Smith",
-          "position": "QB",
-          "team": "NYJ"
+          "player_id": "3214",
+          "name": "Hunter Henry",
+          "position": "TE",
+          "team": "NE"
         },
         {
           "player_id": "4017",
@@ -2007,16 +2007,16 @@
           "team": "JAX"
         },
         {
-          "player_id": "5967",
-          "name": "Tony Pollard",
-          "position": "RB",
-          "team": "TEN"
-        },
-        {
           "player_id": "6826",
           "name": "Cole Kmet",
           "position": "TE",
           "team": "CHI"
+        },
+        {
+          "player_id": "7083",
+          "name": "Tyler Huntley",
+          "position": "QB",
+          "team": "BAL"
         },
         {
           "player_id": "7527",
