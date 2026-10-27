@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-10-27T00:33:23.951Z",
+  "generated_at": "2026-10-27T06:23:59.743Z",
   "source": "Sleeper public API",
   "username": "TheMightyKites",
-  "nfl_week": 7,
+  "nfl_week": 8,
   "nfl_season": "2026",
   "league": {
     "id": "1312173783108300800",
@@ -29,7 +29,7 @@
       "playoff_type": 1,
       "taxi_slots": 3,
       "sub_start_time_eligibility": 0,
-      "last_scored_leg": 6,
+      "last_scored_leg": 7,
       "daily_waivers_days": 5461,
       "sub_lock_if_starter_active": 0,
       "playoff_week_start": 15,
@@ -141,11 +141,11 @@
     "owner_id": "866511772801196032",
     "team_name": "TheMightyKites",
     "is_me": true,
-    "record": "3-3",
+    "record": "3-4",
     "wins": 3,
-    "losses": 3,
-    "points_for": 799.9,
-    "rank": 5,
+    "losses": 4,
+    "points_for": 941.52,
+    "rank": 7,
     "starters": [
       {
         "player_id": "12545",
@@ -410,12 +410,12 @@
   "my_matchup": {
     "me": {
       "team": "TheMightyKites",
-      "points": 129.32
+      "points": 0
     },
     "opponent": {
-      "team": "Average Joe's Gym 2qb",
-      "points": 144,
-      "roster_id": 1
+      "team": "The Rusty Trombones",
+      "points": 0,
+      "roster_id": 2
     }
   },
   "my_picks": [
@@ -496,11 +496,11 @@
       "owner_id": "85219789974683648",
       "team_name": "Average Joe's Gym 2qb",
       "is_me": false,
-      "record": "3-3",
-      "wins": 3,
+      "record": "4-3",
+      "wins": 4,
       "losses": 3,
-      "points_for": 759.96,
-      "rank": 6,
+      "points_for": 903.96,
+      "rank": 5,
       "starters": [
         {
           "player_id": "3257",
@@ -775,11 +775,11 @@
       "owner_id": "651198204880187392",
       "team_name": "The Rusty Trombones",
       "is_me": false,
-      "record": "2-4",
+      "record": "2-5",
       "wins": 2,
-      "losses": 4,
-      "points_for": 848.16,
-      "rank": 7,
+      "losses": 5,
+      "points_for": 926.2,
+      "rank": 8,
       "starters": [
         {
           "player_id": "8183",
@@ -1034,11 +1034,11 @@
       "owner_id": "866511772801196032",
       "team_name": "TheMightyKites",
       "is_me": true,
-      "record": "3-3",
+      "record": "3-4",
       "wins": 3,
-      "losses": 3,
-      "points_for": 799.9,
-      "rank": 5,
+      "losses": 4,
+      "points_for": 941.52,
+      "rank": 7,
       "starters": [
         {
           "player_id": "12545",
@@ -1305,10 +1305,10 @@
       "owner_id": "562785236463558656",
       "team_name": "kylec55",
       "is_me": false,
-      "record": "1-5",
+      "record": "1-6",
       "wins": 1,
-      "losses": 5,
-      "points_for": 741.24,
+      "losses": 6,
+      "points_for": 843.6,
       "rank": 10,
       "starters": [
         {
@@ -1694,11 +1694,11 @@
       "owner_id": "405783718150565888",
       "team_name": "Tenacious D",
       "is_me": false,
-      "record": "5-1",
+      "record": "5-2",
       "wins": 5,
-      "losses": 1,
-      "points_for": 874.76,
-      "rank": 1,
+      "losses": 2,
+      "points_for": 1050.56,
+      "rank": 2,
       "starters": [
         {
           "player_id": "5849",
@@ -1931,10 +1931,10 @@
       "owner_id": "646587866931236864",
       "team_name": "The Big Tuna",
       "is_me": false,
-      "record": "4-2",
-      "wins": 4,
+      "record": "5-2",
+      "wins": 5,
       "losses": 2,
-      "points_for": 909.82,
+      "points_for": 1036.5,
       "rank": 3,
       "starters": [
         {
@@ -2194,11 +2194,11 @@
       "owner_id": "997278783776296960",
       "team_name": "White Trash with Cash",
       "is_me": false,
-      "record": "2-4",
-      "wins": 2,
+      "record": "3-4",
+      "wins": 3,
       "losses": 4,
-      "points_for": 807.04,
-      "rank": 8,
+      "points_for": 984.8,
+      "rank": 6,
       "starters": [
         {
           "player_id": "11563",
@@ -2506,11 +2506,11 @@
       "owner_id": "920449095888674816",
       "team_name": "jayjay1823",
       "is_me": false,
-      "record": "5-1",
-      "wins": 5,
+      "record": "6-1",
+      "wins": 6,
       "losses": 1,
-      "points_for": 829.82,
-      "rank": 2,
+      "points_for": 1007.52,
+      "rank": 1,
       "starters": [
         {
           "player_id": "6770",
@@ -2793,10 +2793,10 @@
       "owner_id": "920517589149769728",
       "team_name": "Ruhungry",
       "is_me": false,
-      "record": "1-5",
-      "wins": 1,
+      "record": "2-5",
+      "wins": 2,
       "losses": 5,
-      "points_for": 753,
+      "points_for": 862.62,
       "rank": 9,
       "starters": [
         {
@@ -3072,10 +3072,10 @@
       "owner_id": "443834601794695168",
       "team_name": "nrandazzo624",
       "is_me": false,
-      "record": "4-2",
+      "record": "4-3",
       "wins": 4,
-      "losses": 2,
-      "points_for": 872.94,
+      "losses": 3,
+      "points_for": 976.82,
       "rank": 4,
       "starters": [
         {
