@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-27T06:23:58.850Z",
+  "generated_at": "2026-10-27T13:20:40.656Z",
   "source": "Sleeper public API",
   "username": "TheMightyKites",
   "nfl_week": 8,
@@ -1072,16 +1072,16 @@
           "team": "MIA"
         },
         {
-          "player_id": "7828",
-          "name": "Noah Gray",
+          "player_id": "12518",
+          "name": "Tyler Warren",
           "position": "TE",
-          "team": "KC"
+          "team": "IND"
         },
         {
-          "player_id": "3155",
-          "name": "Laquon Treadwell",
+          "player_id": "11635",
+          "name": "Ladd McConkey",
           "position": "WR",
-          "team": "IND"
+          "team": "LAC"
         },
         {
           "player_id": "13317",
@@ -1090,13 +1090,19 @@
           "team": "TB"
         },
         {
+          "player_id": "6797",
+          "name": "Justin Herbert",
+          "position": "QB",
+          "team": "LAC"
+        }
+      ],
+      "bench": [
+        {
           "player_id": "11565",
           "name": "J.J. McCarthy",
           "position": "QB",
           "team": "NYG"
-        }
-      ],
-      "bench": [
+        },
         {
           "player_id": "11596",
           "name": "Ben Sinnott",
@@ -1122,12 +1128,6 @@
           "team": "PIT"
         },
         {
-          "player_id": "11635",
-          "name": "Ladd McConkey",
-          "position": "WR",
-          "team": "LAC"
-        },
-        {
           "player_id": "11647",
           "name": "Kimani Vidal",
           "position": "RB",
@@ -1138,12 +1138,6 @@
           "name": "Jaydon Blue",
           "position": "RB",
           "team": "PHI"
-        },
-        {
-          "player_id": "12518",
-          "name": "Tyler Warren",
-          "position": "TE",
-          "team": "IND"
         },
         {
           "player_id": "13275",
@@ -1176,10 +1170,16 @@
           "team": "CHI"
         },
         {
-          "player_id": "6797",
-          "name": "Justin Herbert",
-          "position": "QB",
-          "team": "LAC"
+          "player_id": "3155",
+          "name": "Laquon Treadwell",
+          "position": "WR",
+          "team": "IND"
+        },
+        {
+          "player_id": "7828",
+          "name": "Noah Gray",
+          "position": "TE",
+          "team": "KC"
         }
       ],
       "taxi": [
@@ -3520,16 +3520,16 @@
       "rank": 4,
       "starters": [
         {
-          "player_id": "9230",
-          "name": "Tanner McKee",
+          "player_id": "7523",
+          "name": "Trevor Lawrence",
           "position": "QB",
-          "team": "PHI"
+          "team": "JAX"
         },
         {
-          "player_id": "12481",
-          "name": "Cam Skattebo",
+          "player_id": "12495",
+          "name": "Ollie Gordon II",
           "position": "RB",
-          "team": "NYG"
+          "team": "MIA"
         },
         {
           "player_id": "12489",
@@ -3574,19 +3574,13 @@
           "team": "MIN"
         },
         {
-          "player_id": "12495",
-          "name": "Ollie Gordon II",
-          "position": "RB",
-          "team": "MIA"
-        }
-      ],
-      "bench": [
-        {
           "player_id": "11566",
           "name": "Jayden Daniels",
           "position": "QB",
           "team": "WAS"
-        },
+        }
+      ],
+      "bench": [
         {
           "player_id": "11625",
           "name": "Adonai Mitchell",
@@ -3610,6 +3604,12 @@
           "name": "DJ Giddens",
           "position": "RB",
           "team": "IND"
+        },
+        {
+          "player_id": "12481",
+          "name": "Cam Skattebo",
+          "position": "RB",
+          "team": "NYG"
         },
         {
           "player_id": "12504",
@@ -3648,15 +3648,15 @@
           "team": "CLE"
         },
         {
-          "player_id": "7523",
-          "name": "Trevor Lawrence",
-          "position": "QB",
-          "team": "JAX"
-        },
-        {
           "player_id": "7525",
           "name": "DeVonta Smith",
           "position": "WR",
+          "team": "PHI"
+        },
+        {
+          "player_id": "9230",
+          "name": "Tanner McKee",
+          "position": "QB",
           "team": "PHI"
         },
         {
@@ -4083,10 +4083,10 @@
           "team": "ARI"
         },
         {
-          "player_id": "9508",
-          "name": "Tyjae Spears",
+          "player_id": "8136",
+          "name": "Rachaad White",
           "position": "RB",
-          "team": "TEN"
+          "team": "WAS"
         },
         {
           "player_id": "11610",
@@ -4095,16 +4095,16 @@
           "team": "MIA"
         },
         {
-          "player_id": "11628",
-          "name": "Marvin Harrison Jr.",
+          "player_id": "8135",
+          "name": "Treylon Burks",
           "position": "WR",
-          "team": "HOU"
+          "team": "WAS"
         },
         {
-          "player_id": "11608",
-          "name": "Isaiah Williams",
+          "player_id": "13394",
+          "name": "Josh Cameron",
           "position": "WR",
-          "team": "NYJ"
+          "team": "JAX"
         },
         {
           "player_id": "12506",
@@ -4119,10 +4119,10 @@
           "team": "MIN"
         },
         {
-          "player_id": "11599",
-          "name": "Cade Stover",
-          "position": "TE",
-          "team": "HOU"
+          "player_id": "7670",
+          "name": "Joshua Palmer",
+          "position": "WR",
+          "team": "BUF"
         },
         {
           "player_id": "8145",
@@ -4151,22 +4151,34 @@
           "team": "PHI"
         },
         {
+          "player_id": "11599",
+          "name": "Cade Stover",
+          "position": "TE",
+          "team": "HOU"
+        },
+        {
+          "player_id": "11608",
+          "name": "Isaiah Williams",
+          "position": "WR",
+          "team": "NYJ"
+        },
+        {
           "player_id": "11626",
           "name": "Xavier Legette",
           "position": "WR",
           "team": "CAR"
         },
         {
+          "player_id": "11628",
+          "name": "Marvin Harrison Jr.",
+          "position": "WR",
+          "team": "HOU"
+        },
+        {
           "player_id": "11650",
           "name": "Luke McCaffrey",
           "position": "WR",
           "team": "WAS"
-        },
-        {
-          "player_id": "13394",
-          "name": "Josh Cameron",
-          "position": "WR",
-          "team": "JAX"
         },
         {
           "player_id": "13770",
@@ -4187,28 +4199,16 @@
           "team": "SF"
         },
         {
-          "player_id": "7670",
-          "name": "Joshua Palmer",
-          "position": "WR",
-          "team": "BUF"
-        },
-        {
-          "player_id": "8135",
-          "name": "Treylon Burks",
-          "position": "WR",
-          "team": "WAS"
-        },
-        {
-          "player_id": "8136",
-          "name": "Rachaad White",
-          "position": "RB",
-          "team": "WAS"
-        },
-        {
           "player_id": "8188",
           "name": "Tyquan Thornton",
           "position": "WR",
           "team": "KC"
+        },
+        {
+          "player_id": "9508",
+          "name": "Tyjae Spears",
+          "position": "RB",
+          "team": "TEN"
         },
         {
           "player_id": "9999",

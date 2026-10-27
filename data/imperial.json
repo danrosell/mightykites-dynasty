@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-27T06:23:58.293Z",
+  "generated_at": "2026-10-27T13:20:40.273Z",
   "source": "Sleeper public API",
   "username": "TheMightyKites",
   "nfl_week": 8,
@@ -2992,10 +2992,10 @@
       "rank": 11,
       "starters": [
         {
-          "player_id": "4034",
-          "name": "Christian McCaffrey",
+          "player_id": "9511",
+          "name": "Keaton Mitchell",
           "position": "RB",
-          "team": "SF"
+          "team": "LAC"
         },
         {
           "player_id": "7567",
@@ -3028,10 +3028,10 @@
           "team": "MIA"
         },
         {
-          "player_id": "8172",
-          "name": "Greg Dulcich",
-          "position": "TE",
-          "team": "MIA"
+          "player_id": "2449",
+          "name": "Stefon Diggs",
+          "position": "WR",
+          "team": "WAS"
         },
         {
           "player_id": "3163",
@@ -3048,10 +3048,10 @@
           "team": "NE"
         },
         {
-          "player_id": "2449",
-          "name": "Stefon Diggs",
-          "position": "WR",
-          "team": "WAS"
+          "player_id": "4034",
+          "name": "Christian McCaffrey",
+          "position": "RB",
+          "team": "SF"
         },
         {
           "player_id": "6039",
@@ -3066,10 +3066,10 @@
           "team": "MIA"
         },
         {
-          "player_id": "9511",
-          "name": "Keaton Mitchell",
-          "position": "RB",
-          "team": "LAC"
+          "player_id": "8172",
+          "name": "Greg Dulcich",
+          "position": "TE",
+          "team": "MIA"
         }
       ],
       "taxi": [

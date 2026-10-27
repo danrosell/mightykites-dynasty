@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-27T06:23:59.385Z",
+  "generated_at": "2026-10-27T13:20:41.176Z",
   "source": "Sleeper public API",
   "username": "TheMightyKites",
   "nfl_week": 8,
@@ -2105,10 +2105,10 @@
           "team": "PIT"
         },
         {
-          "player_id": "8144",
-          "name": "Chris Olave",
+          "player_id": "13413",
+          "name": "Cyrus Allen",
           "position": "WR",
-          "team": "NO"
+          "team": "KC"
         },
         {
           "player_id": "9997",
@@ -2129,16 +2129,16 @@
           "team": "PHI"
         },
         {
+          "player_id": "4866",
+          "name": "Saquon Barkley",
+          "position": "RB",
+          "team": "PHI"
+        },
+        {
           "player_id": "4199",
           "name": "Aaron Jones Sr.",
           "position": "RB",
           "team": "MIN"
-        },
-        {
-          "player_id": "3271",
-          "name": "Tyler Higbee",
-          "position": "TE",
-          "team": "LAR"
         }
       ],
       "bench": [
@@ -2215,28 +2215,22 @@
           "team": "JAX"
         },
         {
-          "player_id": "13413",
-          "name": "Cyrus Allen",
-          "position": "WR",
-          "team": "KC"
-        },
-        {
           "player_id": "13424",
           "name": "Seth McGowan",
           "position": "RB",
           "team": "IND"
         },
         {
+          "player_id": "3271",
+          "name": "Tyler Higbee",
+          "position": "TE",
+          "team": "LAR"
+        },
+        {
           "player_id": "4454",
           "name": "Kendrick Bourne",
           "position": "WR",
           "team": "ARI"
-        },
-        {
-          "player_id": "4866",
-          "name": "Saquon Barkley",
-          "position": "RB",
-          "team": "PHI"
         },
         {
           "player_id": "4950",
@@ -2254,6 +2248,12 @@
           "player_id": "5857",
           "name": "Noah Fant",
           "position": "TE",
+          "team": "NO"
+        },
+        {
+          "player_id": "8144",
+          "name": "Chris Olave",
+          "position": "WR",
           "team": "NO"
         },
         {
@@ -2398,22 +2398,22 @@
       "rank": 8,
       "starters": [
         {
-          "player_id": "8183",
-          "name": "Brock Purdy",
-          "position": "QB",
-          "team": "SF"
+          "player_id": "0",
+          "name": "0",
+          "position": "—",
+          "team": "FA"
         },
         {
-          "player_id": "4718",
-          "name": "Dare Ogunbowale",
-          "position": "RB",
-          "team": "HOU"
+          "player_id": "0",
+          "name": "0",
+          "position": "—",
+          "team": "FA"
         },
         {
-          "player_id": "4147",
-          "name": "Samaje Perine",
-          "position": "RB",
-          "team": "CIN"
+          "player_id": "0",
+          "name": "0",
+          "position": "—",
+          "team": "FA"
         },
         {
           "player_id": "6794",
@@ -2434,22 +2434,22 @@
           "team": "ATL"
         },
         {
-          "player_id": "12517",
-          "name": "Colston Loveland",
-          "position": "TE",
-          "team": "CHI"
+          "player_id": "0",
+          "name": "0",
+          "position": "—",
+          "team": "FA"
         },
         {
-          "player_id": "13298",
-          "name": "KC Concepcion Jr.",
-          "position": "WR",
-          "team": "CLE"
+          "player_id": "0",
+          "name": "0",
+          "position": "—",
+          "team": "FA"
         },
         {
-          "player_id": "4037",
-          "name": "Chris Godwin Jr.",
-          "position": "WR",
-          "team": "TB"
+          "player_id": "0",
+          "name": "0",
+          "position": "—",
+          "team": "FA"
         }
       ],
       "bench": [
@@ -2458,6 +2458,12 @@
           "name": "Rashee Rice",
           "position": "WR",
           "team": "KC"
+        },
+        {
+          "player_id": "12517",
+          "name": "Colston Loveland",
+          "position": "TE",
+          "team": "CHI"
         },
         {
           "player_id": "12540",
@@ -2476,6 +2482,12 @@
           "name": "Max Klare",
           "position": "TE",
           "team": "LAR"
+        },
+        {
+          "player_id": "13298",
+          "name": "KC Concepcion Jr.",
+          "position": "WR",
+          "team": "CLE"
         },
         {
           "player_id": "13320",
@@ -2512,6 +2524,24 @@
           "name": "David Njoku",
           "position": "TE",
           "team": "LAC"
+        },
+        {
+          "player_id": "4037",
+          "name": "Chris Godwin Jr.",
+          "position": "WR",
+          "team": "TB"
+        },
+        {
+          "player_id": "4147",
+          "name": "Samaje Perine",
+          "position": "RB",
+          "team": "CIN"
+        },
+        {
+          "player_id": "4718",
+          "name": "Dare Ogunbowale",
+          "position": "RB",
+          "team": "HOU"
         },
         {
           "player_id": "4881",
@@ -2566,6 +2596,12 @@
           "name": "Breece Hall",
           "position": "RB",
           "team": "NYJ"
+        },
+        {
+          "player_id": "8183",
+          "name": "Brock Purdy",
+          "position": "QB",
+          "team": "SF"
         },
         {
           "player_id": "8207",
@@ -3977,10 +4013,10 @@
           "team": "GB"
         },
         {
-          "player_id": "11655",
-          "name": "Tyrone Tracy Jr.",
+          "player_id": "8138",
+          "name": "James Cook III",
           "position": "RB",
-          "team": "NYG"
+          "team": "BUF"
         },
         {
           "player_id": "5850",
@@ -4031,6 +4067,12 @@
           "name": "Isaiah Williams",
           "position": "WR",
           "team": "NYJ"
+        },
+        {
+          "player_id": "11655",
+          "name": "Tyrone Tracy Jr.",
+          "position": "RB",
+          "team": "NYG"
         },
         {
           "player_id": "12498",
@@ -4121,12 +4163,6 @@
           "name": "Jahan Dotson",
           "position": "WR",
           "team": "ATL"
-        },
-        {
-          "player_id": "8138",
-          "name": "James Cook III",
-          "position": "RB",
-          "team": "BUF"
         },
         {
           "player_id": "8168",
