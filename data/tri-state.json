@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-28T18:55:08.585Z",
+  "generated_at": "2026-10-28T23:18:30.203Z",
   "source": "Sleeper public API",
   "username": "TheMightyKites",
   "nfl_week": 8,
@@ -782,10 +782,10 @@
       "rank": 8,
       "starters": [
         {
-          "player_id": "8183",
-          "name": "Brock Purdy",
+          "player_id": "9228",
+          "name": "Bryce Young",
           "position": "QB",
-          "team": "SF"
+          "team": "CAR"
         },
         {
           "player_id": "8150",
@@ -812,10 +812,10 @@
           "team": "CAR"
         },
         {
-          "player_id": "8126",
-          "name": "Wan'Dale Robinson",
+          "player_id": "10229",
+          "name": "Rashee Rice",
           "position": "WR",
-          "team": "TEN"
+          "team": "KC"
         },
         {
           "player_id": "10859",
@@ -830,10 +830,10 @@
           "team": "CAR"
         },
         {
-          "player_id": "9228",
-          "name": "Bryce Young",
+          "player_id": "421",
+          "name": "Matthew Stafford",
           "position": "QB",
-          "team": "CAR"
+          "team": "LAR"
         }
       ],
       "bench": [
@@ -842,12 +842,6 @@
           "name": "Chris Rodriguez Jr.",
           "position": "RB",
           "team": "JAX"
-        },
-        {
-          "player_id": "10229",
-          "name": "Rashee Rice",
-          "position": "WR",
-          "team": "KC"
         },
         {
           "player_id": "11586",
@@ -892,12 +886,6 @@
           "team": "WAS"
         },
         {
-          "player_id": "421",
-          "name": "Matthew Stafford",
-          "position": "QB",
-          "team": "LAR"
-        },
-        {
           "player_id": "7527",
           "name": "Mac Jones",
           "position": "QB",
@@ -920,6 +908,18 @@
           "name": "Cade Otton",
           "position": "TE",
           "team": "TB"
+        },
+        {
+          "player_id": "8126",
+          "name": "Wan'Dale Robinson",
+          "position": "WR",
+          "team": "TEN"
+        },
+        {
+          "player_id": "8183",
+          "name": "Brock Purdy",
+          "position": "QB",
+          "team": "SF"
         },
         {
           "player_id": "9504",
@@ -1348,10 +1348,10 @@
           "team": "CLE"
         },
         {
-          "player_id": "2505",
-          "name": "Darren Waller",
+          "player_id": "8172",
+          "name": "Greg Dulcich",
           "position": "TE",
-          "team": "CAR"
+          "team": "MIA"
         },
         {
           "player_id": "8134",
@@ -1438,12 +1438,6 @@
           "name": "Dameon Pierce",
           "position": "RB",
           "team": "PHI"
-        },
-        {
-          "player_id": "8172",
-          "name": "Greg Dulcich",
-          "position": "TE",
-          "team": "MIA"
         },
         {
           "player_id": "8676",
@@ -1997,7 +1991,7 @@
           "player_id": "11199",
           "name": "Emari Demercado",
           "position": "RB",
-          "team": "FA"
+          "team": "HOU"
         },
         {
           "player_id": "11627",

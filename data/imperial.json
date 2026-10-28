@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-28T18:55:06.994Z",
+  "generated_at": "2026-10-28T23:18:29.054Z",
   "source": "Sleeper public API",
   "username": "TheMightyKites",
   "nfl_week": 8,
@@ -1791,7 +1791,7 @@
           "player_id": "11199",
           "name": "Emari Demercado",
           "position": "RB",
-          "team": "FA"
+          "team": "HOU"
         },
         {
           "player_id": "12524",
@@ -3532,10 +3532,10 @@
       "rank": 9,
       "starters": [
         {
-          "player_id": "6130",
-          "name": "Devin Singletary",
+          "player_id": "8138",
+          "name": "James Cook III",
           "position": "RB",
-          "team": "NYG"
+          "team": "BUF"
         },
         {
           "player_id": "5967",
@@ -3544,10 +3544,10 @@
           "team": "TEN"
         },
         {
-          "player_id": "2197",
-          "name": "Brandin Cooks",
+          "player_id": "5947",
+          "name": "Jakobi Meyers",
           "position": "WR",
-          "team": "SF"
+          "team": "JAX"
         },
         {
           "player_id": "6801",
@@ -3568,10 +3568,10 @@
           "team": "DEN"
         },
         {
-          "player_id": "0",
-          "name": "0",
-          "position": "—",
-          "team": "FA"
+          "player_id": "3634",
+          "name": "Kalif Raymond",
+          "position": "WR",
+          "team": "CHI"
         },
         {
           "player_id": "6770",
@@ -3594,22 +3594,16 @@
           "team": "CHI"
         },
         {
-          "player_id": "3634",
-          "name": "Kalif Raymond",
+          "player_id": "2197",
+          "name": "Brandin Cooks",
           "position": "WR",
-          "team": "CHI"
+          "team": "SF"
         },
         {
-          "player_id": "5947",
-          "name": "Jakobi Meyers",
-          "position": "WR",
-          "team": "JAX"
-        },
-        {
-          "player_id": "8138",
-          "name": "James Cook III",
+          "player_id": "6130",
+          "name": "Devin Singletary",
           "position": "RB",
-          "team": "BUF"
+          "team": "NYG"
         },
         {
           "player_id": "9228",

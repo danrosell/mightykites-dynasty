@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-28T18:55:08.167Z",
+  "generated_at": "2026-10-28T23:18:29.854Z",
   "source": "Sleeper public API",
   "username": "TheMightyKites",
   "nfl_week": 8,
@@ -1142,10 +1142,10 @@
           "team": "NE"
         },
         {
-          "player_id": "9756",
-          "name": "Jordan Addison",
+          "player_id": "12514",
+          "name": "Emeka Egbuka",
           "position": "WR",
-          "team": "MIN"
+          "team": "TB"
         },
         {
           "player_id": "13274",
@@ -1166,16 +1166,16 @@
           "team": "GB"
         },
         {
-          "player_id": "9479",
-          "name": "Darnell Washington",
-          "position": "TE",
-          "team": "PIT"
+          "player_id": "11637",
+          "name": "Keon Coleman",
+          "position": "WR",
+          "team": "BUF"
         },
         {
-          "player_id": "11627",
-          "name": "Troy Franklin",
+          "player_id": "11635",
+          "name": "Ladd McConkey",
           "position": "WR",
-          "team": "DEN"
+          "team": "LAC"
         }
       ],
       "bench": [
@@ -1198,16 +1198,10 @@
           "team": "CAR"
         },
         {
-          "player_id": "11635",
-          "name": "Ladd McConkey",
+          "player_id": "11627",
+          "name": "Troy Franklin",
           "position": "WR",
-          "team": "LAC"
-        },
-        {
-          "player_id": "11637",
-          "name": "Keon Coleman",
-          "position": "WR",
-          "team": "BUF"
+          "team": "DEN"
         },
         {
           "player_id": "11647",
@@ -1232,12 +1226,6 @@
           "name": "Raheim Sanders",
           "position": "RB",
           "team": "CLE"
-        },
-        {
-          "player_id": "12514",
-          "name": "Emeka Egbuka",
-          "position": "WR",
-          "team": "TB"
         },
         {
           "player_id": "12522",
@@ -1288,6 +1276,12 @@
           "team": "MIA"
         },
         {
+          "player_id": "9479",
+          "name": "Darnell Washington",
+          "position": "TE",
+          "team": "PIT"
+        },
+        {
           "player_id": "9481",
           "name": "Luke Musgrave",
           "position": "TE",
@@ -1298,6 +1292,12 @@
           "name": "Keaton Mitchell",
           "position": "RB",
           "team": "LAC"
+        },
+        {
+          "player_id": "9756",
+          "name": "Jordan Addison",
+          "position": "WR",
+          "team": "MIN"
         }
       ],
       "taxi": [],
@@ -2398,10 +2398,10 @@
       "rank": 8,
       "starters": [
         {
-          "player_id": "0",
-          "name": "0",
-          "position": "—",
-          "team": "FA"
+          "player_id": "4881",
+          "name": "Lamar Jackson",
+          "position": "QB",
+          "team": "BAL"
         },
         {
           "player_id": "0",
@@ -2434,16 +2434,16 @@
           "team": "ATL"
         },
         {
-          "player_id": "0",
-          "name": "0",
-          "position": "—",
-          "team": "FA"
+          "player_id": "12517",
+          "name": "Colston Loveland",
+          "position": "TE",
+          "team": "CHI"
         },
         {
-          "player_id": "0",
-          "name": "0",
-          "position": "—",
-          "team": "FA"
+          "player_id": "10229",
+          "name": "Rashee Rice",
+          "position": "WR",
+          "team": "KC"
         },
         {
           "player_id": "0",
@@ -2453,18 +2453,6 @@
         }
       ],
       "bench": [
-        {
-          "player_id": "10229",
-          "name": "Rashee Rice",
-          "position": "WR",
-          "team": "KC"
-        },
-        {
-          "player_id": "12517",
-          "name": "Colston Loveland",
-          "position": "TE",
-          "team": "CHI"
-        },
         {
           "player_id": "12540",
           "name": "Chimere Dike",
@@ -2542,12 +2530,6 @@
           "name": "Dare Ogunbowale",
           "position": "RB",
           "team": "HOU"
-        },
-        {
-          "player_id": "4881",
-          "name": "Lamar Jackson",
-          "position": "QB",
-          "team": "BAL"
         },
         {
           "player_id": "5012",
