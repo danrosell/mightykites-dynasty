@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-28T13:10:46.583Z",
+  "generated_at": "2026-10-28T18:55:06.994Z",
   "source": "Sleeper public API",
   "username": "TheMightyKites",
   "nfl_week": 8,
@@ -61,7 +61,7 @@
       "leg": 8,
       "reserve_slots": 3,
       "reserve_allow_cov": 0,
-      "daily_waivers_last_ran": 27
+      "daily_waivers_last_ran": 28
     },
     "scoring_settings": {
       "sack": 1,
@@ -1553,10 +1553,10 @@
           "team": "NO"
         },
         {
-          "player_id": "4066",
-          "name": "Evan Engram",
-          "position": "TE",
-          "team": "DEN"
+          "player_id": "0",
+          "name": "0",
+          "position": "—",
+          "team": "FA"
         },
         {
           "player_id": "12474",
@@ -1607,6 +1607,12 @@
           "name": "Chig Okonkwo",
           "position": "TE",
           "team": "WAS"
+        },
+        {
+          "player_id": "9494",
+          "name": "Marvin Mims Jr.",
+          "position": "WR",
+          "team": "DEN"
         }
       ],
       "taxi": [
@@ -1785,7 +1791,7 @@
           "player_id": "11199",
           "name": "Emari Demercado",
           "position": "RB",
-          "team": "DAL"
+          "team": "FA"
         },
         {
           "player_id": "12524",
@@ -1879,10 +1885,10 @@
       "rank": 15,
       "starters": [
         {
-          "player_id": "11655",
-          "name": "Tyrone Tracy Jr.",
+          "player_id": "12469",
+          "name": "Dylan Sampson",
           "position": "RB",
-          "team": "NYG"
+          "team": "CLE"
         },
         {
           "player_id": "13424",
@@ -1909,16 +1915,16 @@
           "team": "DET"
         },
         {
-          "player_id": "12535",
-          "name": "Isaac TeSlaa",
+          "player_id": "9487",
+          "name": "Parker Washington",
           "position": "WR",
-          "team": "DET"
+          "team": "JAX"
         },
         {
-          "player_id": "12469",
-          "name": "Dylan Sampson",
-          "position": "RB",
-          "team": "CLE"
+          "player_id": "12514",
+          "name": "Emeka Egbuka",
+          "position": "WR",
+          "team": "TB"
         },
         {
           "player_id": "9230",
@@ -1929,10 +1935,16 @@
       ],
       "bench": [
         {
-          "player_id": "12514",
-          "name": "Emeka Egbuka",
+          "player_id": "11655",
+          "name": "Tyrone Tracy Jr.",
+          "position": "RB",
+          "team": "NYG"
+        },
+        {
+          "player_id": "12535",
+          "name": "Isaac TeSlaa",
           "position": "WR",
-          "team": "TB"
+          "team": "DET"
         },
         {
           "player_id": "13347",
@@ -1951,12 +1963,6 @@
           "name": "Rachaad White",
           "position": "RB",
           "team": "WAS"
-        },
-        {
-          "player_id": "9487",
-          "name": "Parker Washington",
-          "position": "WR",
-          "team": "JAX"
         }
       ],
       "taxi": [
@@ -2134,10 +2140,22 @@
           "team": "TB"
         },
         {
+          "player_id": "4981",
+          "name": "Calvin Ridley",
+          "position": "WR",
+          "team": "TEN"
+        },
+        {
           "player_id": "4984",
           "name": "Josh Allen",
           "position": "QB",
           "team": "BUF"
+        },
+        {
+          "player_id": "7561",
+          "name": "Elijah Mitchell",
+          "position": "RB",
+          "team": "PHI"
         }
       ],
       "taxi": [
@@ -2494,16 +2512,16 @@
           "team": "JAX"
         },
         {
+          "player_id": "12482",
+          "name": "Savion Williams",
+          "position": "WR",
+          "team": "GB"
+        },
+        {
           "player_id": "4147",
           "name": "Samaje Perine",
           "position": "RB",
           "team": "CIN"
-        },
-        {
-          "player_id": "4663",
-          "name": "Austin Ekeler",
-          "position": "RB",
-          "team": "WAS"
         },
         {
           "player_id": "5849",
@@ -2835,19 +2853,13 @@
           "team": "WAS"
         },
         {
-          "player_id": "4943",
-          "name": "Sam Darnold",
+          "player_id": "3257",
+          "name": "Jacoby Brissett",
           "position": "QB",
-          "team": "SEA"
+          "team": "ARI"
         }
       ],
       "bench": [
-        {
-          "player_id": "11608",
-          "name": "Isaiah Williams",
-          "position": "WR",
-          "team": "NYJ"
-        },
         {
           "player_id": "12498",
           "name": "Mason Taylor",
@@ -2871,6 +2883,12 @@
           "name": "Alvin Kamara",
           "position": "RB",
           "team": "NO"
+        },
+        {
+          "player_id": "4943",
+          "name": "Sam Darnold",
+          "position": "QB",
+          "team": "SEA"
         }
       ],
       "taxi": [
@@ -3550,10 +3568,10 @@
           "team": "DEN"
         },
         {
-          "player_id": "7039",
-          "name": "Cody White",
-          "position": "WR",
-          "team": "LV"
+          "player_id": "0",
+          "name": "0",
+          "position": "—",
+          "team": "FA"
         },
         {
           "player_id": "6770",
@@ -3573,6 +3591,12 @@
           "player_id": "12534",
           "name": "Kyle Monangai",
           "position": "RB",
+          "team": "CHI"
+        },
+        {
+          "player_id": "3634",
+          "name": "Kalif Raymond",
+          "position": "WR",
           "team": "CHI"
         },
         {

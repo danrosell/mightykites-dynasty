@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-28T13:10:47.640Z",
+  "generated_at": "2026-10-28T18:55:08.585Z",
   "source": "Sleeper public API",
   "username": "TheMightyKites",
   "nfl_week": 8,
@@ -148,10 +148,10 @@
     "rank": 7,
     "starters": [
       {
-        "player_id": "12545",
-        "name": "Tyler Shough",
+        "player_id": "4984",
+        "name": "Josh Allen",
         "position": "QB",
-        "team": "NO"
+        "team": "BUF"
       },
       {
         "player_id": "6790",
@@ -166,10 +166,10 @@
         "team": "TB"
       },
       {
-        "player_id": "9501",
-        "name": "DeMario Douglas",
+        "player_id": "10213",
+        "name": "Tre Tucker",
         "position": "WR",
-        "team": "NE"
+        "team": "LV"
       },
       {
         "player_id": "7564",
@@ -178,10 +178,10 @@
         "team": "CIN"
       },
       {
-        "player_id": "11834",
-        "name": "Devaughn Vele",
+        "player_id": "4983",
+        "name": "DJ Moore",
         "position": "WR",
-        "team": "NO"
+        "team": "BUF"
       },
       {
         "player_id": "11604",
@@ -204,12 +204,6 @@
     ],
     "bench": [
       {
-        "player_id": "10213",
-        "name": "Tre Tucker",
-        "position": "WR",
-        "team": "LV"
-      },
-      {
         "player_id": "11630",
         "name": "Roman Wilson",
         "position": "WR",
@@ -222,6 +216,12 @@
         "team": "MIA"
       },
       {
+        "player_id": "11834",
+        "name": "Devaughn Vele",
+        "position": "WR",
+        "team": "NO"
+      },
+      {
         "player_id": "12493",
         "name": "Oronde Gadsden",
         "position": "TE",
@@ -232,6 +232,12 @@
         "name": "Isaac TeSlaa",
         "position": "WR",
         "team": "DET"
+      },
+      {
+        "player_id": "12545",
+        "name": "Tyler Shough",
+        "position": "QB",
+        "team": "NO"
       },
       {
         "player_id": "13293",
@@ -256,18 +262,6 @@
         "name": "Cooper Kupp",
         "position": "WR",
         "team": "SEA"
-      },
-      {
-        "player_id": "4983",
-        "name": "DJ Moore",
-        "position": "WR",
-        "team": "BUF"
-      },
-      {
-        "player_id": "4984",
-        "name": "Josh Allen",
-        "position": "QB",
-        "team": "BUF"
       },
       {
         "player_id": "5947",
@@ -298,6 +292,12 @@
         "name": "Dontayvion Wicks",
         "position": "WR",
         "team": "PHI"
+      },
+      {
+        "player_id": "9501",
+        "name": "DeMario Douglas",
+        "position": "WR",
+        "team": "NE"
       }
     ],
     "taxi": [
@@ -509,10 +509,10 @@
           "team": "ARI"
         },
         {
-          "player_id": "8136",
-          "name": "Rachaad White",
+          "player_id": "7021",
+          "name": "Rico Dowdle",
           "position": "RB",
-          "team": "WAS"
+          "team": "PIT"
         },
         {
           "player_id": "8228",
@@ -533,10 +533,10 @@
           "team": "TB"
         },
         {
-          "player_id": "7526",
-          "name": "Jaylen Waddle",
+          "player_id": "9756",
+          "name": "Jordan Addison",
           "position": "WR",
-          "team": "DEN"
+          "team": "MIN"
         },
         {
           "player_id": "8130",
@@ -545,10 +545,10 @@
           "team": "ARI"
         },
         {
-          "player_id": "3271",
-          "name": "Tyler Higbee",
-          "position": "TE",
-          "team": "LAR"
+          "player_id": "8136",
+          "name": "Rachaad White",
+          "position": "RB",
+          "team": "WAS"
         },
         {
           "player_id": "4881",
@@ -595,6 +595,12 @@
           "team": "TEN"
         },
         {
+          "player_id": "3271",
+          "name": "Tyler Higbee",
+          "position": "TE",
+          "team": "LAR"
+        },
+        {
           "player_id": "4454",
           "name": "Kendrick Bourne",
           "position": "WR",
@@ -619,16 +625,16 @@
           "team": "CLE"
         },
         {
-          "player_id": "7021",
-          "name": "Rico Dowdle",
-          "position": "RB",
-          "team": "PIT"
-        },
-        {
           "player_id": "7525",
           "name": "DeVonta Smith",
           "position": "WR",
           "team": "PHI"
+        },
+        {
+          "player_id": "7526",
+          "name": "Jaylen Waddle",
+          "position": "WR",
+          "team": "DEN"
         },
         {
           "player_id": "8161",
@@ -641,12 +647,6 @@
           "name": "Sean Tucker",
           "position": "RB",
           "team": "TB"
-        },
-        {
-          "player_id": "9756",
-          "name": "Jordan Addison",
-          "position": "WR",
-          "team": "MIN"
         }
       ],
       "taxi": [
@@ -1041,10 +1041,10 @@
       "rank": 7,
       "starters": [
         {
-          "player_id": "12545",
-          "name": "Tyler Shough",
+          "player_id": "4984",
+          "name": "Josh Allen",
           "position": "QB",
-          "team": "NO"
+          "team": "BUF"
         },
         {
           "player_id": "6790",
@@ -1059,10 +1059,10 @@
           "team": "TB"
         },
         {
-          "player_id": "9501",
-          "name": "DeMario Douglas",
+          "player_id": "10213",
+          "name": "Tre Tucker",
           "position": "WR",
-          "team": "NE"
+          "team": "LV"
         },
         {
           "player_id": "7564",
@@ -1071,10 +1071,10 @@
           "team": "CIN"
         },
         {
-          "player_id": "11834",
-          "name": "Devaughn Vele",
+          "player_id": "4983",
+          "name": "DJ Moore",
           "position": "WR",
-          "team": "NO"
+          "team": "BUF"
         },
         {
           "player_id": "11604",
@@ -1097,12 +1097,6 @@
       ],
       "bench": [
         {
-          "player_id": "10213",
-          "name": "Tre Tucker",
-          "position": "WR",
-          "team": "LV"
-        },
-        {
           "player_id": "11630",
           "name": "Roman Wilson",
           "position": "WR",
@@ -1115,6 +1109,12 @@
           "team": "MIA"
         },
         {
+          "player_id": "11834",
+          "name": "Devaughn Vele",
+          "position": "WR",
+          "team": "NO"
+        },
+        {
           "player_id": "12493",
           "name": "Oronde Gadsden",
           "position": "TE",
@@ -1125,6 +1125,12 @@
           "name": "Isaac TeSlaa",
           "position": "WR",
           "team": "DET"
+        },
+        {
+          "player_id": "12545",
+          "name": "Tyler Shough",
+          "position": "QB",
+          "team": "NO"
         },
         {
           "player_id": "13293",
@@ -1149,18 +1155,6 @@
           "name": "Cooper Kupp",
           "position": "WR",
           "team": "SEA"
-        },
-        {
-          "player_id": "4983",
-          "name": "DJ Moore",
-          "position": "WR",
-          "team": "BUF"
-        },
-        {
-          "player_id": "4984",
-          "name": "Josh Allen",
-          "position": "QB",
-          "team": "BUF"
         },
         {
           "player_id": "5947",
@@ -1191,6 +1185,12 @@
           "name": "Dontayvion Wicks",
           "position": "WR",
           "team": "PHI"
+        },
+        {
+          "player_id": "9501",
+          "name": "DeMario Douglas",
+          "position": "WR",
+          "team": "NE"
         }
       ],
       "taxi": [
@@ -1997,7 +1997,7 @@
           "player_id": "11199",
           "name": "Emari Demercado",
           "position": "RB",
-          "team": "DAL"
+          "team": "FA"
         },
         {
           "player_id": "11627",
@@ -2812,10 +2812,10 @@
           "team": "ATL"
         },
         {
-          "player_id": "12048",
-          "name": "George Holani",
+          "player_id": "12490",
+          "name": "Bhayshul Tuten",
           "position": "RB",
-          "team": "SEA"
+          "team": "JAX"
         },
         {
           "player_id": "9997",
@@ -2868,16 +2868,16 @@
           "team": "CAR"
         },
         {
+          "player_id": "12048",
+          "name": "George Holani",
+          "position": "RB",
+          "team": "SEA"
+        },
+        {
           "player_id": "12471",
           "name": "DJ Giddens",
           "position": "RB",
           "team": "IND"
-        },
-        {
-          "player_id": "12490",
-          "name": "Bhayshul Tuten",
-          "position": "RB",
-          "team": "JAX"
         },
         {
           "player_id": "12534",
@@ -2934,12 +2934,6 @@
           "team": "BUF"
         },
         {
-          "player_id": "5927",
-          "name": "Terry McLaurin",
-          "position": "WR",
-          "team": "WAS"
-        },
-        {
           "player_id": "8155",
           "name": "Breece Hall",
           "position": "RB",
@@ -2967,6 +2961,12 @@
         }
       ],
       "reserve": [
+        {
+          "player_id": "5927",
+          "name": "Terry McLaurin",
+          "position": "WR",
+          "team": "WAS"
+        },
         {
           "player_id": "8142",
           "name": "Alec Pierce",
