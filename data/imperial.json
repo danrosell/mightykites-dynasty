@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-27T23:50:09.442Z",
+  "generated_at": "2026-10-28T05:53:53.606Z",
   "source": "Sleeper public API",
   "username": "TheMightyKites",
   "nfl_week": 8,
@@ -2128,12 +2128,6 @@
           "team": "JAX"
         },
         {
-          "player_id": "12505",
-          "name": "Jalen Royals",
-          "position": "WR",
-          "team": "KC"
-        },
-        {
           "player_id": "4892",
           "name": "Baker Mayfield",
           "position": "QB",
@@ -2298,16 +2292,10 @@
           "team": "IND"
         },
         {
-          "player_id": "12521",
-          "name": "Elijah Arroyo",
-          "position": "TE",
-          "team": "SEA"
-        },
-        {
-          "player_id": "6826",
-          "name": "Cole Kmet",
-          "position": "TE",
-          "team": "CHI"
+          "player_id": "9502",
+          "name": "Tank Dell",
+          "position": "WR",
+          "team": "HOU"
         }
       ],
       "taxi": [
@@ -2332,10 +2320,16 @@
       ],
       "reserve": [
         {
-          "player_id": "9502",
-          "name": "Tank Dell",
-          "position": "WR",
-          "team": "HOU"
+          "player_id": "12521",
+          "name": "Elijah Arroyo",
+          "position": "TE",
+          "team": "SEA"
+        },
+        {
+          "player_id": "6826",
+          "name": "Cole Kmet",
+          "position": "TE",
+          "team": "CHI"
         }
       ],
       "picks": [

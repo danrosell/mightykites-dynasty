@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-27T23:50:09.900Z",
+  "generated_at": "2026-10-28T05:53:54.357Z",
   "source": "Sleeper public API",
   "username": "TheMightyKites",
   "nfl_week": 8,
@@ -512,10 +512,10 @@
       "rank": 9,
       "starters": [
         {
-          "player_id": "4892",
-          "name": "Baker Mayfield",
+          "player_id": "5870",
+          "name": "Daniel Jones",
           "position": "QB",
-          "team": "TB"
+          "team": "IND"
         },
         {
           "player_id": "8228",
@@ -524,10 +524,10 @@
           "team": "PIT"
         },
         {
-          "player_id": "9757",
-          "name": "Kendre Miller",
+          "player_id": "5850",
+          "name": "Josh Jacobs",
           "position": "RB",
-          "team": "NO"
+          "team": "GB"
         },
         {
           "player_id": "6794",
@@ -554,22 +554,22 @@
           "team": "PIT"
         },
         {
-          "player_id": "8130",
-          "name": "Trey McBride",
-          "position": "TE",
-          "team": "ARI"
-        },
-        {
           "player_id": "11584",
           "name": "Bucky Irving",
           "position": "RB",
           "team": "TB"
         },
         {
-          "player_id": "5850",
-          "name": "Josh Jacobs",
-          "position": "RB",
-          "team": "GB"
+          "player_id": "12514",
+          "name": "Emeka Egbuka",
+          "position": "WR",
+          "team": "TB"
+        },
+        {
+          "player_id": "9500",
+          "name": "Josh Downs",
+          "position": "WR",
+          "team": "IND"
         }
       ],
       "bench": [
@@ -592,28 +592,22 @@
           "team": "NYG"
         },
         {
-          "player_id": "12514",
-          "name": "Emeka Egbuka",
+          "player_id": "12547",
+          "name": "Kyle Williams",
           "position": "WR",
-          "team": "TB"
+          "team": "NE"
         },
         {
-          "player_id": "2078",
-          "name": "Odell Beckham Jr.",
-          "position": "WR",
-          "team": "MIN"
+          "player_id": "2306",
+          "name": "Jameis Winston",
+          "position": "QB",
+          "team": "NYG"
         },
         {
           "player_id": "3161",
           "name": "Carson Wentz",
           "position": "QB",
           "team": "MIN"
-        },
-        {
-          "player_id": "5870",
-          "name": "Daniel Jones",
-          "position": "QB",
-          "team": "IND"
         },
         {
           "player_id": "7021",
@@ -626,6 +620,12 @@
           "name": "Pierre Strong Jr.",
           "position": "RB",
           "team": "GB"
+        },
+        {
+          "player_id": "8131",
+          "name": "Isaiah Likely",
+          "position": "TE",
+          "team": "NYG"
         },
         {
           "player_id": "8154",
@@ -652,10 +652,10 @@
           "team": "DEN"
         },
         {
-          "player_id": "9500",
-          "name": "Josh Downs",
-          "position": "WR",
-          "team": "IND"
+          "player_id": "9757",
+          "name": "Kendre Miller",
+          "position": "RB",
+          "team": "NO"
         }
       ],
       "taxi": [
@@ -702,6 +702,13 @@
         },
         {
           "season": "2027",
+          "round": 1,
+          "original_roster_id": 9,
+          "original_team": "KC & The Young Studs",
+          "is_own": false
+        },
+        {
+          "season": "2027",
           "round": 2,
           "original_roster_id": 1,
           "original_team": "Tenacious D",
@@ -710,8 +717,22 @@
         {
           "season": "2027",
           "round": 3,
+          "original_roster_id": 5,
+          "original_team": "Golden Kupp",
+          "is_own": false
+        },
+        {
+          "season": "2027",
+          "round": 3,
           "original_roster_id": 11,
           "original_team": "Vrabels Secret Family",
+          "is_own": false
+        },
+        {
+          "season": "2028",
+          "round": 1,
+          "original_roster_id": 9,
+          "original_team": "KC & The Young Studs",
           "is_own": false
         },
         {
@@ -1333,7 +1354,7 @@
       "record": "8-6",
       "wins": 8,
       "losses": 6,
-      "points_for": 900.02,
+      "points_for": 899.92,
       "rank": 7,
       "starters": [
         {
@@ -2693,22 +2714,22 @@
           "team": "ATL"
         },
         {
-          "player_id": "9501",
-          "name": "DeMario Douglas",
+          "player_id": "2449",
+          "name": "Stefon Diggs",
           "position": "WR",
-          "team": "NE"
+          "team": "WAS"
         },
         {
-          "player_id": "4037",
-          "name": "Chris Godwin Jr.",
+          "player_id": "1479",
+          "name": "Keenan Allen",
           "position": "WR",
-          "team": "TB"
+          "team": "IND"
         },
         {
-          "player_id": "8131",
-          "name": "Isaiah Likely",
+          "player_id": "8130",
+          "name": "Trey McBride",
           "position": "TE",
-          "team": "NYG"
+          "team": "ARI"
         },
         {
           "player_id": "4866",
@@ -2731,12 +2752,6 @@
       ],
       "bench": [
         {
-          "player_id": "1479",
-          "name": "Keenan Allen",
-          "position": "WR",
-          "team": "IND"
-        },
-        {
           "player_id": "19",
           "name": "Joe Flacco",
           "position": "QB",
@@ -2749,21 +2764,9 @@
           "team": "SF"
         },
         {
-          "player_id": "2306",
-          "name": "Jameis Winston",
-          "position": "QB",
-          "team": "NYG"
-        },
-        {
           "player_id": "2307",
           "name": "Marcus Mariota",
           "position": "QB",
-          "team": "WAS"
-        },
-        {
-          "player_id": "2449",
-          "name": "Stefon Diggs",
-          "position": "WR",
           "team": "WAS"
         },
         {
@@ -2771,6 +2774,18 @@
           "name": "Darren Waller",
           "position": "TE",
           "team": "CAR"
+        },
+        {
+          "player_id": "4037",
+          "name": "Chris Godwin Jr.",
+          "position": "WR",
+          "team": "TB"
+        },
+        {
+          "player_id": "4892",
+          "name": "Baker Mayfield",
+          "position": "QB",
+          "team": "TB"
         },
         {
           "player_id": "5012",
@@ -2809,6 +2824,12 @@
           "team": "LV"
         },
         {
+          "player_id": "9501",
+          "name": "DeMario Douglas",
+          "position": "WR",
+          "team": "NE"
+        },
+        {
           "player_id": "9753",
           "name": "Zach Charbonnet",
           "position": "RB",
@@ -2821,12 +2842,6 @@
           "name": "Tory Horton",
           "position": "WR",
           "team": "SEA"
-        },
-        {
-          "player_id": "12547",
-          "name": "Kyle Williams",
-          "position": "WR",
-          "team": "NE"
         },
         {
           "player_id": "13337",
@@ -2870,27 +2885,6 @@
           "original_roster_id": 14,
           "original_team": "James Jones #1 WR",
           "is_own": false
-        },
-        {
-          "season": "2027",
-          "round": 1,
-          "original_roster_id": 9,
-          "original_team": "KC & The Young Studs",
-          "is_own": true
-        },
-        {
-          "season": "2027",
-          "round": 3,
-          "original_roster_id": 5,
-          "original_team": "Golden Kupp",
-          "is_own": false
-        },
-        {
-          "season": "2028",
-          "round": 1,
-          "original_roster_id": 9,
-          "original_team": "KC & The Young Studs",
-          "is_own": true
         },
         {
           "season": "2028",
