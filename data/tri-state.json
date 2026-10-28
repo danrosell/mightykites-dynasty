@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-28T05:53:55.645Z",
+  "generated_at": "2026-10-28T13:10:47.640Z",
   "source": "Sleeper public API",
   "username": "TheMightyKites",
   "nfl_week": 8,
@@ -58,10 +58,10 @@
       "trade_review_days": 0,
       "bench_lock": 0,
       "offseason_adds": 1,
-      "leg": 7,
+      "leg": 8,
       "reserve_slots": 3,
       "reserve_allow_cov": 1,
-      "daily_waivers_last_ran": 27
+      "daily_waivers_last_ran": 28
     },
     "scoring_settings": {
       "sack": 2,
@@ -1402,6 +1402,12 @@
           "name": "Tre' Harris",
           "position": "WR",
           "team": "LAC"
+        },
+        {
+          "player_id": "12547",
+          "name": "Kyle Williams",
+          "position": "WR",
+          "team": "NE"
         },
         {
           "player_id": "12718",

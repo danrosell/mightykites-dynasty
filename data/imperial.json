@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-28T05:53:53.606Z",
+  "generated_at": "2026-10-28T13:10:46.583Z",
   "source": "Sleeper public API",
   "username": "TheMightyKites",
   "nfl_week": 8,
@@ -58,7 +58,7 @@
       "trade_review_days": 0,
       "bench_lock": 0,
       "offseason_adds": 0,
-      "leg": 7,
+      "leg": 8,
       "reserve_slots": 3,
       "reserve_allow_cov": 0,
       "daily_waivers_last_ran": 27
@@ -2635,10 +2635,10 @@
           "team": "CIN"
         },
         {
-          "player_id": "8180",
-          "name": "Jalen Nailor",
+          "player_id": "7525",
+          "name": "DeVonta Smith",
           "position": "WR",
-          "team": "LV"
+          "team": "PHI"
         },
         {
           "player_id": "8126",
@@ -2653,10 +2653,10 @@
           "team": "LV"
         },
         {
-          "player_id": "12481",
-          "name": "Cam Skattebo",
-          "position": "RB",
-          "team": "NYG"
+          "player_id": "8180",
+          "name": "Jalen Nailor",
+          "position": "WR",
+          "team": "LV"
         },
         {
           "player_id": "1466",
@@ -2679,6 +2679,12 @@
           "team": "CLE"
         },
         {
+          "player_id": "12481",
+          "name": "Cam Skattebo",
+          "position": "RB",
+          "team": "NYG"
+        },
+        {
           "player_id": "13288",
           "name": "Nicholas Singleton",
           "position": "RB",
@@ -2689,12 +2695,6 @@
           "name": "Deebo Samuel Sr.",
           "position": "WR",
           "team": "SF"
-        },
-        {
-          "player_id": "7525",
-          "name": "DeVonta Smith",
-          "position": "WR",
-          "team": "PHI"
         },
         {
           "player_id": "9754",

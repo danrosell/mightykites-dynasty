@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-28T05:53:54.357Z",
+  "generated_at": "2026-10-28T13:10:46.950Z",
   "source": "Sleeper public API",
   "username": "TheMightyKites",
   "nfl_week": 8,
@@ -57,7 +57,7 @@
       "trade_review_days": 0,
       "bench_lock": 1,
       "offseason_adds": 1,
-      "leg": 7,
+      "leg": 8,
       "daily_waivers_base": 4,
       "reserve_slots": 2,
       "reserve_allow_cov": 1,
@@ -3773,16 +3773,16 @@
       "rank": 2,
       "starters": [
         {
-          "player_id": "4943",
-          "name": "Sam Darnold",
+          "player_id": "4984",
+          "name": "Josh Allen",
           "position": "QB",
-          "team": "SEA"
+          "team": "BUF"
         },
         {
-          "player_id": "4034",
-          "name": "Christian McCaffrey",
+          "player_id": "8150",
+          "name": "Kyren Williams",
           "position": "RB",
-          "team": "SF"
+          "team": "LAR"
         },
         {
           "player_id": "7594",
@@ -3791,34 +3791,16 @@
           "team": "CAR"
         },
         {
-          "player_id": "5859",
-          "name": "A.J. Brown",
-          "position": "WR",
-          "team": "NE"
-        },
-        {
           "player_id": "9488",
           "name": "Jaxon Smith-Njigba",
           "position": "WR",
           "team": "SEA"
         },
         {
-          "player_id": "7569",
-          "name": "Nico Collins",
+          "player_id": "5859",
+          "name": "A.J. Brown",
           "position": "WR",
-          "team": "HOU"
-        },
-        {
-          "player_id": "7002",
-          "name": "Juwan Johnson",
-          "position": "TE",
-          "team": "NO"
-        },
-        {
-          "player_id": "8150",
-          "name": "Kyren Williams",
-          "position": "RB",
-          "team": "LAR"
+          "team": "NE"
         },
         {
           "player_id": "5846",
@@ -3831,6 +3813,24 @@
           "name": "Dallas Goedert",
           "position": "TE",
           "team": "PHI"
+        },
+        {
+          "player_id": "4983",
+          "name": "DJ Moore",
+          "position": "WR",
+          "team": "BUF"
+        },
+        {
+          "player_id": "11783",
+          "name": "Ryan Flournoy",
+          "position": "WR",
+          "team": "DAL"
+        },
+        {
+          "player_id": "4881",
+          "name": "Lamar Jackson",
+          "position": "QB",
+          "team": "BAL"
         }
       ],
       "bench": [
@@ -3851,12 +3851,6 @@
           "name": "Isaiah Davis",
           "position": "RB",
           "team": "NYJ"
-        },
-        {
-          "player_id": "11783",
-          "name": "Ryan Flournoy",
-          "position": "WR",
-          "team": "DAL"
         },
         {
           "player_id": "12493",
@@ -3883,28 +3877,34 @@
           "team": "PHI"
         },
         {
-          "player_id": "4881",
-          "name": "Lamar Jackson",
-          "position": "QB",
-          "team": "BAL"
+          "player_id": "4034",
+          "name": "Christian McCaffrey",
+          "position": "RB",
+          "team": "SF"
         },
         {
-          "player_id": "4983",
-          "name": "DJ Moore",
-          "position": "WR",
-          "team": "BUF"
-        },
-        {
-          "player_id": "4984",
-          "name": "Josh Allen",
+          "player_id": "4943",
+          "name": "Sam Darnold",
           "position": "QB",
-          "team": "BUF"
+          "team": "SEA"
         },
         {
           "player_id": "5906",
           "name": "Dawson Knox",
           "position": "TE",
           "team": "BUF"
+        },
+        {
+          "player_id": "7002",
+          "name": "Juwan Johnson",
+          "position": "TE",
+          "team": "NO"
+        },
+        {
+          "player_id": "7569",
+          "name": "Nico Collins",
+          "position": "WR",
+          "team": "HOU"
         },
         {
           "player_id": "8155",
