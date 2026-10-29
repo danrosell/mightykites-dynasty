@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-29T19:01:29.622Z",
+  "generated_at": "2026-10-29T23:22:18.967Z",
   "source": "Sleeper public API",
   "username": "TheMightyKites",
   "nfl_week": 8,
@@ -1879,10 +1879,10 @@
           "team": "CLE"
         },
         {
-          "player_id": "13424",
-          "name": "Seth McGowan",
+          "player_id": "8136",
+          "name": "Rachaad White",
           "position": "RB",
-          "team": "IND"
+          "team": "WAS"
         },
         {
           "player_id": "9487",
@@ -1941,16 +1941,16 @@
           "team": "MIN"
         },
         {
+          "player_id": "13424",
+          "name": "Seth McGowan",
+          "position": "RB",
+          "team": "IND"
+        },
+        {
           "player_id": "7527",
           "name": "Mac Jones",
           "position": "QB",
           "team": "SF"
-        },
-        {
-          "player_id": "8136",
-          "name": "Rachaad White",
-          "position": "RB",
-          "team": "WAS"
         }
       ],
       "taxi": [
@@ -2128,10 +2128,10 @@
           "team": "TB"
         },
         {
-          "player_id": "4981",
-          "name": "Calvin Ridley",
+          "player_id": "4983",
+          "name": "DJ Moore",
           "position": "WR",
-          "team": "TEN"
+          "team": "BUF"
         },
         {
           "player_id": "4984",
@@ -2167,12 +2167,6 @@
         }
       ],
       "reserve": [
-        {
-          "player_id": "4983",
-          "name": "DJ Moore",
-          "position": "WR",
-          "team": "BUF"
-        },
         {
           "player_id": "8154",
           "name": "Brian Robinson Jr.",
@@ -2659,10 +2653,10 @@
           "team": "LV"
         },
         {
-          "player_id": "8180",
-          "name": "Jalen Nailor",
+          "player_id": "9754",
+          "name": "Quentin Johnston",
           "position": "WR",
-          "team": "LV"
+          "team": "LAC"
         },
         {
           "player_id": "1466",
@@ -2703,10 +2697,10 @@
           "team": "SF"
         },
         {
-          "player_id": "9754",
-          "name": "Quentin Johnston",
+          "player_id": "8180",
+          "name": "Jalen Nailor",
           "position": "WR",
-          "team": "LAC"
+          "team": "LV"
         }
       ],
       "taxi": [

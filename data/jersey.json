@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-29T19:01:30.511Z",
+  "generated_at": "2026-10-29T23:22:19.836Z",
   "source": "Sleeper public API",
   "username": "TheMightyKites",
   "nfl_week": 8,
@@ -1136,10 +1136,10 @@
           "team": "DEN"
         },
         {
-          "player_id": "12491",
-          "name": "Corey Kiner",
+          "player_id": "12534",
+          "name": "Kyle Monangai",
           "position": "RB",
-          "team": "NE"
+          "team": "CHI"
         },
         {
           "player_id": "12514",
@@ -1228,16 +1228,16 @@
           "team": "CLE"
         },
         {
+          "player_id": "12491",
+          "name": "Corey Kiner",
+          "position": "RB",
+          "team": "NE"
+        },
+        {
           "player_id": "12522",
           "name": "Cam Ward",
           "position": "QB",
           "team": "TEN"
-        },
-        {
-          "player_id": "12534",
-          "name": "Kyle Monangai",
-          "position": "RB",
-          "team": "CHI"
         },
         {
           "player_id": "13288",
@@ -1532,10 +1532,10 @@
           "team": "JAX"
         },
         {
-          "player_id": "6806",
-          "name": "J.K. Dobbins",
-          "position": "RB",
-          "team": "DEN"
+          "player_id": "2505",
+          "name": "Darren Waller",
+          "position": "TE",
+          "team": "CAR"
         }
       ],
       "bench": [
@@ -1606,12 +1606,6 @@
           "team": "NYG"
         },
         {
-          "player_id": "2505",
-          "name": "Darren Waller",
-          "position": "TE",
-          "team": "CAR"
-        },
-        {
           "player_id": "4351",
           "name": "Tim Patrick",
           "position": "WR",
@@ -1634,6 +1628,12 @@
           "name": "Miles Sanders",
           "position": "RB",
           "team": "FA"
+        },
+        {
+          "player_id": "6806",
+          "name": "J.K. Dobbins",
+          "position": "RB",
+          "team": "DEN"
         },
         {
           "player_id": "7561",
@@ -3034,10 +3034,10 @@
       "rank": 7,
       "starters": [
         {
-          "player_id": "9758",
-          "name": "C.J. Stroud",
+          "player_id": "4943",
+          "name": "Sam Darnold",
           "position": "QB",
-          "team": "HOU"
+          "team": "SEA"
         },
         {
           "player_id": "9509",
@@ -3070,10 +3070,10 @@
           "team": "DEN"
         },
         {
-          "player_id": "4217",
-          "name": "George Kittle",
+          "player_id": "11603",
+          "name": "AJ Barner",
           "position": "TE",
-          "team": "SF"
+          "team": "SEA"
         },
         {
           "player_id": "13294",
@@ -3082,10 +3082,10 @@
           "team": "PHI"
         },
         {
-          "player_id": "5001",
-          "name": "Dalton Schultz",
-          "position": "TE",
-          "team": "HOU"
+          "player_id": "7525",
+          "name": "DeVonta Smith",
+          "position": "WR",
+          "team": "PHI"
         }
       ],
       "bench": [
@@ -3100,12 +3100,6 @@
           "name": "Chris Brooks",
           "position": "RB",
           "team": "GB"
-        },
-        {
-          "player_id": "11603",
-          "name": "AJ Barner",
-          "position": "TE",
-          "team": "SEA"
         },
         {
           "player_id": "11629",
@@ -3150,16 +3144,22 @@
           "team": "DAL"
         },
         {
+          "player_id": "4217",
+          "name": "George Kittle",
+          "position": "TE",
+          "team": "SF"
+        },
+        {
           "player_id": "4381",
           "name": "Taysom Hill",
           "position": "TE",
           "team": "FA"
         },
         {
-          "player_id": "4943",
-          "name": "Sam Darnold",
-          "position": "QB",
-          "team": "SEA"
+          "player_id": "5001",
+          "name": "Dalton Schultz",
+          "position": "TE",
+          "team": "HOU"
         },
         {
           "player_id": "5955",
@@ -3186,12 +3186,6 @@
           "team": "IND"
         },
         {
-          "player_id": "7525",
-          "name": "DeVonta Smith",
-          "position": "WR",
-          "team": "PHI"
-        },
-        {
           "player_id": "7543",
           "name": "Travis Etienne Jr.",
           "position": "RB",
@@ -3207,6 +3201,12 @@
           "player_id": "9502",
           "name": "Tank Dell",
           "position": "WR",
+          "team": "HOU"
+        },
+        {
+          "player_id": "9758",
+          "name": "C.J. Stroud",
+          "position": "QB",
           "team": "HOU"
         }
       ],

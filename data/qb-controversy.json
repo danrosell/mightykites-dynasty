@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-29T19:01:30.155Z",
+  "generated_at": "2026-10-29T23:22:19.421Z",
   "source": "Sleeper public API",
   "username": "TheMightyKites",
   "nfl_week": 8,
@@ -203,10 +203,10 @@
         "team": "JAX"
       },
       {
-        "player_id": "13345",
-        "name": "Jonah Coleman",
-        "position": "RB",
-        "team": "DEN"
+        "player_id": "12498",
+        "name": "Mason Taylor",
+        "position": "TE",
+        "team": "NYJ"
       }
     ],
     "bench": [
@@ -241,12 +241,6 @@
         "team": "NE"
       },
       {
-        "player_id": "12498",
-        "name": "Mason Taylor",
-        "position": "TE",
-        "team": "NYJ"
-      },
-      {
         "player_id": "12541",
         "name": "Dont'e Thornton Jr.",
         "position": "WR",
@@ -269,6 +263,12 @@
         "name": "Mike Washington Jr.",
         "position": "RB",
         "team": "LV"
+      },
+      {
+        "player_id": "13345",
+        "name": "Jonah Coleman",
+        "position": "RB",
+        "team": "DEN"
       },
       {
         "player_id": "13425",
@@ -2478,10 +2478,10 @@
           "team": "JAX"
         },
         {
-          "player_id": "13345",
-          "name": "Jonah Coleman",
-          "position": "RB",
-          "team": "DEN"
+          "player_id": "12498",
+          "name": "Mason Taylor",
+          "position": "TE",
+          "team": "NYJ"
         }
       ],
       "bench": [
@@ -2516,12 +2516,6 @@
           "team": "NE"
         },
         {
-          "player_id": "12498",
-          "name": "Mason Taylor",
-          "position": "TE",
-          "team": "NYJ"
-        },
-        {
           "player_id": "12541",
           "name": "Dont'e Thornton Jr.",
           "position": "WR",
@@ -2544,6 +2538,12 @@
           "name": "Mike Washington Jr.",
           "position": "RB",
           "team": "LV"
+        },
+        {
+          "player_id": "13345",
+          "name": "Jonah Coleman",
+          "position": "RB",
+          "team": "DEN"
         },
         {
           "player_id": "13425",
