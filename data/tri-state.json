@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-29T13:17:00.608Z",
+  "generated_at": "2026-10-29T19:01:30.817Z",
   "source": "Sleeper public API",
   "username": "TheMightyKites",
   "nfl_week": 8,
@@ -3085,10 +3085,10 @@
           "team": "BUF"
         },
         {
-          "player_id": "4866",
-          "name": "Saquon Barkley",
+          "player_id": "7611",
+          "name": "Rhamondre Stevenson",
           "position": "RB",
-          "team": "PHI"
+          "team": "NE"
         },
         {
           "player_id": "12501",
@@ -3183,6 +3183,12 @@
           "team": "MIN"
         },
         {
+          "player_id": "4866",
+          "name": "Saquon Barkley",
+          "position": "RB",
+          "team": "PHI"
+        },
+        {
           "player_id": "4892",
           "name": "Baker Mayfield",
           "position": "QB",
@@ -3199,12 +3205,6 @@
           "name": "Nico Collins",
           "position": "WR",
           "team": "HOU"
-        },
-        {
-          "player_id": "7611",
-          "name": "Rhamondre Stevenson",
-          "position": "RB",
-          "team": "NE"
         },
         {
           "player_id": "8131",
