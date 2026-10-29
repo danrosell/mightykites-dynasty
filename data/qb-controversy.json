@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-28T23:18:29.484Z",
+  "generated_at": "2026-10-29T05:58:16.594Z",
   "source": "Sleeper public API",
   "username": "TheMightyKites",
   "nfl_week": 8,
@@ -808,10 +808,10 @@
           "team": "CIN"
         },
         {
-          "player_id": "2197",
-          "name": "Brandin Cooks",
+          "player_id": "9487",
+          "name": "Parker Washington",
           "position": "WR",
-          "team": "SF"
+          "team": "JAX"
         },
         {
           "player_id": "5045",
@@ -826,10 +826,10 @@
           "team": "GB"
         },
         {
-          "player_id": "4217",
-          "name": "George Kittle",
+          "player_id": "11593",
+          "name": "Brevyn Spann-Ford",
           "position": "TE",
-          "team": "SF"
+          "team": "DAL"
         },
         {
           "player_id": "13330",
@@ -846,12 +846,6 @@
       ],
       "bench": [
         {
-          "player_id": "11593",
-          "name": "Brevyn Spann-Ford",
-          "position": "TE",
-          "team": "DAL"
-        },
-        {
           "player_id": "12048",
           "name": "George Holani",
           "position": "RB",
@@ -864,6 +858,12 @@
           "team": "BAL"
         },
         {
+          "player_id": "2197",
+          "name": "Brandin Cooks",
+          "position": "WR",
+          "team": "SF"
+        },
+        {
           "player_id": "3257",
           "name": "Jacoby Brissett",
           "position": "QB",
@@ -874,6 +874,12 @@
           "name": "Evan Engram",
           "position": "TE",
           "team": "DEN"
+        },
+        {
+          "player_id": "4217",
+          "name": "George Kittle",
+          "position": "TE",
+          "team": "SF"
         },
         {
           "player_id": "4219",
@@ -922,12 +928,6 @@
           "name": "Dameon Pierce",
           "position": "RB",
           "team": "PHI"
-        },
-        {
-          "player_id": "9487",
-          "name": "Parker Washington",
-          "position": "WR",
-          "team": "JAX"
         }
       ],
       "taxi": [
@@ -3865,12 +3865,6 @@
           "team": "DET"
         },
         {
-          "player_id": "12536",
-          "name": "Jaylin Noel",
-          "position": "WR",
-          "team": "HOU"
-        },
-        {
           "player_id": "1339",
           "name": "Zach Ertz",
           "position": "TE",
@@ -3898,6 +3892,12 @@
           "player_id": "7002",
           "name": "Juwan Johnson",
           "position": "TE",
+          "team": "NO"
+        },
+        {
+          "player_id": "7543",
+          "name": "Travis Etienne Jr.",
+          "position": "RB",
           "team": "NO"
         },
         {
@@ -3941,10 +3941,10 @@
       ],
       "reserve": [
         {
-          "player_id": "7543",
-          "name": "Travis Etienne Jr.",
-          "position": "RB",
-          "team": "NO"
+          "player_id": "12536",
+          "name": "Jaylin Noel",
+          "position": "WR",
+          "team": "HOU"
         },
         {
           "player_id": "9225",

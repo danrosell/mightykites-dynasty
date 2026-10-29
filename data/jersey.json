@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-28T23:18:29.854Z",
+  "generated_at": "2026-10-29T05:58:17.097Z",
   "source": "Sleeper public API",
   "username": "TheMightyKites",
   "nfl_week": 8,
@@ -2404,16 +2404,16 @@
           "team": "BAL"
         },
         {
-          "player_id": "0",
-          "name": "0",
-          "position": "—",
-          "team": "FA"
+          "player_id": "8136",
+          "name": "Rachaad White",
+          "position": "RB",
+          "team": "WAS"
         },
         {
-          "player_id": "0",
-          "name": "0",
-          "position": "—",
-          "team": "FA"
+          "player_id": "8155",
+          "name": "Breece Hall",
+          "position": "RB",
+          "team": "NYJ"
         },
         {
           "player_id": "6794",
@@ -2446,10 +2446,10 @@
           "team": "KC"
         },
         {
-          "player_id": "0",
-          "name": "0",
-          "position": "—",
-          "team": "FA"
+          "player_id": "13298",
+          "name": "KC Concepcion Jr.",
+          "position": "WR",
+          "team": "CLE"
         }
       ],
       "bench": [
@@ -2470,12 +2470,6 @@
           "name": "Max Klare",
           "position": "TE",
           "team": "LAR"
-        },
-        {
-          "player_id": "13298",
-          "name": "KC Concepcion Jr.",
-          "position": "WR",
-          "team": "CLE"
         },
         {
           "player_id": "13320",
@@ -2566,18 +2560,6 @@
           "name": "Dameon Pierce",
           "position": "RB",
           "team": "PHI"
-        },
-        {
-          "player_id": "8136",
-          "name": "Rachaad White",
-          "position": "RB",
-          "team": "WAS"
-        },
-        {
-          "player_id": "8155",
-          "name": "Breece Hall",
-          "position": "RB",
-          "team": "NYJ"
         },
         {
           "player_id": "8183",
@@ -3048,7 +3030,7 @@
       "record": "3-4",
       "wins": 3,
       "losses": 4,
-      "points_for": 817.7,
+      "points_for": 816.7,
       "rank": 7,
       "starters": [
         {

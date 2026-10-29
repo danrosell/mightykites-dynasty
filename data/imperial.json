@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-28T23:18:29.054Z",
+  "generated_at": "2026-10-29T05:58:15.986Z",
   "source": "Sleeper public API",
   "username": "TheMightyKites",
   "nfl_week": 8,
@@ -1368,34 +1368,34 @@
           "team": "ARI"
         },
         {
-          "player_id": "8131",
-          "name": "Isaiah Likely",
-          "position": "TE",
-          "team": "NYG"
-        },
-        {
           "player_id": "8111",
           "name": "Cade Otton",
           "position": "TE",
           "team": "TB"
         },
         {
-          "player_id": "9500",
-          "name": "Josh Downs",
-          "position": "WR",
-          "team": "IND"
+          "player_id": "13287",
+          "name": "Jeremiyah Love",
+          "position": "RB",
+          "team": "ARI"
         },
         {
-          "player_id": "5870",
-          "name": "Daniel Jones",
+          "player_id": "9753",
+          "name": "Zach Charbonnet",
+          "position": "RB",
+          "team": "SEA"
+        },
+        {
+          "player_id": "11566",
+          "name": "Jayden Daniels",
           "position": "QB",
-          "team": "IND"
+          "team": "WAS"
         }
       ],
       "bench": [
         {
-          "player_id": "11566",
-          "name": "Jayden Daniels",
+          "player_id": "2307",
+          "name": "Marcus Mariota",
           "position": "QB",
           "team": "WAS"
         },
@@ -1406,22 +1406,22 @@
           "team": "SEA"
         },
         {
-          "player_id": "4718",
-          "name": "Dare Ogunbowale",
-          "position": "RB",
-          "team": "HOU"
+          "player_id": "5870",
+          "name": "Daniel Jones",
+          "position": "QB",
+          "team": "IND"
         },
         {
-          "player_id": "8116",
-          "name": "Pierre Strong Jr.",
-          "position": "RB",
-          "team": "GB"
+          "player_id": "8131",
+          "name": "Isaiah Likely",
+          "position": "TE",
+          "team": "NYG"
         },
         {
-          "player_id": "9753",
-          "name": "Zach Charbonnet",
-          "position": "RB",
-          "team": "SEA"
+          "player_id": "9500",
+          "name": "Josh Downs",
+          "position": "WR",
+          "team": "IND"
         }
       ],
       "taxi": [
@@ -1444,18 +1444,6 @@
           "name": "Pat Bryant",
           "position": "WR",
           "team": "DEN"
-        },
-        {
-          "player_id": "13287",
-          "name": "Jeremiyah Love",
-          "position": "RB",
-          "team": "ARI"
-        },
-        {
-          "player_id": "2307",
-          "name": "Marcus Mariota",
-          "position": "QB",
-          "team": "WAS"
         }
       ],
       "picks": [
@@ -1897,10 +1885,10 @@
           "team": "IND"
         },
         {
-          "player_id": "12519",
-          "name": "Luther Burden III",
+          "player_id": "9487",
+          "name": "Parker Washington",
           "position": "WR",
-          "team": "CHI"
+          "team": "JAX"
         },
         {
           "player_id": "10213",
@@ -1915,10 +1903,10 @@
           "team": "DET"
         },
         {
-          "player_id": "9487",
-          "name": "Parker Washington",
+          "player_id": "12519",
+          "name": "Luther Burden III",
           "position": "WR",
-          "team": "JAX"
+          "team": "CHI"
         },
         {
           "player_id": "12514",
@@ -2260,10 +2248,10 @@
           "team": "NYJ"
         },
         {
-          "player_id": "11834",
-          "name": "Devaughn Vele",
+          "player_id": "8148",
+          "name": "Jameson Williams",
           "position": "WR",
-          "team": "NO"
+          "team": "DET"
         },
         {
           "player_id": "9482",
@@ -2284,24 +2272,24 @@
           "team": "BAL"
         },
         {
-          "player_id": "8148",
-          "name": "Jameson Williams",
-          "position": "WR",
-          "team": "DET"
-        }
-      ],
-      "bench": [
-        {
           "player_id": "11647",
           "name": "Kimani Vidal",
           "position": "RB",
           "team": "LAC"
-        },
+        }
+      ],
+      "bench": [
         {
           "player_id": "11729",
           "name": "Sione Vaki",
           "position": "RB",
           "team": "DET"
+        },
+        {
+          "player_id": "11834",
+          "name": "Devaughn Vele",
+          "position": "WR",
+          "team": "NO"
         },
         {
           "player_id": "12471",
