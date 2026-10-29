@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-29T05:58:16.594Z",
+  "generated_at": "2026-10-29T13:16:59.776Z",
   "source": "Sleeper public API",
   "username": "TheMightyKites",
   "nfl_week": 8,
@@ -922,12 +922,6 @@
           "name": "Davis Mills",
           "position": "QB",
           "team": "HOU"
-        },
-        {
-          "player_id": "8129",
-          "name": "Dameon Pierce",
-          "position": "RB",
-          "team": "PHI"
         }
       ],
       "taxi": [
@@ -956,6 +950,12 @@
           "name": "Michael Pittman Jr.",
           "position": "WR",
           "team": "PIT"
+        },
+        {
+          "player_id": "8129",
+          "name": "Dameon Pierce",
+          "position": "RB",
+          "team": "PHI"
         }
       ],
       "picks": [
