@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-30T13:09:02.191Z",
+  "generated_at": "2026-10-30T18:39:55.884Z",
   "source": "Sleeper public API",
   "username": "TheMightyKites",
   "nfl_week": 8,
@@ -58,7 +58,7 @@
       "leg": 8,
       "reserve_slots": 2,
       "reserve_allow_cov": 0,
-      "daily_waivers_last_ran": 29
+      "daily_waivers_last_ran": 30
     },
     "scoring_settings": {
       "sack": 1,
@@ -4013,10 +4013,10 @@
           "team": "NYJ"
         },
         {
-          "player_id": "4039",
-          "name": "Cooper Kupp",
+          "player_id": "4983",
+          "name": "DJ Moore",
           "position": "WR",
-          "team": "SEA"
+          "team": "BUF"
         },
         {
           "player_id": "1466",
@@ -4087,16 +4087,16 @@
           "team": "DET"
         },
         {
+          "player_id": "4039",
+          "name": "Cooper Kupp",
+          "position": "WR",
+          "team": "SEA"
+        },
+        {
           "player_id": "4981",
           "name": "Calvin Ridley",
           "position": "WR",
           "team": "TEN"
-        },
-        {
-          "player_id": "4983",
-          "name": "DJ Moore",
-          "position": "WR",
-          "team": "BUF"
         },
         {
           "player_id": "5906",

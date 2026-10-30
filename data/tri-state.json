@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-30T13:09:02.473Z",
+  "generated_at": "2026-10-30T18:39:56.298Z",
   "source": "Sleeper public API",
   "username": "TheMightyKites",
   "nfl_week": 8,
@@ -3103,10 +3103,10 @@
           "team": "CAR"
         },
         {
-          "player_id": "12514",
-          "name": "Emeka Egbuka",
+          "player_id": "11637",
+          "name": "Keon Coleman",
           "position": "WR",
-          "team": "TB"
+          "team": "BUF"
         },
         {
           "player_id": "10236",
@@ -3153,12 +3153,6 @@
           "team": "NYG"
         },
         {
-          "player_id": "11637",
-          "name": "Keon Coleman",
-          "position": "WR",
-          "team": "BUF"
-        },
-        {
           "player_id": "12487",
           "name": "Terrance Ferguson",
           "position": "TE",
@@ -3169,6 +3163,12 @@
           "name": "RJ Harvey",
           "position": "RB",
           "team": "DEN"
+        },
+        {
+          "player_id": "12514",
+          "name": "Emeka Egbuka",
+          "position": "WR",
+          "team": "TB"
         },
         {
           "player_id": "12536",
