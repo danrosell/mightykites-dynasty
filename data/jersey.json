@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-30T18:39:55.884Z",
+  "generated_at": "2026-10-30T23:01:56.124Z",
   "source": "Sleeper public API",
   "username": "TheMightyKites",
   "nfl_week": 8,
@@ -3082,10 +3082,10 @@
           "team": "PHI"
         },
         {
-          "player_id": "7525",
-          "name": "DeVonta Smith",
+          "player_id": "12542",
+          "name": "Efton Chism III",
           "position": "WR",
-          "team": "PHI"
+          "team": "NE"
         }
       ],
       "bench": [
@@ -3124,12 +3124,6 @@
           "name": "Trevor Etienne",
           "position": "RB",
           "team": "CAR"
-        },
-        {
-          "player_id": "12542",
-          "name": "Efton Chism III",
-          "position": "WR",
-          "team": "NE"
         },
         {
           "player_id": "13275",
@@ -3184,6 +3178,12 @@
           "name": "Nick Westbrook-Ikhine",
           "position": "WR",
           "team": "IND"
+        },
+        {
+          "player_id": "7525",
+          "name": "DeVonta Smith",
+          "position": "WR",
+          "team": "PHI"
         },
         {
           "player_id": "7543",

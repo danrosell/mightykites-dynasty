@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-30T18:39:55.146Z",
+  "generated_at": "2026-10-30T23:01:55.165Z",
   "source": "Sleeper public API",
   "username": "TheMightyKites",
   "nfl_week": 8,
@@ -2444,10 +2444,10 @@
           "team": "GB"
         },
         {
-          "player_id": "12489",
-          "name": "RJ Harvey",
+          "player_id": "4147",
+          "name": "Samaje Perine",
           "position": "RB",
-          "team": "DEN"
+          "team": "CIN"
         },
         {
           "player_id": "7547",
@@ -2456,10 +2456,10 @@
           "team": "DET"
         },
         {
-          "player_id": "7569",
-          "name": "Nico Collins",
+          "player_id": "11610",
+          "name": "Malik Washington",
           "position": "WR",
-          "team": "HOU"
+          "team": "MIA"
         },
         {
           "player_id": "9484",
@@ -2468,10 +2468,10 @@
           "team": "GB"
         },
         {
-          "player_id": "11610",
-          "name": "Malik Washington",
+          "player_id": "8134",
+          "name": "Khalil Shakir",
           "position": "WR",
-          "team": "MIA"
+          "team": "BUF"
         },
         {
           "player_id": "4993",
@@ -2480,10 +2480,10 @@
           "team": "CIN"
         },
         {
-          "player_id": "8183",
-          "name": "Brock Purdy",
+          "player_id": "5849",
+          "name": "Kyler Murray",
           "position": "QB",
-          "team": "SF"
+          "team": "MIN"
         }
       ],
       "bench": [
@@ -2500,22 +2500,16 @@
           "team": "GB"
         },
         {
-          "player_id": "4147",
-          "name": "Samaje Perine",
-          "position": "RB",
-          "team": "CIN"
-        },
-        {
-          "player_id": "5849",
-          "name": "Kyler Murray",
-          "position": "QB",
-          "team": "MIN"
-        },
-        {
-          "player_id": "8134",
-          "name": "Khalil Shakir",
+          "player_id": "7569",
+          "name": "Nico Collins",
           "position": "WR",
-          "team": "BUF"
+          "team": "HOU"
+        },
+        {
+          "player_id": "8183",
+          "name": "Brock Purdy",
+          "position": "QB",
+          "team": "SF"
         }
       ],
       "taxi": [
@@ -2539,6 +2533,12 @@
         }
       ],
       "reserve": [
+        {
+          "player_id": "12489",
+          "name": "RJ Harvey",
+          "position": "RB",
+          "team": "DEN"
+        },
         {
           "player_id": "5892",
           "name": "David Montgomery",
@@ -2635,10 +2635,10 @@
           "team": "CIN"
         },
         {
-          "player_id": "7525",
-          "name": "DeVonta Smith",
+          "player_id": "9754",
+          "name": "Quentin Johnston",
           "position": "WR",
-          "team": "PHI"
+          "team": "LAC"
         },
         {
           "player_id": "8126",
@@ -2653,10 +2653,10 @@
           "team": "LV"
         },
         {
-          "player_id": "9754",
-          "name": "Quentin Johnston",
+          "player_id": "8180",
+          "name": "Jalen Nailor",
           "position": "WR",
-          "team": "LAC"
+          "team": "LV"
         },
         {
           "player_id": "1466",
@@ -2697,10 +2697,10 @@
           "team": "SF"
         },
         {
-          "player_id": "8180",
-          "name": "Jalen Nailor",
+          "player_id": "7525",
+          "name": "DeVonta Smith",
           "position": "WR",
-          "team": "LV"
+          "team": "PHI"
         }
       ],
       "taxi": [
@@ -3170,10 +3170,10 @@
           "team": "BUF"
         },
         {
-          "player_id": "12718",
-          "name": "Konata Mumpfield",
+          "player_id": "10229",
+          "name": "Rashee Rice",
           "position": "WR",
-          "team": "LAR"
+          "team": "KC"
         },
         {
           "player_id": "4217",
@@ -3202,12 +3202,6 @@
       ],
       "bench": [
         {
-          "player_id": "10229",
-          "name": "Rashee Rice",
-          "position": "WR",
-          "team": "KC"
-        },
-        {
           "player_id": "12507",
           "name": "Omarion Hampton",
           "position": "RB",
@@ -3218,6 +3212,12 @@
           "name": "Jordan Watkins",
           "position": "WR",
           "team": "SF"
+        },
+        {
+          "player_id": "12718",
+          "name": "Konata Mumpfield",
+          "position": "WR",
+          "team": "LAR"
         },
         {
           "player_id": "1373",

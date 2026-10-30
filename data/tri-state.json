@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-30T18:39:56.298Z",
+  "generated_at": "2026-10-30T23:01:56.501Z",
   "source": "Sleeper public API",
   "username": "TheMightyKites",
   "nfl_week": 8,
@@ -2824,10 +2824,10 @@
           "team": "KC"
         },
         {
-          "player_id": "13279",
-          "name": "Carnell Tate",
+          "player_id": "13301",
+          "name": "Antonio Williams",
           "position": "WR",
-          "team": "TEN"
+          "team": "WAS"
         },
         {
           "player_id": "7553",
@@ -2880,10 +2880,10 @@
           "team": "CHI"
         },
         {
-          "player_id": "13301",
-          "name": "Antonio Williams",
+          "player_id": "13279",
+          "name": "Carnell Tate",
           "position": "WR",
-          "team": "WAS"
+          "team": "TEN"
         },
         {
           "player_id": "13394",
