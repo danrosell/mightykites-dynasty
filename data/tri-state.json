@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-29T23:22:20.120Z",
+  "generated_at": "2026-10-30T05:59:16.587Z",
   "source": "Sleeper public API",
   "username": "TheMightyKites",
   "nfl_week": 8,
@@ -414,7 +414,7 @@
     },
     "opponent": {
       "team": "The Rusty Trombones",
-      "points": 0,
+      "points": 47.06,
       "roster_id": 2
     }
   },
@@ -1695,16 +1695,10 @@
       "rank": 2,
       "starters": [
         {
-          "player_id": "5849",
-          "name": "Kyler Murray",
+          "player_id": "1166",
+          "name": "Kirk Cousins",
           "position": "QB",
-          "team": "MIN"
-        },
-        {
-          "player_id": "4034",
-          "name": "Christian McCaffrey",
-          "position": "RB",
-          "team": "SF"
+          "team": "LV"
         },
         {
           "player_id": "5850",
@@ -1713,28 +1707,10 @@
           "team": "GB"
         },
         {
-          "player_id": "7547",
-          "name": "Amon-Ra St. Brown",
-          "position": "WR",
-          "team": "DET"
-        },
-        {
-          "player_id": "5859",
-          "name": "A.J. Brown",
-          "position": "WR",
-          "team": "NE"
-        },
-        {
-          "player_id": "6801",
-          "name": "Tee Higgins",
-          "position": "WR",
-          "team": "CIN"
-        },
-        {
-          "player_id": "4217",
-          "name": "George Kittle",
-          "position": "TE",
-          "team": "SF"
+          "player_id": "8408",
+          "name": "Jordan Mason",
+          "position": "RB",
+          "team": "MIN"
         },
         {
           "player_id": "9493",
@@ -1743,10 +1719,34 @@
           "team": "LAR"
         },
         {
-          "player_id": "1166",
-          "name": "Kirk Cousins",
+          "player_id": "7547",
+          "name": "Amon-Ra St. Brown",
+          "position": "WR",
+          "team": "DET"
+        },
+        {
+          "player_id": "6801",
+          "name": "Tee Higgins",
+          "position": "WR",
+          "team": "CIN"
+        },
+        {
+          "player_id": "1466",
+          "name": "Travis Kelce",
+          "position": "TE",
+          "team": "KC"
+        },
+        {
+          "player_id": "5859",
+          "name": "A.J. Brown",
+          "position": "WR",
+          "team": "NE"
+        },
+        {
+          "player_id": "5849",
+          "name": "Kyler Murray",
           "position": "QB",
-          "team": "LV"
+          "team": "MIN"
         }
       ],
       "bench": [
@@ -1793,12 +1793,6 @@
           "team": "NYJ"
         },
         {
-          "player_id": "1466",
-          "name": "Travis Kelce",
-          "position": "TE",
-          "team": "KC"
-        },
-        {
           "player_id": "2216",
           "name": "Mike Evans",
           "position": "WR",
@@ -1817,16 +1811,22 @@
           "team": "MIN"
         },
         {
+          "player_id": "4034",
+          "name": "Christian McCaffrey",
+          "position": "RB",
+          "team": "SF"
+        },
+        {
           "player_id": "4035",
           "name": "Alvin Kamara",
           "position": "RB",
           "team": "NO"
         },
         {
-          "player_id": "8408",
-          "name": "Jordan Mason",
-          "position": "RB",
-          "team": "MIN"
+          "player_id": "4217",
+          "name": "George Kittle",
+          "position": "TE",
+          "team": "SF"
         },
         {
           "player_id": "9229",

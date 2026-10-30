@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-29T23:22:19.421Z",
+  "generated_at": "2026-10-30T05:59:15.767Z",
   "source": "Sleeper public API",
   "username": "TheMightyKites",
   "nfl_week": 8,
@@ -412,7 +412,7 @@
   "my_matchup": {
     "me": {
       "team": "The Ham Cannons",
-      "points": 0
+      "points": 20.9
     },
     "opponent": {
       "team": "PRIMETIME",
@@ -524,10 +524,10 @@
           "team": "PIT"
         },
         {
-          "player_id": "5850",
-          "name": "Josh Jacobs",
+          "player_id": "11584",
+          "name": "Bucky Irving",
           "position": "RB",
-          "team": "GB"
+          "team": "TB"
         },
         {
           "player_id": "6794",
@@ -554,10 +554,10 @@
           "team": "PIT"
         },
         {
-          "player_id": "11584",
-          "name": "Bucky Irving",
-          "position": "RB",
-          "team": "TB"
+          "player_id": "8210",
+          "name": "Chig Okonkwo",
+          "position": "TE",
+          "team": "WAS"
         },
         {
           "player_id": "12514",
@@ -566,10 +566,10 @@
           "team": "TB"
         },
         {
-          "player_id": "9500",
-          "name": "Josh Downs",
+          "player_id": "12547",
+          "name": "Kyle Williams",
           "position": "WR",
-          "team": "IND"
+          "team": "NE"
         }
       ],
       "bench": [
@@ -590,12 +590,6 @@
           "name": "Jaxson Dart",
           "position": "QB",
           "team": "NYG"
-        },
-        {
-          "player_id": "12547",
-          "name": "Kyle Williams",
-          "position": "WR",
-          "team": "NE"
         },
         {
           "player_id": "2306",
@@ -632,12 +626,6 @@
           "name": "Brian Robinson Jr.",
           "position": "RB",
           "team": "ATL"
-        },
-        {
-          "player_id": "8210",
-          "name": "Chig Okonkwo",
-          "position": "TE",
-          "team": "WAS"
         },
         {
           "player_id": "8676",
@@ -709,6 +697,13 @@
         },
         {
           "season": "2027",
+          "round": 1,
+          "original_roster_id": 12,
+          "original_team": "Hot Sauce 🌶️",
+          "is_own": false
+        },
+        {
+          "season": "2027",
           "round": 2,
           "original_roster_id": 1,
           "original_team": "Tenacious D",
@@ -726,6 +721,13 @@
           "round": 3,
           "original_roster_id": 11,
           "original_team": "Vrabels Secret Family",
+          "is_own": false
+        },
+        {
+          "season": "2027",
+          "round": 3,
+          "original_roster_id": 12,
+          "original_team": "Hot Sauce 🌶️",
           "is_own": false
         },
         {
@@ -3526,10 +3528,10 @@
           "team": "MIA"
         },
         {
-          "player_id": "12489",
-          "name": "RJ Harvey",
+          "player_id": "5850",
+          "name": "Josh Jacobs",
           "position": "RB",
-          "team": "DEN"
+          "team": "GB"
         },
         {
           "player_id": "6786",
@@ -3544,10 +3546,10 @@
           "team": "DET"
         },
         {
-          "player_id": "11624",
-          "name": "Xavier Worthy",
+          "player_id": "9500",
+          "name": "Josh Downs",
           "position": "WR",
-          "team": "KC"
+          "team": "IND"
         },
         {
           "player_id": "11604",
@@ -3575,6 +3577,12 @@
         }
       ],
       "bench": [
+        {
+          "player_id": "11624",
+          "name": "Xavier Worthy",
+          "position": "WR",
+          "team": "KC"
+        },
         {
           "player_id": "11625",
           "name": "Adonai Mitchell",
@@ -3606,22 +3614,16 @@
           "team": "NYG"
         },
         {
+          "player_id": "12489",
+          "name": "RJ Harvey",
+          "position": "RB",
+          "team": "DEN"
+        },
+        {
           "player_id": "12504",
           "name": "Kaleb Johnson",
           "position": "RB",
           "team": "GB"
-        },
-        {
-          "player_id": "12531",
-          "name": "Trevor Etienne",
-          "position": "RB",
-          "team": "CAR"
-        },
-        {
-          "player_id": "12543",
-          "name": "Tahj Brooks",
-          "position": "RB",
-          "team": "CIN"
         },
         {
           "player_id": "13335",
@@ -3708,20 +3710,6 @@
           "original_roster_id": 3,
           "original_team": "Horny for Herbert ",
           "is_own": false
-        },
-        {
-          "season": "2027",
-          "round": 1,
-          "original_roster_id": 12,
-          "original_team": "Hot Sauce 🌶️",
-          "is_own": true
-        },
-        {
-          "season": "2027",
-          "round": 3,
-          "original_roster_id": 12,
-          "original_team": "Hot Sauce 🌶️",
-          "is_own": true
         },
         {
           "season": "2028",
@@ -4119,10 +4107,10 @@
           "team": "BUF"
         },
         {
-          "player_id": "0",
-          "name": "0",
-          "position": "—",
-          "team": "FA"
+          "player_id": "9508",
+          "name": "Tyjae Spears",
+          "position": "RB",
+          "team": "TEN"
         }
       ],
       "bench": [
@@ -4203,12 +4191,6 @@
           "name": "Tyquan Thornton",
           "position": "WR",
           "team": "KC"
-        },
-        {
-          "player_id": "9508",
-          "name": "Tyjae Spears",
-          "position": "RB",
-          "team": "TEN"
         },
         {
           "player_id": "9999",

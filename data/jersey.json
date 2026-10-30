@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-29T23:22:19.836Z",
+  "generated_at": "2026-10-30T05:59:16.385Z",
   "source": "Sleeper public API",
   "username": "TheMightyKites",
   "nfl_week": 8,
@@ -416,11 +416,11 @@
   "my_matchup": {
     "me": {
       "team": "TheMightyKites",
-      "points": 0
+      "points": 30.5
     },
     "opponent": {
       "team": "The Rusty Trombones",
-      "points": 0,
+      "points": 17.3,
       "roster_id": 3
     }
   },
@@ -2099,16 +2099,16 @@
           "team": "LV"
         },
         {
-          "player_id": "8228",
-          "name": "Jaylen Warren",
+          "player_id": "4866",
+          "name": "Saquon Barkley",
           "position": "RB",
-          "team": "PIT"
+          "team": "PHI"
         },
         {
-          "player_id": "13413",
-          "name": "Cyrus Allen",
+          "player_id": "12718",
+          "name": "Konata Mumpfield",
           "position": "WR",
-          "team": "KC"
+          "team": "LAR"
         },
         {
           "player_id": "9997",
@@ -2129,10 +2129,10 @@
           "team": "PHI"
         },
         {
-          "player_id": "4866",
-          "name": "Saquon Barkley",
+          "player_id": "8228",
+          "name": "Jaylen Warren",
           "position": "RB",
-          "team": "PHI"
+          "team": "PIT"
         },
         {
           "player_id": "4199",
@@ -2165,12 +2165,6 @@
           "name": "Kaleb Johnson",
           "position": "RB",
           "team": "GB"
-        },
-        {
-          "player_id": "12718",
-          "name": "Konata Mumpfield",
-          "position": "WR",
-          "team": "LAR"
         },
         {
           "player_id": "13270",
@@ -2213,6 +2207,12 @@
           "name": "J'Mari Taylor",
           "position": "RB",
           "team": "JAX"
+        },
+        {
+          "player_id": "13413",
+          "name": "Cyrus Allen",
+          "position": "WR",
+          "team": "KC"
         },
         {
           "player_id": "13424",
@@ -2734,10 +2734,10 @@
           "team": "NYJ"
         },
         {
-          "player_id": "2449",
-          "name": "Stefon Diggs",
+          "player_id": "9493",
+          "name": "Puka Nacua",
           "position": "WR",
-          "team": "WAS"
+          "team": "LAR"
         },
         {
           "player_id": "8148",
@@ -2758,16 +2758,16 @@
           "team": "LAR"
         },
         {
-          "player_id": "9493",
-          "name": "Puka Nacua",
+          "player_id": "2449",
+          "name": "Stefon Diggs",
           "position": "WR",
-          "team": "LAR"
+          "team": "WAS"
         },
         {
-          "player_id": "4034",
-          "name": "Christian McCaffrey",
-          "position": "RB",
-          "team": "SF"
+          "player_id": "13293",
+          "name": "Ja'Kobi Lane",
+          "position": "WR",
+          "team": "BAL"
         }
       ],
       "bench": [
@@ -2788,12 +2788,6 @@
           "name": "Jacory Croskey-Merritt",
           "position": "RB",
           "team": "WAS"
-        },
-        {
-          "player_id": "13293",
-          "name": "Ja'Kobi Lane",
-          "position": "WR",
-          "team": "BAL"
         },
         {
           "player_id": "13349",
@@ -2824,6 +2818,12 @@
           "name": "Deshaun Watson",
           "position": "QB",
           "team": "CLE"
+        },
+        {
+          "player_id": "4034",
+          "name": "Christian McCaffrey",
+          "position": "RB",
+          "team": "SF"
         },
         {
           "player_id": "4046",
