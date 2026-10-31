@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-30T23:01:55.165Z",
+  "generated_at": "2026-10-31T02:29:35.677Z",
   "source": "Sleeper public API",
   "username": "TheMightyKites",
   "nfl_week": 8,
@@ -3176,16 +3176,16 @@
           "team": "KC"
         },
         {
-          "player_id": "4217",
-          "name": "George Kittle",
+          "player_id": "13421",
+          "name": "Eli Raridon",
           "position": "TE",
-          "team": "SF"
+          "team": "NE"
         },
         {
-          "player_id": "8129",
-          "name": "Dameon Pierce",
+          "player_id": "12507",
+          "name": "Omarion Hampton",
           "position": "RB",
-          "team": "PHI"
+          "team": "LAC"
         },
         {
           "player_id": "12485",
@@ -3202,18 +3202,6 @@
       ],
       "bench": [
         {
-          "player_id": "12507",
-          "name": "Omarion Hampton",
-          "position": "RB",
-          "team": "LAC"
-        },
-        {
-          "player_id": "12634",
-          "name": "Jordan Watkins",
-          "position": "WR",
-          "team": "SF"
-        },
-        {
           "player_id": "12718",
           "name": "Konata Mumpfield",
           "position": "WR",
@@ -3226,10 +3214,22 @@
           "team": "NYJ"
         },
         {
+          "player_id": "4217",
+          "name": "George Kittle",
+          "position": "TE",
+          "team": "SF"
+        },
+        {
           "player_id": "8121",
           "name": "Romeo Doubs",
           "position": "WR",
           "team": "NE"
+        },
+        {
+          "player_id": "8129",
+          "name": "Dameon Pierce",
+          "position": "RB",
+          "team": "PHI"
         }
       ],
       "taxi": [
@@ -3238,12 +3238,6 @@
           "name": "Emmett Johnson",
           "position": "RB",
           "team": "KC"
-        },
-        {
-          "player_id": "13421",
-          "name": "Eli Raridon",
-          "position": "TE",
-          "team": "NE"
         },
         {
           "player_id": "13726",
