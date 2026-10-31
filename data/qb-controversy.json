@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-31T09:47:34.916Z",
+  "generated_at": "2026-10-31T15:46:47.824Z",
   "source": "Sleeper public API",
   "username": "TheMightyKites",
   "nfl_week": 8,
@@ -536,10 +536,10 @@
           "team": "MIN"
         },
         {
-          "player_id": "6801",
-          "name": "Tee Higgins",
-          "position": "WR",
-          "team": "CIN"
+          "player_id": "0",
+          "name": "0",
+          "position": "—",
+          "team": "FA"
         },
         {
           "player_id": "8167",
@@ -704,10 +704,24 @@
         },
         {
           "season": "2027",
+          "round": 1,
+          "original_roster_id": 13,
+          "original_team": "Ertz Boyz",
+          "is_own": false
+        },
+        {
+          "season": "2027",
           "round": 2,
           "original_roster_id": 1,
           "original_team": "Tenacious D",
           "is_own": true
+        },
+        {
+          "season": "2027",
+          "round": 2,
+          "original_roster_id": 4,
+          "original_team": "PRIMETIME",
+          "is_own": false
         },
         {
           "season": "2027",
@@ -721,13 +735,6 @@
           "round": 3,
           "original_roster_id": 11,
           "original_team": "Vrabels Secret Family",
-          "is_own": false
-        },
-        {
-          "season": "2027",
-          "round": 3,
-          "original_roster_id": 12,
-          "original_team": "Hot Sauce 🌶️",
           "is_own": false
         },
         {
@@ -3797,10 +3804,10 @@
           "team": "BUF"
         },
         {
-          "player_id": "5846",
-          "name": "DK Metcalf",
+          "player_id": "6801",
+          "name": "Tee Higgins",
           "position": "WR",
-          "team": "PIT"
+          "team": "CIN"
         },
         {
           "player_id": "5022",
@@ -3809,10 +3816,10 @@
           "team": "PHI"
         },
         {
-          "player_id": "5859",
-          "name": "A.J. Brown",
+          "player_id": "5846",
+          "name": "DK Metcalf",
           "position": "WR",
-          "team": "NE"
+          "team": "PIT"
         },
         {
           "player_id": "11783",
@@ -3877,10 +3884,10 @@
           "team": "SEA"
         },
         {
-          "player_id": "5906",
-          "name": "Dawson Knox",
-          "position": "TE",
-          "team": "BUF"
+          "player_id": "5859",
+          "name": "A.J. Brown",
+          "position": "WR",
+          "team": "NE"
         },
         {
           "player_id": "7002",
@@ -3964,24 +3971,17 @@
         },
         {
           "season": "2027",
-          "round": 1,
+          "round": 2,
           "original_roster_id": 13,
           "original_team": "Ertz Boyz",
           "is_own": true
         },
         {
           "season": "2027",
-          "round": 2,
-          "original_roster_id": 4,
-          "original_team": "PRIMETIME",
+          "round": 3,
+          "original_roster_id": 12,
+          "original_team": "Hot Sauce 🌶️",
           "is_own": false
-        },
-        {
-          "season": "2027",
-          "round": 2,
-          "original_roster_id": 13,
-          "original_team": "Ertz Boyz",
-          "is_own": true
         },
         {
           "season": "2027",

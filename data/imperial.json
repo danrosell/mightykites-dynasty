@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-31T09:47:34.493Z",
+  "generated_at": "2026-10-31T15:46:47.437Z",
   "source": "Sleeper public API",
   "username": "TheMightyKites",
   "nfl_week": 8,
@@ -1909,10 +1909,10 @@
           "team": "CHI"
         },
         {
-          "player_id": "12514",
-          "name": "Emeka Egbuka",
-          "position": "WR",
-          "team": "TB"
+          "player_id": "13424",
+          "name": "Seth McGowan",
+          "position": "RB",
+          "team": "IND"
         },
         {
           "player_id": "9230",
@@ -1929,6 +1929,12 @@
           "team": "NYG"
         },
         {
+          "player_id": "12514",
+          "name": "Emeka Egbuka",
+          "position": "WR",
+          "team": "TB"
+        },
+        {
           "player_id": "12535",
           "name": "Isaac TeSlaa",
           "position": "WR",
@@ -1939,12 +1945,6 @@
           "name": "Demond Claiborne",
           "position": "RB",
           "team": "MIN"
-        },
-        {
-          "player_id": "13424",
-          "name": "Seth McGowan",
-          "position": "RB",
-          "team": "IND"
         },
         {
           "player_id": "7527",
