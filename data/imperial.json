@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-31T02:29:35.677Z",
+  "generated_at": "2026-10-31T09:47:34.493Z",
   "source": "Sleeper public API",
   "username": "TheMightyKites",
   "nfl_week": 8,
@@ -2066,10 +2066,10 @@
       "rank": 5,
       "starters": [
         {
-          "player_id": "7021",
-          "name": "Rico Dowdle",
+          "player_id": "12490",
+          "name": "Bhayshul Tuten",
           "position": "RB",
-          "team": "PIT"
+          "team": "JAX"
         },
         {
           "player_id": "6790",
@@ -2096,36 +2096,10 @@
           "team": "BAL"
         },
         {
-          "player_id": "13414",
-          "name": "Kaelon Black",
+          "player_id": "7021",
+          "name": "Rico Dowdle",
           "position": "RB",
-          "team": "SF"
-        },
-        {
-          "player_id": "9501",
-          "name": "DeMario Douglas",
-          "position": "WR",
-          "team": "NE"
-        },
-        {
-          "player_id": "4017",
-          "name": "Deshaun Watson",
-          "position": "QB",
-          "team": "CLE"
-        }
-      ],
-      "bench": [
-        {
-          "player_id": "12490",
-          "name": "Bhayshul Tuten",
-          "position": "RB",
-          "team": "JAX"
-        },
-        {
-          "player_id": "4892",
-          "name": "Baker Mayfield",
-          "position": "QB",
-          "team": "TB"
+          "team": "PIT"
         },
         {
           "player_id": "4983",
@@ -2138,12 +2112,38 @@
           "name": "Josh Allen",
           "position": "QB",
           "team": "BUF"
+        }
+      ],
+      "bench": [
+        {
+          "player_id": "13414",
+          "name": "Kaelon Black",
+          "position": "RB",
+          "team": "SF"
+        },
+        {
+          "player_id": "4017",
+          "name": "Deshaun Watson",
+          "position": "QB",
+          "team": "CLE"
+        },
+        {
+          "player_id": "4892",
+          "name": "Baker Mayfield",
+          "position": "QB",
+          "team": "TB"
         },
         {
           "player_id": "7561",
           "name": "Elijah Mitchell",
           "position": "RB",
           "team": "PHI"
+        },
+        {
+          "player_id": "9501",
+          "name": "DeMario Douglas",
+          "position": "WR",
+          "team": "NE"
         }
       ],
       "taxi": [
