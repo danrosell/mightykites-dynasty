@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-31T20:03:46.690Z",
+  "generated_at": "2026-10-31T23:27:29.856Z",
   "source": "Sleeper public API",
   "username": "TheMightyKites",
   "nfl_week": 8,
@@ -1136,10 +1136,10 @@
           "team": "DEN"
         },
         {
-          "player_id": "12534",
-          "name": "Kyle Monangai",
+          "player_id": "11647",
+          "name": "Kimani Vidal",
           "position": "RB",
-          "team": "CHI"
+          "team": "LAC"
         },
         {
           "player_id": "11635",
@@ -1204,12 +1204,6 @@
           "team": "DEN"
         },
         {
-          "player_id": "11647",
-          "name": "Kimani Vidal",
-          "position": "RB",
-          "team": "LAC"
-        },
-        {
           "player_id": "12469",
           "name": "Dylan Sampson",
           "position": "RB",
@@ -1244,6 +1238,12 @@
           "name": "Cam Ward",
           "position": "QB",
           "team": "TEN"
+        },
+        {
+          "player_id": "12534",
+          "name": "Kyle Monangai",
+          "position": "RB",
+          "team": "CHI"
         },
         {
           "player_id": "13288",

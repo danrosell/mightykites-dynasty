@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-31T20:03:46.157Z",
+  "generated_at": "2026-10-31T23:27:29.276Z",
   "source": "Sleeper public API",
   "username": "TheMightyKites",
   "nfl_week": 8,
@@ -1078,10 +1078,10 @@
           "team": "IND"
         },
         {
-          "player_id": "12534",
-          "name": "Kyle Monangai",
+          "player_id": "11647",
+          "name": "Kimani Vidal",
           "position": "RB",
-          "team": "CHI"
+          "team": "LAC"
         },
         {
           "player_id": "9997",
@@ -1158,16 +1158,16 @@
           "team": "PIT"
         },
         {
-          "player_id": "11647",
-          "name": "Kimani Vidal",
-          "position": "RB",
-          "team": "LAC"
-        },
-        {
           "player_id": "12457",
           "name": "Jaydon Blue",
           "position": "RB",
           "team": "PHI"
+        },
+        {
+          "player_id": "12534",
+          "name": "Kyle Monangai",
+          "position": "RB",
+          "team": "CHI"
         },
         {
           "player_id": "13275",
@@ -3230,10 +3230,10 @@
       "rank": 12,
       "starters": [
         {
-          "player_id": "12545",
-          "name": "Tyler Shough",
+          "player_id": "1166",
+          "name": "Kirk Cousins",
           "position": "QB",
-          "team": "NO"
+          "team": "LV"
         },
         {
           "player_id": "11439",
@@ -3242,10 +3242,10 @@
           "team": "CLE"
         },
         {
-          "player_id": "4147",
-          "name": "Samaje Perine",
+          "player_id": "11575",
+          "name": "Ray Davis",
           "position": "RB",
-          "team": "CIN"
+          "team": "BUF"
         },
         {
           "player_id": "8146",
@@ -3278,16 +3278,16 @@
           "team": "CAR"
         },
         {
-          "player_id": "3634",
-          "name": "Kalif Raymond",
+          "player_id": "13301",
+          "name": "Antonio Williams",
           "position": "WR",
-          "team": "CHI"
+          "team": "WAS"
         },
         {
-          "player_id": "1166",
-          "name": "Kirk Cousins",
-          "position": "QB",
-          "team": "LV"
+          "player_id": "6865",
+          "name": "Colby Parkinson",
+          "position": "TE",
+          "team": "LAR"
         }
       ],
       "bench": [
@@ -3296,12 +3296,6 @@
           "name": "Andrei Iosivas",
           "position": "WR",
           "team": "CIN"
-        },
-        {
-          "player_id": "11575",
-          "name": "Ray Davis",
-          "position": "RB",
-          "team": "BUF"
         },
         {
           "player_id": "11592",
@@ -3334,16 +3328,28 @@
           "team": "TEN"
         },
         {
-          "player_id": "13301",
-          "name": "Antonio Williams",
-          "position": "WR",
-          "team": "WAS"
+          "player_id": "12545",
+          "name": "Tyler Shough",
+          "position": "QB",
+          "team": "NO"
         },
         {
           "player_id": "13349",
           "name": "Eli Stowers",
           "position": "TE",
           "team": "PHI"
+        },
+        {
+          "player_id": "3634",
+          "name": "Kalif Raymond",
+          "position": "WR",
+          "team": "CHI"
+        },
+        {
+          "player_id": "4147",
+          "name": "Samaje Perine",
+          "position": "RB",
+          "team": "CIN"
         },
         {
           "player_id": "4177",
@@ -3356,12 +3362,6 @@
           "name": "Ty Johnson",
           "position": "RB",
           "team": "BUF"
-        },
-        {
-          "player_id": "6865",
-          "name": "Colby Parkinson",
-          "position": "TE",
-          "team": "LAR"
         },
         {
           "player_id": "7891",
