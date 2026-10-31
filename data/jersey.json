@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-31T15:46:48.171Z",
+  "generated_at": "2026-10-31T20:03:46.690Z",
   "source": "Sleeper public API",
   "username": "TheMightyKites",
   "nfl_week": 8,
@@ -58,7 +58,7 @@
       "leg": 8,
       "reserve_slots": 2,
       "reserve_allow_cov": 0,
-      "daily_waivers_last_ran": 30
+      "daily_waivers_last_ran": 31
     },
     "scoring_settings": {
       "sack": 1,
@@ -2772,16 +2772,16 @@
       ],
       "bench": [
         {
-          "player_id": "11592",
-          "name": "Erick All Jr.",
-          "position": "TE",
-          "team": "CIN"
-        },
-        {
           "player_id": "11834",
           "name": "Devaughn Vele",
           "position": "WR",
           "team": "NO"
+        },
+        {
+          "player_id": "12505",
+          "name": "Jalen Royals",
+          "position": "WR",
+          "team": "KC"
         },
         {
           "player_id": "12533",
@@ -3108,12 +3108,6 @@
           "team": "BAL"
         },
         {
-          "player_id": "1234",
-          "name": "Russell Wilson",
-          "position": "QB",
-          "team": "FA"
-        },
-        {
           "player_id": "12508",
           "name": "Jaxson Dart",
           "position": "QB",
@@ -3190,6 +3184,12 @@
           "name": "Travis Etienne Jr.",
           "position": "RB",
           "team": "NO"
+        },
+        {
+          "player_id": "7607",
+          "name": "Michael Carter",
+          "position": "RB",
+          "team": "TEN"
         },
         {
           "player_id": "8135",
@@ -3364,10 +3364,10 @@
           "team": "NE"
         },
         {
-          "player_id": "5859",
-          "name": "A.J. Brown",
+          "player_id": "8134",
+          "name": "Khalil Shakir",
           "position": "WR",
-          "team": "NE"
+          "team": "BUF"
         },
         {
           "player_id": "9754",
@@ -3480,6 +3480,12 @@
           "team": "CHI"
         },
         {
+          "player_id": "5859",
+          "name": "A.J. Brown",
+          "position": "WR",
+          "team": "NE"
+        },
+        {
           "player_id": "5927",
           "name": "Terry McLaurin",
           "position": "WR",
@@ -3496,12 +3502,6 @@
           "name": "Nico Collins",
           "position": "WR",
           "team": "HOU"
-        },
-        {
-          "player_id": "8134",
-          "name": "Khalil Shakir",
-          "position": "WR",
-          "team": "BUF"
         },
         {
           "player_id": "8172",
