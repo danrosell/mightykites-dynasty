@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-31T23:27:29.276Z",
+  "generated_at": "2026-11-01T06:21:43.617Z",
   "source": "Sleeper public API",
   "username": "TheMightyKites",
   "nfl_week": 8,
@@ -4065,22 +4065,22 @@
           "team": "WAS"
         },
         {
-          "player_id": "11610",
-          "name": "Malik Washington",
-          "position": "WR",
-          "team": "MIA"
-        },
-        {
-          "player_id": "8135",
-          "name": "Treylon Burks",
-          "position": "WR",
-          "team": "WAS"
-        },
-        {
           "player_id": "13394",
           "name": "Josh Cameron",
           "position": "WR",
           "team": "JAX"
+        },
+        {
+          "player_id": "7670",
+          "name": "Joshua Palmer",
+          "position": "WR",
+          "team": "BUF"
+        },
+        {
+          "player_id": "11608",
+          "name": "Isaiah Williams",
+          "position": "WR",
+          "team": "NYJ"
         },
         {
           "player_id": "12506",
@@ -4095,16 +4095,16 @@
           "team": "MIN"
         },
         {
-          "player_id": "7670",
-          "name": "Joshua Palmer",
+          "player_id": "8135",
+          "name": "Treylon Burks",
           "position": "WR",
-          "team": "BUF"
+          "team": "WAS"
         },
         {
-          "player_id": "9508",
-          "name": "Tyjae Spears",
-          "position": "RB",
-          "team": "TEN"
+          "player_id": "11610",
+          "name": "Malik Washington",
+          "position": "WR",
+          "team": "MIA"
         }
       ],
       "bench": [
@@ -4131,12 +4131,6 @@
           "name": "Cade Stover",
           "position": "TE",
           "team": "HOU"
-        },
-        {
-          "player_id": "11608",
-          "name": "Isaiah Williams",
-          "position": "WR",
-          "team": "NYJ"
         },
         {
           "player_id": "11626",
@@ -4185,6 +4179,12 @@
           "name": "Tyquan Thornton",
           "position": "WR",
           "team": "KC"
+        },
+        {
+          "player_id": "9508",
+          "name": "Tyjae Spears",
+          "position": "RB",
+          "team": "TEN"
         },
         {
           "player_id": "9999",

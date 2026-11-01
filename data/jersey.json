@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-31T23:27:29.856Z",
+  "generated_at": "2026-11-01T06:21:44.150Z",
   "source": "Sleeper public API",
   "username": "TheMightyKites",
   "nfl_week": 8,
@@ -3664,14 +3664,14 @@
       "rank": 6,
       "starters": [
         {
-          "player_id": "5849",
-          "name": "Kyler Murray",
+          "player_id": "11566",
+          "name": "Jayden Daniels",
           "position": "QB",
-          "team": "MIN"
+          "team": "WAS"
         },
         {
-          "player_id": "8132",
-          "name": "Tyler Allgeier",
+          "player_id": "13287",
+          "name": "Jeremiyah Love",
           "position": "RB",
           "team": "ARI"
         },
@@ -3682,10 +3682,10 @@
           "team": "MIA"
         },
         {
-          "player_id": "11632",
-          "name": "Malik Nabers",
+          "player_id": "6801",
+          "name": "Tee Higgins",
           "position": "WR",
-          "team": "NYG"
+          "team": "CIN"
         },
         {
           "player_id": "8146",
@@ -3706,16 +3706,16 @@
           "team": "CLE"
         },
         {
+          "player_id": "13301",
+          "name": "Antonio Williams",
+          "position": "WR",
+          "team": "WAS"
+        },
+        {
           "player_id": "11624",
           "name": "Xavier Worthy",
           "position": "WR",
           "team": "KC"
-        },
-        {
-          "player_id": "6801",
-          "name": "Tee Higgins",
-          "position": "WR",
-          "team": "CIN"
         }
       ],
       "bench": [
@@ -3724,12 +3724,6 @@
           "name": "Michael Penix Jr.",
           "position": "QB",
           "team": "ATL"
-        },
-        {
-          "player_id": "11566",
-          "name": "Jayden Daniels",
-          "position": "QB",
-          "team": "WAS"
         },
         {
           "player_id": "11575",
@@ -3742,6 +3736,12 @@
           "name": "Malik Washington",
           "position": "WR",
           "team": "MIA"
+        },
+        {
+          "player_id": "11632",
+          "name": "Malik Nabers",
+          "position": "WR",
+          "team": "NYG"
         },
         {
           "player_id": "12467",
@@ -3786,18 +3786,6 @@
           "team": "NYG"
         },
         {
-          "player_id": "13287",
-          "name": "Jeremiyah Love",
-          "position": "RB",
-          "team": "ARI"
-        },
-        {
-          "player_id": "13301",
-          "name": "Antonio Williams",
-          "position": "WR",
-          "team": "WAS"
-        },
-        {
           "player_id": "13330",
           "name": "Kenyon Sadiq",
           "position": "TE",
@@ -3808,6 +3796,12 @@
           "name": "Josh Cameron",
           "position": "WR",
           "team": "JAX"
+        },
+        {
+          "player_id": "5849",
+          "name": "Kyler Murray",
+          "position": "QB",
+          "team": "MIN"
         },
         {
           "player_id": "7002",
@@ -3824,6 +3818,12 @@
         {
           "player_id": "8122",
           "name": "Zonovan Knight",
+          "position": "RB",
+          "team": "ARI"
+        },
+        {
+          "player_id": "8132",
+          "name": "Tyler Allgeier",
           "position": "RB",
           "team": "ARI"
         },

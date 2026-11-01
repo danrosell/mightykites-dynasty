@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-31T23:27:30.203Z",
+  "generated_at": "2026-11-01T06:21:44.543Z",
   "source": "Sleeper public API",
   "username": "TheMightyKites",
   "nfl_week": 8,
@@ -166,10 +166,10 @@
         "team": "TB"
       },
       {
-        "player_id": "10213",
-        "name": "Tre Tucker",
+        "player_id": "8146",
+        "name": "Garrett Wilson",
         "position": "WR",
-        "team": "LV"
+        "team": "NYJ"
       },
       {
         "player_id": "7564",
@@ -190,24 +190,24 @@
         "team": "LV"
       },
       {
-        "player_id": "5022",
-        "name": "Dallas Goedert",
-        "position": "TE",
-        "team": "PHI"
-      },
-      {
         "player_id": "12495",
         "name": "Ollie Gordon II",
         "position": "RB",
         "team": "MIA"
+      },
+      {
+        "player_id": "11564",
+        "name": "Drake Maye",
+        "position": "QB",
+        "team": "NE"
       }
     ],
     "bench": [
       {
-        "player_id": "11630",
-        "name": "Roman Wilson",
+        "player_id": "10213",
+        "name": "Tre Tucker",
         "position": "WR",
-        "team": "PIT"
+        "team": "LV"
       },
       {
         "player_id": "11643",
@@ -240,18 +240,6 @@
         "team": "NO"
       },
       {
-        "player_id": "13293",
-        "name": "Ja'Kobi Lane",
-        "position": "WR",
-        "team": "BAL"
-      },
-      {
-        "player_id": "13305",
-        "name": "Mike Washington Jr.",
-        "position": "RB",
-        "team": "LV"
-      },
-      {
         "player_id": "13425",
         "name": "Jalon Daniels",
         "position": "QB",
@@ -262,6 +250,12 @@
         "name": "Cooper Kupp",
         "position": "WR",
         "team": "SEA"
+      },
+      {
+        "player_id": "5022",
+        "name": "Dallas Goedert",
+        "position": "TE",
+        "team": "PHI"
       },
       {
         "player_id": "5947",
@@ -316,16 +310,16 @@
     ],
     "reserve": [
       {
+        "player_id": "11630",
+        "name": "Roman Wilson",
+        "position": "WR",
+        "team": "PIT"
+      },
+      {
         "player_id": "11638",
         "name": "Ricky Pearsall",
         "position": "WR",
         "team": "SF"
-      },
-      {
-        "player_id": "12508",
-        "name": "Jaxson Dart",
-        "position": "QB",
-        "team": "NYG"
       },
       {
         "player_id": "9226",
@@ -352,13 +346,6 @@
       {
         "season": "2026",
         "round": 3,
-        "original_roster_id": 3,
-        "original_team": "TheMightyKites",
-        "is_own": true
-      },
-      {
-        "season": "2027",
-        "round": 1,
         "original_roster_id": 3,
         "original_team": "TheMightyKites",
         "is_own": true
@@ -436,13 +423,6 @@
     {
       "season": "2026",
       "round": 3,
-      "original_roster_id": 3,
-      "original_team": "TheMightyKites",
-      "is_own": true
-    },
-    {
-      "season": "2027",
-      "round": 1,
       "original_roster_id": 3,
       "original_team": "TheMightyKites",
       "is_own": true
@@ -1059,10 +1039,10 @@
           "team": "TB"
         },
         {
-          "player_id": "10213",
-          "name": "Tre Tucker",
+          "player_id": "8146",
+          "name": "Garrett Wilson",
           "position": "WR",
-          "team": "LV"
+          "team": "NYJ"
         },
         {
           "player_id": "7564",
@@ -1083,24 +1063,24 @@
           "team": "LV"
         },
         {
-          "player_id": "5022",
-          "name": "Dallas Goedert",
-          "position": "TE",
-          "team": "PHI"
-        },
-        {
           "player_id": "12495",
           "name": "Ollie Gordon II",
           "position": "RB",
           "team": "MIA"
+        },
+        {
+          "player_id": "11564",
+          "name": "Drake Maye",
+          "position": "QB",
+          "team": "NE"
         }
       ],
       "bench": [
         {
-          "player_id": "11630",
-          "name": "Roman Wilson",
+          "player_id": "10213",
+          "name": "Tre Tucker",
           "position": "WR",
-          "team": "PIT"
+          "team": "LV"
         },
         {
           "player_id": "11643",
@@ -1133,18 +1113,6 @@
           "team": "NO"
         },
         {
-          "player_id": "13293",
-          "name": "Ja'Kobi Lane",
-          "position": "WR",
-          "team": "BAL"
-        },
-        {
-          "player_id": "13305",
-          "name": "Mike Washington Jr.",
-          "position": "RB",
-          "team": "LV"
-        },
-        {
           "player_id": "13425",
           "name": "Jalon Daniels",
           "position": "QB",
@@ -1155,6 +1123,12 @@
           "name": "Cooper Kupp",
           "position": "WR",
           "team": "SEA"
+        },
+        {
+          "player_id": "5022",
+          "name": "Dallas Goedert",
+          "position": "TE",
+          "team": "PHI"
         },
         {
           "player_id": "5947",
@@ -1209,16 +1183,16 @@
       ],
       "reserve": [
         {
+          "player_id": "11630",
+          "name": "Roman Wilson",
+          "position": "WR",
+          "team": "PIT"
+        },
+        {
           "player_id": "11638",
           "name": "Ricky Pearsall",
           "position": "WR",
           "team": "SF"
-        },
-        {
-          "player_id": "12508",
-          "name": "Jaxson Dart",
-          "position": "QB",
-          "team": "NYG"
         },
         {
           "player_id": "9226",
@@ -1245,13 +1219,6 @@
         {
           "season": "2026",
           "round": 3,
-          "original_roster_id": 3,
-          "original_team": "TheMightyKites",
-          "is_own": true
-        },
-        {
-          "season": "2027",
-          "round": 1,
           "original_roster_id": 3,
           "original_team": "TheMightyKites",
           "is_own": true
@@ -1312,10 +1279,10 @@
       "rank": 10,
       "starters": [
         {
-          "player_id": "11564",
-          "name": "Drake Maye",
+          "player_id": "4017",
+          "name": "Deshaun Watson",
           "position": "QB",
-          "team": "NE"
+          "team": "CLE"
         },
         {
           "player_id": "8132",
@@ -1336,10 +1303,10 @@
           "team": "PIT"
         },
         {
-          "player_id": "8146",
-          "name": "Garrett Wilson",
+          "player_id": "8134",
+          "name": "Khalil Shakir",
           "position": "WR",
-          "team": "NYJ"
+          "team": "BUF"
         },
         {
           "player_id": "13298",
@@ -1354,16 +1321,16 @@
           "team": "MIA"
         },
         {
-          "player_id": "8134",
-          "name": "Khalil Shakir",
+          "player_id": "11783",
+          "name": "Ryan Flournoy",
           "position": "WR",
-          "team": "BUF"
+          "team": "DAL"
         },
         {
-          "player_id": "4017",
-          "name": "Deshaun Watson",
-          "position": "QB",
-          "team": "CLE"
+          "player_id": "12547",
+          "name": "Kyle Williams",
+          "position": "WR",
+          "team": "NE"
         }
       ],
       "bench": [
@@ -1386,16 +1353,16 @@
           "team": "HOU"
         },
         {
-          "player_id": "11783",
-          "name": "Ryan Flournoy",
-          "position": "WR",
-          "team": "DAL"
-        },
-        {
           "player_id": "12483",
           "name": "Jack Bech",
           "position": "WR",
           "team": "LV"
+        },
+        {
+          "player_id": "12508",
+          "name": "Jaxson Dart",
+          "position": "QB",
+          "team": "NYG"
         },
         {
           "player_id": "12509",
@@ -1404,16 +1371,22 @@
           "team": "LAC"
         },
         {
-          "player_id": "12547",
-          "name": "Kyle Williams",
-          "position": "WR",
-          "team": "NE"
-        },
-        {
           "player_id": "12718",
           "name": "Konata Mumpfield",
           "position": "WR",
           "team": "LAR"
+        },
+        {
+          "player_id": "13293",
+          "name": "Ja'Kobi Lane",
+          "position": "WR",
+          "team": "BAL"
+        },
+        {
+          "player_id": "13305",
+          "name": "Mike Washington Jr.",
+          "position": "RB",
+          "team": "LV"
         },
         {
           "player_id": "13317",
@@ -1539,6 +1512,13 @@
           "round": 3,
           "original_roster_id": 5,
           "original_team": "Tenacious D",
+          "is_own": false
+        },
+        {
+          "season": "2027",
+          "round": 1,
+          "original_roster_id": 3,
+          "original_team": "TheMightyKites",
           "is_own": false
         },
         {
