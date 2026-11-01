@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-01T06:21:43.132Z",
+  "generated_at": "2026-11-01T14:20:53.780Z",
   "source": "Sleeper public API",
   "username": "TheMightyKites",
   "nfl_week": 8,
@@ -179,10 +179,10 @@
         "team": "SEA"
       },
       {
-        "player_id": "421",
-        "name": "Matthew Stafford",
+        "player_id": "4881",
+        "name": "Lamar Jackson",
         "position": "QB",
-        "team": "LAR"
+        "team": "BAL"
       }
     ],
     "bench": [
@@ -205,16 +205,16 @@
         "team": "NO"
       },
       {
+        "player_id": "421",
+        "name": "Matthew Stafford",
+        "position": "QB",
+        "team": "LAR"
+      },
+      {
         "player_id": "4950",
         "name": "Christian Kirk",
         "position": "WR",
         "team": "SF"
-      },
-      {
-        "player_id": "8119",
-        "name": "Jahan Dotson",
-        "position": "WR",
-        "team": "ATL"
       }
     ],
     "taxi": [
@@ -243,12 +243,6 @@
         "name": "Jacory Croskey-Merritt",
         "position": "RB",
         "team": "WAS"
-      },
-      {
-        "player_id": "4881",
-        "name": "Lamar Jackson",
-        "position": "QB",
-        "team": "BAL"
       }
     ],
     "picks": [
@@ -434,10 +428,10 @@
           "team": "SEA"
         },
         {
-          "player_id": "421",
-          "name": "Matthew Stafford",
+          "player_id": "4881",
+          "name": "Lamar Jackson",
           "position": "QB",
-          "team": "LAR"
+          "team": "BAL"
         }
       ],
       "bench": [
@@ -460,16 +454,16 @@
           "team": "NO"
         },
         {
+          "player_id": "421",
+          "name": "Matthew Stafford",
+          "position": "QB",
+          "team": "LAR"
+        },
+        {
           "player_id": "4950",
           "name": "Christian Kirk",
           "position": "WR",
           "team": "SF"
-        },
-        {
-          "player_id": "8119",
-          "name": "Jahan Dotson",
-          "position": "WR",
-          "team": "ATL"
         }
       ],
       "taxi": [
@@ -498,12 +492,6 @@
           "name": "Jacory Croskey-Merritt",
           "position": "RB",
           "team": "WAS"
-        },
-        {
-          "player_id": "4881",
-          "name": "Lamar Jackson",
-          "position": "QB",
-          "team": "BAL"
         }
       ],
       "picks": [

@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-01T06:21:44.150Z",
+  "generated_at": "2026-11-01T14:20:54.727Z",
   "source": "Sleeper public API",
   "username": "TheMightyKites",
   "nfl_week": 8,
@@ -2410,10 +2410,10 @@
           "team": "WAS"
         },
         {
-          "player_id": "8155",
-          "name": "Breece Hall",
+          "player_id": "4147",
+          "name": "Samaje Perine",
           "position": "RB",
-          "team": "NYJ"
+          "team": "CIN"
         },
         {
           "player_id": "6794",
@@ -2514,12 +2514,6 @@
           "team": "TB"
         },
         {
-          "player_id": "4147",
-          "name": "Samaje Perine",
-          "position": "RB",
-          "team": "CIN"
-        },
-        {
           "player_id": "4718",
           "name": "Dare Ogunbowale",
           "position": "RB",
@@ -2560,6 +2554,12 @@
           "name": "Dameon Pierce",
           "position": "RB",
           "team": "PHI"
+        },
+        {
+          "player_id": "8155",
+          "name": "Breece Hall",
+          "position": "RB",
+          "team": "NYJ"
         },
         {
           "player_id": "8183",
@@ -3046,10 +3046,10 @@
           "team": "ATL"
         },
         {
-          "player_id": "8154",
-          "name": "Brian Robinson Jr.",
+          "player_id": "7607",
+          "name": "Michael Carter",
           "position": "RB",
-          "team": "ATL"
+          "team": "TEN"
         },
         {
           "player_id": "12526",
@@ -3186,16 +3186,16 @@
           "team": "NO"
         },
         {
-          "player_id": "7607",
-          "name": "Michael Carter",
-          "position": "RB",
-          "team": "TEN"
-        },
-        {
           "player_id": "8135",
           "name": "Treylon Burks",
           "position": "WR",
           "team": "WAS"
+        },
+        {
+          "player_id": "8154",
+          "name": "Brian Robinson Jr.",
+          "position": "RB",
+          "team": "ATL"
         },
         {
           "player_id": "9502",
@@ -3712,10 +3712,10 @@
           "team": "WAS"
         },
         {
-          "player_id": "11624",
-          "name": "Xavier Worthy",
-          "position": "WR",
-          "team": "KC"
+          "player_id": "12507",
+          "name": "Omarion Hampton",
+          "position": "RB",
+          "team": "LAC"
         }
       ],
       "bench": [
@@ -3738,6 +3738,12 @@
           "team": "MIA"
         },
         {
+          "player_id": "11624",
+          "name": "Xavier Worthy",
+          "position": "WR",
+          "team": "KC"
+        },
+        {
           "player_id": "11632",
           "name": "Malik Nabers",
           "position": "WR",
@@ -3754,12 +3760,6 @@
           "name": "Gunnar Helm",
           "position": "TE",
           "team": "TEN"
-        },
-        {
-          "player_id": "12507",
-          "name": "Omarion Hampton",
-          "position": "RB",
-          "team": "LAC"
         },
         {
           "player_id": "12510",

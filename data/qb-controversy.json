@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-01T06:21:43.617Z",
+  "generated_at": "2026-11-01T14:20:54.270Z",
   "source": "Sleeper public API",
   "username": "TheMightyKites",
   "nfl_week": 8,
@@ -554,10 +554,10 @@
           "team": "PIT"
         },
         {
-          "player_id": "8210",
-          "name": "Chig Okonkwo",
-          "position": "TE",
-          "team": "WAS"
+          "player_id": "11643",
+          "name": "Jaylen Wright",
+          "position": "RB",
+          "team": "MIA"
         },
         {
           "player_id": "7021",
@@ -566,10 +566,10 @@
           "team": "PIT"
         },
         {
-          "player_id": "8676",
-          "name": "Rashid Shaheed",
-          "position": "WR",
-          "team": "SEA"
+          "player_id": "8210",
+          "name": "Chig Okonkwo",
+          "position": "TE",
+          "team": "WAS"
         }
       ],
       "bench": [
@@ -578,12 +578,6 @@
           "name": "Theo Johnson",
           "position": "TE",
           "team": "NYG"
-        },
-        {
-          "player_id": "11643",
-          "name": "Jaylen Wright",
-          "position": "RB",
-          "team": "MIA"
         },
         {
           "player_id": "12508",
@@ -626,6 +620,12 @@
           "name": "Brian Robinson Jr.",
           "position": "RB",
           "team": "ATL"
+        },
+        {
+          "player_id": "8676",
+          "name": "Rashid Shaheed",
+          "position": "WR",
+          "team": "SEA"
         },
         {
           "player_id": "9494",
@@ -1951,10 +1951,10 @@
           "team": "LAR"
         },
         {
-          "player_id": "1466",
-          "name": "Travis Kelce",
+          "player_id": "3214",
+          "name": "Hunter Henry",
           "position": "TE",
-          "team": "KC"
+          "team": "NE"
         },
         {
           "player_id": "7588",
@@ -2013,10 +2013,10 @@
           "team": "NO"
         },
         {
-          "player_id": "3214",
-          "name": "Hunter Henry",
+          "player_id": "1466",
+          "name": "Travis Kelce",
           "position": "TE",
-          "team": "NE"
+          "team": "KC"
         },
         {
           "player_id": "4017",
@@ -2035,12 +2035,6 @@
           "name": "Jakobi Meyers",
           "position": "WR",
           "team": "JAX"
-        },
-        {
-          "player_id": "6826",
-          "name": "Cole Kmet",
-          "position": "TE",
-          "team": "CHI"
         },
         {
           "player_id": "7083",
@@ -2081,7 +2075,14 @@
           "team": "JAX"
         }
       ],
-      "reserve": [],
+      "reserve": [
+        {
+          "player_id": "6826",
+          "name": "Cole Kmet",
+          "position": "TE",
+          "team": "CHI"
+        }
+      ],
       "picks": [
         {
           "season": "2026",
@@ -3609,16 +3610,16 @@
           "team": "IND"
         },
         {
+          "player_id": "12472",
+          "name": "Raheim Sanders",
+          "position": "RB",
+          "team": "CLE"
+        },
+        {
           "player_id": "12481",
           "name": "Cam Skattebo",
           "position": "RB",
           "team": "NYG"
-        },
-        {
-          "player_id": "12489",
-          "name": "RJ Harvey",
-          "position": "RB",
-          "team": "DEN"
         },
         {
           "player_id": "12504",
@@ -3691,10 +3692,10 @@
           "team": "KC"
         },
         {
-          "player_id": "12472",
-          "name": "Raheim Sanders",
+          "player_id": "12489",
+          "name": "RJ Harvey",
           "position": "RB",
-          "team": "CLE"
+          "team": "DEN"
         }
       ],
       "picks": [

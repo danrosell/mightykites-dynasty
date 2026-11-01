@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-01T06:21:44.543Z",
+  "generated_at": "2026-11-01T14:20:55.107Z",
   "source": "Sleeper public API",
   "username": "TheMightyKites",
   "nfl_week": 8,
@@ -61,7 +61,7 @@
       "leg": 8,
       "reserve_slots": 3,
       "reserve_allow_cov": 1,
-      "daily_waivers_last_ran": 31
+      "daily_waivers_last_ran": 1
     },
     "scoring_settings": {
       "sack": 2,
@@ -274,6 +274,12 @@
         "name": "Travis Etienne Jr.",
         "position": "RB",
         "team": "NO"
+      },
+      {
+        "player_id": "7561",
+        "name": "Elijah Mitchell",
+        "position": "RB",
+        "team": "PHI"
       },
       {
         "player_id": "8210",
@@ -1149,6 +1155,12 @@
           "team": "NO"
         },
         {
+          "player_id": "7561",
+          "name": "Elijah Mitchell",
+          "position": "RB",
+          "team": "PHI"
+        },
+        {
           "player_id": "8210",
           "name": "Chig Okonkwo",
           "position": "TE",
@@ -1717,10 +1729,10 @@
           "team": "KC"
         },
         {
-          "player_id": "5859",
-          "name": "A.J. Brown",
-          "position": "WR",
-          "team": "NE"
+          "player_id": "9753",
+          "name": "Zach Charbonnet",
+          "position": "RB",
+          "team": "SEA"
         },
         {
           "player_id": "5849",
@@ -1809,16 +1821,16 @@
           "team": "SF"
         },
         {
+          "player_id": "5859",
+          "name": "A.J. Brown",
+          "position": "WR",
+          "team": "NE"
+        },
+        {
           "player_id": "9229",
           "name": "Anthony Richardson Sr.",
           "position": "QB",
           "team": "IND"
-        },
-        {
-          "player_id": "9753",
-          "name": "Zach Charbonnet",
-          "position": "RB",
-          "team": "SEA"
         },
         {
           "player_id": "9754",
