@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-01T19:45:37.942Z",
+  "generated_at": "2026-11-01T23:40:40.073Z",
   "source": "Sleeper public API",
   "username": "TheMightyKites",
   "nfl_week": 8,
@@ -416,11 +416,11 @@
   "my_matchup": {
     "me": {
       "team": "TheMightyKites",
-      "points": 86.7
+      "points": 121.25
     },
     "opponent": {
       "team": "The Rusty Trombones",
-      "points": 40,
+      "points": 104.9,
       "roster_id": 3
     }
   },
@@ -2752,10 +2752,10 @@
           "team": "DAL"
         },
         {
-          "player_id": "6865",
-          "name": "Colby Parkinson",
+          "player_id": "8127",
+          "name": "Charlie Kolar",
           "position": "TE",
-          "team": "LAR"
+          "team": "LAC"
         },
         {
           "player_id": "2449",
@@ -2850,6 +2850,12 @@
           "team": "HOU"
         },
         {
+          "player_id": "6865",
+          "name": "Colby Parkinson",
+          "position": "TE",
+          "team": "LAR"
+        },
+        {
           "player_id": "7049",
           "name": "Jauan Jennings",
           "position": "WR",
@@ -2860,12 +2866,6 @@
           "name": "Mac Jones",
           "position": "QB",
           "team": "SF"
-        },
-        {
-          "player_id": "8127",
-          "name": "Charlie Kolar",
-          "position": "TE",
-          "team": "LAC"
         },
         {
           "player_id": "8131",

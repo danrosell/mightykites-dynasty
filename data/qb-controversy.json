@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-01T19:45:37.483Z",
+  "generated_at": "2026-11-01T23:40:39.723Z",
   "source": "Sleeper public API",
   "username": "TheMightyKites",
   "nfl_week": 8,
@@ -412,11 +412,11 @@
   "my_matchup": {
     "me": {
       "team": "The Ham Cannons",
-      "points": 40.95
+      "points": 73.85
     },
     "opponent": {
       "team": "PRIMETIME",
-      "points": 37.05,
+      "points": 101.65,
       "roster_id": 4
     }
   },
