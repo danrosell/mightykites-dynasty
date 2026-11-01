@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-01T14:20:55.107Z",
+  "generated_at": "2026-11-01T19:45:38.367Z",
   "source": "Sleeper public API",
   "username": "TheMightyKites",
   "nfl_week": 8,
@@ -403,11 +403,11 @@
   "my_matchup": {
     "me": {
       "team": "TheMightyKites",
-      "points": 0
+      "points": 64.58
     },
     "opponent": {
       "team": "The Rusty Trombones",
-      "points": 47.06,
+      "points": 65.16,
       "roster_id": 2
     }
   },
@@ -489,16 +489,16 @@
       "rank": 5,
       "starters": [
         {
-          "player_id": "3257",
-          "name": "Jacoby Brissett",
+          "player_id": "4881",
+          "name": "Lamar Jackson",
           "position": "QB",
-          "team": "ARI"
+          "team": "BAL"
         },
         {
-          "player_id": "7021",
-          "name": "Rico Dowdle",
+          "player_id": "8136",
+          "name": "Rachaad White",
           "position": "RB",
-          "team": "PIT"
+          "team": "WAS"
         },
         {
           "player_id": "8228",
@@ -507,10 +507,10 @@
           "team": "PIT"
         },
         {
-          "player_id": "12519",
-          "name": "Luther Burden III",
+          "player_id": "7526",
+          "name": "Jaylen Waddle",
           "position": "WR",
-          "team": "CHI"
+          "team": "DEN"
         },
         {
           "player_id": "4037",
@@ -531,16 +531,16 @@
           "team": "ARI"
         },
         {
-          "player_id": "8136",
-          "name": "Rachaad White",
-          "position": "RB",
-          "team": "WAS"
+          "player_id": "12519",
+          "name": "Luther Burden III",
+          "position": "WR",
+          "team": "CHI"
         },
         {
-          "player_id": "4881",
-          "name": "Lamar Jackson",
+          "player_id": "3257",
+          "name": "Jacoby Brissett",
           "position": "QB",
-          "team": "BAL"
+          "team": "ARI"
         }
       ],
       "bench": [
@@ -611,16 +611,16 @@
           "team": "CLE"
         },
         {
+          "player_id": "7021",
+          "name": "Rico Dowdle",
+          "position": "RB",
+          "team": "PIT"
+        },
+        {
           "player_id": "7525",
           "name": "DeVonta Smith",
           "position": "WR",
           "team": "PHI"
-        },
-        {
-          "player_id": "7526",
-          "name": "Jaylen Waddle",
-          "position": "WR",
-          "team": "DEN"
         },
         {
           "player_id": "8161",
@@ -3101,16 +3101,16 @@
           "team": "BUF"
         },
         {
-          "player_id": "10236",
-          "name": "Dalton Kincaid",
-          "position": "TE",
-          "team": "BUF"
-        },
-        {
           "player_id": "5844",
           "name": "T.J. Hockenson",
           "position": "TE",
           "team": "MIN"
+        },
+        {
+          "player_id": "11576",
+          "name": "Braelon Allen",
+          "position": "RB",
+          "team": "NYJ"
         },
         {
           "player_id": "11566",
@@ -3121,16 +3121,16 @@
       ],
       "bench": [
         {
+          "player_id": "10236",
+          "name": "Dalton Kincaid",
+          "position": "TE",
+          "team": "BUF"
+        },
+        {
           "player_id": "11565",
           "name": "J.J. McCarthy",
           "position": "QB",
           "team": "NYG"
-        },
-        {
-          "player_id": "11576",
-          "name": "Braelon Allen",
-          "position": "RB",
-          "team": "NYJ"
         },
         {
           "player_id": "11628",

@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-01T14:20:54.727Z",
+  "generated_at": "2026-11-01T19:45:37.942Z",
   "source": "Sleeper public API",
   "username": "TheMightyKites",
   "nfl_week": 8,
@@ -58,7 +58,7 @@
       "leg": 8,
       "reserve_slots": 2,
       "reserve_allow_cov": 0,
-      "daily_waivers_last_ran": 31
+      "daily_waivers_last_ran": 1
     },
     "scoring_settings": {
       "sack": 1,
@@ -416,11 +416,11 @@
   "my_matchup": {
     "me": {
       "team": "TheMightyKites",
-      "points": 30.5
+      "points": 86.7
     },
     "opponent": {
       "team": "The Rusty Trombones",
-      "points": 17.3,
+      "points": 40,
       "roster_id": 3
     }
   },
@@ -1216,12 +1216,6 @@
           "team": "IND"
         },
         {
-          "player_id": "12472",
-          "name": "Raheim Sanders",
-          "position": "RB",
-          "team": "CLE"
-        },
-        {
           "player_id": "12491",
           "name": "Corey Kiner",
           "position": "RB",
@@ -1262,6 +1256,12 @@
           "name": "Justin Joly",
           "position": "TE",
           "team": "MIA"
+        },
+        {
+          "player_id": "6557",
+          "name": "Jeff Smith",
+          "position": "WR",
+          "team": "FA"
         },
         {
           "player_id": "6797",
@@ -1496,16 +1496,16 @@
           "team": "TB"
         },
         {
-          "player_id": "12489",
-          "name": "RJ Harvey",
+          "player_id": "11435",
+          "name": "Emanuel Wilson",
           "position": "RB",
-          "team": "DEN"
+          "team": "SEA"
         },
         {
-          "player_id": "13279",
-          "name": "Carnell Tate",
+          "player_id": "13317",
+          "name": "Ted Hurst III",
           "position": "WR",
-          "team": "TEN"
+          "team": "TB"
         },
         {
           "player_id": "8126",
@@ -1540,12 +1540,6 @@
       ],
       "bench": [
         {
-          "player_id": "11435",
-          "name": "Emanuel Wilson",
-          "position": "RB",
-          "team": "SEA"
-        },
-        {
           "player_id": "11581",
           "name": "MarShawn Lloyd",
           "position": "RB",
@@ -1556,6 +1550,12 @@
           "name": "Ja'Tavion Sanders",
           "position": "TE",
           "team": "CAR"
+        },
+        {
+          "player_id": "12489",
+          "name": "RJ Harvey",
+          "position": "RB",
+          "team": "DEN"
         },
         {
           "player_id": "12503",
@@ -1576,16 +1576,16 @@
           "team": "NO"
         },
         {
+          "player_id": "13279",
+          "name": "Carnell Tate",
+          "position": "WR",
+          "team": "TEN"
+        },
+        {
           "player_id": "13311",
           "name": "Chris Bell",
           "position": "WR",
           "team": "MIA"
-        },
-        {
-          "player_id": "13317",
-          "name": "Ted Hurst III",
-          "position": "WR",
-          "team": "TB"
         },
         {
           "player_id": "13434",
@@ -3694,10 +3694,10 @@
           "team": "NYJ"
         },
         {
-          "player_id": "12519",
-          "name": "Luther Burden III",
+          "player_id": "11610",
+          "name": "Malik Washington",
           "position": "WR",
-          "team": "CHI"
+          "team": "MIA"
         },
         {
           "player_id": "12506",
@@ -3706,16 +3706,16 @@
           "team": "CLE"
         },
         {
+          "player_id": "12519",
+          "name": "Luther Burden III",
+          "position": "WR",
+          "team": "CHI"
+        },
+        {
           "player_id": "13301",
           "name": "Antonio Williams",
           "position": "WR",
           "team": "WAS"
-        },
-        {
-          "player_id": "12507",
-          "name": "Omarion Hampton",
-          "position": "RB",
-          "team": "LAC"
         }
       ],
       "bench": [
@@ -3730,12 +3730,6 @@
           "name": "Ray Davis",
           "position": "RB",
           "team": "BUF"
-        },
-        {
-          "player_id": "11610",
-          "name": "Malik Washington",
-          "position": "WR",
-          "team": "MIA"
         },
         {
           "player_id": "11624",
@@ -3760,6 +3754,12 @@
           "name": "Gunnar Helm",
           "position": "TE",
           "team": "TEN"
+        },
+        {
+          "player_id": "12507",
+          "name": "Omarion Hampton",
+          "position": "RB",
+          "team": "LAC"
         },
         {
           "player_id": "12510",

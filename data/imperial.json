@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-01T14:20:53.780Z",
+  "generated_at": "2026-11-01T19:45:36.756Z",
   "source": "Sleeper public API",
   "username": "TheMightyKites",
   "nfl_week": 8,
@@ -61,7 +61,7 @@
       "leg": 8,
       "reserve_slots": 3,
       "reserve_allow_cov": 0,
-      "daily_waivers_last_ran": 31
+      "daily_waivers_last_ran": 1
     },
     "scoring_settings": {
       "sack": 1,
@@ -307,11 +307,11 @@
   "my_matchup": {
     "me": {
       "team": "TheMightyKites",
-      "points": 0
+      "points": 28
     },
     "opponent": {
       "team": "COMMANDO Squad",
-      "points": 0,
+      "points": 7.9,
       "roster_id": 6
     }
   },
@@ -756,10 +756,10 @@
       "rank": 14,
       "starters": [
         {
-          "player_id": "12048",
-          "name": "George Holani",
+          "player_id": "12491",
+          "name": "Corey Kiner",
           "position": "RB",
-          "team": "SEA"
+          "team": "NE"
         },
         {
           "player_id": "8155",
@@ -1700,10 +1700,10 @@
           "team": "BAL"
         },
         {
-          "player_id": "5859",
-          "name": "A.J. Brown",
+          "player_id": "4037",
+          "name": "Chris Godwin Jr.",
           "position": "WR",
-          "team": "NE"
+          "team": "TB"
         },
         {
           "player_id": "5022",
@@ -1744,16 +1744,16 @@
           "team": "JAX"
         },
         {
-          "player_id": "4037",
-          "name": "Chris Godwin Jr.",
-          "position": "WR",
-          "team": "TB"
-        },
-        {
           "player_id": "5848",
           "name": "Marquise Brown",
           "position": "WR",
           "team": "PHI"
+        },
+        {
+          "player_id": "5859",
+          "name": "A.J. Brown",
+          "position": "WR",
+          "team": "NE"
         },
         {
           "player_id": "9504",
@@ -3140,10 +3140,10 @@
       "rank": 4,
       "starters": [
         {
-          "player_id": "7611",
-          "name": "Rhamondre Stevenson",
+          "player_id": "12507",
+          "name": "Omarion Hampton",
           "position": "RB",
-          "team": "NE"
+          "team": "LAC"
         },
         {
           "player_id": "8150",
@@ -3158,10 +3158,10 @@
           "team": "BUF"
         },
         {
-          "player_id": "10229",
-          "name": "Rashee Rice",
+          "player_id": "12485",
+          "name": "Tez Johnson",
           "position": "WR",
-          "team": "KC"
+          "team": "TB"
         },
         {
           "player_id": "13421",
@@ -3170,16 +3170,16 @@
           "team": "NE"
         },
         {
-          "player_id": "12507",
-          "name": "Omarion Hampton",
+          "player_id": "7611",
+          "name": "Rhamondre Stevenson",
           "position": "RB",
-          "team": "LAC"
+          "team": "NE"
         },
         {
-          "player_id": "12485",
-          "name": "Tez Johnson",
+          "player_id": "10229",
+          "name": "Rashee Rice",
           "position": "WR",
-          "team": "TB"
+          "team": "KC"
         },
         {
           "player_id": "11564",

@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-01T14:20:54.270Z",
+  "generated_at": "2026-11-01T19:45:37.483Z",
   "source": "Sleeper public API",
   "username": "TheMightyKites",
   "nfl_week": 8,
@@ -61,7 +61,7 @@
       "daily_waivers_base": 4,
       "reserve_slots": 2,
       "reserve_allow_cov": 1,
-      "daily_waivers_last_ran": 31
+      "daily_waivers_last_ran": 1
     },
     "scoring_settings": {
       "sack": 1,
@@ -412,11 +412,11 @@
   "my_matchup": {
     "me": {
       "team": "The Ham Cannons",
-      "points": 20.9
+      "points": 40.95
     },
     "opponent": {
       "team": "PRIMETIME",
-      "points": 0,
+      "points": 37.05,
       "roster_id": 4
     }
   },
@@ -3837,12 +3837,6 @@
           "team": "CHI"
         },
         {
-          "player_id": "11256",
-          "name": "Tyson Bagent",
-          "position": "QB",
-          "team": "CHI"
-        },
-        {
           "player_id": "11571",
           "name": "Isaiah Davis",
           "position": "RB",
@@ -3875,6 +3869,12 @@
         {
           "player_id": "4943",
           "name": "Sam Darnold",
+          "position": "QB",
+          "team": "SEA"
+        },
+        {
+          "player_id": "5854",
+          "name": "Drew Lock",
           "position": "QB",
           "team": "SEA"
         },
