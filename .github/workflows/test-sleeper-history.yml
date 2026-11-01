@@ -1,0 +1,21 @@
+name: Validate Sleeper history archive
+on:
+  pull_request:
+    paths:
+      - 'scripts/refresh-sleeper-history.mjs'
+      - 'tests/sleeper-history.test.mjs'
+      - '.github/workflows/refresh-sleeper.yml'
+      - '.github/workflows/test-sleeper-history.yml'
+  workflow_dispatch:
+permissions:
+  contents: read
+jobs:
+  test-history:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: '22'
+      - name: Test historical matchup archive
+        run: node --test tests/sleeper-history.test.mjs
