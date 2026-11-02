@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-02T17:12:13.481Z",
+  "generated_at": "2026-11-02T23:55:11.996Z",
   "source": "Sleeper public API",
   "username": "TheMightyKites",
   "nfl_week": 8,
@@ -1702,6 +1702,12 @@
       ],
       "bench": [
         {
+          "player_id": "13286",
+          "name": "Jadarian Price",
+          "position": "RB",
+          "team": "SEA"
+        },
+        {
           "player_id": "1837",
           "name": "Jimmy Garoppolo",
           "position": "QB",
@@ -1789,12 +1795,6 @@
         }
       ],
       "reserve": [
-        {
-          "player_id": "13286",
-          "name": "Jadarian Price",
-          "position": "RB",
-          "team": "SEA"
-        },
         {
           "player_id": "4137",
           "name": "James Conner",
