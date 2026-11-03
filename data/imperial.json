@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-03T06:57:42.282Z",
+  "generated_at": "2026-11-03T15:17:45.792Z",
   "source": "Sleeper public API",
   "username": "TheMightyKites",
   "nfl_week": 9,
@@ -155,10 +155,10 @@
         "team": "DAL"
       },
       {
-        "player_id": "5846",
-        "name": "DK Metcalf",
+        "player_id": "4950",
+        "name": "Christian Kirk",
         "position": "WR",
-        "team": "PIT"
+        "team": "SF"
       },
       {
         "player_id": "7553",
@@ -167,22 +167,22 @@
         "team": "ATL"
       },
       {
-        "player_id": "8122",
-        "name": "Zonovan Knight",
-        "position": "RB",
-        "team": "ARI"
-      },
-      {
         "player_id": "11603",
         "name": "AJ Barner",
         "position": "TE",
         "team": "SEA"
       },
       {
-        "player_id": "4881",
-        "name": "Lamar Jackson",
+        "player_id": "13305",
+        "name": "Mike Washington Jr.",
+        "position": "RB",
+        "team": "LV"
+      },
+      {
+        "player_id": "421",
+        "name": "Matthew Stafford",
         "position": "QB",
-        "team": "BAL"
+        "team": "LAR"
       }
     ],
     "bench": [
@@ -193,28 +193,22 @@
         "team": "NYG"
       },
       {
-        "player_id": "13305",
-        "name": "Mike Washington Jr.",
-        "position": "RB",
-        "team": "LV"
-      },
-      {
         "player_id": "13319",
         "name": "Oscar Delp",
         "position": "TE",
         "team": "NO"
       },
       {
-        "player_id": "421",
-        "name": "Matthew Stafford",
-        "position": "QB",
-        "team": "LAR"
+        "player_id": "5846",
+        "name": "DK Metcalf",
+        "position": "WR",
+        "team": "PIT"
       },
       {
-        "player_id": "4950",
-        "name": "Christian Kirk",
-        "position": "WR",
-        "team": "SF"
+        "player_id": "8122",
+        "name": "Zonovan Knight",
+        "position": "RB",
+        "team": "ARI"
       }
     ],
     "taxi": [
@@ -243,6 +237,12 @@
         "name": "Jacory Croskey-Merritt",
         "position": "RB",
         "team": "WAS"
+      },
+      {
+        "player_id": "4881",
+        "name": "Lamar Jackson",
+        "position": "QB",
+        "team": "BAL"
       }
     ],
     "picks": [
@@ -404,10 +404,10 @@
           "team": "DAL"
         },
         {
-          "player_id": "5846",
-          "name": "DK Metcalf",
+          "player_id": "4950",
+          "name": "Christian Kirk",
           "position": "WR",
-          "team": "PIT"
+          "team": "SF"
         },
         {
           "player_id": "7553",
@@ -416,22 +416,22 @@
           "team": "ATL"
         },
         {
-          "player_id": "8122",
-          "name": "Zonovan Knight",
-          "position": "RB",
-          "team": "ARI"
-        },
-        {
           "player_id": "11603",
           "name": "AJ Barner",
           "position": "TE",
           "team": "SEA"
         },
         {
-          "player_id": "4881",
-          "name": "Lamar Jackson",
+          "player_id": "13305",
+          "name": "Mike Washington Jr.",
+          "position": "RB",
+          "team": "LV"
+        },
+        {
+          "player_id": "421",
+          "name": "Matthew Stafford",
           "position": "QB",
-          "team": "BAL"
+          "team": "LAR"
         }
       ],
       "bench": [
@@ -442,28 +442,22 @@
           "team": "NYG"
         },
         {
-          "player_id": "13305",
-          "name": "Mike Washington Jr.",
-          "position": "RB",
-          "team": "LV"
-        },
-        {
           "player_id": "13319",
           "name": "Oscar Delp",
           "position": "TE",
           "team": "NO"
         },
         {
-          "player_id": "421",
-          "name": "Matthew Stafford",
-          "position": "QB",
-          "team": "LAR"
+          "player_id": "5846",
+          "name": "DK Metcalf",
+          "position": "WR",
+          "team": "PIT"
         },
         {
-          "player_id": "4950",
-          "name": "Christian Kirk",
-          "position": "WR",
-          "team": "SF"
+          "player_id": "8122",
+          "name": "Zonovan Knight",
+          "position": "RB",
+          "team": "ARI"
         }
       ],
       "taxi": [
@@ -492,6 +486,12 @@
           "name": "Jacory Croskey-Merritt",
           "position": "RB",
           "team": "WAS"
+        },
+        {
+          "player_id": "4881",
+          "name": "Lamar Jackson",
+          "position": "QB",
+          "team": "BAL"
         }
       ],
       "picks": [
@@ -1730,18 +1730,18 @@
           "team": "DAL"
         },
         {
-          "player_id": "11559",
-          "name": "Michael Penix Jr.",
-          "position": "QB",
-          "team": "ATL"
-        }
-      ],
-      "bench": [
-        {
           "player_id": "11565",
           "name": "J.J. McCarthy",
           "position": "QB",
           "team": "NYG"
+        }
+      ],
+      "bench": [
+        {
+          "player_id": "11559",
+          "name": "Michael Penix Jr.",
+          "position": "QB",
+          "team": "ATL"
         },
         {
           "player_id": "11631",
@@ -1754,12 +1754,6 @@
           "name": "Marquise Brown",
           "position": "WR",
           "team": "PHI"
-        },
-        {
-          "player_id": "5859",
-          "name": "A.J. Brown",
-          "position": "WR",
-          "team": "NE"
         },
         {
           "player_id": "9504",
@@ -1794,6 +1788,12 @@
           "name": "Jaxson Dart",
           "position": "QB",
           "team": "NYG"
+        },
+        {
+          "player_id": "5859",
+          "name": "A.J. Brown",
+          "position": "WR",
+          "team": "NE"
         }
       ],
       "picks": [
@@ -2438,10 +2438,10 @@
           "team": "GB"
         },
         {
-          "player_id": "4147",
-          "name": "Samaje Perine",
+          "player_id": "10219",
+          "name": "Chris Rodriguez Jr.",
           "position": "RB",
-          "team": "CIN"
+          "team": "JAX"
         },
         {
           "player_id": "7547",
@@ -2450,10 +2450,10 @@
           "team": "DET"
         },
         {
-          "player_id": "11610",
-          "name": "Malik Washington",
+          "player_id": "7569",
+          "name": "Nico Collins",
           "position": "WR",
-          "team": "MIA"
+          "team": "HOU"
         },
         {
           "player_id": "9484",
@@ -2462,10 +2462,10 @@
           "team": "GB"
         },
         {
-          "player_id": "8134",
-          "name": "Khalil Shakir",
+          "player_id": "11610",
+          "name": "Malik Washington",
           "position": "WR",
-          "team": "BUF"
+          "team": "MIA"
         },
         {
           "player_id": "4993",
@@ -2474,19 +2474,13 @@
           "team": "CIN"
         },
         {
-          "player_id": "5849",
-          "name": "Kyler Murray",
+          "player_id": "8183",
+          "name": "Brock Purdy",
           "position": "QB",
-          "team": "MIN"
+          "team": "SF"
         }
       ],
       "bench": [
-        {
-          "player_id": "10219",
-          "name": "Chris Rodriguez Jr.",
-          "position": "RB",
-          "team": "JAX"
-        },
         {
           "player_id": "12482",
           "name": "Savion Williams",
@@ -2494,16 +2488,22 @@
           "team": "GB"
         },
         {
-          "player_id": "7569",
-          "name": "Nico Collins",
-          "position": "WR",
-          "team": "HOU"
+          "player_id": "4147",
+          "name": "Samaje Perine",
+          "position": "RB",
+          "team": "CIN"
         },
         {
-          "player_id": "8183",
-          "name": "Brock Purdy",
+          "player_id": "5849",
+          "name": "Kyler Murray",
           "position": "QB",
-          "team": "SF"
+          "team": "MIN"
+        },
+        {
+          "player_id": "8134",
+          "name": "Khalil Shakir",
+          "position": "WR",
+          "team": "BUF"
         }
       ],
       "taxi": [
@@ -2980,10 +2980,10 @@
       "rank": 11,
       "starters": [
         {
-          "player_id": "9511",
-          "name": "Keaton Mitchell",
+          "player_id": "4034",
+          "name": "Christian McCaffrey",
           "position": "RB",
-          "team": "LAC"
+          "team": "SF"
         },
         {
           "player_id": "7567",
@@ -3030,12 +3030,6 @@
       ],
       "bench": [
         {
-          "player_id": "4034",
-          "name": "Christian McCaffrey",
-          "position": "RB",
-          "team": "SF"
-        },
-        {
           "player_id": "6039",
           "name": "Ty Johnson",
           "position": "RB",
@@ -3058,6 +3052,12 @@
           "name": "Tyler Goodson",
           "position": "RB",
           "team": "DAL"
+        },
+        {
+          "player_id": "9511",
+          "name": "Keaton Mitchell",
+          "position": "RB",
+          "team": "LAC"
         }
       ],
       "taxi": [
@@ -3146,10 +3146,10 @@
       "rank": 6,
       "starters": [
         {
-          "player_id": "12507",
-          "name": "Omarion Hampton",
+          "player_id": "7611",
+          "name": "Rhamondre Stevenson",
           "position": "RB",
-          "team": "LAC"
+          "team": "NE"
         },
         {
           "player_id": "8150",
@@ -3170,16 +3170,16 @@
           "team": "TB"
         },
         {
-          "player_id": "13421",
-          "name": "Eli Raridon",
+          "player_id": "4217",
+          "name": "George Kittle",
           "position": "TE",
-          "team": "NE"
+          "team": "SF"
         },
         {
-          "player_id": "7611",
-          "name": "Rhamondre Stevenson",
+          "player_id": "12507",
+          "name": "Omarion Hampton",
           "position": "RB",
-          "team": "NE"
+          "team": "LAC"
         },
         {
           "player_id": "10229",
@@ -3202,16 +3202,16 @@
           "team": "LAR"
         },
         {
+          "player_id": "13421",
+          "name": "Eli Raridon",
+          "position": "TE",
+          "team": "NE"
+        },
+        {
           "player_id": "1373",
           "name": "Geno Smith",
           "position": "QB",
           "team": "NYJ"
-        },
-        {
-          "player_id": "4217",
-          "name": "George Kittle",
-          "position": "TE",
-          "team": "SF"
         },
         {
           "player_id": "4663",

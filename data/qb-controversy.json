@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-03T06:57:42.712Z",
+  "generated_at": "2026-11-03T15:17:46.229Z",
   "source": "Sleeper public API",
   "username": "TheMightyKites",
   "nfl_week": 9,
@@ -203,10 +203,10 @@
         "team": "JAX"
       },
       {
-        "player_id": "12498",
-        "name": "Mason Taylor",
-        "position": "TE",
-        "team": "NYJ"
+        "player_id": "13345",
+        "name": "Jonah Coleman",
+        "position": "RB",
+        "team": "DEN"
       }
     ],
     "bench": [
@@ -241,6 +241,12 @@
         "team": "NE"
       },
       {
+        "player_id": "12498",
+        "name": "Mason Taylor",
+        "position": "TE",
+        "team": "NYJ"
+      },
+      {
         "player_id": "12541",
         "name": "Dont'e Thornton Jr.",
         "position": "WR",
@@ -263,12 +269,6 @@
         "name": "Mike Washington Jr.",
         "position": "RB",
         "team": "LV"
-      },
-      {
-        "player_id": "13345",
-        "name": "Jonah Coleman",
-        "position": "RB",
-        "team": "DEN"
       },
       {
         "player_id": "13425",
@@ -1120,19 +1120,13 @@
           "team": "TB"
         },
         {
-          "player_id": "6797",
-          "name": "Justin Herbert",
-          "position": "QB",
-          "team": "LAC"
-        }
-      ],
-      "bench": [
-        {
           "player_id": "11565",
           "name": "J.J. McCarthy",
           "position": "QB",
           "team": "NYG"
-        },
+        }
+      ],
+      "bench": [
         {
           "player_id": "11596",
           "name": "Ben Sinnott",
@@ -1204,6 +1198,12 @@
           "name": "Laquon Treadwell",
           "position": "WR",
           "team": "IND"
+        },
+        {
+          "player_id": "6797",
+          "name": "Justin Herbert",
+          "position": "QB",
+          "team": "LAC"
         },
         {
           "player_id": "7828",
@@ -2482,10 +2482,10 @@
           "team": "JAX"
         },
         {
-          "player_id": "12498",
-          "name": "Mason Taylor",
-          "position": "TE",
-          "team": "NYJ"
+          "player_id": "13345",
+          "name": "Jonah Coleman",
+          "position": "RB",
+          "team": "DEN"
         }
       ],
       "bench": [
@@ -2520,6 +2520,12 @@
           "team": "NE"
         },
         {
+          "player_id": "12498",
+          "name": "Mason Taylor",
+          "position": "TE",
+          "team": "NYJ"
+        },
+        {
           "player_id": "12541",
           "name": "Dont'e Thornton Jr.",
           "position": "WR",
@@ -2542,12 +2548,6 @@
           "name": "Mike Washington Jr.",
           "position": "RB",
           "team": "LV"
-        },
-        {
-          "player_id": "13345",
-          "name": "Jonah Coleman",
-          "position": "RB",
-          "team": "DEN"
         },
         {
           "player_id": "13425",

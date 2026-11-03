@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-03T06:57:43.248Z",
+  "generated_at": "2026-11-03T15:17:46.680Z",
   "source": "Sleeper public API",
   "username": "TheMightyKites",
   "nfl_week": 9,
@@ -155,22 +155,16 @@
         "team": "BUF"
       },
       {
-        "player_id": "7021",
-        "name": "Rico Dowdle",
-        "position": "RB",
-        "team": "PIT"
-      },
-      {
         "player_id": "3198",
         "name": "Derrick Henry",
         "position": "RB",
         "team": "BAL"
       },
       {
-        "player_id": "11646",
-        "name": "Jalen Coker",
-        "position": "WR",
-        "team": "CAR"
+        "player_id": "12474",
+        "name": "Woody Marks",
+        "position": "RB",
+        "team": "HOU"
       },
       {
         "player_id": "7547",
@@ -185,10 +179,16 @@
         "team": "GB"
       },
       {
-        "player_id": "3214",
-        "name": "Hunter Henry",
+        "player_id": "11646",
+        "name": "Jalen Coker",
+        "position": "WR",
+        "team": "CAR"
+      },
+      {
+        "player_id": "4066",
+        "name": "Evan Engram",
         "position": "TE",
-        "team": "NE"
+        "team": "DEN"
       },
       {
         "player_id": "5947",
@@ -215,12 +215,6 @@
         "name": "Isaiah Davis",
         "position": "RB",
         "team": "NYJ"
-      },
-      {
-        "player_id": "12474",
-        "name": "Woody Marks",
-        "position": "RB",
-        "team": "HOU"
       },
       {
         "player_id": "12481",
@@ -271,6 +265,12 @@
         "team": "TB"
       },
       {
+        "player_id": "3214",
+        "name": "Hunter Henry",
+        "position": "TE",
+        "team": "NE"
+      },
+      {
         "player_id": "3321",
         "name": "Tyreek Hill",
         "position": "WR",
@@ -283,12 +283,6 @@
         "team": "NO"
       },
       {
-        "player_id": "4066",
-        "name": "Evan Engram",
-        "position": "TE",
-        "team": "DEN"
-      },
-      {
         "player_id": "5995",
         "name": "Justice Hill",
         "position": "RB",
@@ -299,6 +293,12 @@
         "name": "Jerry Jeudy",
         "position": "WR",
         "team": "CLE"
+      },
+      {
+        "player_id": "7021",
+        "name": "Rico Dowdle",
+        "position": "RB",
+        "team": "PIT"
       },
       {
         "player_id": "8111",
@@ -1148,10 +1148,10 @@
           "team": "LAC"
         },
         {
-          "player_id": "13274",
-          "name": "Germie Bernard",
+          "player_id": "12514",
+          "name": "Emeka Egbuka",
           "position": "WR",
-          "team": "PIT"
+          "team": "TB"
         },
         {
           "player_id": "10213",
@@ -1222,12 +1222,6 @@
           "team": "NE"
         },
         {
-          "player_id": "12514",
-          "name": "Emeka Egbuka",
-          "position": "WR",
-          "team": "TB"
-        },
-        {
           "player_id": "12522",
           "name": "Cam Ward",
           "position": "QB",
@@ -1238,6 +1232,12 @@
           "name": "Kyle Monangai",
           "position": "RB",
           "team": "CHI"
+        },
+        {
+          "player_id": "13274",
+          "name": "Germie Bernard",
+          "position": "WR",
+          "team": "PIT"
         },
         {
           "player_id": "13288",
@@ -1817,22 +1817,16 @@
           "team": "BUF"
         },
         {
-          "player_id": "7021",
-          "name": "Rico Dowdle",
-          "position": "RB",
-          "team": "PIT"
-        },
-        {
           "player_id": "3198",
           "name": "Derrick Henry",
           "position": "RB",
           "team": "BAL"
         },
         {
-          "player_id": "11646",
-          "name": "Jalen Coker",
-          "position": "WR",
-          "team": "CAR"
+          "player_id": "12474",
+          "name": "Woody Marks",
+          "position": "RB",
+          "team": "HOU"
         },
         {
           "player_id": "7547",
@@ -1847,10 +1841,16 @@
           "team": "GB"
         },
         {
-          "player_id": "3214",
-          "name": "Hunter Henry",
+          "player_id": "11646",
+          "name": "Jalen Coker",
+          "position": "WR",
+          "team": "CAR"
+        },
+        {
+          "player_id": "4066",
+          "name": "Evan Engram",
           "position": "TE",
-          "team": "NE"
+          "team": "DEN"
         },
         {
           "player_id": "5947",
@@ -1877,12 +1877,6 @@
           "name": "Isaiah Davis",
           "position": "RB",
           "team": "NYJ"
-        },
-        {
-          "player_id": "12474",
-          "name": "Woody Marks",
-          "position": "RB",
-          "team": "HOU"
         },
         {
           "player_id": "12481",
@@ -1933,6 +1927,12 @@
           "team": "TB"
         },
         {
+          "player_id": "3214",
+          "name": "Hunter Henry",
+          "position": "TE",
+          "team": "NE"
+        },
+        {
           "player_id": "3321",
           "name": "Tyreek Hill",
           "position": "WR",
@@ -1945,12 +1945,6 @@
           "team": "NO"
         },
         {
-          "player_id": "4066",
-          "name": "Evan Engram",
-          "position": "TE",
-          "team": "DEN"
-        },
-        {
           "player_id": "5995",
           "name": "Justice Hill",
           "position": "RB",
@@ -1961,6 +1955,12 @@
           "name": "Jerry Jeudy",
           "position": "WR",
           "team": "CLE"
+        },
+        {
+          "player_id": "7021",
+          "name": "Rico Dowdle",
+          "position": "RB",
+          "team": "PIT"
         },
         {
           "player_id": "8111",

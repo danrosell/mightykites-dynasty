@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-03T06:57:43.567Z",
+  "generated_at": "2026-11-03T15:17:47.034Z",
   "source": "Sleeper public API",
   "username": "TheMightyKites",
   "nfl_week": 9,
@@ -61,7 +61,7 @@
       "leg": 8,
       "reserve_slots": 3,
       "reserve_allow_cov": 1,
-      "daily_waivers_last_ran": 2
+      "daily_waivers_last_ran": 3
     },
     "scoring_settings": {
       "sack": 2,
@@ -190,10 +190,10 @@
         "team": "LV"
       },
       {
-        "player_id": "12495",
-        "name": "Ollie Gordon II",
-        "position": "RB",
-        "team": "MIA"
+        "player_id": "5022",
+        "name": "Dallas Goedert",
+        "position": "TE",
+        "team": "PHI"
       },
       {
         "player_id": "11564",
@@ -228,6 +228,12 @@
         "team": "LAC"
       },
       {
+        "player_id": "12495",
+        "name": "Ollie Gordon II",
+        "position": "RB",
+        "team": "MIA"
+      },
+      {
         "player_id": "12535",
         "name": "Isaac TeSlaa",
         "position": "WR",
@@ -250,12 +256,6 @@
         "name": "Cooper Kupp",
         "position": "WR",
         "team": "SEA"
-      },
-      {
-        "player_id": "5022",
-        "name": "Dallas Goedert",
-        "position": "TE",
-        "team": "PHI"
       },
       {
         "player_id": "5947",
@@ -587,12 +587,6 @@
           "team": "LAR"
         },
         {
-          "player_id": "4454",
-          "name": "Kendrick Bourne",
-          "position": "WR",
-          "team": "ARI"
-        },
-        {
           "player_id": "4950",
           "name": "Christian Kirk",
           "position": "WR",
@@ -816,10 +810,10 @@
           "team": "CAR"
         },
         {
-          "player_id": "421",
-          "name": "Matthew Stafford",
+          "player_id": "8183",
+          "name": "Brock Purdy",
           "position": "QB",
-          "team": "LAR"
+          "team": "SF"
         }
       ],
       "bench": [
@@ -872,6 +866,12 @@
           "team": "WAS"
         },
         {
+          "player_id": "421",
+          "name": "Matthew Stafford",
+          "position": "QB",
+          "team": "LAR"
+        },
+        {
           "player_id": "7527",
           "name": "Mac Jones",
           "position": "QB",
@@ -900,12 +900,6 @@
           "name": "Wan'Dale Robinson",
           "position": "WR",
           "team": "TEN"
-        },
-        {
-          "player_id": "8183",
-          "name": "Brock Purdy",
-          "position": "QB",
-          "team": "SF"
         },
         {
           "player_id": "9504",
@@ -1069,10 +1063,10 @@
           "team": "LV"
         },
         {
-          "player_id": "12495",
-          "name": "Ollie Gordon II",
-          "position": "RB",
-          "team": "MIA"
+          "player_id": "5022",
+          "name": "Dallas Goedert",
+          "position": "TE",
+          "team": "PHI"
         },
         {
           "player_id": "11564",
@@ -1107,6 +1101,12 @@
           "team": "LAC"
         },
         {
+          "player_id": "12495",
+          "name": "Ollie Gordon II",
+          "position": "RB",
+          "team": "MIA"
+        },
+        {
           "player_id": "12535",
           "name": "Isaac TeSlaa",
           "position": "WR",
@@ -1129,12 +1129,6 @@
           "name": "Cooper Kupp",
           "position": "WR",
           "team": "SEA"
-        },
-        {
-          "player_id": "5022",
-          "name": "Dallas Goedert",
-          "position": "TE",
-          "team": "PHI"
         },
         {
           "player_id": "5947",
@@ -1303,16 +1297,16 @@
           "team": "ARI"
         },
         {
-          "player_id": "13287",
-          "name": "Jeremiyah Love",
+          "player_id": "13305",
+          "name": "Mike Washington Jr.",
           "position": "RB",
-          "team": "ARI"
+          "team": "LV"
         },
         {
-          "player_id": "13274",
-          "name": "Germie Bernard",
+          "player_id": "11783",
+          "name": "Ryan Flournoy",
           "position": "WR",
-          "team": "PIT"
+          "team": "DAL"
         },
         {
           "player_id": "8134",
@@ -1327,22 +1321,22 @@
           "team": "CLE"
         },
         {
+          "player_id": "7002",
+          "name": "Juwan Johnson",
+          "position": "TE",
+          "team": "NO"
+        },
+        {
+          "player_id": "8676",
+          "name": "Rashid Shaheed",
+          "position": "WR",
+          "team": "SEA"
+        },
+        {
           "player_id": "8172",
           "name": "Greg Dulcich",
           "position": "TE",
           "team": "MIA"
-        },
-        {
-          "player_id": "11783",
-          "name": "Ryan Flournoy",
-          "position": "WR",
-          "team": "DAL"
-        },
-        {
-          "player_id": "12547",
-          "name": "Kyle Williams",
-          "position": "WR",
-          "team": "NE"
         }
       ],
       "bench": [
@@ -1371,16 +1365,16 @@
           "team": "LV"
         },
         {
-          "player_id": "12508",
-          "name": "Jaxson Dart",
-          "position": "QB",
-          "team": "NYG"
-        },
-        {
           "player_id": "12509",
           "name": "Tre' Harris",
           "position": "WR",
           "team": "LAC"
+        },
+        {
+          "player_id": "12547",
+          "name": "Kyle Williams",
+          "position": "WR",
+          "team": "NE"
         },
         {
           "player_id": "12718",
@@ -1389,16 +1383,22 @@
           "team": "LAR"
         },
         {
+          "player_id": "13274",
+          "name": "Germie Bernard",
+          "position": "WR",
+          "team": "PIT"
+        },
+        {
+          "player_id": "13287",
+          "name": "Jeremiyah Love",
+          "position": "RB",
+          "team": "ARI"
+        },
+        {
           "player_id": "13293",
           "name": "Ja'Kobi Lane",
           "position": "WR",
           "team": "BAL"
-        },
-        {
-          "player_id": "13305",
-          "name": "Mike Washington Jr.",
-          "position": "RB",
-          "team": "LV"
         },
         {
           "player_id": "13317",
@@ -1407,28 +1407,22 @@
           "team": "TB"
         },
         {
+          "player_id": "13417",
+          "name": "De'Zhaun Stribling",
+          "position": "WR",
+          "team": "SF"
+        },
+        {
           "player_id": "3321",
           "name": "Tyreek Hill",
           "position": "WR",
           "team": "FA"
         },
         {
-          "player_id": "7002",
-          "name": "Juwan Johnson",
-          "position": "TE",
-          "team": "NO"
-        },
-        {
           "player_id": "8129",
           "name": "Dameon Pierce",
           "position": "RB",
           "team": "PHI"
-        },
-        {
-          "player_id": "8676",
-          "name": "Rashid Shaheed",
-          "position": "WR",
-          "team": "SEA"
         },
         {
           "player_id": "9479",
@@ -1465,6 +1459,12 @@
       ],
       "reserve": [
         {
+          "player_id": "12508",
+          "name": "Jaxson Dart",
+          "position": "QB",
+          "team": "NYG"
+        },
+        {
           "player_id": "12521",
           "name": "Elijah Arroyo",
           "position": "TE",
@@ -1475,12 +1475,6 @@
           "name": "Jacory Croskey-Merritt",
           "position": "RB",
           "team": "WAS"
-        },
-        {
-          "player_id": "13417",
-          "name": "De'Zhaun Stribling",
-          "position": "WR",
-          "team": "SF"
         }
       ],
       "picks": [
