@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-03T15:17:46.680Z",
+  "generated_at": "2026-11-04T02:25:26.419Z",
   "source": "Sleeper public API",
   "username": "TheMightyKites",
   "nfl_week": 9,
@@ -11,7 +11,7 @@
     "status": "in_season",
     "settings": {
       "best_ball": 0,
-      "last_report": 7,
+      "last_report": 8,
       "waiver_budget": 200,
       "disable_adds": 0,
       "divisions": 0,
@@ -58,7 +58,7 @@
       "leg": 8,
       "reserve_slots": 2,
       "reserve_allow_cov": 0,
-      "daily_waivers_last_ran": 2
+      "daily_waivers_last_ran": 3
     },
     "scoring_settings": {
       "sack": 1,
@@ -2746,16 +2746,16 @@
           "team": "DET"
         },
         {
-          "player_id": "11783",
-          "name": "Ryan Flournoy",
+          "player_id": "2216",
+          "name": "Mike Evans",
           "position": "WR",
-          "team": "DAL"
+          "team": "SF"
         },
         {
-          "player_id": "8127",
-          "name": "Charlie Kolar",
+          "player_id": "8131",
+          "name": "Isaiah Likely",
           "position": "TE",
-          "team": "LAC"
+          "team": "NYG"
         },
         {
           "player_id": "2449",
@@ -2764,13 +2764,19 @@
           "team": "WAS"
         },
         {
-          "player_id": "13293",
-          "name": "Ja'Kobi Lane",
-          "position": "WR",
-          "team": "BAL"
+          "player_id": "4034",
+          "name": "Christian McCaffrey",
+          "position": "RB",
+          "team": "SF"
         }
       ],
       "bench": [
+        {
+          "player_id": "11783",
+          "name": "Ryan Flournoy",
+          "position": "WR",
+          "team": "DAL"
+        },
         {
           "player_id": "11834",
           "name": "Devaughn Vele",
@@ -2788,6 +2794,12 @@
           "name": "Jacory Croskey-Merritt",
           "position": "RB",
           "team": "WAS"
+        },
+        {
+          "player_id": "13293",
+          "name": "Ja'Kobi Lane",
+          "position": "WR",
+          "team": "BAL"
         },
         {
           "player_id": "13349",
@@ -2808,22 +2820,10 @@
           "team": "SF"
         },
         {
-          "player_id": "2216",
-          "name": "Mike Evans",
-          "position": "WR",
-          "team": "SF"
-        },
-        {
           "player_id": "4017",
           "name": "Deshaun Watson",
           "position": "QB",
           "team": "CLE"
-        },
-        {
-          "player_id": "4034",
-          "name": "Christian McCaffrey",
-          "position": "RB",
-          "team": "SF"
         },
         {
           "player_id": "4046",
@@ -2868,10 +2868,10 @@
           "team": "SF"
         },
         {
-          "player_id": "8131",
-          "name": "Isaiah Likely",
+          "player_id": "8127",
+          "name": "Charlie Kolar",
           "position": "TE",
-          "team": "NYG"
+          "team": "LAC"
         },
         {
           "player_id": "8142",
@@ -3670,8 +3670,8 @@
           "team": "WAS"
         },
         {
-          "player_id": "13287",
-          "name": "Jeremiyah Love",
+          "player_id": "8132",
+          "name": "Tyler Allgeier",
           "position": "RB",
           "team": "ARI"
         },
@@ -3682,10 +3682,10 @@
           "team": "MIA"
         },
         {
-          "player_id": "6801",
-          "name": "Tee Higgins",
+          "player_id": "11632",
+          "name": "Malik Nabers",
           "position": "WR",
-          "team": "CIN"
+          "team": "NYG"
         },
         {
           "player_id": "8146",
@@ -3712,10 +3712,10 @@
           "team": "CHI"
         },
         {
-          "player_id": "13301",
-          "name": "Antonio Williams",
+          "player_id": "6801",
+          "name": "Tee Higgins",
           "position": "WR",
-          "team": "WAS"
+          "team": "CIN"
         }
       ],
       "bench": [
@@ -3736,12 +3736,6 @@
           "name": "Xavier Worthy",
           "position": "WR",
           "team": "KC"
-        },
-        {
-          "player_id": "11632",
-          "name": "Malik Nabers",
-          "position": "WR",
-          "team": "NYG"
         },
         {
           "player_id": "12467",
@@ -3786,6 +3780,18 @@
           "team": "NYG"
         },
         {
+          "player_id": "13287",
+          "name": "Jeremiyah Love",
+          "position": "RB",
+          "team": "ARI"
+        },
+        {
+          "player_id": "13301",
+          "name": "Antonio Williams",
+          "position": "WR",
+          "team": "WAS"
+        },
+        {
           "player_id": "13330",
           "name": "Kenyon Sadiq",
           "position": "TE",
@@ -3818,12 +3824,6 @@
         {
           "player_id": "8122",
           "name": "Zonovan Knight",
-          "position": "RB",
-          "team": "ARI"
-        },
-        {
-          "player_id": "8132",
-          "name": "Tyler Allgeier",
           "position": "RB",
           "team": "ARI"
         },

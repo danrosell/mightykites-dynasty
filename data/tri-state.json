@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-03T15:17:47.034Z",
+  "generated_at": "2026-11-04T02:25:26.793Z",
   "source": "Sleeper public API",
   "username": "TheMightyKites",
   "nfl_week": 9,
@@ -11,7 +11,7 @@
     "status": "in_season",
     "settings": {
       "best_ball": 0,
-      "last_report": 7,
+      "last_report": 8,
       "waiver_budget": 200,
       "disable_adds": 0,
       "divisions": 2,
@@ -489,10 +489,10 @@
       "rank": 7,
       "starters": [
         {
-          "player_id": "4881",
-          "name": "Lamar Jackson",
+          "player_id": "8161",
+          "name": "Malik Willis",
           "position": "QB",
-          "team": "BAL"
+          "team": "MIA"
         },
         {
           "player_id": "8136",
@@ -501,10 +501,10 @@
           "team": "WAS"
         },
         {
-          "player_id": "8228",
-          "name": "Jaylen Warren",
+          "player_id": "12481",
+          "name": "Cam Skattebo",
           "position": "RB",
-          "team": "PIT"
+          "team": "NYG"
         },
         {
           "player_id": "7526",
@@ -537,10 +537,10 @@
           "team": "CHI"
         },
         {
-          "player_id": "3257",
-          "name": "Jacoby Brissett",
-          "position": "QB",
-          "team": "ARI"
+          "player_id": "12474",
+          "name": "Woody Marks",
+          "position": "RB",
+          "team": "HOU"
         }
       ],
       "bench": [
@@ -563,28 +563,28 @@
           "team": "GB"
         },
         {
-          "player_id": "12474",
-          "name": "Woody Marks",
-          "position": "RB",
-          "team": "HOU"
-        },
-        {
-          "player_id": "12481",
-          "name": "Cam Skattebo",
-          "position": "RB",
-          "team": "NYG"
-        },
-        {
           "player_id": "12522",
           "name": "Cam Ward",
           "position": "QB",
           "team": "TEN"
         },
         {
+          "player_id": "3257",
+          "name": "Jacoby Brissett",
+          "position": "QB",
+          "team": "ARI"
+        },
+        {
           "player_id": "3271",
           "name": "Tyler Higbee",
           "position": "TE",
           "team": "LAR"
+        },
+        {
+          "player_id": "4881",
+          "name": "Lamar Jackson",
+          "position": "QB",
+          "team": "BAL"
         },
         {
           "player_id": "4950",
@@ -617,10 +617,10 @@
           "team": "PHI"
         },
         {
-          "player_id": "8161",
-          "name": "Malik Willis",
-          "position": "QB",
-          "team": "MIA"
+          "player_id": "8228",
+          "name": "Jaylen Warren",
+          "position": "RB",
+          "team": "PIT"
         },
         {
           "player_id": "9506",
@@ -768,16 +768,16 @@
           "team": "CAR"
         },
         {
-          "player_id": "8150",
-          "name": "Kyren Williams",
+          "player_id": "7594",
+          "name": "Chuba Hubbard",
           "position": "RB",
-          "team": "LAR"
+          "team": "CAR"
         },
         {
-          "player_id": "3198",
-          "name": "Derrick Henry",
+          "player_id": "13345",
+          "name": "Jonah Coleman",
           "position": "RB",
-          "team": "BAL"
+          "team": "DEN"
         },
         {
           "player_id": "10232",
@@ -804,10 +804,10 @@
           "team": "DET"
         },
         {
-          "player_id": "7594",
-          "name": "Chuba Hubbard",
+          "player_id": "3198",
+          "name": "Derrick Henry",
           "position": "RB",
-          "team": "CAR"
+          "team": "BAL"
         },
         {
           "player_id": "8183",
@@ -854,12 +854,6 @@
           "team": "MIA"
         },
         {
-          "player_id": "13345",
-          "name": "Jonah Coleman",
-          "position": "RB",
-          "team": "DEN"
-        },
-        {
           "player_id": "2449",
           "name": "Stefon Diggs",
           "position": "WR",
@@ -900,6 +894,12 @@
           "name": "Wan'Dale Robinson",
           "position": "WR",
           "team": "TEN"
+        },
+        {
+          "player_id": "8150",
+          "name": "Kyren Williams",
+          "position": "RB",
+          "team": "LAR"
         },
         {
           "player_id": "9504",
@@ -3077,34 +3077,34 @@
           "team": "NE"
         },
         {
+          "player_id": "11632",
+          "name": "Malik Nabers",
+          "position": "WR",
+          "team": "NYG"
+        },
+        {
+          "player_id": "7569",
+          "name": "Nico Collins",
+          "position": "WR",
+          "team": "HOU"
+        },
+        {
           "player_id": "12501",
           "name": "Matthew Golden",
           "position": "WR",
           "team": "GB"
         },
         {
-          "player_id": "11646",
-          "name": "Jalen Coker",
-          "position": "WR",
-          "team": "CAR"
-        },
-        {
-          "player_id": "11637",
-          "name": "Keon Coleman",
-          "position": "WR",
-          "team": "BUF"
+          "player_id": "8131",
+          "name": "Isaiah Likely",
+          "position": "TE",
+          "team": "NYG"
         },
         {
           "player_id": "5844",
           "name": "T.J. Hockenson",
           "position": "TE",
           "team": "MIN"
-        },
-        {
-          "player_id": "11576",
-          "name": "Braelon Allen",
-          "position": "RB",
-          "team": "NYJ"
         },
         {
           "player_id": "11566",
@@ -3127,16 +3127,28 @@
           "team": "NYG"
         },
         {
+          "player_id": "11576",
+          "name": "Braelon Allen",
+          "position": "RB",
+          "team": "NYJ"
+        },
+        {
           "player_id": "11628",
           "name": "Marvin Harrison Jr.",
           "position": "WR",
           "team": "HOU"
         },
         {
-          "player_id": "11632",
-          "name": "Malik Nabers",
+          "player_id": "11637",
+          "name": "Keon Coleman",
           "position": "WR",
-          "team": "NYG"
+          "team": "BUF"
+        },
+        {
+          "player_id": "11646",
+          "name": "Jalen Coker",
+          "position": "WR",
+          "team": "CAR"
         },
         {
           "player_id": "12487",
@@ -3185,18 +3197,6 @@
           "name": "Deebo Samuel Sr.",
           "position": "WR",
           "team": "SF"
-        },
-        {
-          "player_id": "7569",
-          "name": "Nico Collins",
-          "position": "WR",
-          "team": "HOU"
-        },
-        {
-          "player_id": "8131",
-          "name": "Isaiah Likely",
-          "position": "TE",
-          "team": "NYG"
         },
         {
           "player_id": "8154",

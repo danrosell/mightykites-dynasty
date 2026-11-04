@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-03T15:17:46.229Z",
+  "generated_at": "2026-11-04T02:25:25.997Z",
   "source": "Sleeper public API",
   "username": "TheMightyKites",
   "nfl_week": 9,
@@ -11,7 +11,7 @@
     "status": "in_season",
     "settings": {
       "best_ball": 0,
-      "last_report": 7,
+      "last_report": 8,
       "waiver_budget": 200,
       "disable_adds": 0,
       "capacity_override": 0,
@@ -61,7 +61,7 @@
       "daily_waivers_base": 4,
       "reserve_slots": 2,
       "reserve_allow_cov": 1,
-      "daily_waivers_last_ran": 2
+      "daily_waivers_last_ran": 3
     },
     "scoring_settings": {
       "sack": 1,
@@ -829,16 +829,16 @@
           "team": "GB"
         },
         {
+          "player_id": "4217",
+          "name": "George Kittle",
+          "position": "TE",
+          "team": "SF"
+        },
+        {
           "player_id": "11593",
           "name": "Brevyn Spann-Ford",
           "position": "TE",
           "team": "DAL"
-        },
-        {
-          "player_id": "13330",
-          "name": "Kenyon Sadiq",
-          "position": "TE",
-          "team": "NYJ"
         },
         {
           "player_id": "3163",
@@ -861,6 +861,12 @@
           "team": "BAL"
         },
         {
+          "player_id": "13330",
+          "name": "Kenyon Sadiq",
+          "position": "TE",
+          "team": "NYJ"
+        },
+        {
           "player_id": "2197",
           "name": "Brandin Cooks",
           "position": "WR",
@@ -877,12 +883,6 @@
           "name": "Evan Engram",
           "position": "TE",
           "team": "DEN"
-        },
-        {
-          "player_id": "4217",
-          "name": "George Kittle",
-          "position": "TE",
-          "team": "SF"
         },
         {
           "player_id": "4219",
@@ -2161,10 +2161,10 @@
       "rank": 5,
       "starters": [
         {
-          "player_id": "11559",
-          "name": "Michael Penix Jr.",
+          "player_id": "9758",
+          "name": "C.J. Stroud",
           "position": "QB",
-          "team": "ATL"
+          "team": "HOU"
         },
         {
           "player_id": "8138",
@@ -2173,10 +2173,10 @@
           "team": "BUF"
         },
         {
-          "player_id": "13287",
-          "name": "Jeremiyah Love",
+          "player_id": "6806",
+          "name": "J.K. Dobbins",
           "position": "RB",
-          "team": "ARI"
+          "team": "DEN"
         },
         {
           "player_id": "8134",
@@ -2185,10 +2185,10 @@
           "team": "BUF"
         },
         {
-          "player_id": "4454",
-          "name": "Kendrick Bourne",
+          "player_id": "11632",
+          "name": "Malik Nabers",
           "position": "WR",
-          "team": "ARI"
+          "team": "NYG"
         },
         {
           "player_id": "10232",
@@ -2215,10 +2215,10 @@
           "team": "NYJ"
         },
         {
-          "player_id": "12522",
-          "name": "Cam Ward",
+          "player_id": "11559",
+          "name": "Michael Penix Jr.",
           "position": "QB",
-          "team": "TEN"
+          "team": "ATL"
         }
       ],
       "bench": [
@@ -2235,22 +2235,28 @@
           "team": "LV"
         },
         {
-          "player_id": "11632",
-          "name": "Malik Nabers",
-          "position": "WR",
-          "team": "NYG"
-        },
-        {
           "player_id": "12486",
           "name": "Dillon Gabriel",
           "position": "QB",
           "team": "CLE"
         },
         {
+          "player_id": "12522",
+          "name": "Cam Ward",
+          "position": "QB",
+          "team": "TEN"
+        },
+        {
           "player_id": "12718",
           "name": "Konata Mumpfield",
           "position": "WR",
           "team": "LAR"
+        },
+        {
+          "player_id": "13287",
+          "name": "Jeremiyah Love",
+          "position": "RB",
+          "team": "ARI"
         },
         {
           "player_id": "4144",
@@ -2265,6 +2271,12 @@
           "team": "FA"
         },
         {
+          "player_id": "4454",
+          "name": "Kendrick Bourne",
+          "position": "WR",
+          "team": "ARI"
+        },
+        {
           "player_id": "5857",
           "name": "Noah Fant",
           "position": "TE",
@@ -2275,12 +2287,6 @@
           "name": "Justice Hill",
           "position": "RB",
           "team": "BAL"
-        },
-        {
-          "player_id": "6806",
-          "name": "J.K. Dobbins",
-          "position": "RB",
-          "team": "DEN"
         },
         {
           "player_id": "8121",
@@ -2299,12 +2305,6 @@
           "name": "Sean Tucker",
           "position": "RB",
           "team": "TB"
-        },
-        {
-          "player_id": "9758",
-          "name": "C.J. Stroud",
-          "position": "QB",
-          "team": "HOU"
         }
       ],
       "taxi": [
@@ -2957,16 +2957,16 @@
           "team": "HOU"
         },
         {
-          "player_id": "11655",
-          "name": "Tyrone Tracy Jr.",
+          "player_id": "11581",
+          "name": "MarShawn Lloyd",
           "position": "RB",
-          "team": "NYG"
+          "team": "GB"
         },
         {
-          "player_id": "12499",
-          "name": "Elic Ayomanor",
+          "player_id": "10229",
+          "name": "Rashee Rice",
           "position": "WR",
-          "team": "TEN"
+          "team": "KC"
         },
         {
           "player_id": "13293",
@@ -2981,10 +2981,10 @@
           "team": "PHI"
         },
         {
-          "player_id": "12502",
-          "name": "Gunnar Helm",
+          "player_id": "10236",
+          "name": "Dalton Kincaid",
           "position": "TE",
-          "team": "TEN"
+          "team": "BUF"
         },
         {
           "player_id": "9482",
@@ -3007,22 +3007,10 @@
       ],
       "bench": [
         {
-          "player_id": "10229",
-          "name": "Rashee Rice",
-          "position": "WR",
-          "team": "KC"
-        },
-        {
-          "player_id": "10236",
-          "name": "Dalton Kincaid",
-          "position": "TE",
-          "team": "BUF"
-        },
-        {
-          "player_id": "11581",
-          "name": "MarShawn Lloyd",
+          "player_id": "11655",
+          "name": "Tyrone Tracy Jr.",
           "position": "RB",
-          "team": "GB"
+          "team": "NYG"
         },
         {
           "player_id": "12482",
@@ -3035,6 +3023,18 @@
           "name": "Terrance Ferguson",
           "position": "TE",
           "team": "LAR"
+        },
+        {
+          "player_id": "12499",
+          "name": "Elic Ayomanor",
+          "position": "WR",
+          "team": "TEN"
+        },
+        {
+          "player_id": "12502",
+          "name": "Gunnar Helm",
+          "position": "TE",
+          "team": "TEN"
         },
         {
           "player_id": "12509",
