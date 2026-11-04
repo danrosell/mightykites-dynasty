@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-04T11:09:16.496Z",
+  "generated_at": "2026-11-04T18:42:05.891Z",
   "source": "Sleeper public API",
   "username": "TheMightyKites",
   "nfl_week": 9,
@@ -61,7 +61,7 @@
       "leg": 9,
       "reserve_slots": 3,
       "reserve_allow_cov": 0,
-      "daily_waivers_last_ran": 3
+      "daily_waivers_last_ran": 4
     },
     "scoring_settings": {
       "sack": 1,
@@ -203,6 +203,12 @@
         "name": "DK Metcalf",
         "position": "WR",
         "team": "PIT"
+      },
+      {
+        "player_id": "6011",
+        "name": "Gardner Minshew II",
+        "position": "QB",
+        "team": "ARI"
       },
       {
         "player_id": "8122",
@@ -452,6 +458,12 @@
           "name": "DK Metcalf",
           "position": "WR",
           "team": "PIT"
+        },
+        {
+          "player_id": "6011",
+          "name": "Gardner Minshew II",
+          "position": "QB",
+          "team": "ARI"
         },
         {
           "player_id": "8122",
@@ -806,16 +818,16 @@
       ],
       "bench": [
         {
+          "player_id": "11581",
+          "name": "MarShawn Lloyd",
+          "position": "RB",
+          "team": "GB"
+        },
+        {
           "player_id": "11624",
           "name": "Xavier Worthy",
           "position": "WR",
           "team": "KC"
-        },
-        {
-          "player_id": "12491",
-          "name": "Corey Kiner",
-          "position": "RB",
-          "team": "NE"
         },
         {
           "player_id": "12509",
@@ -1140,10 +1152,10 @@
       "rank": 8,
       "starters": [
         {
-          "player_id": "11435",
-          "name": "Emanuel Wilson",
+          "player_id": "12457",
+          "name": "Jaydon Blue",
           "position": "RB",
-          "team": "SEA"
+          "team": "PHI"
         },
         {
           "player_id": "8132",
@@ -1164,10 +1176,10 @@
           "team": "CAR"
         },
         {
-          "player_id": "3214",
-          "name": "Hunter Henry",
+          "player_id": "12518",
+          "name": "Tyler Warren",
           "position": "TE",
-          "team": "NE"
+          "team": "IND"
         },
         {
           "player_id": "13317",
@@ -1176,10 +1188,10 @@
           "team": "TB"
         },
         {
-          "player_id": "12536",
-          "name": "Jaylin Noel",
-          "position": "WR",
-          "team": "HOU"
+          "player_id": "3214",
+          "name": "Hunter Henry",
+          "position": "TE",
+          "team": "NE"
         },
         {
           "player_id": "11560",
@@ -1190,22 +1202,22 @@
       ],
       "bench": [
         {
+          "player_id": "11435",
+          "name": "Emanuel Wilson",
+          "position": "RB",
+          "team": "SEA"
+        },
+        {
           "player_id": "11571",
           "name": "Isaiah Davis",
           "position": "RB",
           "team": "NYJ"
         },
         {
-          "player_id": "12457",
-          "name": "Jaydon Blue",
-          "position": "RB",
-          "team": "PHI"
-        },
-        {
-          "player_id": "12518",
-          "name": "Tyler Warren",
-          "position": "TE",
-          "team": "IND"
+          "player_id": "12536",
+          "name": "Jaylin Noel",
+          "position": "WR",
+          "team": "HOU"
         },
         {
           "player_id": "13405",
@@ -1700,10 +1712,10 @@
           "team": "BAL"
         },
         {
-          "player_id": "4037",
-          "name": "Chris Godwin Jr.",
+          "player_id": "5859",
+          "name": "A.J. Brown",
           "position": "WR",
-          "team": "TB"
+          "team": "NE"
         },
         {
           "player_id": "5022",
@@ -1744,6 +1756,12 @@
           "team": "JAX"
         },
         {
+          "player_id": "4037",
+          "name": "Chris Godwin Jr.",
+          "position": "WR",
+          "team": "TB"
+        },
+        {
           "player_id": "5848",
           "name": "Marquise Brown",
           "position": "WR",
@@ -1782,12 +1800,6 @@
           "name": "Jaxson Dart",
           "position": "QB",
           "team": "NYG"
-        },
-        {
-          "player_id": "5859",
-          "name": "A.J. Brown",
-          "position": "WR",
-          "team": "NE"
         }
       ],
       "picks": [
@@ -2611,10 +2623,10 @@
       "rank": 2,
       "starters": [
         {
-          "player_id": "6806",
-          "name": "J.K. Dobbins",
+          "player_id": "12481",
+          "name": "Cam Skattebo",
           "position": "RB",
-          "team": "DEN"
+          "team": "NYG"
         },
         {
           "player_id": "9224",
@@ -2629,10 +2641,10 @@
           "team": "LAC"
         },
         {
-          "player_id": "8126",
-          "name": "Wan'Dale Robinson",
+          "player_id": "7525",
+          "name": "DeVonta Smith",
           "position": "WR",
-          "team": "TEN"
+          "team": "PHI"
         },
         {
           "player_id": "11604",
@@ -2641,10 +2653,10 @@
           "team": "LV"
         },
         {
-          "player_id": "8180",
-          "name": "Jalen Nailor",
-          "position": "WR",
-          "team": "LV"
+          "player_id": "6806",
+          "name": "J.K. Dobbins",
+          "position": "RB",
+          "team": "DEN"
         },
         {
           "player_id": "1466",
@@ -2667,12 +2679,6 @@
           "team": "CLE"
         },
         {
-          "player_id": "12481",
-          "name": "Cam Skattebo",
-          "position": "RB",
-          "team": "NYG"
-        },
-        {
           "player_id": "13288",
           "name": "Nicholas Singleton",
           "position": "RB",
@@ -2685,10 +2691,16 @@
           "team": "SF"
         },
         {
-          "player_id": "7525",
-          "name": "DeVonta Smith",
+          "player_id": "8126",
+          "name": "Wan'Dale Robinson",
           "position": "WR",
-          "team": "PHI"
+          "team": "TEN"
+        },
+        {
+          "player_id": "8180",
+          "name": "Jalen Nailor",
+          "position": "WR",
+          "team": "LV"
         }
       ],
       "taxi": [
@@ -2837,12 +2849,6 @@
           "team": "PHI"
         },
         {
-          "player_id": "3257",
-          "name": "Jacoby Brissett",
-          "position": "QB",
-          "team": "ARI"
-        },
-        {
           "player_id": "3321",
           "name": "Tyreek Hill",
           "position": "WR",
@@ -2853,6 +2859,12 @@
           "name": "Pat Freiermuth",
           "position": "TE",
           "team": "PIT"
+        },
+        {
+          "player_id": "8119",
+          "name": "Jahan Dotson",
+          "position": "WR",
+          "team": "ATL"
         },
         {
           "player_id": "8135",
@@ -2992,10 +3004,10 @@
           "team": "DEN"
         },
         {
-          "player_id": "13298",
-          "name": "KC Concepcion Jr.",
+          "player_id": "2216",
+          "name": "Mike Evans",
           "position": "WR",
-          "team": "CLE"
+          "team": "SF"
         },
         {
           "player_id": "12517",
@@ -3004,10 +3016,10 @@
           "team": "CHI"
         },
         {
-          "player_id": "13296",
-          "name": "Caleb Douglas",
+          "player_id": "13298",
+          "name": "KC Concepcion Jr.",
           "position": "WR",
-          "team": "MIA"
+          "team": "CLE"
         },
         {
           "player_id": "2449",
@@ -3023,6 +3035,12 @@
         }
       ],
       "bench": [
+        {
+          "player_id": "13296",
+          "name": "Caleb Douglas",
+          "position": "WR",
+          "team": "MIA"
+        },
         {
           "player_id": "6039",
           "name": "Ty Johnson",
@@ -3046,12 +3064,6 @@
           "name": "Tyler Goodson",
           "position": "RB",
           "team": "DAL"
-        },
-        {
-          "player_id": "9511",
-          "name": "Keaton Mitchell",
-          "position": "RB",
-          "team": "LAC"
         }
       ],
       "taxi": [
@@ -3068,14 +3080,7 @@
           "team": "NO"
         }
       ],
-      "reserve": [
-        {
-          "player_id": "2216",
-          "name": "Mike Evans",
-          "position": "WR",
-          "team": "SF"
-        }
-      ],
+      "reserve": [],
       "picks": [
         {
           "season": "2026",

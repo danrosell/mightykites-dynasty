@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-04T11:09:17.913Z",
+  "generated_at": "2026-11-04T18:42:07.357Z",
   "source": "Sleeper public API",
   "username": "TheMightyKites",
   "nfl_week": 9,
@@ -61,7 +61,7 @@
       "leg": 9,
       "reserve_slots": 3,
       "reserve_allow_cov": 1,
-      "daily_waivers_last_ran": 3
+      "daily_waivers_last_ran": 4
     },
     "scoring_settings": {
       "sack": 2,
@@ -210,12 +210,6 @@
         "team": "LV"
       },
       {
-        "player_id": "11643",
-        "name": "Jaylen Wright",
-        "position": "RB",
-        "team": "MIA"
-      },
-      {
         "player_id": "11834",
         "name": "Devaughn Vele",
         "position": "WR",
@@ -262,6 +256,12 @@
         "name": "Jakobi Meyers",
         "position": "WR",
         "team": "JAX"
+      },
+      {
+        "player_id": "6130",
+        "name": "Devin Singletary",
+        "position": "RB",
+        "team": "NYG"
       },
       {
         "player_id": "6768",
@@ -597,6 +597,12 @@
           "name": "Mark Andrews",
           "position": "TE",
           "team": "BAL"
+        },
+        {
+          "player_id": "6011",
+          "name": "Gardner Minshew II",
+          "position": "QB",
+          "team": "ARI"
         },
         {
           "player_id": "6783",
@@ -1083,12 +1089,6 @@
           "team": "LV"
         },
         {
-          "player_id": "11643",
-          "name": "Jaylen Wright",
-          "position": "RB",
-          "team": "MIA"
-        },
-        {
           "player_id": "11834",
           "name": "Devaughn Vele",
           "position": "WR",
@@ -1135,6 +1135,12 @@
           "name": "Jakobi Meyers",
           "position": "WR",
           "team": "JAX"
+        },
+        {
+          "player_id": "6130",
+          "name": "Devin Singletary",
+          "position": "RB",
+          "team": "NYG"
         },
         {
           "player_id": "6768",
@@ -3133,6 +3139,12 @@
           "team": "NYJ"
         },
         {
+          "player_id": "11618",
+          "name": "Jalen McMillan",
+          "position": "WR",
+          "team": "TB"
+        },
+        {
           "player_id": "11628",
           "name": "Marvin Harrison Jr.",
           "position": "WR",
@@ -3157,22 +3169,10 @@
           "team": "LAR"
         },
         {
-          "player_id": "12489",
-          "name": "RJ Harvey",
-          "position": "RB",
-          "team": "DEN"
-        },
-        {
           "player_id": "12514",
           "name": "Emeka Egbuka",
           "position": "WR",
           "team": "TB"
-        },
-        {
-          "player_id": "12536",
-          "name": "Jaylin Noel",
-          "position": "WR",
-          "team": "HOU"
         },
         {
           "player_id": "4199",
@@ -3199,6 +3199,12 @@
           "team": "SF"
         },
         {
+          "player_id": "6819",
+          "name": "Michael Pittman Jr.",
+          "position": "WR",
+          "team": "PIT"
+        },
+        {
           "player_id": "8154",
           "name": "Brian Robinson Jr.",
           "position": "RB",
@@ -3221,22 +3227,22 @@
       ],
       "reserve": [
         {
-          "player_id": "11618",
-          "name": "Jalen McMillan",
+          "player_id": "12489",
+          "name": "RJ Harvey",
+          "position": "RB",
+          "team": "DEN"
+        },
+        {
+          "player_id": "12536",
+          "name": "Jaylin Noel",
           "position": "WR",
-          "team": "TB"
+          "team": "HOU"
         },
         {
           "player_id": "13353",
           "name": "Chris Brazzell II",
           "position": "WR",
           "team": "CAR"
-        },
-        {
-          "player_id": "6819",
-          "name": "Michael Pittman Jr.",
-          "position": "WR",
-          "team": "PIT"
         }
       ],
       "picks": [

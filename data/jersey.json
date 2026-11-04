@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-04T11:09:17.647Z",
+  "generated_at": "2026-11-04T18:42:07.054Z",
   "source": "Sleeper public API",
   "username": "TheMightyKites",
   "nfl_week": 9,
@@ -58,7 +58,7 @@
       "leg": 9,
       "reserve_slots": 2,
       "reserve_allow_cov": 0,
-      "daily_waivers_last_ran": 3
+      "daily_waivers_last_ran": 4
     },
     "scoring_settings": {
       "sack": 1,
@@ -1496,22 +1496,22 @@
           "team": "TB"
         },
         {
-          "player_id": "11435",
-          "name": "Emanuel Wilson",
+          "player_id": "13286",
+          "name": "Jadarian Price",
           "position": "RB",
           "team": "SEA"
         },
         {
-          "player_id": "13317",
-          "name": "Ted Hurst III",
+          "player_id": "13311",
+          "name": "Chris Bell",
           "position": "WR",
-          "team": "TB"
+          "team": "MIA"
         },
         {
-          "player_id": "8126",
-          "name": "Wan'Dale Robinson",
+          "player_id": "12509",
+          "name": "Tre' Harris",
           "position": "WR",
-          "team": "TEN"
+          "team": "LAC"
         },
         {
           "player_id": "9500",
@@ -1532,13 +1532,19 @@
           "team": "JAX"
         },
         {
-          "player_id": "2505",
-          "name": "Darren Waller",
-          "position": "TE",
-          "team": "CAR"
+          "player_id": "6806",
+          "name": "J.K. Dobbins",
+          "position": "RB",
+          "team": "DEN"
         }
       ],
       "bench": [
+        {
+          "player_id": "11435",
+          "name": "Emanuel Wilson",
+          "position": "RB",
+          "team": "SEA"
+        },
         {
           "player_id": "11581",
           "name": "MarShawn Lloyd",
@@ -1564,12 +1570,6 @@
           "team": "CLE"
         },
         {
-          "player_id": "12509",
-          "name": "Tre' Harris",
-          "position": "WR",
-          "team": "LAC"
-        },
-        {
           "player_id": "12545",
           "name": "Tyler Shough",
           "position": "QB",
@@ -1582,10 +1582,10 @@
           "team": "TEN"
         },
         {
-          "player_id": "13311",
-          "name": "Chris Bell",
+          "player_id": "13317",
+          "name": "Ted Hurst III",
           "position": "WR",
-          "team": "MIA"
+          "team": "TB"
         },
         {
           "player_id": "13434",
@@ -1604,6 +1604,12 @@
           "name": "Jameis Winston",
           "position": "QB",
           "team": "NYG"
+        },
+        {
+          "player_id": "2505",
+          "name": "Darren Waller",
+          "position": "TE",
+          "team": "CAR"
         },
         {
           "player_id": "4351",
@@ -1630,12 +1636,6 @@
           "team": "FA"
         },
         {
-          "player_id": "6806",
-          "name": "J.K. Dobbins",
-          "position": "RB",
-          "team": "DEN"
-        },
-        {
           "player_id": "7561",
           "name": "Elijah Mitchell",
           "position": "RB",
@@ -1646,6 +1646,12 @@
           "name": "John Bates",
           "position": "TE",
           "team": "WAS"
+        },
+        {
+          "player_id": "8126",
+          "name": "Wan'Dale Robinson",
+          "position": "WR",
+          "team": "TEN"
         }
       ],
       "taxi": [],
@@ -1655,12 +1661,6 @@
           "name": "Will Shipley",
           "position": "RB",
           "team": "PHI"
-        },
-        {
-          "player_id": "13286",
-          "name": "Jadarian Price",
-          "position": "RB",
-          "team": "SEA"
         }
       ],
       "picks": [
@@ -3736,6 +3736,12 @@
           "name": "Xavier Worthy",
           "position": "WR",
           "team": "KC"
+        },
+        {
+          "player_id": "11729",
+          "name": "Sione Vaki",
+          "position": "RB",
+          "team": "DET"
         },
         {
           "player_id": "12467",
