@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-04T02:25:25.997Z",
+  "generated_at": "2026-11-04T11:09:17.123Z",
   "source": "Sleeper public API",
   "username": "TheMightyKites",
   "nfl_week": 9,
@@ -57,7 +57,7 @@
       "trade_review_days": 0,
       "bench_lock": 1,
       "offseason_adds": 1,
-      "leg": 8,
+      "leg": 9,
       "daily_waivers_base": 4,
       "reserve_slots": 2,
       "reserve_allow_cov": 1,
@@ -1753,7 +1753,7 @@
           "player_id": "7537",
           "name": "Jaret Patterson",
           "position": "RB",
-          "team": "FA"
+          "team": "DEN"
         },
         {
           "player_id": "8144",
@@ -3524,10 +3524,10 @@
           "team": "JAX"
         },
         {
-          "player_id": "12495",
-          "name": "Ollie Gordon II",
+          "player_id": "12481",
+          "name": "Cam Skattebo",
           "position": "RB",
-          "team": "MIA"
+          "team": "NYG"
         },
         {
           "player_id": "5850",
@@ -3566,10 +3566,10 @@
           "team": "CHI"
         },
         {
-          "player_id": "8408",
-          "name": "Jordan Mason",
+          "player_id": "12495",
+          "name": "Ollie Gordon II",
           "position": "RB",
-          "team": "MIN"
+          "team": "MIA"
         },
         {
           "player_id": "11566",
@@ -3616,12 +3616,6 @@
           "team": "CLE"
         },
         {
-          "player_id": "12481",
-          "name": "Cam Skattebo",
-          "position": "RB",
-          "team": "NYG"
-        },
-        {
           "player_id": "12504",
           "name": "Kaleb Johnson",
           "position": "RB",
@@ -3650,6 +3644,12 @@
           "name": "DeVonta Smith",
           "position": "WR",
           "team": "PHI"
+        },
+        {
+          "player_id": "8408",
+          "name": "Jordan Mason",
+          "position": "RB",
+          "team": "MIN"
         },
         {
           "player_id": "9230",

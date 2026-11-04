@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-04T02:25:26.793Z",
+  "generated_at": "2026-11-04T11:09:17.913Z",
   "source": "Sleeper public API",
   "username": "TheMightyKites",
   "nfl_week": 9,
@@ -58,7 +58,7 @@
       "trade_review_days": 0,
       "bench_lock": 0,
       "offseason_adds": 1,
-      "leg": 8,
+      "leg": 9,
       "reserve_slots": 3,
       "reserve_allow_cov": 1,
       "daily_waivers_last_ran": 3
@@ -2511,10 +2511,10 @@
           "team": "IND"
         },
         {
-          "player_id": "12530",
-          "name": "Travis Hunter",
-          "position": "DB",
-          "team": "JAX"
+          "player_id": "8144",
+          "name": "Chris Olave",
+          "position": "WR",
+          "team": "NO"
         },
         {
           "player_id": "8148",
@@ -2535,19 +2535,25 @@
           "team": "CLE"
         },
         {
-          "player_id": "5967",
-          "name": "Tony Pollard",
+          "player_id": "9757",
+          "name": "Kendre Miller",
           "position": "RB",
-          "team": "TEN"
+          "team": "NO"
         },
+        {
+          "player_id": "9758",
+          "name": "C.J. Stroud",
+          "position": "QB",
+          "team": "HOU"
+        }
+      ],
+      "bench": [
         {
           "player_id": "11559",
           "name": "Michael Penix Jr.",
           "position": "QB",
           "team": "ATL"
-        }
-      ],
-      "bench": [
+        },
         {
           "player_id": "11597",
           "name": "Theo Johnson",
@@ -2565,6 +2571,12 @@
           "name": "Gunnar Helm",
           "position": "TE",
           "team": "TEN"
+        },
+        {
+          "player_id": "12530",
+          "name": "Travis Hunter",
+          "position": "DB",
+          "team": "JAX"
         },
         {
           "player_id": "13269",
@@ -2597,6 +2609,12 @@
           "team": "SF"
         },
         {
+          "player_id": "5967",
+          "name": "Tony Pollard",
+          "position": "RB",
+          "team": "TEN"
+        },
+        {
           "player_id": "6826",
           "name": "Cole Kmet",
           "position": "TE",
@@ -2615,12 +2633,6 @@
           "team": "CAR"
         },
         {
-          "player_id": "8144",
-          "name": "Chris Olave",
-          "position": "WR",
-          "team": "NO"
-        },
-        {
           "player_id": "9508",
           "name": "Tyjae Spears",
           "position": "RB",
@@ -2631,18 +2643,6 @@
           "name": "Aaron Rodgers",
           "position": "QB",
           "team": "PIT"
-        },
-        {
-          "player_id": "9757",
-          "name": "Kendre Miller",
-          "position": "RB",
-          "team": "NO"
-        },
-        {
-          "player_id": "9758",
-          "name": "C.J. Stroud",
-          "position": "QB",
-          "team": "HOU"
         }
       ],
       "taxi": [],

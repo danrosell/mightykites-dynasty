@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-04T02:25:26.419Z",
+  "generated_at": "2026-11-04T11:09:17.647Z",
   "source": "Sleeper public API",
   "username": "TheMightyKites",
   "nfl_week": 9,
@@ -55,7 +55,7 @@
       "trade_review_days": 0,
       "bench_lock": 0,
       "offseason_adds": 1,
-      "leg": 8,
+      "leg": 9,
       "reserve_slots": 2,
       "reserve_allow_cov": 0,
       "daily_waivers_last_ran": 3
@@ -3780,12 +3780,6 @@
           "team": "NYG"
         },
         {
-          "player_id": "13287",
-          "name": "Jeremiyah Love",
-          "position": "RB",
-          "team": "ARI"
-        },
-        {
           "player_id": "13301",
           "name": "Antonio Williams",
           "position": "WR",
@@ -3842,6 +3836,12 @@
       ],
       "taxi": [],
       "reserve": [
+        {
+          "player_id": "13287",
+          "name": "Jeremiyah Love",
+          "position": "RB",
+          "team": "ARI"
+        },
         {
           "player_id": "8188",
           "name": "Tyquan Thornton",
