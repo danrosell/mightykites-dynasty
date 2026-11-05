@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-05T07:57:58.666Z",
+  "generated_at": "2026-11-05T16:32:08.141Z",
   "source": "Sleeper public API",
   "username": "TheMightyKites",
   "nfl_week": 9,
@@ -2065,6 +2065,12 @@
           "name": "Rashod Bateman",
           "position": "WR",
           "team": "BAL"
+        },
+        {
+          "player_id": "8132",
+          "name": "Tyler Allgeier",
+          "position": "RB",
+          "team": "ARI"
         }
       ],
       "taxi": [
@@ -2120,13 +2126,6 @@
         {
           "season": "2028",
           "round": 1,
-          "original_roster_id": 6,
-          "original_team": "BC & the Old Guys",
-          "is_own": true
-        },
-        {
-          "season": "2028",
-          "round": 2,
           "original_roster_id": 6,
           "original_team": "BC & the Old Guys",
           "is_own": true
@@ -4066,10 +4065,10 @@
           "team": "MIN"
         },
         {
-          "player_id": "8132",
-          "name": "Tyler Allgeier",
+          "player_id": "11729",
+          "name": "Sione Vaki",
           "position": "RB",
-          "team": "ARI"
+          "team": "DET"
         },
         {
           "player_id": "8136",
@@ -4108,10 +4107,10 @@
           "team": "MIN"
         },
         {
-          "player_id": "11729",
-          "name": "Sione Vaki",
-          "position": "RB",
-          "team": "DET"
+          "player_id": "11608",
+          "name": "Isaiah Williams",
+          "position": "WR",
+          "team": "NYJ"
         },
         {
           "player_id": "11628",
@@ -4144,12 +4143,6 @@
           "name": "Cade Stover",
           "position": "TE",
           "team": "HOU"
-        },
-        {
-          "player_id": "11608",
-          "name": "Isaiah Williams",
-          "position": "WR",
-          "team": "NYJ"
         },
         {
           "player_id": "11626",
@@ -4296,6 +4289,13 @@
           "original_roster_id": 14,
           "original_team": "James Jones #1 WR",
           "is_own": true
+        },
+        {
+          "season": "2028",
+          "round": 2,
+          "original_roster_id": 6,
+          "original_team": "BC & the Old Guys",
+          "is_own": false
         },
         {
           "season": "2028",

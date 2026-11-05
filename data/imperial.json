@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-05T07:57:58.266Z",
+  "generated_at": "2026-11-05T16:32:07.800Z",
   "source": "Sleeper public API",
   "username": "TheMightyKites",
   "nfl_week": 9,
@@ -577,10 +577,10 @@
       "rank": 4,
       "starters": [
         {
-          "player_id": "8228",
-          "name": "Jaylen Warren",
+          "player_id": "13277",
+          "name": "CJ Donaldson",
           "position": "RB",
-          "team": "PIT"
+          "team": "NO"
         },
         {
           "player_id": "13345",
@@ -613,10 +613,10 @@
           "team": "GB"
         },
         {
-          "player_id": "13274",
-          "name": "Germie Bernard",
-          "position": "WR",
-          "team": "PIT"
+          "player_id": "7002",
+          "name": "Juwan Johnson",
+          "position": "TE",
+          "team": "NO"
         },
         {
           "player_id": "7523",
@@ -639,22 +639,22 @@
           "team": "CIN"
         },
         {
+          "player_id": "13274",
+          "name": "Germie Bernard",
+          "position": "WR",
+          "team": "PIT"
+        },
+        {
           "player_id": "13402",
           "name": "Skyler Bell",
           "position": "WR",
           "team": "BUF"
         },
         {
-          "player_id": "7002",
-          "name": "Juwan Johnson",
-          "position": "TE",
-          "team": "NO"
-        },
-        {
-          "player_id": "7694",
-          "name": "Tommy Tremble",
-          "position": "TE",
-          "team": "CAR"
+          "player_id": "8228",
+          "name": "Jaylen Warren",
+          "position": "RB",
+          "team": "PIT"
         }
       ],
       "taxi": [
@@ -683,12 +683,6 @@
           "name": "Raheim Sanders",
           "position": "RB",
           "team": "CLE"
-        },
-        {
-          "player_id": "13277",
-          "name": "CJ Donaldson",
-          "position": "RB",
-          "team": "NO"
         },
         {
           "player_id": "8800",

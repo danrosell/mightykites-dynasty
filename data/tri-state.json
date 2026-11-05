@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-05T07:57:59.632Z",
+  "generated_at": "2026-11-05T16:32:08.687Z",
   "source": "Sleeper public API",
   "username": "TheMightyKites",
   "nfl_week": 9,
@@ -61,7 +61,7 @@
       "leg": 9,
       "reserve_slots": 3,
       "reserve_allow_cov": 1,
-      "daily_waivers_last_ran": 4
+      "daily_waivers_last_ran": 5
     },
     "scoring_settings": {
       "sack": 2,
@@ -810,10 +810,10 @@
           "team": "DET"
         },
         {
-          "player_id": "3198",
-          "name": "Derrick Henry",
+          "player_id": "8150",
+          "name": "Kyren Williams",
           "position": "RB",
-          "team": "BAL"
+          "team": "LAR"
         },
         {
           "player_id": "8183",
@@ -866,6 +866,12 @@
           "team": "WAS"
         },
         {
+          "player_id": "3198",
+          "name": "Derrick Henry",
+          "position": "RB",
+          "team": "BAL"
+        },
+        {
           "player_id": "421",
           "name": "Matthew Stafford",
           "position": "QB",
@@ -900,12 +906,6 @@
           "name": "Wan'Dale Robinson",
           "position": "WR",
           "team": "TEN"
-        },
-        {
-          "player_id": "8150",
-          "name": "Kyren Williams",
-          "position": "RB",
-          "team": "LAR"
         },
         {
           "player_id": "9504",
@@ -2235,19 +2235,13 @@
           "team": "JAX"
         },
         {
-          "player_id": "4943",
-          "name": "Sam Darnold",
-          "position": "QB",
-          "team": "SEA"
-        }
-      ],
-      "bench": [
-        {
           "player_id": "11620",
           "name": "Rome Odunze",
           "position": "WR",
           "team": "CHI"
-        },
+        }
+      ],
+      "bench": [
         {
           "player_id": "11631",
           "name": "Brian Thomas Jr.",
@@ -2313,6 +2307,12 @@
           "name": "Will Kacmarek",
           "position": "TE",
           "team": "MIA"
+        },
+        {
+          "player_id": "4943",
+          "name": "Sam Darnold",
+          "position": "QB",
+          "team": "SEA"
         },
         {
           "player_id": "5870",
@@ -2609,16 +2609,16 @@
           "team": "MIA"
         },
         {
-          "player_id": "2197",
-          "name": "Brandin Cooks",
-          "position": "WR",
-          "team": "SF"
-        },
-        {
           "player_id": "5967",
           "name": "Tony Pollard",
           "position": "RB",
           "team": "TEN"
+        },
+        {
+          "player_id": "6803",
+          "name": "Brandon Aiyuk",
+          "position": "WR",
+          "team": "SF"
         },
         {
           "player_id": "6826",
