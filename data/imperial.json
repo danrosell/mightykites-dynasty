@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-04T18:42:05.891Z",
+  "generated_at": "2026-11-05T00:25:23.921Z",
   "source": "Sleeper public API",
   "username": "TheMightyKites",
   "nfl_week": 9,
@@ -1915,10 +1915,10 @@
           "team": "TB"
         },
         {
-          "player_id": "9230",
-          "name": "Tanner McKee",
-          "position": "QB",
-          "team": "PHI"
+          "player_id": "13424",
+          "name": "Seth McGowan",
+          "position": "RB",
+          "team": "IND"
         }
       ],
       "bench": [
@@ -1941,16 +1941,16 @@
           "team": "MIN"
         },
         {
-          "player_id": "13424",
-          "name": "Seth McGowan",
-          "position": "RB",
-          "team": "IND"
-        },
-        {
           "player_id": "7527",
           "name": "Mac Jones",
           "position": "QB",
           "team": "SF"
+        },
+        {
+          "player_id": "9230",
+          "name": "Tanner McKee",
+          "position": "QB",
+          "team": "PHI"
         }
       ],
       "taxi": [
@@ -3342,10 +3342,10 @@
           "team": "MIN"
         },
         {
-          "player_id": "13279",
-          "name": "Carnell Tate",
+          "player_id": "1479",
+          "name": "Keenan Allen",
           "position": "WR",
-          "team": "TEN"
+          "team": "IND"
         },
         {
           "player_id": "5045",
@@ -3360,10 +3360,10 @@
           "team": "DAL"
         },
         {
-          "player_id": "1479",
-          "name": "Keenan Allen",
-          "position": "WR",
-          "team": "IND"
+          "player_id": "13349",
+          "name": "Eli Stowers",
+          "position": "TE",
+          "team": "PHI"
         },
         {
           "player_id": "13330",
@@ -3386,12 +3386,6 @@
           "team": "BAL"
         },
         {
-          "player_id": "13349",
-          "name": "Eli Stowers",
-          "position": "TE",
-          "team": "PHI"
-        },
-        {
           "player_id": "5001",
           "name": "Dalton Schultz",
           "position": "TE",
@@ -3408,6 +3402,12 @@
           "name": "Jordan Love",
           "position": "QB",
           "team": "GB"
+        },
+        {
+          "player_id": "8676",
+          "name": "Rashid Shaheed",
+          "position": "WR",
+          "team": "SEA"
         }
       ],
       "taxi": [
@@ -3426,16 +3426,16 @@
       ],
       "reserve": [
         {
+          "player_id": "13279",
+          "name": "Carnell Tate",
+          "position": "WR",
+          "team": "TEN"
+        },
+        {
           "player_id": "7543",
           "name": "Travis Etienne Jr.",
           "position": "RB",
           "team": "NO"
-        },
-        {
-          "player_id": "8676",
-          "name": "Rashid Shaheed",
-          "position": "WR",
-          "team": "SEA"
         },
         {
           "player_id": "9226",

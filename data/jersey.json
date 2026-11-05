@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-04T18:42:07.054Z",
+  "generated_at": "2026-11-05T00:25:24.800Z",
   "source": "Sleeper public API",
   "username": "TheMightyKites",
   "nfl_week": 9,
@@ -2105,10 +2105,10 @@
           "team": "PHI"
         },
         {
-          "player_id": "12718",
-          "name": "Konata Mumpfield",
+          "player_id": "8144",
+          "name": "Chris Olave",
           "position": "WR",
-          "team": "LAR"
+          "team": "NO"
         },
         {
           "player_id": "9997",
@@ -2129,10 +2129,10 @@
           "team": "PHI"
         },
         {
-          "player_id": "8228",
-          "name": "Jaylen Warren",
+          "player_id": "9753",
+          "name": "Zach Charbonnet",
           "position": "RB",
-          "team": "PIT"
+          "team": "SEA"
         },
         {
           "player_id": "4199",
@@ -2167,8 +2167,8 @@
           "team": "GB"
         },
         {
-          "player_id": "13270",
-          "name": "CJ Daniels",
+          "player_id": "12718",
+          "name": "Konata Mumpfield",
           "position": "WR",
           "team": "LAR"
         },
@@ -2201,12 +2201,6 @@
           "name": "Kevin Coleman Jr.",
           "position": "WR",
           "team": "MIA"
-        },
-        {
-          "player_id": "13348",
-          "name": "J'Mari Taylor",
-          "position": "RB",
-          "team": "JAX"
         },
         {
           "player_id": "13413",
@@ -2251,16 +2245,10 @@
           "team": "NO"
         },
         {
-          "player_id": "8144",
-          "name": "Chris Olave",
-          "position": "WR",
-          "team": "NO"
-        },
-        {
-          "player_id": "9753",
-          "name": "Zach Charbonnet",
+          "player_id": "8228",
+          "name": "Jaylen Warren",
           "position": "RB",
-          "team": "SEA"
+          "team": "PIT"
         }
       ],
       "taxi": [],
@@ -3346,10 +3334,10 @@
       "rank": 9,
       "starters": [
         {
-          "player_id": "8161",
-          "name": "Malik Willis",
+          "player_id": "7523",
+          "name": "Trevor Lawrence",
           "position": "QB",
-          "team": "MIA"
+          "team": "JAX"
         },
         {
           "player_id": "7588",
@@ -3364,16 +3352,16 @@
           "team": "NE"
         },
         {
-          "player_id": "8134",
-          "name": "Khalil Shakir",
+          "player_id": "5859",
+          "name": "A.J. Brown",
           "position": "WR",
-          "team": "BUF"
+          "team": "NE"
         },
         {
-          "player_id": "9754",
-          "name": "Quentin Johnston",
+          "player_id": "7569",
+          "name": "Nico Collins",
           "position": "WR",
-          "team": "LAC"
+          "team": "HOU"
         },
         {
           "player_id": "13346",
@@ -3462,6 +3450,12 @@
           "team": "HOU"
         },
         {
+          "player_id": "13281",
+          "name": "Jordyn Tyson",
+          "position": "WR",
+          "team": "NO"
+        },
+        {
           "player_id": "13322",
           "name": "Sam Roush",
           "position": "TE",
@@ -3480,28 +3474,16 @@
           "team": "CHI"
         },
         {
-          "player_id": "5859",
-          "name": "A.J. Brown",
+          "player_id": "8134",
+          "name": "Khalil Shakir",
           "position": "WR",
-          "team": "NE"
+          "team": "BUF"
         },
         {
-          "player_id": "5927",
-          "name": "Terry McLaurin",
-          "position": "WR",
-          "team": "WAS"
-        },
-        {
-          "player_id": "7523",
-          "name": "Trevor Lawrence",
+          "player_id": "8161",
+          "name": "Malik Willis",
           "position": "QB",
-          "team": "JAX"
-        },
-        {
-          "player_id": "7569",
-          "name": "Nico Collins",
-          "position": "WR",
-          "team": "HOU"
+          "team": "MIA"
         },
         {
           "player_id": "8172",
@@ -3520,15 +3502,21 @@
           "name": "Sean Tucker",
           "position": "RB",
           "team": "TB"
+        },
+        {
+          "player_id": "9754",
+          "name": "Quentin Johnston",
+          "position": "WR",
+          "team": "LAC"
         }
       ],
       "taxi": [],
       "reserve": [
         {
-          "player_id": "13281",
-          "name": "Jordyn Tyson",
+          "player_id": "5927",
+          "name": "Terry McLaurin",
           "position": "WR",
-          "team": "NO"
+          "team": "WAS"
         },
         {
           "player_id": "9225",
