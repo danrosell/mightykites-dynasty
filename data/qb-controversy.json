@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-05T16:32:08.141Z",
+  "generated_at": "2026-11-05T22:41:59.429Z",
   "source": "Sleeper public API",
   "username": "TheMightyKites",
   "nfl_week": 9,
@@ -61,7 +61,7 @@
       "daily_waivers_base": 4,
       "reserve_slots": 2,
       "reserve_allow_cov": 1,
-      "daily_waivers_last_ran": 4
+      "daily_waivers_last_ran": 5
     },
     "scoring_settings": {
       "sack": 1,
@@ -1933,10 +1933,10 @@
           "team": "BAL"
         },
         {
-          "player_id": "6790",
-          "name": "D'Andre Swift",
+          "player_id": "8132",
+          "name": "Tyler Allgeier",
           "position": "RB",
-          "team": "CHI"
+          "team": "ARI"
         },
         {
           "player_id": "7547",
@@ -1969,10 +1969,10 @@
           "team": "DAL"
         },
         {
-          "player_id": "5947",
-          "name": "Jakobi Meyers",
-          "position": "WR",
-          "team": "JAX"
+          "player_id": "6790",
+          "name": "D'Andre Swift",
+          "position": "RB",
+          "team": "CHI"
         },
         {
           "player_id": "421",
@@ -1987,12 +1987,6 @@
           "name": "Chris Rodriguez Jr.",
           "position": "RB",
           "team": "JAX"
-        },
-        {
-          "player_id": "12503",
-          "name": "Isaiah Bond",
-          "position": "WR",
-          "team": "CLE"
         },
         {
           "player_id": "12531",
@@ -2043,16 +2037,16 @@
           "team": "SF"
         },
         {
+          "player_id": "5947",
+          "name": "Jakobi Meyers",
+          "position": "WR",
+          "team": "JAX"
+        },
+        {
           "player_id": "5967",
           "name": "Tony Pollard",
           "position": "RB",
           "team": "TEN"
-        },
-        {
-          "player_id": "7083",
-          "name": "Tyler Huntley",
-          "position": "QB",
-          "team": "BAL"
         },
         {
           "player_id": "7527",
@@ -2065,12 +2059,6 @@
           "name": "Rashod Bateman",
           "position": "WR",
           "team": "BAL"
-        },
-        {
-          "player_id": "8132",
-          "name": "Tyler Allgeier",
-          "position": "RB",
-          "team": "ARI"
         }
       ],
       "taxi": [
@@ -2099,6 +2087,12 @@
           "name": "Cole Kmet",
           "position": "TE",
           "team": "CHI"
+        },
+        {
+          "player_id": "7083",
+          "name": "Tyler Huntley",
+          "position": "QB",
+          "team": "BAL"
         }
       ],
       "picks": [

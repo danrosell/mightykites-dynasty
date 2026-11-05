@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-05T16:32:07.800Z",
+  "generated_at": "2026-11-05T22:41:59.009Z",
   "source": "Sleeper public API",
   "username": "TheMightyKites",
   "nfl_week": 9,
@@ -61,7 +61,7 @@
       "leg": 9,
       "reserve_slots": 3,
       "reserve_allow_cov": 0,
-      "daily_waivers_last_ran": 4
+      "daily_waivers_last_ran": 5
     },
     "scoring_settings": {
       "sack": 1,
@@ -2488,6 +2488,12 @@
           "team": "GB"
         },
         {
+          "player_id": "12491",
+          "name": "Corey Kiner",
+          "position": "RB",
+          "team": "NE"
+        },
+        {
           "player_id": "4147",
           "name": "Samaje Perine",
           "position": "RB",
@@ -2998,10 +3004,10 @@
           "team": "DEN"
         },
         {
-          "player_id": "2216",
-          "name": "Mike Evans",
+          "player_id": "13298",
+          "name": "KC Concepcion Jr.",
           "position": "WR",
-          "team": "SF"
+          "team": "CLE"
         },
         {
           "player_id": "12517",
@@ -3010,10 +3016,10 @@
           "team": "CHI"
         },
         {
-          "player_id": "13298",
-          "name": "KC Concepcion Jr.",
-          "position": "WR",
-          "team": "CLE"
+          "player_id": "8172",
+          "name": "Greg Dulcich",
+          "position": "TE",
+          "team": "MIA"
         },
         {
           "player_id": "2449",
@@ -3036,6 +3042,12 @@
           "team": "MIA"
         },
         {
+          "player_id": "2216",
+          "name": "Mike Evans",
+          "position": "WR",
+          "team": "SF"
+        },
+        {
           "player_id": "6039",
           "name": "Ty Johnson",
           "position": "RB",
@@ -3045,12 +3057,6 @@
           "player_id": "8161",
           "name": "Malik Willis",
           "position": "QB",
-          "team": "MIA"
-        },
-        {
-          "player_id": "8172",
-          "name": "Greg Dulcich",
-          "position": "TE",
           "team": "MIA"
         },
         {
