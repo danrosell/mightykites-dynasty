@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-05T22:42:00.171Z",
+  "generated_at": "2026-11-06T03:28:48.405Z",
   "source": "Sleeper public API",
   "username": "TheMightyKites",
   "nfl_week": 9,
@@ -407,7 +407,7 @@
     },
     "opponent": {
       "team": "nrandazzo624",
-      "points": 0,
+      "points": 13.02,
       "roster_id": 10
     }
   },
@@ -1291,10 +1291,10 @@
       "rank": 10,
       "starters": [
         {
-          "player_id": "4017",
-          "name": "Deshaun Watson",
+          "player_id": "11557",
+          "name": "Joe Milton",
           "position": "QB",
-          "team": "CLE"
+          "team": "PHI"
         },
         {
           "player_id": "8132",
@@ -1333,10 +1333,10 @@
           "team": "NO"
         },
         {
-          "player_id": "8676",
-          "name": "Rashid Shaheed",
+          "player_id": "12509",
+          "name": "Tre' Harris",
           "position": "WR",
-          "team": "SEA"
+          "team": "LAC"
         },
         {
           "player_id": "8172",
@@ -1353,12 +1353,6 @@
           "team": "CHI"
         },
         {
-          "player_id": "11557",
-          "name": "Joe Milton",
-          "position": "QB",
-          "team": "PHI"
-        },
-        {
           "player_id": "11588",
           "name": "Jawhar Jordan",
           "position": "RB",
@@ -1371,10 +1365,10 @@
           "team": "LV"
         },
         {
-          "player_id": "12509",
-          "name": "Tre' Harris",
-          "position": "WR",
-          "team": "LAC"
+          "player_id": "12533",
+          "name": "Jacory Croskey-Merritt",
+          "position": "RB",
+          "team": "WAS"
         },
         {
           "player_id": "12547",
@@ -1393,12 +1387,6 @@
           "name": "Germie Bernard",
           "position": "WR",
           "team": "PIT"
-        },
-        {
-          "player_id": "13287",
-          "name": "Jeremiyah Love",
-          "position": "RB",
-          "team": "ARI"
         },
         {
           "player_id": "13293",
@@ -1425,10 +1413,22 @@
           "team": "FA"
         },
         {
+          "player_id": "4017",
+          "name": "Deshaun Watson",
+          "position": "QB",
+          "team": "CLE"
+        },
+        {
           "player_id": "8129",
           "name": "Dameon Pierce",
           "position": "RB",
           "team": "PHI"
+        },
+        {
+          "player_id": "8676",
+          "name": "Rashid Shaheed",
+          "position": "WR",
+          "team": "SEA"
         },
         {
           "player_id": "9479",
@@ -1477,10 +1477,10 @@
           "team": "SEA"
         },
         {
-          "player_id": "12533",
-          "name": "Jacory Croskey-Merritt",
+          "player_id": "13287",
+          "name": "Jeremiyah Love",
           "position": "RB",
-          "team": "WAS"
+          "team": "ARI"
         }
       ],
       "picks": [

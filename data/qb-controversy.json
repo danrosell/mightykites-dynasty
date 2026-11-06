@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-05T22:41:59.429Z",
+  "generated_at": "2026-11-06T03:28:47.672Z",
   "source": "Sleeper public API",
   "username": "TheMightyKites",
   "nfl_week": 9,
@@ -191,10 +191,10 @@
         "team": "ATL"
       },
       {
-        "player_id": "11603",
-        "name": "AJ Barner",
-        "position": "TE",
-        "team": "SEA"
+        "player_id": "13345",
+        "name": "Jonah Coleman",
+        "position": "RB",
+        "team": "DEN"
       },
       {
         "player_id": "9480",
@@ -203,10 +203,10 @@
         "team": "JAX"
       },
       {
-        "player_id": "13345",
-        "name": "Jonah Coleman",
-        "position": "RB",
-        "team": "DEN"
+        "player_id": "11565",
+        "name": "J.J. McCarthy",
+        "position": "QB",
+        "team": "NYG"
       }
     ],
     "bench": [
@@ -227,6 +227,12 @@
         "name": "Spencer Rattler",
         "position": "QB",
         "team": "NO"
+      },
+      {
+        "player_id": "11603",
+        "name": "AJ Barner",
+        "position": "TE",
+        "team": "SEA"
       },
       {
         "player_id": "11834",
@@ -263,12 +269,6 @@
         "name": "Makai Lemon",
         "position": "WR",
         "team": "PHI"
-      },
-      {
-        "player_id": "13305",
-        "name": "Mike Washington Jr.",
-        "position": "RB",
-        "team": "LV"
       },
       {
         "player_id": "13425",
@@ -412,7 +412,7 @@
   "my_matchup": {
     "me": {
       "team": "The Ham Cannons",
-      "points": 0
+      "points": 5.7
     },
     "opponent": {
       "team": "Vrabels Secret Family",
@@ -536,10 +536,10 @@
           "team": "MIN"
         },
         {
-          "player_id": "12547",
-          "name": "Kyle Williams",
+          "player_id": "12514",
+          "name": "Emeka Egbuka",
           "position": "WR",
-          "team": "NE"
+          "team": "TB"
         },
         {
           "player_id": "8167",
@@ -554,10 +554,10 @@
           "team": "NYG"
         },
         {
-          "player_id": "11643",
-          "name": "Jaylen Wright",
-          "position": "RB",
-          "team": "MIA"
+          "player_id": "12547",
+          "name": "Kyle Williams",
+          "position": "WR",
+          "team": "NE"
         },
         {
           "player_id": "8210",
@@ -566,10 +566,10 @@
           "team": "WAS"
         },
         {
-          "player_id": "12514",
-          "name": "Emeka Egbuka",
-          "position": "WR",
-          "team": "TB"
+          "player_id": "3161",
+          "name": "Carson Wentz",
+          "position": "QB",
+          "team": "MIN"
         }
       ],
       "bench": [
@@ -578,6 +578,12 @@
           "name": "Theo Johnson",
           "position": "TE",
           "team": "NYG"
+        },
+        {
+          "player_id": "11643",
+          "name": "Jaylen Wright",
+          "position": "RB",
+          "team": "MIA"
         },
         {
           "player_id": "12508",
@@ -590,12 +596,6 @@
           "name": "Jameis Winston",
           "position": "QB",
           "team": "NYG"
-        },
-        {
-          "player_id": "3161",
-          "name": "Carson Wentz",
-          "position": "QB",
-          "team": "MIN"
         },
         {
           "player_id": "7021",
@@ -1072,16 +1072,16 @@
           "team": "CAR"
         },
         {
+          "player_id": "9753",
+          "name": "Zach Charbonnet",
+          "position": "RB",
+          "team": "SEA"
+        },
+        {
           "player_id": "13424",
           "name": "Seth McGowan",
           "position": "RB",
           "team": "IND"
-        },
-        {
-          "player_id": "11647",
-          "name": "Kimani Vidal",
-          "position": "RB",
-          "team": "LAC"
         },
         {
           "player_id": "9997",
@@ -1096,10 +1096,10 @@
           "team": "CAR"
         },
         {
-          "player_id": "13296",
-          "name": "Caleb Douglas",
+          "player_id": "11635",
+          "name": "Ladd McConkey",
           "position": "WR",
-          "team": "MIA"
+          "team": "LAC"
         },
         {
           "player_id": "12518",
@@ -1108,22 +1108,22 @@
           "team": "IND"
         },
         {
-          "player_id": "11635",
-          "name": "Ladd McConkey",
+          "player_id": "13296",
+          "name": "Caleb Douglas",
           "position": "WR",
-          "team": "LAC"
+          "team": "MIA"
         },
         {
-          "player_id": "13317",
-          "name": "Ted Hurst III",
-          "position": "WR",
-          "team": "TB"
+          "player_id": "13305",
+          "name": "Mike Washington Jr.",
+          "position": "RB",
+          "team": "LV"
         },
         {
-          "player_id": "11565",
-          "name": "J.J. McCarthy",
+          "player_id": "4892",
+          "name": "Baker Mayfield",
           "position": "QB",
-          "team": "NYG"
+          "team": "TB"
         }
       ],
       "bench": [
@@ -1152,6 +1152,12 @@
           "team": "PIT"
         },
         {
+          "player_id": "11647",
+          "name": "Kimani Vidal",
+          "position": "RB",
+          "team": "LAC"
+        },
+        {
           "player_id": "12457",
           "name": "Jaydon Blue",
           "position": "RB",
@@ -1176,6 +1182,12 @@
           "team": "JAX"
         },
         {
+          "player_id": "13317",
+          "name": "Ted Hurst III",
+          "position": "WR",
+          "team": "TB"
+        },
+        {
           "player_id": "13417",
           "name": "De'Zhaun Stribling",
           "position": "WR",
@@ -1192,18 +1204,6 @@
           "name": "Case Keenum",
           "position": "QB",
           "team": "CHI"
-        },
-        {
-          "player_id": "3155",
-          "name": "Laquon Treadwell",
-          "position": "WR",
-          "team": "IND"
-        },
-        {
-          "player_id": "6797",
-          "name": "Justin Herbert",
-          "position": "QB",
-          "team": "LAC"
         },
         {
           "player_id": "7828",
@@ -1292,13 +1292,6 @@
         },
         {
           "season": "2027",
-          "round": 2,
-          "original_roster_id": 9,
-          "original_team": "KC & The Young Studs",
-          "is_own": false
-        },
-        {
-          "season": "2027",
           "round": 3,
           "original_roster_id": 3,
           "original_team": "Horny for Herbert ",
@@ -1324,6 +1317,13 @@
           "original_roster_id": 3,
           "original_team": "Horny for Herbert ",
           "is_own": true
+        },
+        {
+          "season": "2028",
+          "round": 2,
+          "original_roster_id": 9,
+          "original_team": "KC & The Young Studs",
+          "is_own": false
         },
         {
           "season": "2028",
@@ -2475,10 +2475,10 @@
           "team": "ATL"
         },
         {
-          "player_id": "11603",
-          "name": "AJ Barner",
-          "position": "TE",
-          "team": "SEA"
+          "player_id": "13345",
+          "name": "Jonah Coleman",
+          "position": "RB",
+          "team": "DEN"
         },
         {
           "player_id": "9480",
@@ -2487,10 +2487,10 @@
           "team": "JAX"
         },
         {
-          "player_id": "13345",
-          "name": "Jonah Coleman",
-          "position": "RB",
-          "team": "DEN"
+          "player_id": "11565",
+          "name": "J.J. McCarthy",
+          "position": "QB",
+          "team": "NYG"
         }
       ],
       "bench": [
@@ -2511,6 +2511,12 @@
           "name": "Spencer Rattler",
           "position": "QB",
           "team": "NO"
+        },
+        {
+          "player_id": "11603",
+          "name": "AJ Barner",
+          "position": "TE",
+          "team": "SEA"
         },
         {
           "player_id": "11834",
@@ -2547,12 +2553,6 @@
           "name": "Makai Lemon",
           "position": "WR",
           "team": "PHI"
-        },
-        {
-          "player_id": "13305",
-          "name": "Mike Washington Jr.",
-          "position": "RB",
-          "team": "LV"
         },
         {
           "player_id": "13425",
@@ -2797,16 +2797,16 @@
           "team": "TB"
         },
         {
-          "player_id": "4892",
-          "name": "Baker Mayfield",
-          "position": "QB",
-          "team": "TB"
-        },
-        {
           "player_id": "5012",
           "name": "Mark Andrews",
           "position": "TE",
           "team": "BAL"
+        },
+        {
+          "player_id": "6797",
+          "name": "Justin Herbert",
+          "position": "QB",
+          "team": "LAC"
         },
         {
           "player_id": "7049",
@@ -2843,12 +2843,6 @@
           "name": "DeMario Douglas",
           "position": "WR",
           "team": "NE"
-        },
-        {
-          "player_id": "9753",
-          "name": "Zach Charbonnet",
-          "position": "RB",
-          "team": "SEA"
         }
       ],
       "taxi": [
@@ -2902,7 +2896,7 @@
           "is_own": false
         },
         {
-          "season": "2028",
+          "season": "2027",
           "round": 2,
           "original_roster_id": 9,
           "original_team": "KC & The Young Studs",
@@ -3248,22 +3242,22 @@
           "team": "CLE"
         },
         {
-          "player_id": "11575",
-          "name": "Ray Davis",
+          "player_id": "4147",
+          "name": "Samaje Perine",
           "position": "RB",
-          "team": "BUF"
+          "team": "CIN"
         },
         {
-          "player_id": "8146",
-          "name": "Garrett Wilson",
+          "player_id": "13301",
+          "name": "Antonio Williams",
           "position": "WR",
-          "team": "NYJ"
+          "team": "WAS"
         },
         {
-          "player_id": "13274",
-          "name": "Germie Bernard",
+          "player_id": "3634",
+          "name": "Kalif Raymond",
           "position": "WR",
-          "team": "PIT"
+          "team": "CHI"
         },
         {
           "player_id": "12519",
@@ -3284,16 +3278,16 @@
           "team": "CAR"
         },
         {
-          "player_id": "13301",
-          "name": "Antonio Williams",
+          "player_id": "8146",
+          "name": "Garrett Wilson",
           "position": "WR",
-          "team": "WAS"
+          "team": "NYJ"
         },
         {
-          "player_id": "6865",
-          "name": "Colby Parkinson",
-          "position": "TE",
-          "team": "LAR"
+          "player_id": "12545",
+          "name": "Tyler Shough",
+          "position": "QB",
+          "team": "NO"
         }
       ],
       "bench": [
@@ -3302,6 +3296,12 @@
           "name": "Andrei Iosivas",
           "position": "WR",
           "team": "CIN"
+        },
+        {
+          "player_id": "11575",
+          "name": "Ray Davis",
+          "position": "RB",
+          "team": "BUF"
         },
         {
           "player_id": "11592",
@@ -3334,28 +3334,16 @@
           "team": "TEN"
         },
         {
-          "player_id": "12545",
-          "name": "Tyler Shough",
-          "position": "QB",
-          "team": "NO"
+          "player_id": "13274",
+          "name": "Germie Bernard",
+          "position": "WR",
+          "team": "PIT"
         },
         {
           "player_id": "13349",
           "name": "Eli Stowers",
           "position": "TE",
           "team": "PHI"
-        },
-        {
-          "player_id": "3634",
-          "name": "Kalif Raymond",
-          "position": "WR",
-          "team": "CHI"
-        },
-        {
-          "player_id": "4147",
-          "name": "Samaje Perine",
-          "position": "RB",
-          "team": "CIN"
         },
         {
           "player_id": "4177",
@@ -3368,6 +3356,12 @@
           "name": "Ty Johnson",
           "position": "RB",
           "team": "BUF"
+        },
+        {
+          "player_id": "6865",
+          "name": "Colby Parkinson",
+          "position": "TE",
+          "team": "LAR"
         },
         {
           "player_id": "7891",
@@ -4053,10 +4047,10 @@
       "rank": 14,
       "starters": [
         {
-          "player_id": "5849",
-          "name": "Kyler Murray",
+          "player_id": "9999",
+          "name": "Will Levis",
           "position": "QB",
-          "team": "MIN"
+          "team": "NYJ"
         },
         {
           "player_id": "11729",
@@ -4169,6 +4163,12 @@
           "team": "FA"
         },
         {
+          "player_id": "5849",
+          "name": "Kyler Murray",
+          "position": "QB",
+          "team": "MIN"
+        },
+        {
           "player_id": "6803",
           "name": "Brandon Aiyuk",
           "position": "WR",
@@ -4185,12 +4185,6 @@
           "name": "Tyjae Spears",
           "position": "RB",
           "team": "TEN"
-        },
-        {
-          "player_id": "9999",
-          "name": "Will Levis",
-          "position": "QB",
-          "team": "NYJ"
         }
       ],
       "taxi": [

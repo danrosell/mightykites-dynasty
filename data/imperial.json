@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-05T22:41:59.009Z",
+  "generated_at": "2026-11-06T03:28:47.126Z",
   "source": "Sleeper public API",
   "username": "TheMightyKites",
   "nfl_week": 9,
@@ -313,11 +313,11 @@
   "my_matchup": {
     "me": {
       "team": "TheMightyKites",
-      "points": 0
+      "points": 5.38
     },
     "opponent": {
       "team": "Welcome to the Gulag ",
-      "points": 0,
+      "points": 10.5,
       "roster_id": 8
     }
   },
@@ -1362,22 +1362,22 @@
           "team": "ARI"
         },
         {
-          "player_id": "8111",
-          "name": "Cade Otton",
+          "player_id": "8131",
+          "name": "Isaiah Likely",
           "position": "TE",
-          "team": "TB"
+          "team": "NYG"
         },
         {
-          "player_id": "13287",
-          "name": "Jeremiyah Love",
-          "position": "RB",
-          "team": "ARI"
-        },
-        {
-          "player_id": "9753",
-          "name": "Zach Charbonnet",
-          "position": "RB",
+          "player_id": "4039",
+          "name": "Cooper Kupp",
+          "position": "WR",
           "team": "SEA"
+        },
+        {
+          "player_id": "9500",
+          "name": "Josh Downs",
+          "position": "WR",
+          "team": "IND"
         },
         {
           "player_id": "11566",
@@ -1388,16 +1388,22 @@
       ],
       "bench": [
         {
+          "player_id": "10219",
+          "name": "Chris Rodriguez Jr.",
+          "position": "RB",
+          "team": "JAX"
+        },
+        {
+          "player_id": "13287",
+          "name": "Jeremiyah Love",
+          "position": "RB",
+          "team": "ARI"
+        },
+        {
           "player_id": "2307",
           "name": "Marcus Mariota",
           "position": "QB",
           "team": "WAS"
-        },
-        {
-          "player_id": "4039",
-          "name": "Cooper Kupp",
-          "position": "WR",
-          "team": "SEA"
         },
         {
           "player_id": "5870",
@@ -1406,16 +1412,10 @@
           "team": "IND"
         },
         {
-          "player_id": "8131",
-          "name": "Isaiah Likely",
+          "player_id": "8111",
+          "name": "Cade Otton",
           "position": "TE",
-          "team": "NYG"
-        },
-        {
-          "player_id": "9500",
-          "name": "Josh Downs",
-          "position": "WR",
-          "team": "IND"
+          "team": "TB"
         }
       ],
       "taxi": [
@@ -1461,6 +1461,13 @@
           "original_roster_id": 6,
           "original_team": "COMMANDO Squad",
           "is_own": true
+        },
+        {
+          "season": "2027",
+          "round": 1,
+          "original_roster_id": 12,
+          "original_team": "Big Willie Style ",
+          "is_own": false
         },
         {
           "season": "2027",
@@ -1517,16 +1524,16 @@
           "team": "ATL"
         },
         {
-          "player_id": "9757",
-          "name": "Kendre Miller",
+          "player_id": "12474",
+          "name": "Woody Marks",
           "position": "RB",
-          "team": "NO"
+          "team": "HOU"
         },
         {
-          "player_id": "9756",
-          "name": "Jordan Addison",
+          "player_id": "11635",
+          "name": "Ladd McConkey",
           "position": "WR",
-          "team": "MIN"
+          "team": "LAC"
         },
         {
           "player_id": "8144",
@@ -1535,16 +1542,16 @@
           "team": "NO"
         },
         {
-          "player_id": "0",
-          "name": "0",
-          "position": "—",
-          "team": "FA"
+          "player_id": "10236",
+          "name": "Dalton Kincaid",
+          "position": "TE",
+          "team": "BUF"
         },
         {
-          "player_id": "12474",
-          "name": "Woody Marks",
-          "position": "RB",
-          "team": "HOU"
+          "player_id": "8210",
+          "name": "Chig Okonkwo",
+          "position": "TE",
+          "team": "WAS"
         },
         {
           "player_id": "11586",
@@ -1561,22 +1568,10 @@
       ],
       "bench": [
         {
-          "player_id": "10236",
-          "name": "Dalton Kincaid",
-          "position": "TE",
-          "team": "BUF"
-        },
-        {
           "player_id": "11563",
           "name": "Bo Nix",
           "position": "QB",
           "team": "DEN"
-        },
-        {
-          "player_id": "11635",
-          "name": "Ladd McConkey",
-          "position": "WR",
-          "team": "LAC"
         },
         {
           "player_id": "12547",
@@ -1585,16 +1580,22 @@
           "team": "NE"
         },
         {
-          "player_id": "8210",
-          "name": "Chig Okonkwo",
-          "position": "TE",
-          "team": "WAS"
-        },
-        {
           "player_id": "9494",
           "name": "Marvin Mims Jr.",
           "position": "WR",
           "team": "DEN"
+        },
+        {
+          "player_id": "9756",
+          "name": "Jordan Addison",
+          "position": "WR",
+          "team": "MIN"
+        },
+        {
+          "player_id": "9757",
+          "name": "Kendre Miller",
+          "position": "RB",
+          "team": "NO"
         }
       ],
       "taxi": [
@@ -2438,10 +2439,10 @@
           "team": "GB"
         },
         {
-          "player_id": "10219",
-          "name": "Chris Rodriguez Jr.",
-          "position": "RB",
-          "team": "JAX"
+          "player_id": "0",
+          "name": "0",
+          "position": "—",
+          "team": "FA"
         },
         {
           "player_id": "7547",
@@ -2510,6 +2511,12 @@
           "name": "Khalil Shakir",
           "position": "WR",
           "team": "BUF"
+        },
+        {
+          "player_id": "9753",
+          "name": "Zach Charbonnet",
+          "position": "RB",
+          "team": "SEA"
         }
       ],
       "taxi": [
@@ -2563,13 +2570,6 @@
         {
           "season": "2026",
           "round": 2,
-          "original_roster_id": 12,
-          "original_team": "Big Willie Style ",
-          "is_own": true
-        },
-        {
-          "season": "2027",
-          "round": 1,
           "original_roster_id": 12,
           "original_team": "Big Willie Style ",
           "is_own": true
@@ -3157,16 +3157,16 @@
           "team": "LAR"
         },
         {
+          "player_id": "10229",
+          "name": "Rashee Rice",
+          "position": "WR",
+          "team": "KC"
+        },
+        {
           "player_id": "11637",
           "name": "Keon Coleman",
           "position": "WR",
           "team": "BUF"
-        },
-        {
-          "player_id": "12485",
-          "name": "Tez Johnson",
-          "position": "WR",
-          "team": "TB"
         },
         {
           "player_id": "4217",
@@ -3181,10 +3181,10 @@
           "team": "LAC"
         },
         {
-          "player_id": "10229",
-          "name": "Rashee Rice",
-          "position": "WR",
-          "team": "KC"
+          "player_id": "13421",
+          "name": "Eli Raridon",
+          "position": "TE",
+          "team": "NE"
         },
         {
           "player_id": "11564",
@@ -3195,16 +3195,16 @@
       ],
       "bench": [
         {
+          "player_id": "12485",
+          "name": "Tez Johnson",
+          "position": "WR",
+          "team": "TB"
+        },
+        {
           "player_id": "12718",
           "name": "Konata Mumpfield",
           "position": "WR",
           "team": "LAR"
-        },
-        {
-          "player_id": "13421",
-          "name": "Eli Raridon",
-          "position": "TE",
-          "team": "NE"
         },
         {
           "player_id": "1373",

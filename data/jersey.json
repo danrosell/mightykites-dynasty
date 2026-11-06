@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-05T22:41:59.832Z",
+  "generated_at": "2026-11-06T03:28:48.055Z",
   "source": "Sleeper public API",
   "username": "TheMightyKites",
   "nfl_week": 9,
@@ -416,7 +416,7 @@
   "my_matchup": {
     "me": {
       "team": "TheMightyKites",
-      "points": 0
+      "points": 17.95
     },
     "opponent": {
       "team": "Prestige Worldwide ***",
@@ -533,10 +533,10 @@
           "team": "DAL"
         },
         {
-          "player_id": "5846",
-          "name": "DK Metcalf",
+          "player_id": "13296",
+          "name": "Caleb Douglas",
           "position": "WR",
-          "team": "PIT"
+          "team": "MIA"
         },
         {
           "player_id": "10232",
@@ -557,19 +557,13 @@
           "team": "CHI"
         },
         {
-          "player_id": "5967",
-          "name": "Tony Pollard",
-          "position": "RB",
-          "team": "TEN"
-        }
-      ],
-      "bench": [
-        {
           "player_id": "10236",
           "name": "Dalton Kincaid",
           "position": "TE",
           "team": "BUF"
-        },
+        }
+      ],
+      "bench": [
         {
           "player_id": "11557",
           "name": "Joe Milton",
@@ -607,12 +601,6 @@
           "team": "CIN"
         },
         {
-          "player_id": "13296",
-          "name": "Caleb Douglas",
-          "position": "WR",
-          "team": "MIA"
-        },
-        {
           "player_id": "13411",
           "name": "Zavion Thomas",
           "position": "WR",
@@ -647,6 +635,18 @@
           "name": "James Conner",
           "position": "RB",
           "team": "ARI"
+        },
+        {
+          "player_id": "5846",
+          "name": "DK Metcalf",
+          "position": "WR",
+          "team": "PIT"
+        },
+        {
+          "player_id": "5967",
+          "name": "Tony Pollard",
+          "position": "RB",
+          "team": "TEN"
         },
         {
           "player_id": "6768",
@@ -1484,10 +1484,10 @@
       "rank": 10,
       "starters": [
         {
-          "player_id": "5870",
-          "name": "Daniel Jones",
+          "player_id": "12545",
+          "name": "Tyler Shough",
           "position": "QB",
-          "team": "IND"
+          "team": "NO"
         },
         {
           "player_id": "11584",
@@ -1570,12 +1570,6 @@
           "team": "CLE"
         },
         {
-          "player_id": "12545",
-          "name": "Tyler Shough",
-          "position": "QB",
-          "team": "NO"
-        },
-        {
           "player_id": "13279",
           "name": "Carnell Tate",
           "position": "WR",
@@ -1616,6 +1610,12 @@
           "name": "Tim Patrick",
           "position": "WR",
           "team": "NYJ"
+        },
+        {
+          "player_id": "5870",
+          "name": "Daniel Jones",
+          "position": "QB",
+          "team": "IND"
         },
         {
           "player_id": "6130",
