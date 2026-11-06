@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-06T12:13:17.014Z",
+  "generated_at": "2026-11-06T19:31:41.486Z",
   "source": "Sleeper public API",
   "username": "TheMightyKites",
   "nfl_week": 9,
@@ -61,7 +61,7 @@
       "leg": 9,
       "reserve_slots": 3,
       "reserve_allow_cov": 1,
-      "daily_waivers_last_ran": 5
+      "daily_waivers_last_ran": 6
     },
     "scoring_settings": {
       "sack": 2,
@@ -166,10 +166,10 @@
         "team": "TB"
       },
       {
-        "player_id": "8146",
-        "name": "Garrett Wilson",
+        "player_id": "10213",
+        "name": "Tre Tucker",
         "position": "WR",
-        "team": "NYJ"
+        "team": "LV"
       },
       {
         "player_id": "7564",
@@ -203,12 +203,6 @@
       }
     ],
     "bench": [
-      {
-        "player_id": "10213",
-        "name": "Tre Tucker",
-        "position": "WR",
-        "team": "LV"
-      },
       {
         "player_id": "11834",
         "name": "Devaughn Vele",
@@ -280,6 +274,12 @@
         "name": "Elijah Mitchell",
         "position": "RB",
         "team": "PHI"
+      },
+      {
+        "player_id": "8146",
+        "name": "Garrett Wilson",
+        "position": "WR",
+        "team": "NYJ"
       },
       {
         "player_id": "8210",
@@ -572,7 +572,7 @@
           "player_id": "3257",
           "name": "Jacoby Brissett",
           "position": "QB",
-          "team": "ARI"
+          "team": "BAL"
         },
         {
           "player_id": "3271",
@@ -1045,10 +1045,10 @@
           "team": "TB"
         },
         {
-          "player_id": "8146",
-          "name": "Garrett Wilson",
+          "player_id": "10213",
+          "name": "Tre Tucker",
           "position": "WR",
-          "team": "NYJ"
+          "team": "LV"
         },
         {
           "player_id": "7564",
@@ -1082,12 +1082,6 @@
         }
       ],
       "bench": [
-        {
-          "player_id": "10213",
-          "name": "Tre Tucker",
-          "position": "WR",
-          "team": "LV"
-        },
         {
           "player_id": "11834",
           "name": "Devaughn Vele",
@@ -1159,6 +1153,12 @@
           "name": "Elijah Mitchell",
           "position": "RB",
           "team": "PHI"
+        },
+        {
+          "player_id": "8146",
+          "name": "Garrett Wilson",
+          "position": "WR",
+          "team": "NYJ"
         },
         {
           "player_id": "8210",
@@ -1371,16 +1371,16 @@
           "team": "WAS"
         },
         {
+          "player_id": "12540",
+          "name": "Chimere Dike",
+          "position": "WR",
+          "team": "TEN"
+        },
+        {
           "player_id": "12547",
           "name": "Kyle Williams",
           "position": "WR",
           "team": "NE"
-        },
-        {
-          "player_id": "12718",
-          "name": "Konata Mumpfield",
-          "position": "WR",
-          "team": "LAR"
         },
         {
           "player_id": "13274",
@@ -1419,10 +1419,10 @@
           "team": "CLE"
         },
         {
-          "player_id": "8129",
-          "name": "Dameon Pierce",
-          "position": "RB",
-          "team": "PHI"
+          "player_id": "8119",
+          "name": "Jahan Dotson",
+          "position": "WR",
+          "team": "ATL"
         },
         {
           "player_id": "8676",
@@ -1924,10 +1924,10 @@
       "rank": 3,
       "starters": [
         {
-          "player_id": "6804",
-          "name": "Jordan Love",
+          "player_id": "11560",
+          "name": "Caleb Williams",
           "position": "QB",
-          "team": "GB"
+          "team": "CHI"
         },
         {
           "player_id": "9224",
@@ -1972,10 +1972,10 @@
           "team": "MIN"
         },
         {
-          "player_id": "11560",
-          "name": "Caleb Williams",
+          "player_id": "6804",
+          "name": "Jordan Love",
           "position": "QB",
-          "team": "CHI"
+          "team": "GB"
         }
       ],
       "bench": [

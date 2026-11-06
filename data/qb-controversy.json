@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-06T12:13:16.287Z",
+  "generated_at": "2026-11-06T19:31:40.719Z",
   "source": "Sleeper public API",
   "username": "TheMightyKites",
   "nfl_week": 9,
@@ -61,7 +61,7 @@
       "daily_waivers_base": 4,
       "reserve_slots": 2,
       "reserve_allow_cov": 1,
-      "daily_waivers_last_ran": 5
+      "daily_waivers_last_ran": 6
     },
     "scoring_settings": {
       "sack": 1,
@@ -574,6 +574,12 @@
       ],
       "bench": [
         {
+          "player_id": "11199",
+          "name": "Emari Demercado",
+          "position": "RB",
+          "team": "HOU"
+        },
+        {
           "player_id": "11597",
           "name": "Theo Johnson",
           "position": "TE",
@@ -590,6 +596,12 @@
           "name": "Jaxson Dart",
           "position": "QB",
           "team": "NYG"
+        },
+        {
+          "player_id": "12634",
+          "name": "Jordan Watkins",
+          "position": "WR",
+          "team": "SF"
         },
         {
           "player_id": "2306",
@@ -835,10 +847,10 @@
           "team": "SF"
         },
         {
-          "player_id": "11593",
-          "name": "Brevyn Spann-Ford",
-          "position": "TE",
-          "team": "DAL"
+          "player_id": "6130",
+          "name": "Devin Singletary",
+          "position": "RB",
+          "team": "NYG"
         },
         {
           "player_id": "3163",
@@ -848,6 +860,12 @@
         }
       ],
       "bench": [
+        {
+          "player_id": "11593",
+          "name": "Brevyn Spann-Ford",
+          "position": "TE",
+          "team": "DAL"
+        },
         {
           "player_id": "12048",
           "name": "George Holani",
@@ -876,7 +894,7 @@
           "player_id": "3257",
           "name": "Jacoby Brissett",
           "position": "QB",
-          "team": "ARI"
+          "team": "BAL"
         },
         {
           "player_id": "4066",
@@ -907,12 +925,6 @@
           "name": "Terry McLaurin",
           "position": "WR",
           "team": "WAS"
-        },
-        {
-          "player_id": "6130",
-          "name": "Devin Singletary",
-          "position": "RB",
-          "team": "NYG"
         },
         {
           "player_id": "6768",
@@ -1429,12 +1441,6 @@
       ],
       "bench": [
         {
-          "player_id": "11433",
-          "name": "Nate Adkins",
-          "position": "TE",
-          "team": "DEN"
-        },
-        {
           "player_id": "11627",
           "name": "Troy Franklin",
           "position": "WR",
@@ -1469,6 +1475,12 @@
           "name": "Camden Brown",
           "position": "WR",
           "team": "DAL"
+        },
+        {
+          "player_id": "3286",
+          "name": "Demarcus Robinson",
+          "position": "WR",
+          "team": "SF"
         },
         {
           "player_id": "7090",
@@ -1682,10 +1694,10 @@
           "team": "CIN"
         },
         {
-          "player_id": "3271",
-          "name": "Tyler Higbee",
+          "player_id": "5001",
+          "name": "Dalton Schultz",
           "position": "TE",
-          "team": "LAR"
+          "team": "HOU"
         },
         {
           "player_id": "4035",
@@ -1694,10 +1706,10 @@
           "team": "NO"
         },
         {
-          "player_id": "5001",
-          "name": "Dalton Schultz",
-          "position": "TE",
-          "team": "HOU"
+          "player_id": "6011",
+          "name": "Gardner Minshew II",
+          "position": "QB",
+          "team": "ARI"
         }
       ],
       "bench": [
@@ -1726,6 +1738,12 @@
           "team": "ATL"
         },
         {
+          "player_id": "3271",
+          "name": "Tyler Higbee",
+          "position": "TE",
+          "team": "LAR"
+        },
+        {
           "player_id": "4039",
           "name": "Cooper Kupp",
           "position": "WR",
@@ -1742,12 +1760,6 @@
           "name": "Greg Dortch",
           "position": "WR",
           "team": "BUF"
-        },
-        {
-          "player_id": "6011",
-          "name": "Gardner Minshew II",
-          "position": "QB",
-          "team": "ARI"
         },
         {
           "player_id": "6149",
@@ -2992,10 +3004,10 @@
           "team": "LV"
         },
         {
-          "player_id": "12529",
-          "name": "TreVeyon Henderson",
-          "position": "RB",
-          "team": "NE"
+          "player_id": "12509",
+          "name": "Tre' Harris",
+          "position": "WR",
+          "team": "LAC"
         },
         {
           "player_id": "6804",
@@ -3036,10 +3048,10 @@
           "team": "TEN"
         },
         {
-          "player_id": "12509",
-          "name": "Tre' Harris",
-          "position": "WR",
-          "team": "LAC"
+          "player_id": "12529",
+          "name": "TreVeyon Henderson",
+          "position": "RB",
+          "team": "NE"
         },
         {
           "player_id": "12530",
