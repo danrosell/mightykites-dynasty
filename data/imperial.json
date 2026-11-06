@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-06T03:28:47.126Z",
+  "generated_at": "2026-11-06T12:13:15.826Z",
   "source": "Sleeper public API",
   "username": "TheMightyKites",
   "nfl_week": 9,
@@ -313,7 +313,7 @@
   "my_matchup": {
     "me": {
       "team": "TheMightyKites",
-      "points": 5.38
+      "points": 5.58
     },
     "opponent": {
       "team": "Welcome to the Gulag ",
@@ -2439,10 +2439,10 @@
           "team": "GB"
         },
         {
-          "player_id": "0",
-          "name": "0",
-          "position": "—",
-          "team": "FA"
+          "player_id": "9753",
+          "name": "Zach Charbonnet",
+          "position": "RB",
+          "team": "SEA"
         },
         {
           "player_id": "7547",
@@ -2511,12 +2511,6 @@
           "name": "Khalil Shakir",
           "position": "WR",
           "team": "BUF"
-        },
-        {
-          "player_id": "9753",
-          "name": "Zach Charbonnet",
-          "position": "RB",
-          "team": "SEA"
         }
       ],
       "taxi": [
