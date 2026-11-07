@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-07T06:11:17.416Z",
+  "generated_at": "2026-11-07T13:15:28.893Z",
   "source": "Sleeper public API",
   "username": "TheMightyKites",
   "nfl_week": 9,
@@ -61,7 +61,7 @@
       "leg": 9,
       "reserve_slots": 3,
       "reserve_allow_cov": 1,
-      "daily_waivers_last_ran": 6
+      "daily_waivers_last_ran": 7
     },
     "scoring_settings": {
       "sack": 2,
