@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-07T13:15:28.314Z",
+  "generated_at": "2026-11-07T18:05:58.305Z",
   "source": "Sleeper public API",
   "username": "TheMightyKites",
   "nfl_week": 9,
@@ -61,7 +61,7 @@
       "daily_waivers_base": 4,
       "reserve_slots": 2,
       "reserve_allow_cov": 1,
-      "daily_waivers_last_ran": 6
+      "daily_waivers_last_ran": 7
     },
     "scoring_settings": {
       "sack": 1,
@@ -604,6 +604,12 @@
           "team": "SF"
         },
         {
+          "player_id": "13603",
+          "name": "Gregory Desrosiers",
+          "position": "RB",
+          "team": "NYG"
+        },
+        {
           "player_id": "2306",
           "name": "Jameis Winston",
           "position": "QB",
@@ -942,7 +948,7 @@
           "player_id": "8129",
           "name": "Dameon Pierce",
           "position": "RB",
-          "team": "PHI"
+          "team": "FA"
         }
       ],
       "taxi": [
@@ -3248,10 +3254,10 @@
           "team": "LV"
         },
         {
-          "player_id": "11439",
-          "name": "Jaleel McLaughlin",
+          "player_id": "6039",
+          "name": "Ty Johnson",
           "position": "RB",
-          "team": "CLE"
+          "team": "BUF"
         },
         {
           "player_id": "4147",
@@ -3290,10 +3296,10 @@
           "team": "CAR"
         },
         {
-          "player_id": "8146",
-          "name": "Garrett Wilson",
+          "player_id": "12483",
+          "name": "Jack Bech",
           "position": "WR",
-          "team": "NYJ"
+          "team": "LV"
         },
         {
           "player_id": "12545",
@@ -3308,6 +3314,12 @@
           "name": "Andrei Iosivas",
           "position": "WR",
           "team": "CIN"
+        },
+        {
+          "player_id": "11439",
+          "name": "Jaleel McLaughlin",
+          "position": "RB",
+          "team": "CLE"
         },
         {
           "player_id": "11575",
@@ -3326,12 +3338,6 @@
           "name": "Jordan Whittington",
           "position": "WR",
           "team": "LAR"
-        },
-        {
-          "player_id": "12483",
-          "name": "Jack Bech",
-          "position": "WR",
-          "team": "LV"
         },
         {
           "player_id": "12492",
@@ -3364,12 +3370,6 @@
           "team": "NE"
         },
         {
-          "player_id": "6039",
-          "name": "Ty Johnson",
-          "position": "RB",
-          "team": "BUF"
-        },
-        {
           "player_id": "6865",
           "name": "Colby Parkinson",
           "position": "TE",
@@ -3380,6 +3380,12 @@
           "name": "Brock Wright",
           "position": "TE",
           "team": "DET"
+        },
+        {
+          "player_id": "8146",
+          "name": "Garrett Wilson",
+          "position": "WR",
+          "team": "NYJ"
         },
         {
           "player_id": "8205",
@@ -4142,6 +4148,12 @@
           "name": "Xavier Legette",
           "position": "WR",
           "team": "CAR"
+        },
+        {
+          "player_id": "12503",
+          "name": "Isaiah Bond",
+          "position": "WR",
+          "team": "CLE"
         },
         {
           "player_id": "12521",

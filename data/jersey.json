@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-07T13:15:28.648Z",
+  "generated_at": "2026-11-07T18:05:58.786Z",
   "source": "Sleeper public API",
   "username": "TheMightyKites",
   "nfl_week": 9,
@@ -58,7 +58,7 @@
       "leg": 9,
       "reserve_slots": 2,
       "reserve_allow_cov": 0,
-      "daily_waivers_last_ran": 6
+      "daily_waivers_last_ran": 7
     },
     "scoring_settings": {
       "sack": 1,
@@ -2553,7 +2553,7 @@
           "player_id": "8129",
           "name": "Dameon Pierce",
           "position": "RB",
-          "team": "PHI"
+          "team": "FA"
         },
         {
           "player_id": "8155",
