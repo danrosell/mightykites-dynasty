@@ -63,7 +63,7 @@ test("stale, future, wrong-league, unsupported scoring and unfinished logs fail 
  assert.throws(()=>buildQBControversyAnalysis({...snapshot,league:{...snapshot.league,id:"other"}},cache),/Wrong league/);
  assert.throws(()=>buildQBControversyAnalysis({...snapshot,league:{...snapshot.league,scoring_settings:{bonus_pass_yd_400:3}}},cache),/Unsupported scoring/);
  assert.throws(()=>buildQBControversyAnalysis(snapshot,{...cache,players:{...cache.players,w1:[{...games[0],week:7}]}}),/unfinished/);
- assert.throws(()=>buildQBControversyAnalysis(snapshot,{...cache,players:{...cache.players,w1:[{...games[0],season:2025}]}}),/season/);
+ assert.throws(()=>buildQBControversyAnalysis(snapshot,{...cache,players:{...cache.players,w1:[{...games[0],season:2024}]}}),/season/);
 });
 test("lineup remains blocked even with independently verified inputs",()=>{
  const schedule={generated_at:new Date().toISOString(),games:[{home:"NYG",away:"NYJ",kickoff:new Date().toISOString()}],players:{w1:{team:"NYG",position:"WR"},t1:{team:"NYJ",position:"TE"},w2:{team:"NYG",position:"WR"}}};
@@ -81,4 +81,13 @@ test("current-week results are excluded for every player",()=>{
 test("position reception premium requires observed receptions even with zero base PPR",()=>{
  const a=buildQBControversyAnalysis({...snapshot,league:{...snapshot.league,scoring_settings:{rec:0,bonus_rec_te:1}}},{...cache,players:{t1:games.map(g=>({...g,stats:{rec_yd:50}}))}});
  assert.equal(a.players.find(p=>p.player_id==="t1").projection.reason,"MISSING_REQUIRED_STATS");
+});
+
+test("verified prior-season games fill insufficient current-season sample without authorizing lineup",()=>{
+ const previous=games.slice(0,4).map(g=>({...g,season:2025}));
+ const current=[{...games[0],season:2026}];
+ const a=buildQBControversyAnalysis(snapshot,{...cache,players:{...cache.players,w1:[...previous,...current]}});
+ assert.equal(a.players.find(p=>p.player_id==="w1").projection.ok,true);
+ assert.equal(a.players.find(p=>p.player_id==="w1").projection.games,5);
+ assert.equal(a.lineup.ok,false);
 });

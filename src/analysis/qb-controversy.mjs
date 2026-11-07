@@ -26,8 +26,8 @@ export function buildQBControversyAnalysis(snapshot, cache, schedule=null, optio
   const logs=cache.players[p.player_id];
   if(!logs)return {...p,projection:{ok:false,reason:"NO_VERIFIED_GAME_LOGS"}};
   if(!cache.identities?.[p.player_id])return {...p,projection:{ok:false,reason:"NO_VERIFIED_CACHE_IDENTITY"}};
-  if(!Array.isArray(logs)||logs.some(g=>g.season!==cache.season||!Number.isInteger(g.week)||g.week>snapshot.nfl_week||g.played!==true))throw Error("Invalid season or unfinished game in cache");
-  return {...p,projection:projectFromGameLogs(logs.filter(g=>g.week<snapshot.nfl_week),snapshot.league.scoring_settings,{position:p.position,requireComplete:true})};
+  if(!Array.isArray(logs)||logs.some(g=>!Number.isInteger(g.season)||g.season<cache.season-1||g.season>cache.season||!Number.isInteger(g.week)||g.week<1||g.week>18||(g.season===cache.season&&g.week>snapshot.nfl_week)||g.played!==true))throw Error("Invalid season or unfinished game in cache");
+  return {...p,projection:projectFromGameLogs(logs.filter(g=>g.season<cache.season||g.week<snapshot.nfl_week),snapshot.league.scoring_settings,{position:p.position,requireComplete:true})};
  });
  const validation=validateLineupInputs(snapshot,schedule,options);
  const eligible=players.filter(p=>p.projection.ok).length;
@@ -43,6 +43,6 @@ export function buildQBControversyAnalysis(snapshot, cache, schedule=null, optio
   lineup:{ok:false,reason:validation.ok?"OPTIMIZER_NOT_YET_VERIFIED":"SCHEDULE_OR_IDENTITY_NOT_VERIFIED",issues:validation.issues},
   // No lineup advice until a verified schedule, complete eligibility checks,
   // and a separately tested legal-slot optimizer are all connected.
-  methodology:"Verified 2026 game logs, league-specific scoring; no opponent/injury adjustment"
+  methodology:"Verified current/prior-season game logs, league-specific scoring; historical fallback is not current player availability or team verification"
  };
 }

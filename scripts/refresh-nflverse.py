@@ -96,7 +96,9 @@ def main():
         raise ValueError("Sleeper returned no GSIS player IDs")
     release = json.loads(read_url(API))
     source = select_asset(release, season)
+    prior_source = select_asset(release, season - 1)
     csv_text = read_url(source).decode("utf-8-sig")
+    prior_csv_text = read_url(prior_source).decode("utf-8-sig")
     # Diagnostic summary contains counts and schema only; no large player database logs.
     reader = csv.DictReader(io.StringIO(csv_text))
     fields = reader.fieldnames or []
@@ -138,18 +140,22 @@ def main():
           "overlapping IDs=", len(matched_ids),
           "season row counts=", dict(sorted(years.items())[-4:]),
           "source columns=", fields, flush=True)
-    direct = join_direct_gsis(sleeper, source_ids)
+    prior_reader = csv.DictReader(io.StringIO(prior_csv_text))
+    prior_ids = {row["player_id"] for row in prior_reader if row.get("season_type") == "REG" and row.get("season") == str(season - 1) and row.get("player_id")}
+    eligible_ids = source_ids | prior_ids
+    direct = join_direct_gsis(sleeper, eligible_ids)
     crosswalk_url = os.environ.get("VERIFIED_CROSSWALK_CSV_URL", CROSSWALK).strip()
     external = {}
     if crosswalk_url:
         if not crosswalk_url.startswith("https://"):
             raise ValueError("Crosswalk source must use HTTPS")
         external = build_crosswalk(read_url(crosswalk_url).decode("utf-8-sig"),
-                                   sleeper, source_ids)
+                                   sleeper, eligible_ids)
     verified = combine_verified(direct, external)
     print("Verified identity coverage: direct=", len(direct),
           "external=", len(external), "combined=", len(verified), flush=True)
     rows = validate_rows(csv_text, season, set(verified.values()))
+    prior_rows = validate_rows(prior_csv_text, season - 1, set(verified.values()))
     if len(verified) < 100 or len(rows) < 100:
         raise ValueError(
             f"Too few verified player IDs: {len(verified)} (required >=100); "
@@ -167,10 +173,15 @@ def main():
         }
         return {"season": row["season"], "week": row["week"],
                 "played": True, "stats": stats}
-    by_sleeper = {sid: [to_game_log(row) for row in rows[gsis]]
-                  for sid, gsis in verified.items() if gsis in rows}
+    by_sleeper = {sid: [to_game_log(row) for row in prior_rows.get(gsis, [])] +
+                  [to_game_log(row) for row in rows.get(gsis, [])]
+                  for sid, gsis in verified.items() if gsis in rows or gsis in prior_rows}
+    print("Prior-season fallback coverage: prior-season IDs=", len(prior_rows),
+          "current-season IDs=", len(rows),
+          "prior-only IDs=", len(set(prior_rows) - set(rows)), flush=True)
     payload = {"generated_at": datetime.now(timezone.utc).isoformat(),
                "season": season, "source": source,
+               "prior_season_source": prior_source,
                "identity_source": "Verified Sleeper GSIS and optional structured crosswalk (no name joins)",
                "identities": {sid: verified[sid] for sid in by_sleeper},
                "players": by_sleeper}
