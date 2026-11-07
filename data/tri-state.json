@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-07T18:05:59.061Z",
+  "generated_at": "2026-11-07T21:58:29.624Z",
   "source": "Sleeper public API",
   "username": "TheMightyKites",
   "nfl_week": 9,
@@ -3169,6 +3169,12 @@
           "team": "LAR"
         },
         {
+          "player_id": "12489",
+          "name": "RJ Harvey",
+          "position": "RB",
+          "team": "DEN"
+        },
+        {
           "player_id": "12514",
           "name": "Emeka Egbuka",
           "position": "WR",
@@ -3205,12 +3211,6 @@
           "team": "PIT"
         },
         {
-          "player_id": "8154",
-          "name": "Brian Robinson Jr.",
-          "position": "RB",
-          "team": "ATL"
-        },
-        {
           "player_id": "9225",
           "name": "Tank Bigsby",
           "position": "RB",
@@ -3227,12 +3227,6 @@
       ],
       "reserve": [
         {
-          "player_id": "12489",
-          "name": "RJ Harvey",
-          "position": "RB",
-          "team": "DEN"
-        },
-        {
           "player_id": "12536",
           "name": "Jaylin Noel",
           "position": "WR",
@@ -3243,6 +3237,12 @@
           "name": "Chris Brazzell II",
           "position": "WR",
           "team": "CAR"
+        },
+        {
+          "player_id": "8154",
+          "name": "Brian Robinson Jr.",
+          "position": "RB",
+          "team": "ATL"
         }
       ],
       "picks": [
