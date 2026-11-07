@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-07T00:08:42.174Z",
+  "generated_at": "2026-11-07T06:11:17.074Z",
   "source": "Sleeper public API",
   "username": "TheMightyKites",
   "nfl_week": 9,
@@ -3364,10 +3364,10 @@
           "team": "NE"
         },
         {
-          "player_id": "5859",
-          "name": "A.J. Brown",
+          "player_id": "9754",
+          "name": "Quentin Johnston",
           "position": "WR",
-          "team": "NE"
+          "team": "LAC"
         },
         {
           "player_id": "7569",
@@ -3486,6 +3486,12 @@
           "team": "CHI"
         },
         {
+          "player_id": "5859",
+          "name": "A.J. Brown",
+          "position": "WR",
+          "team": "NE"
+        },
+        {
           "player_id": "8134",
           "name": "Khalil Shakir",
           "position": "WR",
@@ -3514,12 +3520,6 @@
           "name": "Sean Tucker",
           "position": "RB",
           "team": "TB"
-        },
-        {
-          "player_id": "9754",
-          "name": "Quentin Johnston",
-          "position": "WR",
-          "team": "LAC"
         }
       ],
       "taxi": [],

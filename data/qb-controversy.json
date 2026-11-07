@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-07T00:08:41.843Z",
+  "generated_at": "2026-11-07T06:11:16.629Z",
   "source": "Sleeper public API",
   "username": "TheMightyKites",
   "nfl_week": 9,
@@ -811,10 +811,10 @@
           "team": "DET"
         },
         {
-          "player_id": "4199",
-          "name": "Aaron Jones Sr.",
+          "player_id": "6130",
+          "name": "Devin Singletary",
           "position": "RB",
-          "team": "MIN"
+          "team": "NYG"
         },
         {
           "player_id": "7564",
@@ -847,10 +847,10 @@
           "team": "SF"
         },
         {
-          "player_id": "6130",
-          "name": "Devin Singletary",
+          "player_id": "4199",
+          "name": "Aaron Jones Sr.",
           "position": "RB",
-          "team": "NYG"
+          "team": "MIN"
         },
         {
           "player_id": "3163",
@@ -921,12 +921,6 @@
           "team": "HOU"
         },
         {
-          "player_id": "5927",
-          "name": "Terry McLaurin",
-          "position": "WR",
-          "team": "WAS"
-        },
-        {
           "player_id": "6768",
           "name": "Tua Tagovailoa",
           "position": "QB",
@@ -943,6 +937,12 @@
           "name": "Davis Mills",
           "position": "QB",
           "team": "HOU"
+        },
+        {
+          "player_id": "8129",
+          "name": "Dameon Pierce",
+          "position": "RB",
+          "team": "PHI"
         }
       ],
       "taxi": [
@@ -967,16 +967,16 @@
       ],
       "reserve": [
         {
+          "player_id": "5927",
+          "name": "Terry McLaurin",
+          "position": "WR",
+          "team": "WAS"
+        },
+        {
           "player_id": "6819",
           "name": "Michael Pittman Jr.",
           "position": "WR",
           "team": "PIT"
-        },
-        {
-          "player_id": "8129",
-          "name": "Dameon Pierce",
-          "position": "RB",
-          "team": "PHI"
         }
       ],
       "picks": [
@@ -4058,10 +4058,10 @@
       "rank": 14,
       "starters": [
         {
-          "player_id": "9999",
-          "name": "Will Levis",
+          "player_id": "5849",
+          "name": "Kyler Murray",
           "position": "QB",
-          "team": "NYJ"
+          "team": "MIN"
         },
         {
           "player_id": "11729",
@@ -4162,12 +4162,6 @@
           "team": "FA"
         },
         {
-          "player_id": "5849",
-          "name": "Kyler Murray",
-          "position": "QB",
-          "team": "MIN"
-        },
-        {
           "player_id": "6803",
           "name": "Brandon Aiyuk",
           "position": "WR",
@@ -4190,6 +4184,12 @@
           "name": "Tyjae Spears",
           "position": "RB",
           "team": "TEN"
+        },
+        {
+          "player_id": "9999",
+          "name": "Will Levis",
+          "position": "QB",
+          "team": "NYJ"
         }
       ],
       "taxi": [
