@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-06T19:31:40.287Z",
+  "generated_at": "2026-11-07T00:08:41.123Z",
   "source": "Sleeper public API",
   "username": "TheMightyKites",
   "nfl_week": 9,
@@ -2635,10 +2635,10 @@
           "team": "LAC"
         },
         {
-          "player_id": "7525",
-          "name": "DeVonta Smith",
+          "player_id": "8180",
+          "name": "Jalen Nailor",
           "position": "WR",
-          "team": "PHI"
+          "team": "LV"
         },
         {
           "player_id": "11604",
@@ -2647,10 +2647,10 @@
           "team": "LV"
         },
         {
-          "player_id": "8180",
-          "name": "Jalen Nailor",
-          "position": "WR",
-          "team": "LV"
+          "player_id": "11439",
+          "name": "Jaleel McLaughlin",
+          "position": "RB",
+          "team": "CLE"
         },
         {
           "player_id": "1466",
@@ -2666,12 +2666,6 @@
         }
       ],
       "bench": [
-        {
-          "player_id": "11439",
-          "name": "Jaleel McLaughlin",
-          "position": "RB",
-          "team": "CLE"
-        },
         {
           "player_id": "12481",
           "name": "Cam Skattebo",
@@ -2689,6 +2683,12 @@
           "name": "Deebo Samuel Sr.",
           "position": "WR",
           "team": "SF"
+        },
+        {
+          "player_id": "7525",
+          "name": "DeVonta Smith",
+          "position": "WR",
+          "team": "PHI"
         },
         {
           "player_id": "8126",
@@ -3036,12 +3036,6 @@
           "team": "MIA"
         },
         {
-          "player_id": "2216",
-          "name": "Mike Evans",
-          "position": "WR",
-          "team": "SF"
-        },
-        {
           "player_id": "6039",
           "name": "Ty Johnson",
           "position": "RB",
@@ -3074,7 +3068,14 @@
           "team": "NO"
         }
       ],
-      "reserve": [],
+      "reserve": [
+        {
+          "player_id": "2216",
+          "name": "Mike Evans",
+          "position": "WR",
+          "team": "SF"
+        }
+      ],
       "picks": [
         {
           "season": "2026",

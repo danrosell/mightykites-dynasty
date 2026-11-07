@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-06T19:31:40.719Z",
+  "generated_at": "2026-11-07T00:08:41.843Z",
   "source": "Sleeper public API",
   "username": "TheMightyKites",
   "nfl_week": 9,
@@ -3890,6 +3890,12 @@
           "team": "SEA"
         },
         {
+          "player_id": "5844",
+          "name": "T.J. Hockenson",
+          "position": "TE",
+          "team": "MIN"
+        },
+        {
           "player_id": "5846",
           "name": "DK Metcalf",
           "position": "WR",
@@ -3974,13 +3980,6 @@
           "original_roster_id": 4,
           "original_team": "PRIMETIME",
           "is_own": false
-        },
-        {
-          "season": "2027",
-          "round": 2,
-          "original_roster_id": 13,
-          "original_team": "Ertz Boyz",
-          "is_own": true
         },
         {
           "season": "2027",
@@ -4089,8 +4088,8 @@
           "team": "MIA"
         },
         {
-          "player_id": "8135",
-          "name": "Treylon Burks",
+          "player_id": "11650",
+          "name": "Luke McCaffrey",
           "position": "WR",
           "team": "WAS"
         },
@@ -4101,10 +4100,10 @@
           "team": "CLE"
         },
         {
-          "player_id": "5844",
-          "name": "T.J. Hockenson",
+          "player_id": "11599",
+          "name": "Cade Stover",
           "position": "TE",
-          "team": "MIN"
+          "team": "HOU"
         },
         {
           "player_id": "11608",
@@ -4139,22 +4138,10 @@
           "team": "PHI"
         },
         {
-          "player_id": "11599",
-          "name": "Cade Stover",
-          "position": "TE",
-          "team": "HOU"
-        },
-        {
           "player_id": "11626",
           "name": "Xavier Legette",
           "position": "WR",
           "team": "CAR"
-        },
-        {
-          "player_id": "11650",
-          "name": "Luke McCaffrey",
-          "position": "WR",
-          "team": "WAS"
         },
         {
           "player_id": "12521",
@@ -4185,6 +4172,12 @@
           "name": "Brandon Aiyuk",
           "position": "WR",
           "team": "SF"
+        },
+        {
+          "player_id": "8135",
+          "name": "Treylon Burks",
+          "position": "WR",
+          "team": "WAS"
         },
         {
           "player_id": "8188",
@@ -4268,6 +4261,13 @@
           "original_roster_id": 14,
           "original_team": "James Jones #1 WR",
           "is_own": true
+        },
+        {
+          "season": "2027",
+          "round": 2,
+          "original_roster_id": 13,
+          "original_team": "Ertz Boyz",
+          "is_own": false
         },
         {
           "season": "2027",

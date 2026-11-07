@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-06T19:31:41.486Z",
+  "generated_at": "2026-11-07T00:08:42.443Z",
   "source": "Sleeper public API",
   "username": "TheMightyKites",
   "nfl_week": 9,
@@ -501,10 +501,10 @@
           "team": "WAS"
         },
         {
-          "player_id": "12481",
-          "name": "Cam Skattebo",
+          "player_id": "12474",
+          "name": "Woody Marks",
           "position": "RB",
-          "team": "NYG"
+          "team": "HOU"
         },
         {
           "player_id": "7526",
@@ -531,10 +531,10 @@
           "team": "ARI"
         },
         {
-          "player_id": "12474",
-          "name": "Woody Marks",
-          "position": "RB",
-          "team": "HOU"
+          "player_id": "4037",
+          "name": "Chris Godwin Jr.",
+          "position": "WR",
+          "team": "TB"
         },
         {
           "player_id": "6011",
@@ -563,6 +563,12 @@
           "team": "GB"
         },
         {
+          "player_id": "12481",
+          "name": "Cam Skattebo",
+          "position": "RB",
+          "team": "NYG"
+        },
+        {
           "player_id": "12522",
           "name": "Cam Ward",
           "position": "QB",
@@ -579,12 +585,6 @@
           "name": "Tyler Higbee",
           "position": "TE",
           "team": "LAR"
-        },
-        {
-          "player_id": "4037",
-          "name": "Chris Godwin Jr.",
-          "position": "WR",
-          "team": "TB"
         },
         {
           "player_id": "4881",

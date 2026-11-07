@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-06T19:31:41.128Z",
+  "generated_at": "2026-11-07T00:08:42.174Z",
   "source": "Sleeper public API",
   "username": "TheMightyKites",
   "nfl_week": 9,
@@ -2746,10 +2746,10 @@
           "team": "DET"
         },
         {
-          "player_id": "2216",
-          "name": "Mike Evans",
+          "player_id": "2449",
+          "name": "Stefon Diggs",
           "position": "WR",
-          "team": "SF"
+          "team": "WAS"
         },
         {
           "player_id": "8131",
@@ -2758,10 +2758,10 @@
           "team": "NYG"
         },
         {
-          "player_id": "2449",
-          "name": "Stefon Diggs",
+          "player_id": "11783",
+          "name": "Ryan Flournoy",
           "position": "WR",
-          "team": "WAS"
+          "team": "DAL"
         },
         {
           "player_id": "4034",
@@ -2771,12 +2771,6 @@
         }
       ],
       "bench": [
-        {
-          "player_id": "11783",
-          "name": "Ryan Flournoy",
-          "position": "WR",
-          "team": "DAL"
-        },
         {
           "player_id": "11834",
           "name": "Devaughn Vele",
@@ -2817,6 +2811,12 @@
           "player_id": "13414",
           "name": "Kaelon Black",
           "position": "RB",
+          "team": "SF"
+        },
+        {
+          "player_id": "2216",
+          "name": "Mike Evans",
+          "position": "WR",
           "team": "SF"
         },
         {
