@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-07T21:58:29.624Z",
+  "generated_at": "2026-11-08T01:29:27.842Z",
   "source": "Sleeper public API",
   "username": "TheMightyKites",
   "nfl_week": 9,
@@ -513,10 +513,10 @@
           "team": "DEN"
         },
         {
-          "player_id": "9756",
-          "name": "Jordan Addison",
+          "player_id": "4037",
+          "name": "Chris Godwin Jr.",
           "position": "WR",
-          "team": "MIN"
+          "team": "TB"
         },
         {
           "player_id": "12519",
@@ -525,22 +525,22 @@
           "team": "CHI"
         },
         {
+          "player_id": "3271",
+          "name": "Tyler Higbee",
+          "position": "TE",
+          "team": "LAR"
+        },
+        {
           "player_id": "8130",
           "name": "Trey McBride",
           "position": "TE",
           "team": "ARI"
         },
         {
-          "player_id": "4037",
-          "name": "Chris Godwin Jr.",
+          "player_id": "9756",
+          "name": "Jordan Addison",
           "position": "WR",
-          "team": "TB"
-        },
-        {
-          "player_id": "6011",
-          "name": "Gardner Minshew II",
-          "position": "QB",
-          "team": "ARI"
+          "team": "MIN"
         }
       ],
       "bench": [
@@ -581,12 +581,6 @@
           "team": "BAL"
         },
         {
-          "player_id": "3271",
-          "name": "Tyler Higbee",
-          "position": "TE",
-          "team": "LAR"
-        },
-        {
           "player_id": "4881",
           "name": "Lamar Jackson",
           "position": "QB",
@@ -603,6 +597,12 @@
           "name": "Mark Andrews",
           "position": "TE",
           "team": "BAL"
+        },
+        {
+          "player_id": "6011",
+          "name": "Gardner Minshew II",
+          "position": "QB",
+          "team": "ARI"
         },
         {
           "player_id": "6783",
@@ -2541,10 +2541,10 @@
           "team": "CLE"
         },
         {
-          "player_id": "9757",
-          "name": "Kendre Miller",
-          "position": "RB",
-          "team": "NO"
+          "player_id": "12498",
+          "name": "Mason Taylor",
+          "position": "TE",
+          "team": "NYJ"
         },
         {
           "player_id": "9758",
@@ -2565,12 +2565,6 @@
           "name": "Theo Johnson",
           "position": "TE",
           "team": "NYG"
-        },
-        {
-          "player_id": "12498",
-          "name": "Mason Taylor",
-          "position": "TE",
-          "team": "NYJ"
         },
         {
           "player_id": "12502",
@@ -2597,6 +2591,12 @@
           "team": "LAR"
         },
         {
+          "player_id": "13281",
+          "name": "Jordyn Tyson",
+          "position": "WR",
+          "team": "NO"
+        },
+        {
           "player_id": "13289",
           "name": "Drew Allar",
           "position": "QB",
@@ -2621,12 +2621,6 @@
           "team": "SF"
         },
         {
-          "player_id": "6826",
-          "name": "Cole Kmet",
-          "position": "TE",
-          "team": "CHI"
-        },
-        {
           "player_id": "7567",
           "name": "Kenny Gainwell",
           "position": "RB",
@@ -2649,6 +2643,12 @@
           "name": "Aaron Rodgers",
           "position": "QB",
           "team": "PIT"
+        },
+        {
+          "player_id": "9757",
+          "name": "Kendre Miller",
+          "position": "RB",
+          "team": "NO"
         }
       ],
       "taxi": [],
@@ -2660,10 +2660,10 @@
           "team": "CAR"
         },
         {
-          "player_id": "13281",
-          "name": "Jordyn Tyson",
-          "position": "WR",
-          "team": "NO"
+          "player_id": "6826",
+          "name": "Cole Kmet",
+          "position": "TE",
+          "team": "CHI"
         }
       ],
       "picks": [

@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-07T21:58:28.955Z",
+  "generated_at": "2026-11-08T01:29:27.051Z",
   "source": "Sleeper public API",
   "username": "TheMightyKites",
   "nfl_week": 9,
@@ -4064,10 +4064,10 @@
       "rank": 14,
       "starters": [
         {
-          "player_id": "5849",
-          "name": "Kyler Murray",
+          "player_id": "9999",
+          "name": "Will Levis",
           "position": "QB",
-          "team": "MIN"
+          "team": "NYJ"
         },
         {
           "player_id": "11729",
@@ -4106,10 +4106,10 @@
           "team": "CLE"
         },
         {
-          "player_id": "11599",
-          "name": "Cade Stover",
-          "position": "TE",
-          "team": "HOU"
+          "player_id": "12503",
+          "name": "Isaiah Bond",
+          "position": "WR",
+          "team": "CLE"
         },
         {
           "player_id": "11608",
@@ -4144,16 +4144,16 @@
           "team": "PHI"
         },
         {
+          "player_id": "11599",
+          "name": "Cade Stover",
+          "position": "TE",
+          "team": "HOU"
+        },
+        {
           "player_id": "11626",
           "name": "Xavier Legette",
           "position": "WR",
           "team": "CAR"
-        },
-        {
-          "player_id": "12503",
-          "name": "Isaiah Bond",
-          "position": "WR",
-          "team": "CLE"
         },
         {
           "player_id": "12521",
@@ -4172,6 +4172,12 @@
           "name": "Tyreek Hill",
           "position": "WR",
           "team": "FA"
+        },
+        {
+          "player_id": "5849",
+          "name": "Kyler Murray",
+          "position": "QB",
+          "team": "MIN"
         },
         {
           "player_id": "6803",
@@ -4196,12 +4202,6 @@
           "name": "Tyjae Spears",
           "position": "RB",
           "team": "TEN"
-        },
-        {
-          "player_id": "9999",
-          "name": "Will Levis",
-          "position": "QB",
-          "team": "NYJ"
         }
       ],
       "taxi": [
