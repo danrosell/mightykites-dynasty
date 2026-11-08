@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-08T01:29:26.640Z",
+  "generated_at": "2026-11-08T09:08:34.917Z",
   "source": "Sleeper public API",
   "username": "TheMightyKites",
   "nfl_week": 9,
@@ -824,15 +824,15 @@
           "team": "LAC"
         },
         {
-          "player_id": "12529",
-          "name": "TreVeyon Henderson",
-          "position": "RB",
-          "team": "NE"
-        },
-        {
           "player_id": "12545",
           "name": "Tyler Shough",
           "position": "QB",
+          "team": "NO"
+        },
+        {
+          "player_id": "13281",
+          "name": "Jordyn Tyson",
+          "position": "WR",
           "team": "NO"
         },
         {
@@ -864,10 +864,10 @@
       ],
       "reserve": [
         {
-          "player_id": "13281",
-          "name": "Jordyn Tyson",
-          "position": "WR",
-          "team": "NO"
+          "player_id": "12529",
+          "name": "TreVeyon Henderson",
+          "position": "RB",
+          "team": "NE"
         },
         {
           "player_id": "4454",
