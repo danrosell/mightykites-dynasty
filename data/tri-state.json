@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-08T16:03:35.633Z",
+  "generated_at": "2026-11-08T20:34:54.176Z",
   "source": "Sleeper public API",
   "username": "TheMightyKites",
   "nfl_week": 9,
@@ -403,11 +403,11 @@
   "my_matchup": {
     "me": {
       "team": "TheMightyKites",
-      "points": 28.2
+      "points": 36.2
     },
     "opponent": {
       "team": "nrandazzo624",
-      "points": 13.58,
+      "points": 50.9,
       "roster_id": 10
     }
   },
@@ -1333,10 +1333,10 @@
           "team": "NO"
         },
         {
-          "player_id": "12509",
-          "name": "Tre' Harris",
+          "player_id": "12547",
+          "name": "Kyle Williams",
           "position": "WR",
-          "team": "LAC"
+          "team": "NE"
         },
         {
           "player_id": "8172",
@@ -1365,6 +1365,12 @@
           "team": "LV"
         },
         {
+          "player_id": "12509",
+          "name": "Tre' Harris",
+          "position": "WR",
+          "team": "LAC"
+        },
+        {
           "player_id": "12533",
           "name": "Jacory Croskey-Merritt",
           "position": "RB",
@@ -1375,12 +1381,6 @@
           "name": "Chimere Dike",
           "position": "WR",
           "team": "TEN"
-        },
-        {
-          "player_id": "12547",
-          "name": "Kyle Williams",
-          "position": "WR",
-          "team": "NE"
         },
         {
           "player_id": "13274",
@@ -2211,10 +2211,10 @@
           "team": "SEA"
         },
         {
-          "player_id": "8137",
-          "name": "George Pickens",
+          "player_id": "11620",
+          "name": "Rome Odunze",
           "position": "WR",
-          "team": "DAL"
+          "team": "CHI"
         },
         {
           "player_id": "9487",
@@ -2235,10 +2235,10 @@
           "team": "JAX"
         },
         {
-          "player_id": "11620",
-          "name": "Rome Odunze",
-          "position": "WR",
-          "team": "CHI"
+          "player_id": "13286",
+          "name": "Jadarian Price",
+          "position": "RB",
+          "team": "SEA"
         }
       ],
       "bench": [
@@ -2247,6 +2247,12 @@
           "name": "Brian Thomas Jr.",
           "position": "WR",
           "team": "JAX"
+        },
+        {
+          "player_id": "12492",
+          "name": "Pat Bryant",
+          "position": "WR",
+          "team": "DEN"
         },
         {
           "player_id": "12504",
@@ -2277,12 +2283,6 @@
           "name": "Carson Beck",
           "position": "QB",
           "team": "ARI"
-        },
-        {
-          "player_id": "13286",
-          "name": "Jadarian Price",
-          "position": "RB",
-          "team": "SEA"
         },
         {
           "player_id": "13294",
@@ -2327,10 +2327,10 @@
           "team": "LAC"
         },
         {
-          "player_id": "7528",
-          "name": "Najee Harris",
-          "position": "RB",
-          "team": "FA"
+          "player_id": "8137",
+          "name": "George Pickens",
+          "position": "WR",
+          "team": "DAL"
         },
         {
           "player_id": "9230",
@@ -2365,12 +2365,6 @@
           "name": "Jayden Higgins",
           "position": "WR",
           "team": "HOU"
-        },
-        {
-          "player_id": "12492",
-          "name": "Pat Bryant",
-          "position": "WR",
-          "team": "DEN"
         },
         {
           "player_id": "13302",
@@ -2648,7 +2642,7 @@
           "player_id": "9757",
           "name": "Kendre Miller",
           "position": "RB",
-          "team": "NO"
+          "team": "FA"
         }
       ],
       "taxi": [],

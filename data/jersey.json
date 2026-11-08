@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-08T16:03:35.233Z",
+  "generated_at": "2026-11-08T20:34:53.888Z",
   "source": "Sleeper public API",
   "username": "TheMightyKites",
   "nfl_week": 9,
@@ -58,7 +58,7 @@
       "leg": 9,
       "reserve_slots": 2,
       "reserve_allow_cov": 0,
-      "daily_waivers_last_ran": 7
+      "daily_waivers_last_ran": 8
     },
     "scoring_settings": {
       "sack": 1,
@@ -416,11 +416,11 @@
   "my_matchup": {
     "me": {
       "team": "TheMightyKites",
-      "points": 16.05
+      "points": 49.65
     },
     "opponent": {
       "team": "Prestige Worldwide ***",
-      "points": 0,
+      "points": 71.9,
       "roster_id": 8
     }
   },
@@ -829,10 +829,10 @@
           "team": "JAX"
         },
         {
-          "player_id": "8137",
-          "name": "George Pickens",
+          "player_id": "11625",
+          "name": "Adonai Mitchell",
           "position": "WR",
-          "team": "DAL"
+          "team": "NYJ"
         },
         {
           "player_id": "11604",
@@ -859,12 +859,6 @@
           "name": "Chris Rodriguez Jr.",
           "position": "RB",
           "team": "JAX"
-        },
-        {
-          "player_id": "11625",
-          "name": "Adonai Mitchell",
-          "position": "WR",
-          "team": "NYJ"
         },
         {
           "player_id": "11630",
@@ -937,6 +931,12 @@
           "name": "Matthew Stafford",
           "position": "QB",
           "team": "LAR"
+        },
+        {
+          "player_id": "8137",
+          "name": "George Pickens",
+          "position": "WR",
+          "team": "DAL"
         },
         {
           "player_id": "8180",
@@ -2784,12 +2784,6 @@
           "team": "KC"
         },
         {
-          "player_id": "12533",
-          "name": "Jacory Croskey-Merritt",
-          "position": "RB",
-          "team": "WAS"
-        },
-        {
           "player_id": "13293",
           "name": "Ja'Kobi Lane",
           "position": "WR",
@@ -2814,6 +2808,12 @@
           "team": "SF"
         },
         {
+          "player_id": "13603",
+          "name": "Gregory Desrosiers",
+          "position": "RB",
+          "team": "NYG"
+        },
+        {
           "player_id": "2216",
           "name": "Mike Evans",
           "position": "WR",
@@ -2830,6 +2830,12 @@
           "name": "Patrick Mahomes",
           "position": "QB",
           "team": "KC"
+        },
+        {
+          "player_id": "4177",
+          "name": "Mack Hollins",
+          "position": "WR",
+          "team": "NE"
         },
         {
           "player_id": "4663",
@@ -2868,12 +2874,6 @@
           "team": "SF"
         },
         {
-          "player_id": "8127",
-          "name": "Charlie Kolar",
-          "position": "TE",
-          "team": "LAC"
-        },
-        {
           "player_id": "8142",
           "name": "Alec Pierce",
           "position": "WR",
@@ -2895,10 +2895,10 @@
       "taxi": [],
       "reserve": [
         {
-          "player_id": "6826",
-          "name": "Cole Kmet",
-          "position": "TE",
-          "team": "CHI"
+          "player_id": "12533",
+          "name": "Jacory Croskey-Merritt",
+          "position": "RB",
+          "team": "WAS"
         },
         {
           "player_id": "8205",
@@ -3414,16 +3414,16 @@
           "team": "CHI"
         },
         {
+          "player_id": "11579",
+          "name": "Audric Estime",
+          "position": "RB",
+          "team": "NO"
+        },
+        {
           "player_id": "11631",
           "name": "Brian Thomas Jr.",
           "position": "WR",
           "team": "JAX"
-        },
-        {
-          "player_id": "12048",
-          "name": "George Holani",
-          "position": "RB",
-          "team": "SEA"
         },
         {
           "player_id": "12482",
@@ -3670,10 +3670,10 @@
           "team": "WAS"
         },
         {
-          "player_id": "12507",
-          "name": "Omarion Hampton",
+          "player_id": "8132",
+          "name": "Tyler Allgeier",
           "position": "RB",
-          "team": "LAC"
+          "team": "ARI"
         },
         {
           "player_id": "12495",
@@ -3682,10 +3682,10 @@
           "team": "MIA"
         },
         {
-          "player_id": "12519",
-          "name": "Luther Burden III",
+          "player_id": "11632",
+          "name": "Malik Nabers",
           "position": "WR",
-          "team": "CHI"
+          "team": "NYG"
         },
         {
           "player_id": "6801",
@@ -3706,16 +3706,16 @@
           "team": "CLE"
         },
         {
-          "player_id": "11632",
-          "name": "Malik Nabers",
+          "player_id": "13301",
+          "name": "Antonio Williams",
           "position": "WR",
-          "team": "NYG"
+          "team": "WAS"
         },
         {
-          "player_id": "8132",
-          "name": "Tyler Allgeier",
-          "position": "RB",
-          "team": "ARI"
+          "player_id": "12519",
+          "name": "Luther Burden III",
+          "position": "WR",
+          "team": "CHI"
         }
       ],
       "bench": [
@@ -3756,6 +3756,12 @@
           "team": "TEN"
         },
         {
+          "player_id": "12507",
+          "name": "Omarion Hampton",
+          "position": "RB",
+          "team": "LAC"
+        },
+        {
           "player_id": "12510",
           "name": "Jalen Milroe",
           "position": "QB",
@@ -3778,12 +3784,6 @@
           "name": "Malachi Fields",
           "position": "WR",
           "team": "NYG"
-        },
-        {
-          "player_id": "13301",
-          "name": "Antonio Williams",
-          "position": "WR",
-          "team": "WAS"
         },
         {
           "player_id": "13330",
@@ -3837,7 +3837,7 @@
           "player_id": "9757",
           "name": "Kendre Miller",
           "position": "RB",
-          "team": "NO"
+          "team": "FA"
         }
       ],
       "taxi": [],

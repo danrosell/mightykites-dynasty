@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-08T16:03:34.258Z",
+  "generated_at": "2026-11-08T20:34:53.123Z",
   "source": "Sleeper public API",
   "username": "TheMightyKites",
   "nfl_week": 9,
@@ -61,7 +61,7 @@
       "leg": 9,
       "reserve_slots": 3,
       "reserve_allow_cov": 0,
-      "daily_waivers_last_ran": 7
+      "daily_waivers_last_ran": 8
     },
     "scoring_settings": {
       "sack": 1,
@@ -186,6 +186,12 @@
       }
     ],
     "bench": [
+      {
+        "player_id": "12634",
+        "name": "Jordan Watkins",
+        "position": "WR",
+        "team": "SF"
+      },
       {
         "player_id": "13319",
         "name": "Oscar Delp",
@@ -313,11 +319,11 @@
   "my_matchup": {
     "me": {
       "team": "TheMightyKites",
-      "points": 7.88
+      "points": 67.4
     },
     "opponent": {
       "team": "Welcome to the Gulag ",
-      "points": 10.5,
+      "points": 44.72,
       "roster_id": 8
     }
   },
@@ -441,6 +447,12 @@
         }
       ],
       "bench": [
+        {
+          "player_id": "12634",
+          "name": "Jordan Watkins",
+          "position": "WR",
+          "team": "SF"
+        },
         {
           "player_id": "13319",
           "name": "Oscar Delp",
@@ -1595,7 +1607,7 @@
           "player_id": "9757",
           "name": "Kendre Miller",
           "position": "RB",
-          "team": "NO"
+          "team": "FA"
         }
       ],
       "taxi": [
@@ -1707,10 +1719,10 @@
           "team": "BAL"
         },
         {
-          "player_id": "5859",
-          "name": "A.J. Brown",
+          "player_id": "4037",
+          "name": "Chris Godwin Jr.",
           "position": "WR",
-          "team": "NE"
+          "team": "TB"
         },
         {
           "player_id": "5022",
@@ -1751,16 +1763,16 @@
           "team": "JAX"
         },
         {
-          "player_id": "4037",
-          "name": "Chris Godwin Jr.",
-          "position": "WR",
-          "team": "TB"
-        },
-        {
-          "player_id": "5848",
-          "name": "Marquise Brown",
+          "player_id": "13150",
+          "name": "Darius Cooper",
           "position": "WR",
           "team": "PHI"
+        },
+        {
+          "player_id": "5859",
+          "name": "A.J. Brown",
+          "position": "WR",
+          "team": "NE"
         },
         {
           "player_id": "9504",
@@ -1936,16 +1948,16 @@
           "team": "MIN"
         },
         {
+          "player_id": "3161",
+          "name": "Carson Wentz",
+          "position": "QB",
+          "team": "MIN"
+        },
+        {
           "player_id": "7527",
           "name": "Mac Jones",
           "position": "QB",
           "team": "SF"
-        },
-        {
-          "player_id": "9230",
-          "name": "Tanner McKee",
-          "position": "QB",
-          "team": "PHI"
         }
       ],
       "taxi": [
@@ -2225,10 +2237,10 @@
           "team": "LV"
         },
         {
-          "player_id": "11643",
-          "name": "Jaylen Wright",
+          "player_id": "11729",
+          "name": "Sione Vaki",
           "position": "RB",
-          "team": "MIA"
+          "team": "DET"
         },
         {
           "player_id": "13276",
@@ -2269,10 +2281,10 @@
       ],
       "bench": [
         {
-          "player_id": "11729",
-          "name": "Sione Vaki",
+          "player_id": "11643",
+          "name": "Jaylen Wright",
           "position": "RB",
-          "team": "DET"
+          "team": "MIA"
         },
         {
           "player_id": "11834",
@@ -2829,8 +2841,8 @@
           "team": "NO"
         },
         {
-          "player_id": "4943",
-          "name": "Sam Darnold",
+          "player_id": "5854",
+          "name": "Drew Lock",
           "position": "QB",
           "team": "SEA"
         }
@@ -2843,8 +2855,8 @@
           "team": "FA"
         },
         {
-          "player_id": "5854",
-          "name": "Drew Lock",
+          "player_id": "4943",
+          "name": "Sam Darnold",
           "position": "QB",
           "team": "SEA"
         },
@@ -3202,16 +3214,16 @@
           "team": "TB"
         },
         {
-          "player_id": "12718",
-          "name": "Konata Mumpfield",
-          "position": "WR",
-          "team": "LAR"
-        },
-        {
           "player_id": "1373",
           "name": "Geno Smith",
           "position": "QB",
           "team": "NYJ"
+        },
+        {
+          "player_id": "4177",
+          "name": "Mack Hollins",
+          "position": "WR",
+          "team": "NE"
         },
         {
           "player_id": "4663",

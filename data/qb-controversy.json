@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-08T16:03:34.831Z",
+  "generated_at": "2026-11-08T20:34:53.530Z",
   "source": "Sleeper public API",
   "username": "TheMightyKites",
   "nfl_week": 9,
@@ -61,7 +61,7 @@
       "daily_waivers_base": 4,
       "reserve_slots": 2,
       "reserve_allow_cov": 1,
-      "daily_waivers_last_ran": 7
+      "daily_waivers_last_ran": 8
     },
     "scoring_settings": {
       "sack": 1,
@@ -412,11 +412,11 @@
   "my_matchup": {
     "me": {
       "team": "The Ham Cannons",
-      "points": 8.25
+      "points": 47.87
     },
     "opponent": {
       "team": "Vrabels Secret Family",
-      "points": 1.2,
+      "points": 35.57,
       "roster_id": 11
     }
   },
@@ -518,10 +518,10 @@
           "team": "IND"
         },
         {
-          "player_id": "9757",
-          "name": "Kendre Miller",
+          "player_id": "11199",
+          "name": "Emari Demercado",
           "position": "RB",
-          "team": "NO"
+          "team": "HOU"
         },
         {
           "player_id": "11584",
@@ -573,12 +573,6 @@
         }
       ],
       "bench": [
-        {
-          "player_id": "11199",
-          "name": "Emari Demercado",
-          "position": "RB",
-          "team": "HOU"
-        },
         {
           "player_id": "11597",
           "name": "Theo Johnson",
@@ -656,6 +650,12 @@
           "name": "Marvin Mims Jr.",
           "position": "WR",
           "team": "DEN"
+        },
+        {
+          "player_id": "9757",
+          "name": "Kendre Miller",
+          "position": "RB",
+          "team": "FA"
         }
       ],
       "taxi": [
@@ -867,6 +867,12 @@
       ],
       "bench": [
         {
+          "player_id": "11579",
+          "name": "Audric Estime",
+          "position": "RB",
+          "team": "NO"
+        },
+        {
           "player_id": "11593",
           "name": "Brevyn Spann-Ford",
           "position": "TE",
@@ -907,12 +913,6 @@
           "name": "Evan Engram",
           "position": "TE",
           "team": "DEN"
-        },
-        {
-          "player_id": "4219",
-          "name": "Jeremy McNichols",
-          "position": "RB",
-          "team": "WAS"
         },
         {
           "player_id": "5872",
@@ -1403,10 +1403,10 @@
           "team": "CIN"
         },
         {
-          "player_id": "8137",
-          "name": "George Pickens",
+          "player_id": "13281",
+          "name": "Jordyn Tyson",
           "position": "WR",
-          "team": "DAL"
+          "team": "NO"
         },
         {
           "player_id": "13346",
@@ -1519,9 +1519,9 @@
           "team": "TB"
         },
         {
-          "player_id": "8162",
-          "name": "Sam Howell",
-          "position": "QB",
+          "player_id": "8137",
+          "name": "George Pickens",
+          "position": "WR",
           "team": "DAL"
         },
         {
@@ -1551,14 +1551,7 @@
           "team": "SF"
         }
       ],
-      "reserve": [
-        {
-          "player_id": "13281",
-          "name": "Jordyn Tyson",
-          "position": "WR",
-          "team": "NO"
-        }
-      ],
+      "reserve": [],
       "picks": [
         {
           "season": "2026",
@@ -3822,10 +3815,10 @@
           "team": "CIN"
         },
         {
-          "player_id": "5022",
-          "name": "Dallas Goedert",
+          "player_id": "5844",
+          "name": "T.J. Hockenson",
           "position": "TE",
-          "team": "PHI"
+          "team": "MIN"
         },
         {
           "player_id": "4034",
@@ -3834,10 +3827,10 @@
           "team": "SF"
         },
         {
-          "player_id": "4983",
-          "name": "DJ Moore",
+          "player_id": "11783",
+          "name": "Ryan Flournoy",
           "position": "WR",
-          "team": "BUF"
+          "team": "DAL"
         },
         {
           "player_id": "5854",
@@ -3852,18 +3845,6 @@
           "name": "Roschon Johnson",
           "position": "RB",
           "team": "CHI"
-        },
-        {
-          "player_id": "11571",
-          "name": "Isaiah Davis",
-          "position": "RB",
-          "team": "NYJ"
-        },
-        {
-          "player_id": "11783",
-          "name": "Ryan Flournoy",
-          "position": "WR",
-          "team": "DAL"
         },
         {
           "player_id": "12493",
@@ -3896,10 +3877,16 @@
           "team": "SEA"
         },
         {
-          "player_id": "5844",
-          "name": "T.J. Hockenson",
+          "player_id": "4983",
+          "name": "DJ Moore",
+          "position": "WR",
+          "team": "BUF"
+        },
+        {
+          "player_id": "5022",
+          "name": "Dallas Goedert",
           "position": "TE",
-          "team": "MIN"
+          "team": "PHI"
         },
         {
           "player_id": "5846",
@@ -4106,10 +4093,10 @@
           "team": "CLE"
         },
         {
-          "player_id": "12503",
-          "name": "Isaiah Bond",
-          "position": "WR",
-          "team": "CLE"
+          "player_id": "11599",
+          "name": "Cade Stover",
+          "position": "TE",
+          "team": "HOU"
         },
         {
           "player_id": "11608",
@@ -4144,16 +4131,16 @@
           "team": "PHI"
         },
         {
-          "player_id": "11599",
-          "name": "Cade Stover",
-          "position": "TE",
-          "team": "HOU"
-        },
-        {
           "player_id": "11626",
           "name": "Xavier Legette",
           "position": "WR",
           "team": "CAR"
+        },
+        {
+          "player_id": "12503",
+          "name": "Isaiah Bond",
+          "position": "WR",
+          "team": "CLE"
         },
         {
           "player_id": "12521",
