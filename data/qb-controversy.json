@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-08T09:08:35.253Z",
+  "generated_at": "2026-11-08T16:03:34.831Z",
   "source": "Sleeper public API",
   "username": "TheMightyKites",
   "nfl_week": 9,
@@ -412,11 +412,11 @@
   "my_matchup": {
     "me": {
       "team": "The Ham Cannons",
-      "points": 5.7
+      "points": 8.25
     },
     "opponent": {
       "team": "Vrabels Secret Family",
-      "points": 0,
+      "points": 1.2,
       "roster_id": 11
     }
   },
@@ -536,16 +536,16 @@
           "team": "MIN"
         },
         {
-          "player_id": "12514",
-          "name": "Emeka Egbuka",
-          "position": "WR",
-          "team": "TB"
-        },
-        {
           "player_id": "8167",
           "name": "Christian Watson",
           "position": "WR",
           "team": "GB"
+        },
+        {
+          "player_id": "12514",
+          "name": "Emeka Egbuka",
+          "position": "WR",
+          "team": "TB"
         },
         {
           "player_id": "8131",
@@ -554,10 +554,10 @@
           "team": "NYG"
         },
         {
-          "player_id": "12547",
-          "name": "Kyle Williams",
+          "player_id": "12634",
+          "name": "Jordan Watkins",
           "position": "WR",
-          "team": "NE"
+          "team": "SF"
         },
         {
           "player_id": "8210",
@@ -598,10 +598,10 @@
           "team": "NYG"
         },
         {
-          "player_id": "12634",
-          "name": "Jordan Watkins",
+          "player_id": "12547",
+          "name": "Kyle Williams",
           "position": "WR",
-          "team": "SF"
+          "team": "NE"
         },
         {
           "player_id": "13603",

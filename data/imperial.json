@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-08T09:08:34.917Z",
+  "generated_at": "2026-11-08T16:03:34.258Z",
   "source": "Sleeper public API",
   "username": "TheMightyKites",
   "nfl_week": 9,
@@ -155,10 +155,10 @@
         "team": "DAL"
       },
       {
-        "player_id": "4950",
-        "name": "Christian Kirk",
+        "player_id": "13285",
+        "name": "Malachi Fields",
         "position": "WR",
-        "team": "SF"
+        "team": "NYG"
       },
       {
         "player_id": "7553",
@@ -186,12 +186,6 @@
       }
     ],
     "bench": [
-      {
-        "player_id": "13285",
-        "name": "Malachi Fields",
-        "position": "WR",
-        "team": "NYG"
-      },
       {
         "player_id": "13319",
         "name": "Oscar Delp",
@@ -249,6 +243,12 @@
         "name": "Lamar Jackson",
         "position": "QB",
         "team": "BAL"
+      },
+      {
+        "player_id": "4950",
+        "name": "Christian Kirk",
+        "position": "WR",
+        "team": "SF"
       }
     ],
     "picks": [
@@ -313,7 +313,7 @@
   "my_matchup": {
     "me": {
       "team": "TheMightyKites",
-      "points": 5.58
+      "points": 7.88
     },
     "opponent": {
       "team": "Welcome to the Gulag ",
@@ -410,10 +410,10 @@
           "team": "DAL"
         },
         {
-          "player_id": "4950",
-          "name": "Christian Kirk",
+          "player_id": "13285",
+          "name": "Malachi Fields",
           "position": "WR",
-          "team": "SF"
+          "team": "NYG"
         },
         {
           "player_id": "7553",
@@ -441,12 +441,6 @@
         }
       ],
       "bench": [
-        {
-          "player_id": "13285",
-          "name": "Malachi Fields",
-          "position": "WR",
-          "team": "NYG"
-        },
         {
           "player_id": "13319",
           "name": "Oscar Delp",
@@ -504,6 +498,12 @@
           "name": "Lamar Jackson",
           "position": "QB",
           "team": "BAL"
+        },
+        {
+          "player_id": "4950",
+          "name": "Christian Kirk",
+          "position": "WR",
+          "team": "SF"
         }
       ],
       "picks": [
@@ -2079,10 +2079,10 @@
           "team": "CIN"
         },
         {
-          "player_id": "8146",
-          "name": "Garrett Wilson",
+          "player_id": "4983",
+          "name": "DJ Moore",
           "position": "WR",
-          "team": "NYJ"
+          "team": "BUF"
         },
         {
           "player_id": "5012",
@@ -2091,16 +2091,16 @@
           "team": "BAL"
         },
         {
-          "player_id": "7021",
-          "name": "Rico Dowdle",
-          "position": "RB",
-          "team": "PIT"
+          "player_id": "9501",
+          "name": "DeMario Douglas",
+          "position": "WR",
+          "team": "NE"
         },
         {
-          "player_id": "4983",
-          "name": "DJ Moore",
-          "position": "WR",
-          "team": "BUF"
+          "player_id": "13414",
+          "name": "Kaelon Black",
+          "position": "RB",
+          "team": "SF"
         },
         {
           "player_id": "4984",
@@ -2110,12 +2110,6 @@
         }
       ],
       "bench": [
-        {
-          "player_id": "13414",
-          "name": "Kaelon Black",
-          "position": "RB",
-          "team": "SF"
-        },
         {
           "player_id": "4017",
           "name": "Deshaun Watson",
@@ -2129,16 +2123,22 @@
           "team": "TB"
         },
         {
+          "player_id": "7021",
+          "name": "Rico Dowdle",
+          "position": "RB",
+          "team": "PIT"
+        },
+        {
           "player_id": "7561",
           "name": "Elijah Mitchell",
           "position": "RB",
           "team": "PHI"
         },
         {
-          "player_id": "9501",
-          "name": "DeMario Douglas",
+          "player_id": "8146",
+          "name": "Garrett Wilson",
           "position": "WR",
-          "team": "NE"
+          "team": "NYJ"
         }
       ],
       "taxi": [
@@ -3146,10 +3146,10 @@
       "rank": 6,
       "starters": [
         {
-          "player_id": "7611",
-          "name": "Rhamondre Stevenson",
+          "player_id": "12507",
+          "name": "Omarion Hampton",
           "position": "RB",
-          "team": "NE"
+          "team": "LAC"
         },
         {
           "player_id": "8150",
@@ -3176,10 +3176,10 @@
           "team": "SF"
         },
         {
-          "player_id": "12507",
-          "name": "Omarion Hampton",
+          "player_id": "7611",
+          "name": "Rhamondre Stevenson",
           "position": "RB",
-          "team": "LAC"
+          "team": "NE"
         },
         {
           "player_id": "13421",

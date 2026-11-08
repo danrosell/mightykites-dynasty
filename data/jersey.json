@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-08T09:08:35.909Z",
+  "generated_at": "2026-11-08T16:03:35.233Z",
   "source": "Sleeper public API",
   "username": "TheMightyKites",
   "nfl_week": 9,
@@ -3046,10 +3046,10 @@
           "team": "ATL"
         },
         {
-          "player_id": "8154",
-          "name": "Brian Robinson Jr.",
+          "player_id": "12531",
+          "name": "Trevor Etienne",
           "position": "RB",
-          "team": "ATL"
+          "team": "CAR"
         },
         {
           "player_id": "12526",
@@ -3082,8 +3082,8 @@
           "team": "HOU"
         },
         {
-          "player_id": "7525",
-          "name": "DeVonta Smith",
+          "player_id": "13294",
+          "name": "Makai Lemon",
           "position": "WR",
           "team": "PHI"
         }
@@ -3120,12 +3120,6 @@
           "team": "NYG"
         },
         {
-          "player_id": "12531",
-          "name": "Trevor Etienne",
-          "position": "RB",
-          "team": "CAR"
-        },
-        {
           "player_id": "12542",
           "name": "Efton Chism III",
           "position": "WR",
@@ -3136,12 +3130,6 @@
           "name": "Ty Simpson",
           "position": "QB",
           "team": "LAR"
-        },
-        {
-          "player_id": "13294",
-          "name": "Makai Lemon",
-          "position": "WR",
-          "team": "PHI"
         },
         {
           "player_id": "13401",
@@ -3186,6 +3174,12 @@
           "team": "IND"
         },
         {
+          "player_id": "7525",
+          "name": "DeVonta Smith",
+          "position": "WR",
+          "team": "PHI"
+        },
+        {
           "player_id": "7543",
           "name": "Travis Etienne Jr.",
           "position": "RB",
@@ -3202,6 +3196,12 @@
           "name": "Treylon Burks",
           "position": "WR",
           "team": "WAS"
+        },
+        {
+          "player_id": "8154",
+          "name": "Brian Robinson Jr.",
+          "position": "RB",
+          "team": "ATL"
         },
         {
           "player_id": "9502",
