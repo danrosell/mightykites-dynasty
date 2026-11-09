@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-08T20:34:53.123Z",
+  "generated_at": "2026-11-09T00:59:20.698Z",
   "source": "Sleeper public API",
   "username": "TheMightyKites",
   "nfl_week": 9,
@@ -319,11 +319,11 @@
   "my_matchup": {
     "me": {
       "team": "TheMightyKites",
-      "points": 67.4
+      "points": 103.2
     },
     "opponent": {
       "team": "Welcome to the Gulag ",
-      "points": 44.72,
+      "points": 64.58,
       "roster_id": 8
     }
   },

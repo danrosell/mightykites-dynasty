@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-08T20:34:54.176Z",
+  "generated_at": "2026-11-09T00:59:21.574Z",
   "source": "Sleeper public API",
   "username": "TheMightyKites",
   "nfl_week": 9,
@@ -403,11 +403,11 @@
   "my_matchup": {
     "me": {
       "team": "TheMightyKites",
-      "points": 36.2
+      "points": 97.56
     },
     "opponent": {
       "team": "nrandazzo624",
-      "points": 50.9,
+      "points": 118.94,
       "roster_id": 10
     }
   },
@@ -537,10 +537,10 @@
           "team": "ARI"
         },
         {
-          "player_id": "9756",
-          "name": "Jordan Addison",
-          "position": "WR",
-          "team": "MIN"
+          "player_id": "9506",
+          "name": "Sean Tucker",
+          "position": "RB",
+          "team": "TB"
         }
       ],
       "bench": [
@@ -629,10 +629,10 @@
           "team": "PIT"
         },
         {
-          "player_id": "9506",
-          "name": "Sean Tucker",
-          "position": "RB",
-          "team": "TB"
+          "player_id": "9756",
+          "name": "Jordan Addison",
+          "position": "WR",
+          "team": "MIN"
         }
       ],
       "taxi": [
