@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-09T00:59:21.009Z",
+  "generated_at": "2026-11-09T08:06:08.506Z",
   "source": "Sleeper public API",
   "username": "TheMightyKites",
   "nfl_week": 9,
@@ -412,11 +412,11 @@
   "my_matchup": {
     "me": {
       "team": "The Ham Cannons",
-      "points": 99.63
+      "points": 129.39
     },
     "opponent": {
       "team": "Vrabels Secret Family",
-      "points": 68.64,
+      "points": 96.54,
       "roster_id": 11
     }
   },
