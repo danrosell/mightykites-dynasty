@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-10T10:02:12.960Z",
+  "generated_at": "2026-11-10T17:56:38.387Z",
   "source": "Sleeper public API",
   "username": "TheMightyKites",
   "nfl_week": 10,
@@ -11,7 +11,7 @@
     "status": "in_season",
     "settings": {
       "best_ball": 0,
-      "last_report": 8,
+      "last_report": 9,
       "waiver_budget": 200,
       "disable_adds": 0,
       "divisions": 0,
@@ -58,7 +58,7 @@
       "leg": 9,
       "reserve_slots": 2,
       "reserve_allow_cov": 0,
-      "daily_waivers_last_ran": 9
+      "daily_waivers_last_ran": 10
     },
     "scoring_settings": {
       "sack": 1,
@@ -811,10 +811,10 @@
           "team": "DET"
         },
         {
-          "player_id": "9224",
-          "name": "Chase Brown",
+          "player_id": "8151",
+          "name": "Kenneth Walker III",
           "position": "RB",
-          "team": "CIN"
+          "team": "KC"
         },
         {
           "player_id": "9488",
@@ -829,10 +829,10 @@
           "team": "JAX"
         },
         {
-          "player_id": "11625",
-          "name": "Adonai Mitchell",
+          "player_id": "9501",
+          "name": "DeMario Douglas",
           "position": "WR",
-          "team": "NYJ"
+          "team": "NE"
         },
         {
           "player_id": "11604",
@@ -847,10 +847,10 @@
           "team": "IND"
         },
         {
-          "player_id": "8151",
-          "name": "Kenneth Walker III",
+          "player_id": "9224",
+          "name": "Chase Brown",
           "position": "RB",
-          "team": "KC"
+          "team": "CIN"
         }
       ],
       "bench": [
@@ -859,6 +859,12 @@
           "name": "Chris Rodriguez Jr.",
           "position": "RB",
           "team": "JAX"
+        },
+        {
+          "player_id": "11625",
+          "name": "Adonai Mitchell",
+          "position": "WR",
+          "team": "NYJ"
         },
         {
           "player_id": "11630",
@@ -961,12 +967,6 @@
           "name": "Brenton Strange",
           "position": "TE",
           "team": "JAX"
-        },
-        {
-          "player_id": "9501",
-          "name": "DeMario Douglas",
-          "position": "WR",
-          "team": "NE"
         },
         {
           "player_id": "9508",
@@ -1130,10 +1130,10 @@
           "team": "CIN"
         },
         {
-          "player_id": "13345",
-          "name": "Jonah Coleman",
+          "player_id": "12469",
+          "name": "Dylan Sampson",
           "position": "RB",
-          "team": "DEN"
+          "team": "CLE"
         },
         {
           "player_id": "11647",
@@ -1148,10 +1148,10 @@
           "team": "LAC"
         },
         {
-          "player_id": "12514",
-          "name": "Emeka Egbuka",
+          "player_id": "13274",
+          "name": "Germie Bernard",
           "position": "WR",
-          "team": "TB"
+          "team": "PIT"
         },
         {
           "player_id": "10213",
@@ -1204,12 +1204,6 @@
           "team": "DEN"
         },
         {
-          "player_id": "12469",
-          "name": "Dylan Sampson",
-          "position": "RB",
-          "team": "CLE"
-        },
-        {
           "player_id": "12471",
           "name": "DJ Giddens",
           "position": "RB",
@@ -1220,6 +1214,12 @@
           "name": "Corey Kiner",
           "position": "RB",
           "team": "NE"
+        },
+        {
+          "player_id": "12514",
+          "name": "Emeka Egbuka",
+          "position": "WR",
+          "team": "TB"
         },
         {
           "player_id": "12522",
@@ -1234,16 +1234,16 @@
           "team": "CHI"
         },
         {
-          "player_id": "13274",
-          "name": "Germie Bernard",
-          "position": "WR",
-          "team": "PIT"
-        },
-        {
           "player_id": "13288",
           "name": "Nicholas Singleton",
           "position": "RB",
           "team": "TEN"
+        },
+        {
+          "player_id": "13345",
+          "name": "Jonah Coleman",
+          "position": "RB",
+          "team": "DEN"
         },
         {
           "player_id": "13347",
@@ -2520,12 +2520,6 @@
           "team": "CIN"
         },
         {
-          "player_id": "4718",
-          "name": "Dare Ogunbowale",
-          "position": "RB",
-          "team": "HOU"
-        },
-        {
           "player_id": "4881",
           "name": "Lamar Jackson",
           "position": "QB",
@@ -2548,12 +2542,6 @@
           "name": "Darnell Mooney",
           "position": "WR",
           "team": "NYG"
-        },
-        {
-          "player_id": "7591",
-          "name": "Justin Fields",
-          "position": "QB",
-          "team": "KC"
         },
         {
           "player_id": "8121",

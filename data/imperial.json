@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-10T10:02:12.326Z",
+  "generated_at": "2026-11-10T17:56:37.868Z",
   "source": "Sleeper public API",
   "username": "TheMightyKites",
   "nfl_week": 10,
@@ -11,7 +11,7 @@
     "status": "in_season",
     "settings": {
       "best_ball": 0,
-      "last_report": 8,
+      "last_report": 9,
       "waiver_budget": 200,
       "disable_adds": 0,
       "capacity_override": 0,
@@ -61,7 +61,7 @@
       "leg": 9,
       "reserve_slots": 3,
       "reserve_allow_cov": 0,
-      "daily_waivers_last_ran": 9
+      "daily_waivers_last_ran": 10
     },
     "scoring_settings": {
       "sack": 1,
@@ -774,10 +774,10 @@
       "rank": 13,
       "starters": [
         {
-          "player_id": "9511",
-          "name": "Keaton Mitchell",
+          "player_id": "12529",
+          "name": "TreVeyon Henderson",
           "position": "RB",
-          "team": "LAC"
+          "team": "NE"
         },
         {
           "player_id": "8155",
@@ -804,44 +804,6 @@
           "team": "MIN"
         },
         {
-          "player_id": "13294",
-          "name": "Makai Lemon",
-          "position": "WR",
-          "team": "PHI"
-        },
-        {
-          "player_id": "11625",
-          "name": "Adonai Mitchell",
-          "position": "WR",
-          "team": "NYJ"
-        },
-        {
-          "player_id": "4046",
-          "name": "Patrick Mahomes",
-          "position": "QB",
-          "team": "KC"
-        }
-      ],
-      "bench": [
-        {
-          "player_id": "12509",
-          "name": "Tre' Harris",
-          "position": "WR",
-          "team": "LAC"
-        },
-        {
-          "player_id": "12529",
-          "name": "TreVeyon Henderson",
-          "position": "RB",
-          "team": "NE"
-        },
-        {
-          "player_id": "12545",
-          "name": "Tyler Shough",
-          "position": "QB",
-          "team": "NO"
-        },
-        {
           "player_id": "13281",
           "name": "Jordyn Tyson",
           "position": "WR",
@@ -852,6 +814,44 @@
           "name": "Tyler Higbee",
           "position": "TE",
           "team": "LAR"
+        },
+        {
+          "player_id": "4046",
+          "name": "Patrick Mahomes",
+          "position": "QB",
+          "team": "KC"
+        }
+      ],
+      "bench": [
+        {
+          "player_id": "11625",
+          "name": "Adonai Mitchell",
+          "position": "WR",
+          "team": "NYJ"
+        },
+        {
+          "player_id": "12509",
+          "name": "Tre' Harris",
+          "position": "WR",
+          "team": "LAC"
+        },
+        {
+          "player_id": "12545",
+          "name": "Tyler Shough",
+          "position": "QB",
+          "team": "NO"
+        },
+        {
+          "player_id": "13294",
+          "name": "Makai Lemon",
+          "position": "WR",
+          "team": "PHI"
+        },
+        {
+          "player_id": "9511",
+          "name": "Keaton Mitchell",
+          "position": "RB",
+          "team": "LAC"
         }
       ],
       "taxi": [
@@ -2805,10 +2805,10 @@
           "team": "IND"
         },
         {
-          "player_id": "11584",
-          "name": "Bucky Irving",
+          "player_id": "11576",
+          "name": "Braelon Allen",
           "position": "RB",
-          "team": "TB"
+          "team": "NYJ"
         },
         {
           "player_id": "8112",
@@ -2823,15 +2823,15 @@
           "team": "CAR"
         },
         {
+          "player_id": "7600",
+          "name": "Pat Freiermuth",
+          "position": "TE",
+          "team": "PIT"
+        },
+        {
           "player_id": "12498",
           "name": "Mason Taylor",
           "position": "TE",
-          "team": "NYJ"
-        },
-        {
-          "player_id": "11576",
-          "name": "Braelon Allen",
-          "position": "RB",
           "team": "NYJ"
         },
         {
@@ -2849,6 +2849,12 @@
       ],
       "bench": [
         {
+          "player_id": "11584",
+          "name": "Bucky Irving",
+          "position": "RB",
+          "team": "TB"
+        },
+        {
           "player_id": "3321",
           "name": "Tyreek Hill",
           "position": "WR",
@@ -2859,12 +2865,6 @@
           "name": "Sam Darnold",
           "position": "QB",
           "team": "SEA"
-        },
-        {
-          "player_id": "7600",
-          "name": "Pat Freiermuth",
-          "position": "TE",
-          "team": "PIT"
         },
         {
           "player_id": "8119",
@@ -2998,16 +2998,16 @@
           "team": "SF"
         },
         {
-          "player_id": "7567",
-          "name": "Kenny Gainwell",
+          "player_id": "6039",
+          "name": "Ty Johnson",
           "position": "RB",
-          "team": "TB"
+          "team": "BUF"
         },
         {
-          "player_id": "7526",
-          "name": "Jaylen Waddle",
+          "player_id": "13296",
+          "name": "Caleb Douglas",
           "position": "WR",
-          "team": "DEN"
+          "team": "MIA"
         },
         {
           "player_id": "13298",
@@ -3016,16 +3016,16 @@
           "team": "CLE"
         },
         {
-          "player_id": "12517",
-          "name": "Colston Loveland",
-          "position": "TE",
-          "team": "CHI"
-        },
-        {
           "player_id": "8172",
           "name": "Greg Dulcich",
           "position": "TE",
           "team": "MIA"
+        },
+        {
+          "player_id": "3286",
+          "name": "Demarcus Robinson",
+          "position": "WR",
+          "team": "SF"
         },
         {
           "player_id": "2449",
@@ -3042,22 +3042,22 @@
       ],
       "bench": [
         {
-          "player_id": "13296",
-          "name": "Caleb Douglas",
-          "position": "WR",
-          "team": "MIA"
+          "player_id": "12517",
+          "name": "Colston Loveland",
+          "position": "TE",
+          "team": "CHI"
         },
         {
-          "player_id": "3286",
-          "name": "Demarcus Robinson",
+          "player_id": "7526",
+          "name": "Jaylen Waddle",
           "position": "WR",
-          "team": "SF"
+          "team": "DEN"
         },
         {
-          "player_id": "6039",
-          "name": "Ty Johnson",
+          "player_id": "7567",
+          "name": "Kenny Gainwell",
           "position": "RB",
-          "team": "BUF"
+          "team": "TB"
         },
         {
           "player_id": "8161",
