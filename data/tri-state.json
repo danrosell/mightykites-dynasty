@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-10T17:56:38.573Z",
+  "generated_at": "2026-11-10T23:29:46.078Z",
   "source": "Sleeper public API",
   "username": "TheMightyKites",
   "nfl_week": 10,
@@ -489,10 +489,10 @@
       "rank": 7,
       "starters": [
         {
-          "player_id": "8161",
-          "name": "Malik Willis",
+          "player_id": "12522",
+          "name": "Cam Ward",
           "position": "QB",
-          "team": "MIA"
+          "team": "TEN"
         },
         {
           "player_id": "12481",
@@ -575,12 +575,6 @@
           "team": "CHI"
         },
         {
-          "player_id": "12522",
-          "name": "Cam Ward",
-          "position": "QB",
-          "team": "TEN"
-        },
-        {
           "player_id": "3271",
           "name": "Tyler Higbee",
           "position": "TE",
@@ -627,6 +621,12 @@
           "name": "Rachaad White",
           "position": "RB",
           "team": "WAS"
+        },
+        {
+          "player_id": "8161",
+          "name": "Malik Willis",
+          "position": "QB",
+          "team": "MIA"
         },
         {
           "player_id": "9506",
@@ -1339,10 +1339,10 @@
           "team": "NO"
         },
         {
-          "player_id": "12547",
-          "name": "Kyle Williams",
+          "player_id": "13274",
+          "name": "Germie Bernard",
           "position": "WR",
-          "team": "NE"
+          "team": "PIT"
         },
         {
           "player_id": "8172",
@@ -1395,10 +1395,10 @@
           "team": "TEN"
         },
         {
-          "player_id": "13274",
-          "name": "Germie Bernard",
+          "player_id": "12547",
+          "name": "Kyle Williams",
           "position": "WR",
-          "team": "PIT"
+          "team": "NE"
         },
         {
           "player_id": "13293",
@@ -1696,7 +1696,7 @@
           "player_id": "1166",
           "name": "Kirk Cousins",
           "position": "QB",
-          "team": "LV"
+          "team": "MIN"
         },
         {
           "player_id": "4034",
@@ -2648,7 +2648,7 @@
           "player_id": "9757",
           "name": "Kendre Miller",
           "position": "RB",
-          "team": "FA"
+          "team": "DAL"
         }
       ],
       "taxi": [],
@@ -2887,7 +2887,7 @@
           "player_id": "1479",
           "name": "Keenan Allen",
           "position": "WR",
-          "team": "IND"
+          "team": "SF"
         },
         {
           "player_id": "4981",
@@ -2929,7 +2929,7 @@
           "player_id": "9500",
           "name": "Josh Downs",
           "position": "WR",
-          "team": "IND"
+          "team": "KC"
         }
       ],
       "taxi": [

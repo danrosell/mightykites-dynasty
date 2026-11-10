@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-10T17:56:38.387Z",
+  "generated_at": "2026-11-10T23:29:45.796Z",
   "source": "Sleeper public API",
   "username": "TheMightyKites",
   "nfl_week": 10,
@@ -200,7 +200,7 @@
         "player_id": "1479",
         "name": "Keenan Allen",
         "position": "WR",
-        "team": "IND"
+        "team": "SF"
       }
     ],
     "bench": [
@@ -580,7 +580,7 @@
           "player_id": "1166",
           "name": "Kirk Cousins",
           "position": "QB",
-          "team": "LV"
+          "team": "MIN"
         },
         {
           "player_id": "12493",
@@ -1490,10 +1490,10 @@
           "team": "NO"
         },
         {
-          "player_id": "11584",
-          "name": "Bucky Irving",
+          "player_id": "6130",
+          "name": "Devin Singletary",
           "position": "RB",
-          "team": "TB"
+          "team": "NYG"
         },
         {
           "player_id": "13286",
@@ -1502,22 +1502,22 @@
           "team": "SEA"
         },
         {
-          "player_id": "13311",
-          "name": "Chris Bell",
+          "player_id": "8126",
+          "name": "Wan'Dale Robinson",
           "position": "WR",
-          "team": "MIA"
+          "team": "TEN"
         },
         {
-          "player_id": "12509",
-          "name": "Tre' Harris",
+          "player_id": "13279",
+          "name": "Carnell Tate",
           "position": "WR",
-          "team": "LAC"
+          "team": "TEN"
         },
         {
           "player_id": "9500",
           "name": "Josh Downs",
           "position": "WR",
-          "team": "IND"
+          "team": "KC"
         },
         {
           "player_id": "10859",
@@ -1532,10 +1532,10 @@
           "team": "JAX"
         },
         {
-          "player_id": "6806",
-          "name": "J.K. Dobbins",
-          "position": "RB",
-          "team": "DEN"
+          "player_id": "2505",
+          "name": "Darren Waller",
+          "position": "TE",
+          "team": "CAR"
         }
       ],
       "bench": [
@@ -1550,6 +1550,12 @@
           "name": "MarShawn Lloyd",
           "position": "RB",
           "team": "GB"
+        },
+        {
+          "player_id": "11584",
+          "name": "Bucky Irving",
+          "position": "RB",
+          "team": "TB"
         },
         {
           "player_id": "11600",
@@ -1570,10 +1576,16 @@
           "team": "CLE"
         },
         {
-          "player_id": "13279",
-          "name": "Carnell Tate",
+          "player_id": "12509",
+          "name": "Tre' Harris",
           "position": "WR",
-          "team": "TEN"
+          "team": "LAC"
+        },
+        {
+          "player_id": "13311",
+          "name": "Chris Bell",
+          "position": "WR",
+          "team": "MIA"
         },
         {
           "player_id": "13317",
@@ -1600,12 +1612,6 @@
           "team": "NYG"
         },
         {
-          "player_id": "2505",
-          "name": "Darren Waller",
-          "position": "TE",
-          "team": "CAR"
-        },
-        {
           "player_id": "4351",
           "name": "Tim Patrick",
           "position": "WR",
@@ -1616,12 +1622,6 @@
           "name": "Daniel Jones",
           "position": "QB",
           "team": "IND"
-        },
-        {
-          "player_id": "6130",
-          "name": "Devin Singletary",
-          "position": "RB",
-          "team": "NYG"
         },
         {
           "player_id": "6149",
@@ -1636,6 +1636,12 @@
           "team": "FA"
         },
         {
+          "player_id": "6806",
+          "name": "J.K. Dobbins",
+          "position": "RB",
+          "team": "DEN"
+        },
+        {
           "player_id": "7561",
           "name": "Elijah Mitchell",
           "position": "RB",
@@ -1646,12 +1652,6 @@
           "name": "John Bates",
           "position": "TE",
           "team": "WAS"
-        },
-        {
-          "player_id": "8126",
-          "name": "Wan'Dale Robinson",
-          "position": "WR",
-          "team": "TEN"
         }
       ],
       "taxi": [],
@@ -1862,7 +1862,7 @@
           "player_id": "1479",
           "name": "Keenan Allen",
           "position": "WR",
-          "team": "IND"
+          "team": "SF"
         }
       ],
       "bench": [
@@ -3825,7 +3825,7 @@
           "player_id": "9757",
           "name": "Kendre Miller",
           "position": "RB",
-          "team": "FA"
+          "team": "DAL"
         }
       ],
       "taxi": [],
