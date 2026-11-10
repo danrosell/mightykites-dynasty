@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-11-10T02:14:41.023Z",
+  "generated_at": "2026-11-10T10:02:12.654Z",
   "source": "Sleeper public API",
   "username": "TheMightyKites",
-  "nfl_week": 9,
+  "nfl_week": 10,
   "nfl_season": "2026",
   "league": {
     "id": "1312927511985807360",
@@ -28,7 +28,7 @@
       "playoff_type": 0,
       "taxi_slots": 3,
       "sub_start_time_eligibility": 0,
-      "last_scored_leg": 8,
+      "last_scored_leg": 9,
       "daily_waivers_days": 5461,
       "sub_lock_if_starter_active": 0,
       "playoff_week_start": 15,
@@ -142,10 +142,10 @@
     "owner_id": "866511772801196032",
     "team_name": "The Ham Cannons",
     "is_me": true,
-    "record": "5-11",
-    "wins": 5,
+    "record": "7-11",
+    "wins": 7,
     "losses": 11,
-    "points_for": 977.36,
+    "points_for": 1106.75,
     "rank": 10,
     "starters": [
       {
@@ -412,12 +412,12 @@
   "my_matchup": {
     "me": {
       "team": "The Ham Cannons",
-      "points": 129.39
+      "points": 0
     },
     "opponent": {
-      "team": "Vrabels Secret Family",
-      "points": 96.54,
-      "roster_id": 11
+      "team": "Golden Kupp",
+      "points": 0,
+      "roster_id": 5
     }
   },
   "my_picks": [
@@ -505,11 +505,11 @@
       "owner_id": "405783718150565888",
       "team_name": "Tenacious D",
       "is_me": false,
-      "record": "6-10",
-      "wins": 6,
+      "record": "8-10",
+      "wins": 8,
       "losses": 10,
-      "points_for": 1189.61,
-      "rank": 9,
+      "points_for": 1333.4,
+      "rank": 8,
       "starters": [
         {
           "player_id": "5870",
@@ -798,10 +798,10 @@
       "owner_id": "653300850810236928",
       "team_name": "Chillin With Mahomes",
       "is_me": false,
-      "record": "10-6",
-      "wins": 10,
-      "losses": 6,
-      "points_for": 1198.46,
+      "record": "11-7",
+      "wins": 11,
+      "losses": 7,
+      "points_for": 1328.49,
       "rank": 6,
       "starters": [
         {
@@ -1077,11 +1077,11 @@
       "owner_id": "651198204880187392",
       "team_name": "Horny for Herbert ",
       "is_me": false,
-      "record": "4-12",
+      "record": "4-14",
       "wins": 4,
-      "losses": 12,
-      "points_for": 839.61,
-      "rank": 12,
+      "losses": 14,
+      "points_for": 939.07,
+      "rank": 11,
       "starters": [
         {
           "player_id": "9228",
@@ -1378,10 +1378,10 @@
       "owner_id": "646587866931236864",
       "team_name": "PRIMETIME",
       "is_me": false,
-      "record": "9-7",
+      "record": "9-9",
       "wins": 9,
-      "losses": 7,
-      "points_for": 1017.29,
+      "losses": 9,
+      "points_for": 1115.49,
       "rank": 7,
       "starters": [
         {
@@ -1644,11 +1644,11 @@
       "owner_id": "469353230271246336",
       "team_name": "Golden Kupp",
       "is_me": false,
-      "record": "7-9",
-      "wins": 7,
-      "losses": 9,
-      "points_for": 962.86,
-      "rank": 8,
+      "record": "8-10",
+      "wins": 8,
+      "losses": 10,
+      "points_for": 1077.48,
+      "rank": 9,
       "starters": [
         {
           "player_id": "8183",
@@ -1925,10 +1925,10 @@
       "owner_id": "605782765325049856",
       "team_name": "BC & the Old Guys",
       "is_me": false,
-      "record": "13-3",
-      "wins": 13,
+      "record": "15-3",
+      "wins": 15,
       "losses": 3,
-      "points_for": 1330.08,
+      "points_for": 1483.64,
       "rank": 3,
       "starters": [
         {
@@ -2170,11 +2170,11 @@
       "owner_id": "998355322244861952",
       "team_name": "nickdemarinis",
       "is_me": false,
-      "record": "11-5",
-      "wins": 11,
+      "record": "13-5",
+      "wins": 13,
       "losses": 5,
-      "points_for": 1057.3,
-      "rank": 5,
+      "points_for": 1195.09,
+      "rank": 4,
       "starters": [
         {
           "player_id": "9758",
@@ -2437,10 +2437,10 @@
       "owner_id": "866511772801196032",
       "team_name": "The Ham Cannons",
       "is_me": true,
-      "record": "5-11",
-      "wins": 5,
+      "record": "7-11",
+      "wins": 7,
       "losses": 11,
-      "points_for": 977.36,
+      "points_for": 1106.75,
       "rank": 10,
       "starters": [
         {
@@ -2709,10 +2709,10 @@
       "owner_id": "562785236463558656",
       "team_name": "KC & The Young Studs",
       "is_me": false,
-      "record": "14-2",
-      "wins": 14,
+      "record": "16-2",
+      "wins": 16,
       "losses": 2,
-      "points_for": 1410.17,
+      "points_for": 1590.06,
       "rank": 1,
       "starters": [
         {
@@ -2948,10 +2948,10 @@
       "owner_id": "240850597853523968",
       "team_name": "Iron Claw 💚 ",
       "is_me": false,
-      "record": "2-14",
+      "record": "2-16",
       "wins": 2,
-      "losses": 14,
-      "points_for": 797.66,
+      "losses": 16,
+      "points_for": 896.99,
       "rank": 13,
       "starters": [
         {
@@ -3234,11 +3234,11 @@
       "owner_id": "1161138210169479168",
       "team_name": "Vrabels Secret Family",
       "is_me": false,
-      "record": "4-12",
+      "record": "4-14",
       "wins": 4,
-      "losses": 12,
-      "points_for": 841.93,
-      "rank": 11,
+      "losses": 14,
+      "points_for": 939.07,
+      "rank": 12,
       "starters": [
         {
           "player_id": "1166",
@@ -3521,11 +3521,11 @@
       "owner_id": "655144672024444928",
       "team_name": "Hot Sauce 🌶️",
       "is_me": false,
-      "record": "12-4",
+      "record": "12-6",
       "wins": 12,
-      "losses": 4,
-      "points_for": 1209.62,
-      "rank": 4,
+      "losses": 6,
+      "points_for": 1334.41,
+      "rank": 5,
       "starters": [
         {
           "player_id": "7523",
@@ -3772,10 +3772,10 @@
       "owner_id": "655180332705849344",
       "team_name": "Ertz Boyz",
       "is_me": false,
-      "record": "13-3",
-      "wins": 13,
+      "record": "15-3",
+      "wins": 15,
       "losses": 3,
-      "points_for": 1379.22,
+      "points_for": 1522.98,
       "rank": 2,
       "starters": [
         {
@@ -3827,10 +3827,10 @@
           "team": "SF"
         },
         {
-          "player_id": "11783",
-          "name": "Ryan Flournoy",
+          "player_id": "4983",
+          "name": "DJ Moore",
           "position": "WR",
-          "team": "DAL"
+          "team": "BUF"
         },
         {
           "player_id": "5854",
@@ -3847,6 +3847,12 @@
           "team": "CHI"
         },
         {
+          "player_id": "11783",
+          "name": "Ryan Flournoy",
+          "position": "WR",
+          "team": "DAL"
+        },
+        {
           "player_id": "12493",
           "name": "Oronde Gadsden",
           "position": "TE",
@@ -3859,12 +3865,6 @@
           "team": "DET"
         },
         {
-          "player_id": "13350",
-          "name": "Joe Fagnano",
-          "position": "QB",
-          "team": "BAL"
-        },
-        {
           "player_id": "4881",
           "name": "Lamar Jackson",
           "position": "QB",
@@ -3875,12 +3875,6 @@
           "name": "Sam Darnold",
           "position": "QB",
           "team": "SEA"
-        },
-        {
-          "player_id": "4983",
-          "name": "DJ Moore",
-          "position": "WR",
-          "team": "BUF"
         },
         {
           "player_id": "5022",
@@ -4044,10 +4038,10 @@
       "owner_id": "76814635617370112",
       "team_name": "James Jones #1 WR",
       "is_me": false,
-      "record": "2-14",
+      "record": "2-16",
       "wins": 2,
-      "losses": 14,
-      "points_for": 731.83,
+      "losses": 16,
+      "points_for": 768.63,
       "rank": 14,
       "starters": [
         {

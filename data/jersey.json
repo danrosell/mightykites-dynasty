@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-11-10T02:14:41.358Z",
+  "generated_at": "2026-11-10T10:02:12.960Z",
   "source": "Sleeper public API",
   "username": "TheMightyKites",
-  "nfl_week": 9,
+  "nfl_week": 10,
   "nfl_season": "2026",
   "league": {
     "id": "1312464433087250432",
@@ -28,7 +28,7 @@
       "playoff_type": 1,
       "taxi_slots": 0,
       "sub_start_time_eligibility": 0,
-      "last_scored_leg": 8,
+      "last_scored_leg": 9,
       "daily_waivers_days": 5461,
       "playoff_week_start": 15,
       "waiver_clear_days": 1,
@@ -142,10 +142,10 @@
     "owner_id": "866511772801196032",
     "team_name": "TheMightyKites",
     "is_me": true,
-    "record": "6-2",
+    "record": "6-3",
     "wins": 6,
-    "losses": 2,
-    "points_for": 1072.65,
+    "losses": 3,
+    "points_for": 1181.8,
     "rank": 4,
     "starters": [
       {
@@ -416,12 +416,12 @@
   "my_matchup": {
     "me": {
       "team": "TheMightyKites",
-      "points": 94.8
+      "points": 0
     },
     "opponent": {
-      "team": "Prestige Worldwide ***",
-      "points": 124.45,
-      "roster_id": 8
+      "team": "kherri04",
+      "points": 0,
+      "roster_id": 10
     }
   },
   "my_picks": [
@@ -502,10 +502,10 @@
       "owner_id": "646587866931236864",
       "team_name": "PRIMETIME",
       "is_me": false,
-      "record": "6-2",
-      "wins": 6,
+      "record": "7-2",
+      "wins": 7,
       "losses": 2,
-      "points_for": 1223.05,
+      "points_for": 1346.7,
       "rank": 2,
       "starters": [
         {
@@ -792,10 +792,10 @@
       "owner_id": "405783718150565888",
       "team_name": "Tenacious D",
       "is_me": false,
-      "record": "6-2",
-      "wins": 6,
+      "record": "7-2",
+      "wins": 7,
       "losses": 2,
-      "points_for": 1270.6,
+      "points_for": 1408.95,
       "rank": 1,
       "starters": [
         {
@@ -1117,10 +1117,10 @@
       "owner_id": "651198204880187392",
       "team_name": "The Rusty Trombones",
       "is_me": false,
-      "record": "1-7",
+      "record": "1-8",
       "wins": 1,
-      "losses": 7,
-      "points_for": 751.5,
+      "losses": 8,
+      "points_for": 834.95,
       "rank": 12,
       "starters": [
         {
@@ -1477,11 +1477,11 @@
       "owner_id": "469353230271246336",
       "team_name": "pvanexter",
       "is_me": false,
-      "record": "1-7",
-      "wins": 1,
+      "record": "2-7",
+      "wins": 2,
       "losses": 7,
-      "points_for": 813.65,
-      "rank": 10,
+      "points_for": 901.6,
+      "rank": 11,
       "starters": [
         {
           "player_id": "12545",
@@ -1804,10 +1804,10 @@
       "owner_id": "866511772801196032",
       "team_name": "TheMightyKites",
       "is_me": true,
-      "record": "6-2",
+      "record": "6-3",
       "wins": 6,
-      "losses": 2,
-      "points_for": 1072.65,
+      "losses": 3,
+      "points_for": 1181.8,
       "rank": 4,
       "starters": [
         {
@@ -2080,10 +2080,10 @@
       "owner_id": "655144672024444928",
       "team_name": "Beast Mode",
       "is_me": false,
-      "record": "5-3",
+      "record": "5-4",
       "wins": 5,
-      "losses": 3,
-      "points_for": 1029.4,
+      "losses": 4,
+      "points_for": 1136.55,
       "rank": 6,
       "starters": [
         {
@@ -2391,17 +2391,17 @@
       "owner_id": "655180332705849344",
       "team_name": "LSU BOYZZZ",
       "is_me": false,
-      "record": "3-5",
-      "wins": 3,
+      "record": "4-5",
+      "wins": 4,
       "losses": 5,
-      "points_for": 880.9,
+      "points_for": 1016.3,
       "rank": 8,
       "starters": [
         {
-          "player_id": "4881",
-          "name": "Lamar Jackson",
+          "player_id": "8183",
+          "name": "Brock Purdy",
           "position": "QB",
-          "team": "BAL"
+          "team": "SF"
         },
         {
           "player_id": "8136",
@@ -2410,10 +2410,10 @@
           "team": "WAS"
         },
         {
-          "player_id": "4147",
-          "name": "Samaje Perine",
+          "player_id": "8155",
+          "name": "Breece Hall",
           "position": "RB",
-          "team": "CIN"
+          "team": "NYJ"
         },
         {
           "player_id": "6794",
@@ -2434,10 +2434,10 @@
           "team": "ATL"
         },
         {
-          "player_id": "12517",
-          "name": "Colston Loveland",
+          "player_id": "13421",
+          "name": "Eli Raridon",
           "position": "TE",
-          "team": "CHI"
+          "team": "NE"
         },
         {
           "player_id": "10229",
@@ -2453,6 +2453,12 @@
         }
       ],
       "bench": [
+        {
+          "player_id": "12517",
+          "name": "Colston Loveland",
+          "position": "TE",
+          "team": "CHI"
+        },
         {
           "player_id": "12540",
           "name": "Chimere Dike",
@@ -2496,12 +2502,6 @@
           "team": "MIA"
         },
         {
-          "player_id": "13421",
-          "name": "Eli Raridon",
-          "position": "TE",
-          "team": "NE"
-        },
-        {
           "player_id": "4033",
           "name": "David Njoku",
           "position": "TE",
@@ -2514,10 +2514,22 @@
           "team": "TB"
         },
         {
+          "player_id": "4147",
+          "name": "Samaje Perine",
+          "position": "RB",
+          "team": "CIN"
+        },
+        {
           "player_id": "4718",
           "name": "Dare Ogunbowale",
           "position": "RB",
           "team": "HOU"
+        },
+        {
+          "player_id": "4881",
+          "name": "Lamar Jackson",
+          "position": "QB",
+          "team": "BAL"
         },
         {
           "player_id": "5012",
@@ -2554,18 +2566,6 @@
           "name": "Dameon Pierce",
           "position": "RB",
           "team": "FA"
-        },
-        {
-          "player_id": "8155",
-          "name": "Breece Hall",
-          "position": "RB",
-          "team": "NYJ"
-        },
-        {
-          "player_id": "8183",
-          "name": "Brock Purdy",
-          "position": "QB",
-          "team": "SF"
         },
         {
           "player_id": "8207",
@@ -2709,10 +2709,10 @@
       "owner_id": "920729976993824768",
       "team_name": "Prestige Worldwide ***",
       "is_me": false,
-      "record": "6-2",
-      "wins": 6,
+      "record": "7-2",
+      "wins": 7,
       "losses": 2,
-      "points_for": 1145.3,
+      "points_for": 1269.75,
       "rank": 3,
       "starters": [
         {
@@ -3027,10 +3027,10 @@
       "owner_id": "444967805956124672",
       "team_name": "Bijans World",
       "is_me": false,
-      "record": "4-4",
+      "record": "4-5",
       "wins": 4,
-      "losses": 4,
-      "points_for": 902.4,
+      "losses": 5,
+      "points_for": 1030.4,
       "rank": 7,
       "starters": [
         {
@@ -3339,10 +3339,10 @@
       "owner_id": "653300850810236928",
       "team_name": "kherri04",
       "is_me": false,
-      "record": "3-5",
+      "record": "3-6",
       "wins": 3,
-      "losses": 5,
-      "points_for": 810.75,
+      "losses": 6,
+      "points_for": 931.85,
       "rank": 9,
       "starters": [
         {
@@ -3657,10 +3657,10 @@
       "owner_id": "76814635617370112",
       "team_name": "James Jones #1 WR",
       "is_me": false,
-      "record": "6-2",
+      "record": "6-3",
       "wins": 6,
-      "losses": 2,
-      "points_for": 962.85,
+      "losses": 3,
+      "points_for": 1065.15,
       "rank": 5,
       "starters": [
         {
@@ -3982,11 +3982,11 @@
       "owner_id": "921190198774525952",
       "team_name": "Roll Tide ",
       "is_me": false,
-      "record": "1-7",
-      "wins": 1,
+      "record": "2-7",
+      "wins": 2,
       "losses": 7,
-      "points_for": 790.5,
-      "rank": 11,
+      "points_for": 910.7,
+      "rank": 10,
       "starters": [
         {
           "player_id": "6804",
