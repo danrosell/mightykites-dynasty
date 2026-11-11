@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-11T06:42:23.251Z",
+  "generated_at": "2026-11-11T15:23:14.711Z",
   "source": "Sleeper public API",
   "username": "TheMightyKites",
   "nfl_week": 10,
@@ -58,10 +58,10 @@
       "trade_review_days": 0,
       "bench_lock": 0,
       "offseason_adds": 1,
-      "leg": 9,
+      "leg": 10,
       "reserve_slots": 3,
       "reserve_allow_cov": 1,
-      "daily_waivers_last_ran": 10
+      "daily_waivers_last_ran": 11
     },
     "scoring_settings": {
       "sack": 2,
@@ -501,10 +501,10 @@
           "team": "NYG"
         },
         {
-          "player_id": "8228",
-          "name": "Jaylen Warren",
+          "player_id": "12474",
+          "name": "Woody Marks",
           "position": "RB",
-          "team": "PIT"
+          "team": "HOU"
         },
         {
           "player_id": "9756",
@@ -519,10 +519,10 @@
           "team": "CLE"
         },
         {
-          "player_id": "0",
-          "name": "0",
-          "position": "—",
-          "team": "FA"
+          "player_id": "4177",
+          "name": "Mack Hollins",
+          "position": "WR",
+          "team": "NE"
         },
         {
           "player_id": "8130",
@@ -531,10 +531,10 @@
           "team": "ARI"
         },
         {
-          "player_id": "5012",
-          "name": "Mark Andrews",
-          "position": "TE",
-          "team": "BAL"
+          "player_id": "8228",
+          "name": "Jaylen Warren",
+          "position": "RB",
+          "team": "PIT"
         },
         {
           "player_id": "3257",
@@ -563,12 +563,6 @@
           "team": "GB"
         },
         {
-          "player_id": "12474",
-          "name": "Woody Marks",
-          "position": "RB",
-          "team": "HOU"
-        },
-        {
           "player_id": "12519",
           "name": "Luther Burden III",
           "position": "WR",
@@ -591,6 +585,12 @@
           "name": "Christian Kirk",
           "position": "WR",
           "team": "SF"
+        },
+        {
+          "player_id": "5012",
+          "name": "Mark Andrews",
+          "position": "TE",
+          "team": "BAL"
         },
         {
           "player_id": "6011",
@@ -1749,12 +1749,6 @@
       ],
       "bench": [
         {
-          "player_id": "11571",
-          "name": "Isaiah Davis",
-          "position": "RB",
-          "team": "NYJ"
-        },
-        {
           "player_id": "11603",
           "name": "AJ Barner",
           "position": "TE",
@@ -1771,6 +1765,18 @@
           "name": "Tyrone Tracy Jr.",
           "position": "RB",
           "team": "NYG"
+        },
+        {
+          "player_id": "12491",
+          "name": "Corey Kiner",
+          "position": "RB",
+          "team": "NE"
+        },
+        {
+          "player_id": "12494",
+          "name": "Kyle McCord",
+          "position": "QB",
+          "team": "MIA"
         },
         {
           "player_id": "12512",
@@ -1795,12 +1801,6 @@
           "name": "Jameis Winston",
           "position": "QB",
           "team": "NYG"
-        },
-        {
-          "player_id": "3161",
-          "name": "Carson Wentz",
-          "position": "QB",
-          "team": "MIN"
         },
         {
           "player_id": "4035",
@@ -2315,14 +2315,14 @@
           "team": "PHI"
         },
         {
-          "player_id": "13434",
-          "name": "Will Kacmarek",
-          "position": "TE",
-          "team": "MIA"
-        },
-        {
           "player_id": "4943",
           "name": "Sam Darnold",
+          "position": "QB",
+          "team": "SEA"
+        },
+        {
+          "player_id": "5854",
+          "name": "Drew Lock",
           "position": "QB",
           "team": "SEA"
         },

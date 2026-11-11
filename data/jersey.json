@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-11T06:42:22.925Z",
+  "generated_at": "2026-11-11T15:23:14.425Z",
   "source": "Sleeper public API",
   "username": "TheMightyKites",
   "nfl_week": 10,
@@ -55,7 +55,7 @@
       "trade_review_days": 0,
       "bench_lock": 0,
       "offseason_adds": 1,
-      "leg": 9,
+      "leg": 10,
       "reserve_slots": 2,
       "reserve_allow_cov": 0,
       "daily_waivers_last_ran": 10
@@ -161,10 +161,10 @@
         "team": "BAL"
       },
       {
-        "player_id": "12474",
-        "name": "Woody Marks",
+        "player_id": "12481",
+        "name": "Cam Skattebo",
         "position": "RB",
-        "team": "HOU"
+        "team": "NYG"
       },
       {
         "player_id": "7547",
@@ -185,10 +185,10 @@
         "team": "CAR"
       },
       {
-        "player_id": "4066",
-        "name": "Evan Engram",
+        "player_id": "3214",
+        "name": "Hunter Henry",
         "position": "TE",
-        "team": "DEN"
+        "team": "NE"
       },
       {
         "player_id": "5947",
@@ -197,10 +197,10 @@
         "team": "JAX"
       },
       {
-        "player_id": "1479",
-        "name": "Keenan Allen",
-        "position": "WR",
-        "team": "SF"
+        "player_id": "7021",
+        "name": "Rico Dowdle",
+        "position": "RB",
+        "team": "PIT"
       }
     ],
     "bench": [
@@ -217,10 +217,10 @@
         "team": "NYJ"
       },
       {
-        "player_id": "12481",
-        "name": "Cam Skattebo",
+        "player_id": "12474",
+        "name": "Woody Marks",
         "position": "RB",
-        "team": "NYG"
+        "team": "HOU"
       },
       {
         "player_id": "12487",
@@ -265,10 +265,10 @@
         "team": "TB"
       },
       {
-        "player_id": "3214",
-        "name": "Hunter Henry",
-        "position": "TE",
-        "team": "NE"
+        "player_id": "1479",
+        "name": "Keenan Allen",
+        "position": "WR",
+        "team": "SF"
       },
       {
         "player_id": "3321",
@@ -283,6 +283,12 @@
         "team": "NO"
       },
       {
+        "player_id": "4066",
+        "name": "Evan Engram",
+        "position": "TE",
+        "team": "DEN"
+      },
+      {
         "player_id": "5995",
         "name": "Justice Hill",
         "position": "RB",
@@ -293,12 +299,6 @@
         "name": "Jerry Jeudy",
         "position": "WR",
         "team": "CLE"
-      },
-      {
-        "player_id": "7021",
-        "name": "Rico Dowdle",
-        "position": "RB",
-        "team": "PIT"
       },
       {
         "player_id": "8111",
@@ -1823,10 +1823,10 @@
           "team": "BAL"
         },
         {
-          "player_id": "12474",
-          "name": "Woody Marks",
+          "player_id": "12481",
+          "name": "Cam Skattebo",
           "position": "RB",
-          "team": "HOU"
+          "team": "NYG"
         },
         {
           "player_id": "7547",
@@ -1847,10 +1847,10 @@
           "team": "CAR"
         },
         {
-          "player_id": "4066",
-          "name": "Evan Engram",
+          "player_id": "3214",
+          "name": "Hunter Henry",
           "position": "TE",
-          "team": "DEN"
+          "team": "NE"
         },
         {
           "player_id": "5947",
@@ -1859,10 +1859,10 @@
           "team": "JAX"
         },
         {
-          "player_id": "1479",
-          "name": "Keenan Allen",
-          "position": "WR",
-          "team": "SF"
+          "player_id": "7021",
+          "name": "Rico Dowdle",
+          "position": "RB",
+          "team": "PIT"
         }
       ],
       "bench": [
@@ -1879,10 +1879,10 @@
           "team": "NYJ"
         },
         {
-          "player_id": "12481",
-          "name": "Cam Skattebo",
+          "player_id": "12474",
+          "name": "Woody Marks",
           "position": "RB",
-          "team": "NYG"
+          "team": "HOU"
         },
         {
           "player_id": "12487",
@@ -1927,10 +1927,10 @@
           "team": "TB"
         },
         {
-          "player_id": "3214",
-          "name": "Hunter Henry",
-          "position": "TE",
-          "team": "NE"
+          "player_id": "1479",
+          "name": "Keenan Allen",
+          "position": "WR",
+          "team": "SF"
         },
         {
           "player_id": "3321",
@@ -1945,6 +1945,12 @@
           "team": "NO"
         },
         {
+          "player_id": "4066",
+          "name": "Evan Engram",
+          "position": "TE",
+          "team": "DEN"
+        },
+        {
           "player_id": "5995",
           "name": "Justice Hill",
           "position": "RB",
@@ -1955,12 +1961,6 @@
           "name": "Jerry Jeudy",
           "position": "WR",
           "team": "CLE"
-        },
-        {
-          "player_id": "7021",
-          "name": "Rico Dowdle",
-          "position": "RB",
-          "team": "PIT"
         },
         {
           "player_id": "8111",
@@ -3989,16 +3989,16 @@
           "team": "BUF"
         },
         {
-          "player_id": "5850",
-          "name": "Josh Jacobs",
+          "player_id": "6039",
+          "name": "Ty Johnson",
           "position": "RB",
-          "team": "GB"
+          "team": "BUF"
         },
         {
-          "player_id": "11620",
-          "name": "Rome Odunze",
+          "player_id": "7562",
+          "name": "Tutu Atwell",
           "position": "WR",
-          "team": "CHI"
+          "team": "LAR"
         },
         {
           "player_id": "13276",
@@ -4037,6 +4037,12 @@
           "name": "Isaiah Williams",
           "position": "WR",
           "team": "NYJ"
+        },
+        {
+          "player_id": "11620",
+          "name": "Rome Odunze",
+          "position": "WR",
+          "team": "CHI"
         },
         {
           "player_id": "11655",
@@ -4093,15 +4099,15 @@
           "team": "TEN"
         },
         {
+          "player_id": "5850",
+          "name": "Josh Jacobs",
+          "position": "RB",
+          "team": "GB"
+        },
+        {
           "player_id": "5906",
           "name": "Dawson Knox",
           "position": "TE",
-          "team": "BUF"
-        },
-        {
-          "player_id": "6039",
-          "name": "Ty Johnson",
-          "position": "RB",
           "team": "BUF"
         },
         {
@@ -4115,12 +4121,6 @@
           "name": "AJ Dillon",
           "position": "RB",
           "team": "CAR"
-        },
-        {
-          "player_id": "7562",
-          "name": "Tutu Atwell",
-          "position": "WR",
-          "team": "LAR"
         },
         {
           "player_id": "7571",

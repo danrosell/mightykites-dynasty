@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-11T06:42:22.134Z",
+  "generated_at": "2026-11-11T15:23:13.960Z",
   "source": "Sleeper public API",
   "username": "TheMightyKites",
   "nfl_week": 10,
@@ -57,7 +57,7 @@
       "trade_review_days": 0,
       "bench_lock": 1,
       "offseason_adds": 1,
-      "leg": 9,
+      "leg": 10,
       "daily_waivers_base": 4,
       "reserve_slots": 2,
       "reserve_allow_cov": 1,
@@ -817,10 +817,10 @@
           "team": "DET"
         },
         {
-          "player_id": "6130",
-          "name": "Devin Singletary",
+          "player_id": "11579",
+          "name": "Audric Estime",
           "position": "RB",
-          "team": "NYG"
+          "team": "NO"
         },
         {
           "player_id": "7564",
@@ -835,10 +835,10 @@
           "team": "JAX"
         },
         {
-          "player_id": "5045",
-          "name": "Courtland Sutton",
+          "player_id": "5872",
+          "name": "Deebo Samuel Sr.",
           "position": "WR",
-          "team": "DEN"
+          "team": "SF"
         },
         {
           "player_id": "9484",
@@ -853,10 +853,10 @@
           "team": "SF"
         },
         {
-          "player_id": "4199",
-          "name": "Aaron Jones Sr.",
-          "position": "RB",
-          "team": "MIN"
+          "player_id": "13330",
+          "name": "Kenyon Sadiq",
+          "position": "TE",
+          "team": "NYJ"
         },
         {
           "player_id": "3163",
@@ -866,12 +866,6 @@
         }
       ],
       "bench": [
-        {
-          "player_id": "11579",
-          "name": "Audric Estime",
-          "position": "RB",
-          "team": "NO"
-        },
         {
           "player_id": "11593",
           "name": "Brevyn Spann-Ford",
@@ -889,12 +883,6 @@
           "name": "Josh Cuevas",
           "position": "TE",
           "team": "BAL"
-        },
-        {
-          "player_id": "13330",
-          "name": "Kenyon Sadiq",
-          "position": "TE",
-          "team": "NYJ"
         },
         {
           "player_id": "2197",
@@ -915,16 +903,28 @@
           "team": "DEN"
         },
         {
-          "player_id": "5872",
-          "name": "Deebo Samuel Sr.",
+          "player_id": "4199",
+          "name": "Aaron Jones Sr.",
+          "position": "RB",
+          "team": "MIN"
+        },
+        {
+          "player_id": "5045",
+          "name": "Courtland Sutton",
           "position": "WR",
-          "team": "SF"
+          "team": "DEN"
         },
         {
           "player_id": "5892",
           "name": "David Montgomery",
           "position": "RB",
           "team": "HOU"
+        },
+        {
+          "player_id": "6130",
+          "name": "Devin Singletary",
+          "position": "RB",
+          "team": "NYG"
         },
         {
           "player_id": "6768",

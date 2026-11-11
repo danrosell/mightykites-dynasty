@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-11T06:42:21.733Z",
+  "generated_at": "2026-11-11T15:23:13.384Z",
   "source": "Sleeper public API",
   "username": "TheMightyKites",
   "nfl_week": 10,
@@ -58,7 +58,7 @@
       "trade_review_days": 0,
       "bench_lock": 0,
       "offseason_adds": 0,
-      "leg": 9,
+      "leg": 10,
       "reserve_slots": 3,
       "reserve_allow_cov": 0,
       "daily_waivers_last_ran": 10
@@ -155,10 +155,10 @@
         "team": "DAL"
       },
       {
-        "player_id": "13285",
-        "name": "Malachi Fields",
+        "player_id": "5846",
+        "name": "DK Metcalf",
         "position": "WR",
-        "team": "NYG"
+        "team": "PIT"
       },
       {
         "player_id": "7553",
@@ -193,16 +193,16 @@
         "team": "SF"
       },
       {
+        "player_id": "13285",
+        "name": "Malachi Fields",
+        "position": "WR",
+        "team": "NYG"
+      },
+      {
         "player_id": "13319",
         "name": "Oscar Delp",
         "position": "TE",
         "team": "NO"
-      },
-      {
-        "player_id": "5846",
-        "name": "DK Metcalf",
-        "position": "WR",
-        "team": "PIT"
       },
       {
         "player_id": "8122",
@@ -410,10 +410,10 @@
           "team": "DAL"
         },
         {
-          "player_id": "13285",
-          "name": "Malachi Fields",
+          "player_id": "5846",
+          "name": "DK Metcalf",
           "position": "WR",
-          "team": "NYG"
+          "team": "PIT"
         },
         {
           "player_id": "7553",
@@ -448,16 +448,16 @@
           "team": "SF"
         },
         {
+          "player_id": "13285",
+          "name": "Malachi Fields",
+          "position": "WR",
+          "team": "NYG"
+        },
+        {
           "player_id": "13319",
           "name": "Oscar Delp",
           "position": "TE",
           "team": "NO"
-        },
-        {
-          "player_id": "5846",
-          "name": "DK Metcalf",
-          "position": "WR",
-          "team": "PIT"
         },
         {
           "player_id": "8122",
@@ -3164,10 +3164,10 @@
           "team": "KC"
         },
         {
-          "player_id": "11637",
-          "name": "Keon Coleman",
+          "player_id": "4177",
+          "name": "Mack Hollins",
           "position": "WR",
-          "team": "BUF"
+          "team": "NE"
         },
         {
           "player_id": "4217",
@@ -3176,10 +3176,10 @@
           "team": "SF"
         },
         {
-          "player_id": "7611",
-          "name": "Rhamondre Stevenson",
+          "player_id": "4663",
+          "name": "Austin Ekeler",
           "position": "RB",
-          "team": "NE"
+          "team": "WAS"
         },
         {
           "player_id": "13421",
@@ -3196,6 +3196,12 @@
       ],
       "bench": [
         {
+          "player_id": "11637",
+          "name": "Keon Coleman",
+          "position": "WR",
+          "team": "BUF"
+        },
+        {
           "player_id": "12485",
           "name": "Tez Johnson",
           "position": "WR",
@@ -3208,16 +3214,10 @@
           "team": "NYJ"
         },
         {
-          "player_id": "4177",
-          "name": "Mack Hollins",
-          "position": "WR",
-          "team": "NE"
-        },
-        {
-          "player_id": "4663",
-          "name": "Austin Ekeler",
+          "player_id": "7611",
+          "name": "Rhamondre Stevenson",
           "position": "RB",
-          "team": "WAS"
+          "team": "NE"
         },
         {
           "player_id": "8121",
