@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-10T23:29:46.078Z",
+  "generated_at": "2026-11-11T06:42:23.251Z",
   "source": "Sleeper public API",
   "username": "TheMightyKites",
   "nfl_week": 10,
@@ -1705,16 +1705,10 @@
           "team": "SF"
         },
         {
-          "player_id": "5850",
-          "name": "Josh Jacobs",
+          "player_id": "9753",
+          "name": "Zach Charbonnet",
           "position": "RB",
-          "team": "GB"
-        },
-        {
-          "player_id": "9493",
-          "name": "Puka Nacua",
-          "position": "WR",
-          "team": "LAR"
+          "team": "SEA"
         },
         {
           "player_id": "7547",
@@ -1729,6 +1723,12 @@
           "team": "CIN"
         },
         {
+          "player_id": "5859",
+          "name": "A.J. Brown",
+          "position": "WR",
+          "team": "NE"
+        },
+        {
           "player_id": "4217",
           "name": "George Kittle",
           "position": "TE",
@@ -1741,10 +1741,10 @@
           "team": "KC"
         },
         {
-          "player_id": "3161",
-          "name": "Carson Wentz",
+          "player_id": "1373",
+          "name": "Geno Smith",
           "position": "QB",
-          "team": "MIN"
+          "team": "NYJ"
         }
       ],
       "bench": [
@@ -1785,12 +1785,6 @@
           "team": "CLE"
         },
         {
-          "player_id": "1373",
-          "name": "Geno Smith",
-          "position": "QB",
-          "team": "NYJ"
-        },
-        {
           "player_id": "2216",
           "name": "Mike Evans",
           "position": "WR",
@@ -1801,6 +1795,12 @@
           "name": "Jameis Winston",
           "position": "QB",
           "team": "NYG"
+        },
+        {
+          "player_id": "3161",
+          "name": "Carson Wentz",
+          "position": "QB",
+          "team": "MIN"
         },
         {
           "player_id": "4035",
@@ -1815,10 +1815,10 @@
           "team": "MIN"
         },
         {
-          "player_id": "5859",
-          "name": "A.J. Brown",
-          "position": "WR",
-          "team": "NE"
+          "player_id": "5850",
+          "name": "Josh Jacobs",
+          "position": "RB",
+          "team": "GB"
         },
         {
           "player_id": "8408",
@@ -1833,10 +1833,10 @@
           "team": "IND"
         },
         {
-          "player_id": "9753",
-          "name": "Zach Charbonnet",
-          "position": "RB",
-          "team": "SEA"
+          "player_id": "9493",
+          "name": "Puka Nacua",
+          "position": "WR",
+          "team": "LAR"
         },
         {
           "player_id": "9754",

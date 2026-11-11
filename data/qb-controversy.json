@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-10T23:29:45.398Z",
+  "generated_at": "2026-11-11T06:42:22.134Z",
   "source": "Sleeper public API",
   "username": "TheMightyKites",
   "nfl_week": 10,
@@ -518,16 +518,16 @@
           "team": "IND"
         },
         {
-          "player_id": "11199",
-          "name": "Emari Demercado",
+          "player_id": "8116",
+          "name": "Pierre Strong Jr.",
           "position": "RB",
-          "team": "HOU"
+          "team": "GB"
         },
         {
-          "player_id": "11584",
-          "name": "Bucky Irving",
+          "player_id": "8228",
+          "name": "Jaylen Warren",
           "position": "RB",
-          "team": "TB"
+          "team": "PIT"
         },
         {
           "player_id": "6794",
@@ -542,10 +542,10 @@
           "team": "GB"
         },
         {
-          "player_id": "12514",
-          "name": "Emeka Egbuka",
+          "player_id": "12634",
+          "name": "Jordan Watkins",
           "position": "WR",
-          "team": "TB"
+          "team": "SF"
         },
         {
           "player_id": "8131",
@@ -554,10 +554,10 @@
           "team": "NYG"
         },
         {
-          "player_id": "12634",
-          "name": "Jordan Watkins",
-          "position": "WR",
-          "team": "SF"
+          "player_id": "7021",
+          "name": "Rico Dowdle",
+          "position": "RB",
+          "team": "PIT"
         },
         {
           "player_id": "8210",
@@ -566,13 +566,25 @@
           "team": "WAS"
         },
         {
-          "player_id": "3161",
-          "name": "Carson Wentz",
-          "position": "QB",
-          "team": "MIN"
+          "player_id": "7600",
+          "name": "Pat Freiermuth",
+          "position": "TE",
+          "team": "PIT"
         }
       ],
       "bench": [
+        {
+          "player_id": "11199",
+          "name": "Emari Demercado",
+          "position": "RB",
+          "team": "HOU"
+        },
+        {
+          "player_id": "11584",
+          "name": "Bucky Irving",
+          "position": "RB",
+          "team": "TB"
+        },
         {
           "player_id": "11597",
           "name": "Theo Johnson",
@@ -590,6 +602,12 @@
           "name": "Jaxson Dart",
           "position": "QB",
           "team": "NYG"
+        },
+        {
+          "player_id": "12514",
+          "name": "Emeka Egbuka",
+          "position": "WR",
+          "team": "TB"
         },
         {
           "player_id": "12547",
@@ -610,34 +628,16 @@
           "team": "NYG"
         },
         {
-          "player_id": "7021",
-          "name": "Rico Dowdle",
-          "position": "RB",
-          "team": "PIT"
-        },
-        {
-          "player_id": "7600",
-          "name": "Pat Freiermuth",
-          "position": "TE",
-          "team": "PIT"
-        },
-        {
-          "player_id": "8116",
-          "name": "Pierre Strong Jr.",
-          "position": "RB",
-          "team": "GB"
+          "player_id": "3161",
+          "name": "Carson Wentz",
+          "position": "QB",
+          "team": "MIN"
         },
         {
           "player_id": "8154",
           "name": "Brian Robinson Jr.",
           "position": "RB",
           "team": "ATL"
-        },
-        {
-          "player_id": "8228",
-          "name": "Jaylen Warren",
-          "position": "RB",
-          "team": "PIT"
         },
         {
           "player_id": "8676",
