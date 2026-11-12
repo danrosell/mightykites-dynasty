@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-12T12:53:34.864Z",
+  "generated_at": "2026-11-12T20:54:53.077Z",
   "source": "Sleeper public API",
   "username": "TheMightyKites",
   "nfl_week": 10,
@@ -61,7 +61,7 @@
       "leg": 10,
       "reserve_slots": 3,
       "reserve_allow_cov": 1,
-      "daily_waivers_last_ran": 11
+      "daily_waivers_last_ran": 12
     },
     "scoring_settings": {
       "sack": 2,
@@ -591,12 +591,6 @@
           "name": "Mark Andrews",
           "position": "TE",
           "team": "BAL"
-        },
-        {
-          "player_id": "6011",
-          "name": "Gardner Minshew II",
-          "position": "QB",
-          "team": "ARI"
         },
         {
           "player_id": "7021",
@@ -1441,12 +1435,6 @@
           "name": "Darnell Washington",
           "position": "TE",
           "team": "PIT"
-        },
-        {
-          "player_id": "9502",
-          "name": "Tank Dell",
-          "position": "WR",
-          "team": "HOU"
         }
       ],
       "taxi": [
@@ -1583,6 +1571,13 @@
         },
         {
           "season": "2027",
+          "round": 2,
+          "original_roster_id": 10,
+          "original_team": "nrandazzo624",
+          "is_own": false
+        },
+        {
+          "season": "2027",
           "round": 3,
           "original_roster_id": 2,
           "original_team": "The Rusty Trombones",
@@ -1607,13 +1602,6 @@
           "round": 3,
           "original_roster_id": 6,
           "original_team": "The Big Tuna",
-          "is_own": false
-        },
-        {
-          "season": "2027",
-          "round": 3,
-          "original_roster_id": 10,
-          "original_team": "nrandazzo624",
           "is_own": false
         },
         {
@@ -2567,12 +2555,6 @@
           "team": "NO"
         },
         {
-          "player_id": "11597",
-          "name": "Theo Johnson",
-          "position": "TE",
-          "team": "NYG"
-        },
-        {
           "player_id": "12498",
           "name": "Mason Taylor",
           "position": "TE",
@@ -2631,6 +2613,12 @@
           "name": "Kenny Gainwell",
           "position": "RB",
           "team": "TB"
+        },
+        {
+          "player_id": "9502",
+          "name": "Tank Dell",
+          "position": "WR",
+          "team": "HOU"
         },
         {
           "player_id": "9508",
@@ -2718,17 +2706,17 @@
         },
         {
           "season": "2027",
-          "round": 2,
-          "original_roster_id": 10,
-          "original_team": "nrandazzo624",
-          "is_own": false
-        },
-        {
-          "season": "2027",
           "round": 3,
           "original_roster_id": 8,
           "original_team": "jayjay1823",
           "is_own": true
+        },
+        {
+          "season": "2027",
+          "round": 3,
+          "original_roster_id": 10,
+          "original_team": "nrandazzo624",
+          "is_own": false
         },
         {
           "season": "2028",
@@ -2810,16 +2798,16 @@
           "team": "BAL"
         },
         {
-          "player_id": "11624",
-          "name": "Xavier Worthy",
+          "player_id": "11625",
+          "name": "Adonai Mitchell",
           "position": "WR",
-          "team": "KC"
+          "team": "NYJ"
         },
         {
-          "player_id": "13301",
-          "name": "Antonio Williams",
+          "player_id": "13279",
+          "name": "Carnell Tate",
           "position": "WR",
-          "team": "WAS"
+          "team": "TEN"
         },
         {
           "player_id": "7553",
@@ -2828,10 +2816,10 @@
           "team": "ATL"
         },
         {
-          "player_id": "9482",
-          "name": "Michael Mayer",
-          "position": "TE",
-          "team": "LV"
+          "player_id": "8155",
+          "name": "Breece Hall",
+          "position": "RB",
+          "team": "NYJ"
         },
         {
           "player_id": "3163",
@@ -2842,10 +2830,10 @@
       ],
       "bench": [
         {
-          "player_id": "11625",
-          "name": "Adonai Mitchell",
+          "player_id": "11624",
+          "name": "Xavier Worthy",
           "position": "WR",
-          "team": "NYJ"
+          "team": "KC"
         },
         {
           "player_id": "11626",
@@ -2872,10 +2860,10 @@
           "team": "CHI"
         },
         {
-          "player_id": "13279",
-          "name": "Carnell Tate",
+          "player_id": "13301",
+          "name": "Antonio Williams",
           "position": "WR",
-          "team": "TEN"
+          "team": "WAS"
         },
         {
           "player_id": "13394",
@@ -2920,10 +2908,10 @@
           "team": "BUF"
         },
         {
-          "player_id": "8155",
-          "name": "Breece Hall",
-          "position": "RB",
-          "team": "NYJ"
+          "player_id": "9482",
+          "name": "Michael Mayer",
+          "position": "TE",
+          "team": "LV"
         },
         {
           "player_id": "9500",

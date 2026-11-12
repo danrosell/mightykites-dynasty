@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-12T12:53:33.590Z",
+  "generated_at": "2026-11-12T20:54:52.053Z",
   "source": "Sleeper public API",
   "username": "TheMightyKites",
   "nfl_week": 10,
@@ -61,7 +61,7 @@
       "leg": 10,
       "reserve_slots": 3,
       "reserve_allow_cov": 0,
-      "daily_waivers_last_ran": 11
+      "daily_waivers_last_ran": 12
     },
     "scoring_settings": {
       "sack": 1,
@@ -661,6 +661,12 @@
           "name": "Skyler Bell",
           "position": "WR",
           "team": "BUF"
+        },
+        {
+          "player_id": "6427",
+          "name": "Ashton Dulin",
+          "position": "WR",
+          "team": "IND"
         }
       ],
       "taxi": [
@@ -3594,10 +3600,10 @@
           "team": "CHI"
         },
         {
-          "player_id": "2197",
-          "name": "Brandin Cooks",
+          "player_id": "13333",
+          "name": "Deion Burks",
           "position": "WR",
-          "team": "SF"
+          "team": "IND"
         },
         {
           "player_id": "3634",

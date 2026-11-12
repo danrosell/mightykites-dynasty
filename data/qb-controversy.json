@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-12T12:53:34.104Z",
+  "generated_at": "2026-11-12T20:54:52.398Z",
   "source": "Sleeper public API",
   "username": "TheMightyKites",
   "nfl_week": 10,
@@ -61,7 +61,7 @@
       "daily_waivers_base": 4,
       "reserve_slots": 2,
       "reserve_allow_cov": 1,
-      "daily_waivers_last_ran": 11
+      "daily_waivers_last_ran": 12
     },
     "scoring_settings": {
       "sack": 1,
@@ -173,10 +173,10 @@
         "team": "LV"
       },
       {
-        "player_id": "13285",
-        "name": "Malachi Fields",
+        "player_id": "11834",
+        "name": "Devaughn Vele",
         "position": "WR",
-        "team": "NYG"
+        "team": "NO"
       },
       {
         "player_id": "12501",
@@ -229,12 +229,6 @@
         "team": "CHI"
       },
       {
-        "player_id": "11834",
-        "name": "Devaughn Vele",
-        "position": "WR",
-        "team": "NO"
-      },
-      {
         "player_id": "12498",
         "name": "Mason Taylor",
         "position": "TE",
@@ -245,6 +239,12 @@
         "name": "Dont'e Thornton Jr.",
         "position": "WR",
         "team": "LV"
+      },
+      {
+        "player_id": "13285",
+        "name": "Malachi Fields",
+        "position": "WR",
+        "team": "NYG"
       },
       {
         "player_id": "13294",
@@ -879,12 +879,6 @@
           "team": "BAL"
         },
         {
-          "player_id": "2197",
-          "name": "Brandin Cooks",
-          "position": "WR",
-          "team": "SF"
-        },
-        {
           "player_id": "3155",
           "name": "Laquon Treadwell",
           "position": "WR",
@@ -901,6 +895,12 @@
           "name": "Evan Engram",
           "position": "TE",
           "team": "DEN"
+        },
+        {
+          "player_id": "4179",
+          "name": "Joshua Dobbs",
+          "position": "QB",
+          "team": "DET"
         },
         {
           "player_id": "4199",
@@ -2475,10 +2475,10 @@
           "team": "LV"
         },
         {
-          "player_id": "13285",
-          "name": "Malachi Fields",
+          "player_id": "11834",
+          "name": "Devaughn Vele",
           "position": "WR",
-          "team": "NYG"
+          "team": "NO"
         },
         {
           "player_id": "12501",
@@ -2531,12 +2531,6 @@
           "team": "CHI"
         },
         {
-          "player_id": "11834",
-          "name": "Devaughn Vele",
-          "position": "WR",
-          "team": "NO"
-        },
-        {
           "player_id": "12498",
           "name": "Mason Taylor",
           "position": "TE",
@@ -2547,6 +2541,12 @@
           "name": "Dont'e Thornton Jr.",
           "position": "WR",
           "team": "LV"
+        },
+        {
+          "player_id": "13285",
+          "name": "Malachi Fields",
+          "position": "WR",
+          "team": "NYG"
         },
         {
           "player_id": "13294",
