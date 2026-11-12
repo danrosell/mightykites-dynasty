@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-12T03:53:51.716Z",
+  "generated_at": "2026-11-12T12:53:34.104Z",
   "source": "Sleeper public API",
   "username": "TheMightyKites",
   "nfl_week": 10,
@@ -1138,10 +1138,10 @@
           "team": "LV"
         },
         {
-          "player_id": "7828",
-          "name": "Noah Gray",
-          "position": "TE",
-          "team": "KC"
+          "player_id": "11647",
+          "name": "Kimani Vidal",
+          "position": "RB",
+          "team": "LAC"
         }
       ],
       "bench": [
@@ -1168,12 +1168,6 @@
           "name": "Roman Wilson",
           "position": "WR",
           "team": "PIT"
-        },
-        {
-          "player_id": "11647",
-          "name": "Kimani Vidal",
-          "position": "RB",
-          "team": "LAC"
         },
         {
           "player_id": "12457",
@@ -1228,6 +1222,12 @@
           "name": "Baker Mayfield",
           "position": "QB",
           "team": "TB"
+        },
+        {
+          "player_id": "7828",
+          "name": "Noah Gray",
+          "position": "TE",
+          "team": "KC"
         }
       ],
       "taxi": [

@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-12T03:53:52.456Z",
+  "generated_at": "2026-11-12T12:53:34.864Z",
   "source": "Sleeper public API",
   "username": "TheMightyKites",
   "nfl_week": 10,
@@ -2217,10 +2217,10 @@
           "team": "SEA"
         },
         {
-          "player_id": "11631",
-          "name": "Brian Thomas Jr.",
+          "player_id": "8137",
+          "name": "George Pickens",
           "position": "WR",
-          "team": "JAX"
+          "team": "DAL"
         },
         {
           "player_id": "9487",
@@ -2241,9 +2241,9 @@
           "team": "JAX"
         },
         {
-          "player_id": "13286",
-          "name": "Jadarian Price",
-          "position": "RB",
+          "player_id": "5854",
+          "name": "Drew Lock",
+          "position": "QB",
           "team": "SEA"
         }
       ],
@@ -2259,6 +2259,12 @@
           "name": "Rome Odunze",
           "position": "WR",
           "team": "CHI"
+        },
+        {
+          "player_id": "11631",
+          "name": "Brian Thomas Jr.",
+          "position": "WR",
+          "team": "JAX"
         },
         {
           "player_id": "12492",
@@ -2297,6 +2303,12 @@
           "team": "ARI"
         },
         {
+          "player_id": "13286",
+          "name": "Jadarian Price",
+          "position": "RB",
+          "team": "SEA"
+        },
+        {
           "player_id": "13294",
           "name": "Makai Lemon",
           "position": "WR",
@@ -2321,22 +2333,10 @@
           "team": "SEA"
         },
         {
-          "player_id": "5854",
-          "name": "Drew Lock",
-          "position": "QB",
-          "team": "SEA"
-        },
-        {
           "player_id": "6797",
           "name": "Justin Herbert",
           "position": "QB",
           "team": "LAC"
-        },
-        {
-          "player_id": "8137",
-          "name": "George Pickens",
-          "position": "WR",
-          "team": "DAL"
         },
         {
           "player_id": "9230",
