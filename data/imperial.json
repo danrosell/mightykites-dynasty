@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-11T22:46:49.800Z",
+  "generated_at": "2026-11-12T03:53:51.197Z",
   "source": "Sleeper public API",
   "username": "TheMightyKites",
   "nfl_week": 10,
@@ -173,10 +173,10 @@
         "team": "SEA"
       },
       {
-        "player_id": "13305",
-        "name": "Mike Washington Jr.",
+        "player_id": "8122",
+        "name": "Zonovan Knight",
         "position": "RB",
-        "team": "LV"
+        "team": "ARI"
       },
       {
         "player_id": "421",
@@ -199,6 +199,12 @@
         "team": "NYG"
       },
       {
+        "player_id": "13305",
+        "name": "Mike Washington Jr.",
+        "position": "RB",
+        "team": "LV"
+      },
+      {
         "player_id": "13319",
         "name": "Oscar Delp",
         "position": "TE",
@@ -209,12 +215,6 @@
         "name": "Jacoby Brissett",
         "position": "QB",
         "team": "BAL"
-      },
-      {
-        "player_id": "8122",
-        "name": "Zonovan Knight",
-        "position": "RB",
-        "team": "ARI"
       }
     ],
     "taxi": [
@@ -434,10 +434,10 @@
           "team": "SEA"
         },
         {
-          "player_id": "13305",
-          "name": "Mike Washington Jr.",
+          "player_id": "8122",
+          "name": "Zonovan Knight",
           "position": "RB",
-          "team": "LV"
+          "team": "ARI"
         },
         {
           "player_id": "421",
@@ -460,6 +460,12 @@
           "team": "NYG"
         },
         {
+          "player_id": "13305",
+          "name": "Mike Washington Jr.",
+          "position": "RB",
+          "team": "LV"
+        },
+        {
           "player_id": "13319",
           "name": "Oscar Delp",
           "position": "TE",
@@ -470,12 +476,6 @@
           "name": "Jacoby Brissett",
           "position": "QB",
           "team": "BAL"
-        },
-        {
-          "player_id": "8122",
-          "name": "Zonovan Knight",
-          "position": "RB",
-          "team": "ARI"
         }
       ],
       "taxi": [

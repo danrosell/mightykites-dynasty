@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-11T22:46:50.572Z",
+  "generated_at": "2026-11-12T03:53:52.177Z",
   "source": "Sleeper public API",
   "username": "TheMightyKites",
   "nfl_week": 10,
@@ -2502,12 +2502,6 @@
           "team": "LV"
         },
         {
-          "player_id": "1339",
-          "name": "Zach Ertz",
-          "position": "TE",
-          "team": "PHI"
-        },
-        {
           "player_id": "13405",
           "name": "Kaytron Allen",
           "position": "RB",
@@ -3358,10 +3352,10 @@
           "team": "DAL"
         },
         {
-          "player_id": "7611",
-          "name": "Rhamondre Stevenson",
+          "player_id": "11586",
+          "name": "Blake Corum",
           "position": "RB",
-          "team": "NE"
+          "team": "LAR"
         },
         {
           "player_id": "9754",
@@ -3388,16 +3382,16 @@
           "team": "ATL"
         },
         {
-          "player_id": "8408",
-          "name": "Jordan Mason",
-          "position": "RB",
-          "team": "MIN"
+          "player_id": "8134",
+          "name": "Khalil Shakir",
+          "position": "WR",
+          "team": "BUF"
         },
         {
-          "player_id": "11586",
-          "name": "Blake Corum",
-          "position": "RB",
-          "team": "LAR"
+          "player_id": "5859",
+          "name": "A.J. Brown",
+          "position": "WR",
+          "team": "NE"
         }
       ],
       "bench": [
@@ -3486,16 +3480,10 @@
           "team": "BAL"
         },
         {
-          "player_id": "5859",
-          "name": "A.J. Brown",
-          "position": "WR",
+          "player_id": "7611",
+          "name": "Rhamondre Stevenson",
+          "position": "RB",
           "team": "NE"
-        },
-        {
-          "player_id": "8134",
-          "name": "Khalil Shakir",
-          "position": "WR",
-          "team": "BUF"
         },
         {
           "player_id": "8161",
@@ -3508,6 +3496,12 @@
           "name": "Greg Dulcich",
           "position": "TE",
           "team": "MIA"
+        },
+        {
+          "player_id": "8408",
+          "name": "Jordan Mason",
+          "position": "RB",
+          "team": "MIN"
         },
         {
           "player_id": "9504",
