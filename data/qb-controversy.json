@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-13T17:51:03.968Z",
+  "generated_at": "2026-11-13T23:40:03.459Z",
   "source": "Sleeper public API",
   "username": "TheMightyKites",
   "nfl_week": 10,
@@ -3828,10 +3828,10 @@
           "team": "CIN"
         },
         {
-          "player_id": "5844",
-          "name": "T.J. Hockenson",
+          "player_id": "7002",
+          "name": "Juwan Johnson",
           "position": "TE",
-          "team": "MIN"
+          "team": "NO"
         },
         {
           "player_id": "4034",
@@ -3896,6 +3896,12 @@
           "team": "PHI"
         },
         {
+          "player_id": "5844",
+          "name": "T.J. Hockenson",
+          "position": "TE",
+          "team": "MIN"
+        },
+        {
           "player_id": "5846",
           "name": "DK Metcalf",
           "position": "WR",
@@ -3906,12 +3912,6 @@
           "name": "A.J. Brown",
           "position": "WR",
           "team": "NE"
-        },
-        {
-          "player_id": "7002",
-          "name": "Juwan Johnson",
-          "position": "TE",
-          "team": "NO"
         },
         {
           "player_id": "7543",

@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-13T17:51:03.515Z",
+  "generated_at": "2026-11-13T23:40:03.006Z",
   "source": "Sleeper public API",
   "username": "TheMightyKites",
   "nfl_week": 10,
@@ -804,10 +804,10 @@
           "team": "CLE"
         },
         {
-          "player_id": "5844",
-          "name": "T.J. Hockenson",
-          "position": "TE",
-          "team": "MIN"
+          "player_id": "0",
+          "name": "0",
+          "position": "—",
+          "team": "FA"
         },
         {
           "player_id": "13281",
@@ -829,6 +829,12 @@
         }
       ],
       "bench": [
+        {
+          "player_id": "11624",
+          "name": "Xavier Worthy",
+          "position": "WR",
+          "team": "KC"
+        },
         {
           "player_id": "11625",
           "name": "Adonai Mitchell",
@@ -882,16 +888,16 @@
       ],
       "reserve": [
         {
-          "player_id": "11624",
-          "name": "Xavier Worthy",
-          "position": "WR",
-          "team": "KC"
-        },
-        {
           "player_id": "12529",
           "name": "TreVeyon Henderson",
           "position": "RB",
           "team": "NE"
+        },
+        {
+          "player_id": "5844",
+          "name": "T.J. Hockenson",
+          "position": "TE",
+          "team": "MIN"
         },
         {
           "player_id": "9508",
