@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-13T09:41:40.417Z",
+  "generated_at": "2026-11-13T17:51:03.968Z",
   "source": "Sleeper public API",
   "username": "TheMightyKites",
   "nfl_week": 10,
@@ -61,7 +61,7 @@
       "daily_waivers_base": 4,
       "reserve_slots": 2,
       "reserve_allow_cov": 1,
-      "daily_waivers_last_ran": 12
+      "daily_waivers_last_ran": 13
     },
     "scoring_settings": {
       "sack": 1,
@@ -2013,6 +2013,12 @@
           "team": "CAR"
         },
         {
+          "player_id": "12969",
+          "name": "Lan Larison",
+          "position": "RB",
+          "team": "NE"
+        },
+        {
           "player_id": "13282",
           "name": "Jack Endries",
           "position": "TE",
@@ -3654,7 +3660,7 @@
           "player_id": "5848",
           "name": "Marquise Brown",
           "position": "WR",
-          "team": "PHI"
+          "team": "FA"
         },
         {
           "player_id": "5850",
@@ -3872,10 +3878,10 @@
           "team": "DET"
         },
         {
-          "player_id": "4881",
-          "name": "Lamar Jackson",
-          "position": "QB",
-          "team": "BAL"
+          "player_id": "12536",
+          "name": "Jaylin Noel",
+          "position": "WR",
+          "team": "HOU"
         },
         {
           "player_id": "4943",
@@ -3954,10 +3960,10 @@
       ],
       "reserve": [
         {
-          "player_id": "12536",
-          "name": "Jaylin Noel",
-          "position": "WR",
-          "team": "HOU"
+          "player_id": "4881",
+          "name": "Lamar Jackson",
+          "position": "QB",
+          "team": "BAL"
         },
         {
           "player_id": "9225",

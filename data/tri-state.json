@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-13T09:41:41.243Z",
+  "generated_at": "2026-11-13T17:51:04.914Z",
   "source": "Sleeper public API",
   "username": "TheMightyKites",
   "nfl_week": 10,
@@ -61,7 +61,7 @@
       "leg": 10,
       "reserve_slots": 3,
       "reserve_allow_cov": 1,
-      "daily_waivers_last_ran": 12
+      "daily_waivers_last_ran": 13
     },
     "scoring_settings": {
       "sack": 2,
@@ -513,10 +513,10 @@
           "team": "MIN"
         },
         {
-          "player_id": "6783",
-          "name": "Jerry Jeudy",
+          "player_id": "12718",
+          "name": "Konata Mumpfield",
           "position": "WR",
-          "team": "CLE"
+          "team": "LAR"
         },
         {
           "player_id": "4177",
@@ -569,6 +569,12 @@
           "team": "CHI"
         },
         {
+          "player_id": "12634",
+          "name": "Jordan Watkins",
+          "position": "WR",
+          "team": "SF"
+        },
+        {
           "player_id": "3271",
           "name": "Tyler Higbee",
           "position": "TE",
@@ -591,6 +597,12 @@
           "name": "Mark Andrews",
           "position": "TE",
           "team": "BAL"
+        },
+        {
+          "player_id": "6783",
+          "name": "Jerry Jeudy",
+          "position": "WR",
+          "team": "CLE"
         },
         {
           "player_id": "7021",
@@ -2804,10 +2816,10 @@
           "team": "NYJ"
         },
         {
-          "player_id": "13279",
-          "name": "Carnell Tate",
+          "player_id": "9500",
+          "name": "Josh Downs",
           "position": "WR",
-          "team": "TEN"
+          "team": "KC"
         },
         {
           "player_id": "7553",
@@ -2858,6 +2870,12 @@
           "name": "Kyle Monangai",
           "position": "RB",
           "team": "CHI"
+        },
+        {
+          "player_id": "13279",
+          "name": "Carnell Tate",
+          "position": "WR",
+          "team": "TEN"
         },
         {
           "player_id": "13301",
@@ -2912,12 +2930,6 @@
           "name": "Michael Mayer",
           "position": "TE",
           "team": "LV"
-        },
-        {
-          "player_id": "9500",
-          "name": "Josh Downs",
-          "position": "WR",
-          "team": "KC"
         }
       ],
       "taxi": [

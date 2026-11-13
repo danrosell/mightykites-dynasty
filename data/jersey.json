@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-13T09:41:40.811Z",
+  "generated_at": "2026-11-13T17:51:04.300Z",
   "source": "Sleeper public API",
   "username": "TheMightyKites",
   "nfl_week": 10,
@@ -58,7 +58,7 @@
       "leg": 10,
       "reserve_slots": 2,
       "reserve_allow_cov": 0,
-      "daily_waivers_last_ran": 12
+      "daily_waivers_last_ran": 13
     },
     "scoring_settings": {
       "sack": 1,
@@ -2248,7 +2248,7 @@
           "player_id": "5848",
           "name": "Marquise Brown",
           "position": "WR",
-          "team": "PHI"
+          "team": "FA"
         },
         {
           "player_id": "5857",
@@ -2502,12 +2502,6 @@
           "team": "ATL"
         },
         {
-          "player_id": "13329",
-          "name": "Malik Benson",
-          "position": "WR",
-          "team": "LV"
-        },
-        {
           "player_id": "13405",
           "name": "Kaytron Allen",
           "position": "RB",
@@ -2542,6 +2536,12 @@
           "name": "Mark Andrews",
           "position": "TE",
           "team": "BAL"
+        },
+        {
+          "player_id": "5854",
+          "name": "Drew Lock",
+          "position": "QB",
+          "team": "SEA"
         },
         {
           "player_id": "5872",
@@ -3144,6 +3144,12 @@
           "team": "DAL"
         },
         {
+          "player_id": "3155",
+          "name": "Laquon Treadwell",
+          "position": "WR",
+          "team": "IND"
+        },
+        {
           "player_id": "4381",
           "name": "Taysom Hill",
           "position": "TE",
@@ -3165,12 +3171,6 @@
           "player_id": "5955",
           "name": "Hunter Renfrow",
           "position": "WR",
-          "team": "FA"
-        },
-        {
-          "player_id": "6820",
-          "name": "Clyde Edwards-Helaire",
-          "position": "RB",
           "team": "FA"
         },
         {
