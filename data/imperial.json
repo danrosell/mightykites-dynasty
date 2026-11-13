@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-13T01:55:16.302Z",
+  "generated_at": "2026-11-13T09:41:39.801Z",
   "source": "Sleeper public API",
   "username": "TheMightyKites",
   "nfl_week": 10,
@@ -2992,10 +2992,10 @@
           "team": "SF"
         },
         {
-          "player_id": "6039",
-          "name": "Ty Johnson",
+          "player_id": "8116",
+          "name": "Pierre Strong Jr.",
           "position": "RB",
-          "team": "BUF"
+          "team": "GB"
         },
         {
           "player_id": "13296",
@@ -3016,10 +3016,10 @@
           "team": "MIA"
         },
         {
-          "player_id": "3286",
-          "name": "Demarcus Robinson",
-          "position": "WR",
-          "team": "SF"
+          "player_id": "11593",
+          "name": "Brevyn Spann-Ford",
+          "position": "TE",
+          "team": "DAL"
         },
         {
           "player_id": "2449",
@@ -3036,34 +3036,34 @@
       ],
       "bench": [
         {
-          "player_id": "11593",
-          "name": "Brevyn Spann-Ford",
-          "position": "TE",
-          "team": "DAL"
-        },
-        {
           "player_id": "12517",
           "name": "Colston Loveland",
           "position": "TE",
           "team": "CHI"
         },
         {
-          "player_id": "7526",
-          "name": "Jaylen Waddle",
+          "player_id": "2216",
+          "name": "Mike Evans",
           "position": "WR",
-          "team": "DEN"
+          "team": "SF"
+        },
+        {
+          "player_id": "3286",
+          "name": "Demarcus Robinson",
+          "position": "WR",
+          "team": "SF"
+        },
+        {
+          "player_id": "6039",
+          "name": "Ty Johnson",
+          "position": "RB",
+          "team": "BUF"
         },
         {
           "player_id": "7567",
           "name": "Kenny Gainwell",
           "position": "RB",
           "team": "TB"
-        },
-        {
-          "player_id": "8116",
-          "name": "Pierre Strong Jr.",
-          "position": "RB",
-          "team": "GB"
         }
       ],
       "taxi": [
@@ -3082,10 +3082,10 @@
       ],
       "reserve": [
         {
-          "player_id": "2216",
-          "name": "Mike Evans",
+          "player_id": "7526",
+          "name": "Jaylen Waddle",
           "position": "WR",
-          "team": "SF"
+          "team": "DEN"
         },
         {
           "player_id": "8161",

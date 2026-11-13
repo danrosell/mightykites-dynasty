@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-13T01:55:16.709Z",
+  "generated_at": "2026-11-13T09:41:40.417Z",
   "source": "Sleeper public API",
   "username": "TheMightyKites",
   "nfl_week": 10,
@@ -412,7 +412,7 @@
   "my_matchup": {
     "me": {
       "team": "The Ham Cannons",
-      "points": 3.6
+      "points": 18.32
     },
     "opponent": {
       "team": "Golden Kupp",
