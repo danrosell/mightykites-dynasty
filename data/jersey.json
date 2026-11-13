@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-12T20:54:52.804Z",
+  "generated_at": "2026-11-13T01:55:17.076Z",
   "source": "Sleeper public API",
   "username": "TheMightyKites",
   "nfl_week": 10,
@@ -416,7 +416,7 @@
   "my_matchup": {
     "me": {
       "team": "TheMightyKites",
-      "points": 0
+      "points": 8
     },
     "opponent": {
       "team": "kherri04",
@@ -3046,10 +3046,10 @@
           "team": "ATL"
         },
         {
-          "player_id": "12531",
-          "name": "Trevor Etienne",
+          "player_id": "7543",
+          "name": "Travis Etienne Jr.",
           "position": "RB",
-          "team": "CAR"
+          "team": "NO"
         },
         {
           "player_id": "12526",
@@ -3058,16 +3058,16 @@
           "team": "CAR"
         },
         {
-          "player_id": "5045",
-          "name": "Courtland Sutton",
+          "player_id": "8135",
+          "name": "Treylon Burks",
           "position": "WR",
-          "team": "DEN"
+          "team": "WAS"
         },
         {
-          "player_id": "7526",
-          "name": "Jaylen Waddle",
+          "player_id": "9502",
+          "name": "Tank Dell",
           "position": "WR",
-          "team": "DEN"
+          "team": "HOU"
         },
         {
           "player_id": "4217",
@@ -3082,10 +3082,10 @@
           "team": "HOU"
         },
         {
-          "player_id": "13294",
-          "name": "Makai Lemon",
-          "position": "WR",
-          "team": "PHI"
+          "player_id": "11603",
+          "name": "AJ Barner",
+          "position": "TE",
+          "team": "SEA"
         }
       ],
       "bench": [
@@ -3102,12 +3102,6 @@
           "team": "GB"
         },
         {
-          "player_id": "11603",
-          "name": "AJ Barner",
-          "position": "TE",
-          "team": "SEA"
-        },
-        {
           "player_id": "11629",
           "name": "Devontez Walker",
           "position": "WR",
@@ -3120,6 +3114,12 @@
           "team": "NYG"
         },
         {
+          "player_id": "12531",
+          "name": "Trevor Etienne",
+          "position": "RB",
+          "team": "CAR"
+        },
+        {
           "player_id": "12542",
           "name": "Efton Chism III",
           "position": "WR",
@@ -3130,6 +3130,12 @@
           "name": "Ty Simpson",
           "position": "QB",
           "team": "LAR"
+        },
+        {
+          "player_id": "13294",
+          "name": "Makai Lemon",
+          "position": "WR",
+          "team": "PHI"
         },
         {
           "player_id": "13401",
@@ -3148,6 +3154,12 @@
           "name": "Sam Darnold",
           "position": "QB",
           "team": "SEA"
+        },
+        {
+          "player_id": "5045",
+          "name": "Courtland Sutton",
+          "position": "WR",
+          "team": "DEN"
         },
         {
           "player_id": "5955",
@@ -3174,10 +3186,10 @@
           "team": "PHI"
         },
         {
-          "player_id": "7543",
-          "name": "Travis Etienne Jr.",
-          "position": "RB",
-          "team": "NO"
+          "player_id": "7526",
+          "name": "Jaylen Waddle",
+          "position": "WR",
+          "team": "DEN"
         },
         {
           "player_id": "7607",
@@ -3192,22 +3204,10 @@
           "team": "ATL"
         },
         {
-          "player_id": "8135",
-          "name": "Treylon Burks",
-          "position": "WR",
-          "team": "WAS"
-        },
-        {
           "player_id": "8154",
           "name": "Brian Robinson Jr.",
           "position": "RB",
           "team": "ATL"
-        },
-        {
-          "player_id": "9502",
-          "name": "Tank Dell",
-          "position": "WR",
-          "team": "HOU"
         }
       ],
       "taxi": [],

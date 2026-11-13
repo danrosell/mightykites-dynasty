@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-12T20:54:52.053Z",
+  "generated_at": "2026-11-13T01:55:16.302Z",
   "source": "Sleeper public API",
   "username": "TheMightyKites",
   "nfl_week": 10,
@@ -1368,24 +1368,6 @@
           "team": "MIA"
         },
         {
-          "player_id": "11620",
-          "name": "Rome Odunze",
-          "position": "WR",
-          "team": "CHI"
-        },
-        {
-          "player_id": "10232",
-          "name": "Michael Wilson",
-          "position": "WR",
-          "team": "ARI"
-        },
-        {
-          "player_id": "8131",
-          "name": "Isaiah Likely",
-          "position": "TE",
-          "team": "NYG"
-        },
-        {
           "player_id": "4039",
           "name": "Cooper Kupp",
           "position": "WR",
@@ -1398,6 +1380,24 @@
           "team": "KC"
         },
         {
+          "player_id": "8131",
+          "name": "Isaiah Likely",
+          "position": "TE",
+          "team": "NYG"
+        },
+        {
+          "player_id": "10219",
+          "name": "Chris Rodriguez Jr.",
+          "position": "RB",
+          "team": "JAX"
+        },
+        {
+          "player_id": "10218",
+          "name": "Xavier Hutchinson",
+          "position": "WR",
+          "team": "HOU"
+        },
+        {
           "player_id": "11566",
           "name": "Jayden Daniels",
           "position": "QB",
@@ -1406,16 +1406,16 @@
       ],
       "bench": [
         {
-          "player_id": "10219",
-          "name": "Chris Rodriguez Jr.",
-          "position": "RB",
-          "team": "JAX"
+          "player_id": "11620",
+          "name": "Rome Odunze",
+          "position": "WR",
+          "team": "CHI"
         },
         {
-          "player_id": "13287",
-          "name": "Jeremiyah Love",
-          "position": "RB",
-          "team": "ARI"
+          "player_id": "12492",
+          "name": "Pat Bryant",
+          "position": "WR",
+          "team": "DEN"
         },
         {
           "player_id": "2307",
@@ -1428,21 +1428,9 @@
           "name": "Daniel Jones",
           "position": "QB",
           "team": "IND"
-        },
-        {
-          "player_id": "8111",
-          "name": "Cade Otton",
-          "position": "TE",
-          "team": "TB"
         }
       ],
       "taxi": [
-        {
-          "player_id": "10218",
-          "name": "Xavier Hutchinson",
-          "position": "WR",
-          "team": "HOU"
-        },
         {
           "player_id": "12497",
           "name": "Tory Horton",
@@ -1452,10 +1440,16 @@
       ],
       "reserve": [
         {
-          "player_id": "12492",
-          "name": "Pat Bryant",
+          "player_id": "10232",
+          "name": "Michael Wilson",
           "position": "WR",
-          "team": "DEN"
+          "team": "ARI"
+        },
+        {
+          "player_id": "13287",
+          "name": "Jeremiyah Love",
+          "position": "RB",
+          "team": "ARI"
         }
       ],
       "picks": [
@@ -2109,10 +2103,10 @@
           "team": "NE"
         },
         {
-          "player_id": "13414",
-          "name": "Kaelon Black",
-          "position": "RB",
-          "team": "SF"
+          "player_id": "8146",
+          "name": "Garrett Wilson",
+          "position": "WR",
+          "team": "NYJ"
         },
         {
           "player_id": "4984",
@@ -2122,6 +2116,18 @@
         }
       ],
       "bench": [
+        {
+          "player_id": "13414",
+          "name": "Kaelon Black",
+          "position": "RB",
+          "team": "SF"
+        },
+        {
+          "player_id": "4017",
+          "name": "Deshaun Watson",
+          "position": "QB",
+          "team": "CLE"
+        },
         {
           "player_id": "4892",
           "name": "Baker Mayfield",
@@ -2135,28 +2141,10 @@
           "team": "CHI"
         },
         {
-          "player_id": "7561",
-          "name": "Elijah Mitchell",
-          "position": "RB",
-          "team": "PHI"
-        },
-        {
           "player_id": "7562",
           "name": "Tutu Atwell",
           "position": "WR",
           "team": "LAR"
-        },
-        {
-          "player_id": "8146",
-          "name": "Garrett Wilson",
-          "position": "WR",
-          "team": "NYJ"
-        },
-        {
-          "player_id": "8154",
-          "name": "Brian Robinson Jr.",
-          "position": "RB",
-          "team": "ATL"
         }
       ],
       "taxi": [
@@ -2181,10 +2169,10 @@
       ],
       "reserve": [
         {
-          "player_id": "4017",
-          "name": "Deshaun Watson",
-          "position": "QB",
-          "team": "CLE"
+          "player_id": "8154",
+          "name": "Brian Robinson Jr.",
+          "position": "RB",
+          "team": "ATL"
         }
       ],
       "picks": [
@@ -3206,10 +3194,10 @@
           "team": "SF"
         },
         {
-          "player_id": "4663",
-          "name": "Austin Ekeler",
-          "position": "RB",
-          "team": "WAS"
+          "player_id": "11637",
+          "name": "Keon Coleman",
+          "position": "WR",
+          "team": "BUF"
         },
         {
           "player_id": "13421",
@@ -3226,12 +3214,6 @@
       ],
       "bench": [
         {
-          "player_id": "11637",
-          "name": "Keon Coleman",
-          "position": "WR",
-          "team": "BUF"
-        },
-        {
           "player_id": "12485",
           "name": "Tez Johnson",
           "position": "WR",
@@ -3242,6 +3224,12 @@
           "name": "Geno Smith",
           "position": "QB",
           "team": "NYJ"
+        },
+        {
+          "player_id": "4663",
+          "name": "Austin Ekeler",
+          "position": "RB",
+          "team": "WAS"
         },
         {
           "player_id": "7611",

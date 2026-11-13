@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-12T20:54:52.398Z",
+  "generated_at": "2026-11-13T01:55:16.709Z",
   "source": "Sleeper public API",
   "username": "TheMightyKites",
   "nfl_week": 10,
@@ -412,7 +412,7 @@
   "my_matchup": {
     "me": {
       "team": "The Ham Cannons",
-      "points": 0
+      "points": 3.6
     },
     "opponent": {
       "team": "Golden Kupp",
@@ -2049,12 +2049,6 @@
           "team": "CLE"
         },
         {
-          "player_id": "4950",
-          "name": "Christian Kirk",
-          "position": "WR",
-          "team": "SF"
-        },
-        {
           "player_id": "6790",
           "name": "D'Andre Swift",
           "position": "RB",
@@ -2101,10 +2095,10 @@
       ],
       "reserve": [
         {
-          "player_id": "6826",
-          "name": "Cole Kmet",
-          "position": "TE",
-          "team": "CHI"
+          "player_id": "4950",
+          "name": "Christian Kirk",
+          "position": "WR",
+          "team": "SF"
         },
         {
           "player_id": "7083",
@@ -2753,10 +2747,10 @@
           "team": "WAS"
         },
         {
-          "player_id": "1479",
-          "name": "Keenan Allen",
+          "player_id": "9501",
+          "name": "DeMario Douglas",
           "position": "WR",
-          "team": "SF"
+          "team": "NE"
         },
         {
           "player_id": "8130",
@@ -2784,6 +2778,12 @@
         }
       ],
       "bench": [
+        {
+          "player_id": "1479",
+          "name": "Keenan Allen",
+          "position": "WR",
+          "team": "SF"
+        },
         {
           "player_id": "19",
           "name": "Joe Flacco",
@@ -2861,12 +2861,6 @@
           "name": "Jalen Nailor",
           "position": "WR",
           "team": "LV"
-        },
-        {
-          "player_id": "9501",
-          "name": "DeMario Douglas",
-          "position": "WR",
-          "team": "NE"
         }
       ],
       "taxi": [
@@ -3541,10 +3535,10 @@
       "rank": 5,
       "starters": [
         {
-          "player_id": "7523",
-          "name": "Trevor Lawrence",
+          "player_id": "11566",
+          "name": "Jayden Daniels",
           "position": "QB",
-          "team": "JAX"
+          "team": "WAS"
         },
         {
           "player_id": "12481",
@@ -3595,10 +3589,10 @@
           "team": "MIN"
         },
         {
-          "player_id": "11566",
-          "name": "Jayden Daniels",
+          "player_id": "7523",
+          "name": "Trevor Lawrence",
           "position": "QB",
-          "team": "WAS"
+          "team": "JAX"
         }
       ],
       "bench": [
