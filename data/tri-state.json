@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-14T19:16:38.777Z",
+  "generated_at": "2026-11-14T23:10:00.394Z",
   "source": "Sleeper public API",
   "username": "TheMightyKites",
   "nfl_week": 10,
@@ -2205,10 +2205,10 @@
           "team": "IND"
         },
         {
-          "player_id": "12527",
-          "name": "Ashton Jeanty",
+          "player_id": "13337",
+          "name": "Emmett Johnson",
           "position": "RB",
-          "team": "LV"
+          "team": "KC"
         },
         {
           "player_id": "7588",
@@ -2241,10 +2241,10 @@
           "team": "GB"
         },
         {
-          "player_id": "9480",
-          "name": "Brenton Strange",
-          "position": "TE",
-          "team": "JAX"
+          "player_id": "12527",
+          "name": "Ashton Jeanty",
+          "position": "RB",
+          "team": "LV"
         },
         {
           "player_id": "5854",
@@ -2321,12 +2321,6 @@
           "team": "PHI"
         },
         {
-          "player_id": "13337",
-          "name": "Emmett Johnson",
-          "position": "RB",
-          "team": "KC"
-        },
-        {
           "player_id": "13349",
           "name": "Eli Stowers",
           "position": "TE",
@@ -2349,6 +2343,12 @@
           "name": "Tanner McKee",
           "position": "QB",
           "team": "PHI"
+        },
+        {
+          "player_id": "9480",
+          "name": "Brenton Strange",
+          "position": "TE",
+          "team": "JAX"
         }
       ],
       "taxi": [
