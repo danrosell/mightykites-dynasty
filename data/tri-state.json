@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-14T06:41:09.964Z",
+  "generated_at": "2026-11-14T14:15:54.120Z",
   "source": "Sleeper public API",
   "username": "TheMightyKites",
   "nfl_week": 10,
@@ -61,7 +61,7 @@
       "leg": 10,
       "reserve_slots": 3,
       "reserve_allow_cov": 1,
-      "daily_waivers_last_ran": 13
+      "daily_waivers_last_ran": 14
     },
     "scoring_settings": {
       "sack": 2,
@@ -1405,6 +1405,12 @@
           "name": "Kyle Williams",
           "position": "WR",
           "team": "NE"
+        },
+        {
+          "player_id": "13270",
+          "name": "CJ Daniels",
+          "position": "WR",
+          "team": "LAR"
         },
         {
           "player_id": "13293",
