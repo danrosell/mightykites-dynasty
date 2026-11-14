@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-13T23:40:04.156Z",
+  "generated_at": "2026-11-14T06:41:09.644Z",
   "source": "Sleeper public API",
   "username": "TheMightyKites",
   "nfl_week": 10,
@@ -2446,10 +2446,10 @@
           "team": "KC"
         },
         {
-          "player_id": "13298",
-          "name": "KC Concepcion Jr.",
+          "player_id": "5872",
+          "name": "Deebo Samuel Sr.",
           "position": "WR",
-          "team": "CLE"
+          "team": "SF"
         }
       ],
       "bench": [
@@ -2494,6 +2494,12 @@
           "name": "Reggie Virgil",
           "position": "WR",
           "team": "ARI"
+        },
+        {
+          "player_id": "13298",
+          "name": "KC Concepcion Jr.",
+          "position": "WR",
+          "team": "CLE"
         },
         {
           "player_id": "13320",
@@ -2542,12 +2548,6 @@
           "name": "Drew Lock",
           "position": "QB",
           "team": "SEA"
-        },
-        {
-          "player_id": "5872",
-          "name": "Deebo Samuel Sr.",
-          "position": "WR",
-          "team": "SF"
         },
         {
           "player_id": "7090",
