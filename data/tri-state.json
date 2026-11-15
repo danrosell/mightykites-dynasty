@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-15T17:50:00.900Z",
+  "generated_at": "2026-11-15T22:56:52.762Z",
   "source": "Sleeper public API",
   "username": "TheMightyKites",
   "nfl_week": 10,
@@ -403,11 +403,11 @@
   "my_matchup": {
     "me": {
       "team": "TheMightyKites",
-      "points": 11.72
+      "points": 89.36
     },
     "opponent": {
       "team": "kylec55",
-      "points": 0,
+      "points": 52.68,
       "roster_id": 4
     }
   },
@@ -3113,10 +3113,10 @@
           "team": "NYG"
         },
         {
-          "player_id": "10236",
-          "name": "Dalton Kincaid",
-          "position": "TE",
-          "team": "BUF"
+          "player_id": "11646",
+          "name": "Jalen Coker",
+          "position": "WR",
+          "team": "CAR"
         },
         {
           "player_id": "7523",
@@ -3126,6 +3126,12 @@
         }
       ],
       "bench": [
+        {
+          "player_id": "10236",
+          "name": "Dalton Kincaid",
+          "position": "TE",
+          "team": "BUF"
+        },
         {
           "player_id": "11565",
           "name": "J.J. McCarthy",
@@ -3155,12 +3161,6 @@
           "name": "Keon Coleman",
           "position": "WR",
           "team": "BUF"
-        },
-        {
-          "player_id": "11646",
-          "name": "Jalen Coker",
-          "position": "WR",
-          "team": "CAR"
         },
         {
           "player_id": "12487",

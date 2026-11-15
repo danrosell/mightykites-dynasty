@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-15T17:50:00.293Z",
+  "generated_at": "2026-11-15T22:56:52.148Z",
   "source": "Sleeper public API",
   "username": "TheMightyKites",
   "nfl_week": 10,
@@ -412,11 +412,11 @@
   "my_matchup": {
     "me": {
       "team": "The Ham Cannons",
-      "points": 22.82
+      "points": 91.03
     },
     "opponent": {
       "team": "Golden Kupp",
-      "points": 0,
+      "points": 59.43,
       "roster_id": 5
     }
   },
@@ -4112,10 +4112,10 @@
           "team": "TEN"
         },
         {
-          "player_id": "11571",
-          "name": "Isaiah Davis",
-          "position": "RB",
-          "team": "NYJ"
+          "player_id": "11626",
+          "name": "Xavier Legette",
+          "position": "WR",
+          "team": "CAR"
         },
         {
           "player_id": "11370",
@@ -4130,6 +4130,12 @@
           "name": "Cedric Tillman",
           "position": "WR",
           "team": "NO"
+        },
+        {
+          "player_id": "11571",
+          "name": "Isaiah Davis",
+          "position": "RB",
+          "team": "NYJ"
         },
         {
           "player_id": "11577",
@@ -4148,12 +4154,6 @@
           "name": "Isaiah Williams",
           "position": "WR",
           "team": "NYJ"
-        },
-        {
-          "player_id": "11626",
-          "name": "Xavier Legette",
-          "position": "WR",
-          "team": "CAR"
         },
         {
           "player_id": "11628",

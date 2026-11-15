@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-15T17:50:00.660Z",
+  "generated_at": "2026-11-15T22:56:52.479Z",
   "source": "Sleeper public API",
   "username": "TheMightyKites",
   "nfl_week": 10,
@@ -416,11 +416,11 @@
   "my_matchup": {
     "me": {
       "team": "TheMightyKites",
-      "points": 57.2
+      "points": 100.2
     },
     "opponent": {
       "team": "kherri04",
-      "points": 4.7,
+      "points": 97.6,
       "roster_id": 10
     }
   },
@@ -1172,19 +1172,13 @@
           "team": "BUF"
         },
         {
-          "player_id": "9756",
-          "name": "Jordan Addison",
-          "position": "WR",
-          "team": "MIN"
-        }
-      ],
-      "bench": [
-        {
           "player_id": "10218",
           "name": "Xavier Hutchinson",
           "position": "WR",
           "team": "HOU"
-        },
+        }
+      ],
+      "bench": [
         {
           "player_id": "10222",
           "name": "Jayden Reed",
@@ -1298,6 +1292,12 @@
           "name": "Keaton Mitchell",
           "position": "RB",
           "team": "LAC"
+        },
+        {
+          "player_id": "9756",
+          "name": "Jordan Addison",
+          "position": "WR",
+          "team": "MIN"
         }
       ],
       "taxi": [],
