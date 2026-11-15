@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-14T23:10:00.000Z",
+  "generated_at": "2026-11-15T02:47:18.287Z",
   "source": "Sleeper public API",
   "username": "TheMightyKites",
   "nfl_week": 10,
@@ -3712,10 +3712,10 @@
           "team": "CIN"
         },
         {
-          "player_id": "7600",
-          "name": "Pat Freiermuth",
-          "position": "TE",
-          "team": "PIT"
+          "player_id": "11624",
+          "name": "Xavier Worthy",
+          "position": "WR",
+          "team": "KC"
         }
       ],
       "bench": [
@@ -3730,12 +3730,6 @@
           "name": "Ray Davis",
           "position": "RB",
           "team": "BUF"
-        },
-        {
-          "player_id": "11624",
-          "name": "Xavier Worthy",
-          "position": "WR",
-          "team": "KC"
         },
         {
           "player_id": "11729",
@@ -3820,6 +3814,12 @@
           "name": "Juwan Johnson",
           "position": "TE",
           "team": "NO"
+        },
+        {
+          "player_id": "7600",
+          "name": "Pat Freiermuth",
+          "position": "TE",
+          "team": "PIT"
         },
         {
           "player_id": "8122",

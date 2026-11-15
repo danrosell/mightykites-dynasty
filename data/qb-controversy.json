@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-14T23:09:59.625Z",
+  "generated_at": "2026-11-15T02:47:17.921Z",
   "source": "Sleeper public API",
   "username": "TheMightyKites",
   "nfl_week": 10,
@@ -2220,10 +2220,10 @@
           "team": "NYG"
         },
         {
-          "player_id": "12718",
-          "name": "Konata Mumpfield",
+          "player_id": "10229",
+          "name": "Rashee Rice",
           "position": "WR",
-          "team": "LAR"
+          "team": "KC"
         },
         {
           "player_id": "9479",
@@ -2232,10 +2232,10 @@
           "team": "PIT"
         },
         {
-          "player_id": "11576",
-          "name": "Braelon Allen",
-          "position": "RB",
-          "team": "NYJ"
+          "player_id": "12718",
+          "name": "Konata Mumpfield",
+          "position": "WR",
+          "team": "LAR"
         },
         {
           "player_id": "5995",
@@ -2286,12 +2286,6 @@
           "name": "Jeremiyah Love",
           "position": "RB",
           "team": "ARI"
-        },
-        {
-          "player_id": "13421",
-          "name": "Eli Raridon",
-          "position": "TE",
-          "team": "NE"
         },
         {
           "player_id": "4144",
@@ -2986,10 +2980,10 @@
           "team": "GB"
         },
         {
-          "player_id": "10229",
-          "name": "Rashee Rice",
-          "position": "WR",
-          "team": "KC"
+          "player_id": "0",
+          "name": "0",
+          "position": "—",
+          "team": "FA"
         },
         {
           "player_id": "13293",
@@ -3029,6 +3023,12 @@
         }
       ],
       "bench": [
+        {
+          "player_id": "11576",
+          "name": "Braelon Allen",
+          "position": "RB",
+          "team": "NYJ"
+        },
         {
           "player_id": "11655",
           "name": "Tyrone Tracy Jr.",
@@ -3094,6 +3094,12 @@
           "name": "Dohnte Meyers",
           "position": "WR",
           "team": "CIN"
+        },
+        {
+          "player_id": "13421",
+          "name": "Eli Raridon",
+          "position": "TE",
+          "team": "NE"
         },
         {
           "player_id": "8127",
@@ -4118,10 +4124,10 @@
           "team": "NYJ"
         },
         {
-          "player_id": "11628",
-          "name": "Marvin Harrison Jr.",
-          "position": "WR",
-          "team": "HOU"
+          "player_id": "11370",
+          "name": "Chris Brooks",
+          "position": "RB",
+          "team": "GB"
         }
       ],
       "bench": [
@@ -4130,12 +4136,6 @@
           "name": "Cedric Tillman",
           "position": "WR",
           "team": "NO"
-        },
-        {
-          "player_id": "11370",
-          "name": "Chris Brooks",
-          "position": "RB",
-          "team": "GB"
         },
         {
           "player_id": "11571",
@@ -4160,6 +4160,12 @@
           "name": "Xavier Legette",
           "position": "WR",
           "team": "CAR"
+        },
+        {
+          "player_id": "11628",
+          "name": "Marvin Harrison Jr.",
+          "position": "WR",
+          "team": "HOU"
         },
         {
           "player_id": "11650",
