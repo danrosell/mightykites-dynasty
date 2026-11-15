@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-15T02:47:17.526Z",
+  "generated_at": "2026-11-15T11:11:10.457Z",
   "source": "Sleeper public API",
   "username": "TheMightyKites",
   "nfl_week": 10,
@@ -1061,12 +1061,6 @@
           "team": "PHI"
         },
         {
-          "player_id": "11628",
-          "name": "Marvin Harrison Jr.",
-          "position": "WR",
-          "team": "HOU"
-        },
-        {
           "player_id": "12522",
           "name": "Cam Ward",
           "position": "QB",
@@ -1100,6 +1094,12 @@
         }
       ],
       "reserve": [
+        {
+          "player_id": "11628",
+          "name": "Marvin Harrison Jr.",
+          "position": "WR",
+          "team": "HOU"
+        },
         {
           "player_id": "8205",
           "name": "Isiah Pacheco",

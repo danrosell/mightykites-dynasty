@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-15T02:47:17.921Z",
+  "generated_at": "2026-11-15T11:11:10.794Z",
   "source": "Sleeper public API",
   "username": "TheMightyKites",
   "nfl_week": 10,
@@ -817,10 +817,10 @@
           "team": "DET"
         },
         {
-          "player_id": "11579",
-          "name": "Audric Estime",
+          "player_id": "4199",
+          "name": "Aaron Jones Sr.",
           "position": "RB",
-          "team": "NO"
+          "team": "MIN"
         },
         {
           "player_id": "7564",
@@ -867,6 +867,12 @@
       ],
       "bench": [
         {
+          "player_id": "11579",
+          "name": "Audric Estime",
+          "position": "RB",
+          "team": "NO"
+        },
+        {
           "player_id": "11593",
           "name": "Brevyn Spann-Ford",
           "position": "TE",
@@ -901,12 +907,6 @@
           "name": "Joshua Dobbs",
           "position": "QB",
           "team": "DET"
-        },
-        {
-          "player_id": "4199",
-          "name": "Aaron Jones Sr.",
-          "position": "RB",
-          "team": "MIN"
         },
         {
           "player_id": "5045",
@@ -4118,9 +4118,9 @@
           "team": "TEN"
         },
         {
-          "player_id": "11608",
-          "name": "Isaiah Williams",
-          "position": "WR",
+          "player_id": "11571",
+          "name": "Isaiah Davis",
+          "position": "RB",
           "team": "NYJ"
         },
         {
@@ -4138,12 +4138,6 @@
           "team": "NO"
         },
         {
-          "player_id": "11571",
-          "name": "Isaiah Davis",
-          "position": "RB",
-          "team": "NYJ"
-        },
-        {
           "player_id": "11577",
           "name": "Will Shipley",
           "position": "RB",
@@ -4154,6 +4148,12 @@
           "name": "Cade Stover",
           "position": "TE",
           "team": "HOU"
+        },
+        {
+          "player_id": "11608",
+          "name": "Isaiah Williams",
+          "position": "WR",
+          "team": "NYJ"
         },
         {
           "player_id": "11626",
