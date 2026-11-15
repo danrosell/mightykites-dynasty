@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-15T11:11:11.334Z",
+  "generated_at": "2026-11-15T17:50:00.900Z",
   "source": "Sleeper public API",
   "username": "TheMightyKites",
   "nfl_week": 10,
@@ -61,7 +61,7 @@
       "leg": 10,
       "reserve_slots": 3,
       "reserve_allow_cov": 1,
-      "daily_waivers_last_ran": 14
+      "daily_waivers_last_ran": 15
     },
     "scoring_settings": {
       "sack": 2,
@@ -403,7 +403,7 @@
   "my_matchup": {
     "me": {
       "team": "TheMightyKites",
-      "points": 8.7
+      "points": 11.72
     },
     "opponent": {
       "team": "kylec55",
@@ -507,10 +507,10 @@
           "team": "HOU"
         },
         {
-          "player_id": "9756",
-          "name": "Jordan Addison",
+          "player_id": "12634",
+          "name": "Jordan Watkins",
           "position": "WR",
-          "team": "MIN"
+          "team": "SF"
         },
         {
           "player_id": "12718",
@@ -567,12 +567,6 @@
           "name": "Luther Burden III",
           "position": "WR",
           "team": "CHI"
-        },
-        {
-          "player_id": "12634",
-          "name": "Jordan Watkins",
-          "position": "WR",
-          "team": "SF"
         },
         {
           "player_id": "3271",
@@ -639,6 +633,12 @@
           "name": "Sean Tucker",
           "position": "RB",
           "team": "TB"
+        },
+        {
+          "player_id": "9756",
+          "name": "Jordan Addison",
+          "position": "WR",
+          "team": "MIN"
         }
       ],
       "taxi": [
@@ -3083,10 +3083,10 @@
           "team": "BUF"
         },
         {
-          "player_id": "11576",
-          "name": "Braelon Allen",
+          "player_id": "7611",
+          "name": "Rhamondre Stevenson",
           "position": "RB",
-          "team": "NYJ"
+          "team": "NE"
         },
         {
           "player_id": "11632",
@@ -3131,6 +3131,12 @@
           "name": "J.J. McCarthy",
           "position": "QB",
           "team": "NYG"
+        },
+        {
+          "player_id": "11576",
+          "name": "Braelon Allen",
+          "position": "RB",
+          "team": "NYJ"
         },
         {
           "player_id": "11618",
@@ -3209,12 +3215,6 @@
           "name": "Michael Pittman Jr.",
           "position": "WR",
           "team": "PIT"
-        },
-        {
-          "player_id": "7611",
-          "name": "Rhamondre Stevenson",
-          "position": "RB",
-          "team": "NE"
         },
         {
           "player_id": "9225",

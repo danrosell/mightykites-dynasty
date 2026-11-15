@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-15T11:11:10.457Z",
+  "generated_at": "2026-11-15T17:49:59.900Z",
   "source": "Sleeper public API",
   "username": "TheMightyKites",
   "nfl_week": 10,
@@ -61,7 +61,7 @@
       "leg": 10,
       "reserve_slots": 3,
       "reserve_allow_cov": 0,
-      "daily_waivers_last_ran": 14
+      "daily_waivers_last_ran": 15
     },
     "scoring_settings": {
       "sack": 1,
@@ -804,10 +804,10 @@
           "team": "CLE"
         },
         {
-          "player_id": "0",
-          "name": "0",
-          "position": "—",
-          "team": "FA"
+          "player_id": "3271",
+          "name": "Tyler Higbee",
+          "position": "TE",
+          "team": "LAR"
         },
         {
           "player_id": "13281",
@@ -816,10 +816,10 @@
           "team": "NO"
         },
         {
-          "player_id": "3271",
-          "name": "Tyler Higbee",
-          "position": "TE",
-          "team": "LAR"
+          "player_id": "11625",
+          "name": "Adonai Mitchell",
+          "position": "WR",
+          "team": "NYJ"
         },
         {
           "player_id": "4046",
@@ -834,18 +834,6 @@
           "name": "Xavier Worthy",
           "position": "WR",
           "team": "KC"
-        },
-        {
-          "player_id": "11625",
-          "name": "Adonai Mitchell",
-          "position": "WR",
-          "team": "NYJ"
-        },
-        {
-          "player_id": "12509",
-          "name": "Tre' Harris",
-          "position": "WR",
-          "team": "LAC"
         },
         {
           "player_id": "12545",
@@ -864,6 +852,12 @@
           "name": "Reggie Virgil",
           "position": "WR",
           "team": "ARI"
+        },
+        {
+          "player_id": "9508",
+          "name": "Tyjae Spears",
+          "position": "RB",
+          "team": "TEN"
         }
       ],
       "taxi": [
@@ -898,12 +892,6 @@
           "name": "T.J. Hockenson",
           "position": "TE",
           "team": "MIN"
-        },
-        {
-          "player_id": "9508",
-          "name": "Tyjae Spears",
-          "position": "RB",
-          "team": "TEN"
         }
       ],
       "picks": [
@@ -1170,10 +1158,10 @@
       "rank": 10,
       "starters": [
         {
-          "player_id": "13405",
-          "name": "Kaytron Allen",
+          "player_id": "11579",
+          "name": "Audric Estime",
           "position": "RB",
-          "team": "MIA"
+          "team": "NO"
         },
         {
           "player_id": "8132",
@@ -1200,10 +1188,10 @@
           "team": "IND"
         },
         {
-          "player_id": "11571",
-          "name": "Isaiah Davis",
-          "position": "RB",
-          "team": "NYJ"
+          "player_id": "12718",
+          "name": "Konata Mumpfield",
+          "position": "WR",
+          "team": "LAR"
         },
         {
           "player_id": "3214",
@@ -1226,10 +1214,10 @@
           "team": "CHI"
         },
         {
-          "player_id": "11579",
-          "name": "Audric Estime",
+          "player_id": "11571",
+          "name": "Isaiah Davis",
           "position": "RB",
-          "team": "NO"
+          "team": "NYJ"
         },
         {
           "player_id": "12536",
@@ -1238,16 +1226,16 @@
           "team": "HOU"
         },
         {
-          "player_id": "12718",
-          "name": "Konata Mumpfield",
-          "position": "WR",
-          "team": "LAR"
-        },
-        {
           "player_id": "13317",
           "name": "Ted Hurst III",
           "position": "WR",
           "team": "TB"
+        },
+        {
+          "player_id": "13405",
+          "name": "Kaytron Allen",
+          "position": "RB",
+          "team": "MIA"
         }
       ],
       "taxi": [
@@ -1942,6 +1930,12 @@
           "team": "NYG"
         },
         {
+          "player_id": "12494",
+          "name": "Kyle McCord",
+          "position": "QB",
+          "team": "MIA"
+        },
+        {
           "player_id": "12514",
           "name": "Emeka Egbuka",
           "position": "WR",
@@ -2091,10 +2085,10 @@
           "team": "CIN"
         },
         {
-          "player_id": "4983",
-          "name": "DJ Moore",
+          "player_id": "8146",
+          "name": "Garrett Wilson",
           "position": "WR",
-          "team": "BUF"
+          "team": "NYJ"
         },
         {
           "player_id": "5012",
@@ -2109,10 +2103,10 @@
           "team": "NE"
         },
         {
-          "player_id": "8146",
-          "name": "Garrett Wilson",
+          "player_id": "4983",
+          "name": "DJ Moore",
           "position": "WR",
-          "team": "NYJ"
+          "team": "BUF"
         },
         {
           "player_id": "4984",
@@ -2273,10 +2267,10 @@
           "team": "BAL"
         },
         {
-          "player_id": "11647",
-          "name": "Kimani Vidal",
+          "player_id": "12471",
+          "name": "DJ Giddens",
           "position": "RB",
-          "team": "LAC"
+          "team": "IND"
         }
       ],
       "bench": [
@@ -2287,16 +2281,16 @@
           "team": "MIA"
         },
         {
+          "player_id": "11647",
+          "name": "Kimani Vidal",
+          "position": "RB",
+          "team": "LAC"
+        },
+        {
           "player_id": "11834",
           "name": "Devaughn Vele",
           "position": "WR",
           "team": "NO"
-        },
-        {
-          "player_id": "12471",
-          "name": "DJ Giddens",
-          "position": "RB",
-          "team": "IND"
         },
         {
           "player_id": "9502",
@@ -2829,10 +2823,10 @@
           "team": "PIT"
         },
         {
-          "player_id": "12498",
-          "name": "Mason Taylor",
+          "player_id": "10231",
+          "name": "Elijah Higgins",
           "position": "TE",
-          "team": "NYJ"
+          "team": "ARI"
         },
         {
           "player_id": "4035",
@@ -2855,6 +2849,12 @@
           "team": "TB"
         },
         {
+          "player_id": "12498",
+          "name": "Mason Taylor",
+          "position": "TE",
+          "team": "NYJ"
+        },
+        {
           "player_id": "3321",
           "name": "Tyreek Hill",
           "position": "WR",
@@ -2871,12 +2871,6 @@
           "name": "Jahan Dotson",
           "position": "WR",
           "team": "ATL"
-        },
-        {
-          "player_id": "8135",
-          "name": "Treylon Burks",
-          "position": "WR",
-          "team": "WAS"
         }
       ],
       "taxi": [
@@ -3194,10 +3188,10 @@
           "team": "NE"
         },
         {
-          "player_id": "4217",
-          "name": "George Kittle",
+          "player_id": "13421",
+          "name": "Eli Raridon",
           "position": "TE",
-          "team": "SF"
+          "team": "NE"
         },
         {
           "player_id": "13337",
@@ -3206,10 +3200,10 @@
           "team": "KC"
         },
         {
-          "player_id": "13421",
-          "name": "Eli Raridon",
+          "player_id": "4217",
+          "name": "George Kittle",
           "position": "TE",
-          "team": "NE"
+          "team": "SF"
         },
         {
           "player_id": "11564",

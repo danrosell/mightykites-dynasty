@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-15T11:11:11.079Z",
+  "generated_at": "2026-11-15T17:50:00.660Z",
   "source": "Sleeper public API",
   "username": "TheMightyKites",
   "nfl_week": 10,
@@ -58,7 +58,7 @@
       "leg": 10,
       "reserve_slots": 2,
       "reserve_allow_cov": 0,
-      "daily_waivers_last_ran": 14
+      "daily_waivers_last_ran": 15
     },
     "scoring_settings": {
       "sack": 1,
@@ -416,11 +416,11 @@
   "my_matchup": {
     "me": {
       "team": "TheMightyKites",
-      "points": 27.2
+      "points": 57.2
     },
     "opponent": {
       "team": "kherri04",
-      "points": 0,
+      "points": 4.7,
       "roster_id": 10
     }
   },
@@ -811,10 +811,10 @@
           "team": "DET"
         },
         {
-          "player_id": "8151",
-          "name": "Kenneth Walker III",
+          "player_id": "9224",
+          "name": "Chase Brown",
           "position": "RB",
-          "team": "KC"
+          "team": "CIN"
         },
         {
           "player_id": "9488",
@@ -847,10 +847,10 @@
           "team": "IND"
         },
         {
-          "player_id": "9224",
-          "name": "Chase Brown",
-          "position": "RB",
-          "team": "CIN"
+          "player_id": "8137",
+          "name": "George Pickens",
+          "position": "WR",
+          "team": "DAL"
         }
       ],
       "bench": [
@@ -939,10 +939,10 @@
           "team": "LAR"
         },
         {
-          "player_id": "8137",
-          "name": "George Pickens",
-          "position": "WR",
-          "team": "DAL"
+          "player_id": "8151",
+          "name": "Kenneth Walker III",
+          "position": "RB",
+          "team": "KC"
         },
         {
           "player_id": "8180",
@@ -1508,10 +1508,10 @@
           "team": "TEN"
         },
         {
-          "player_id": "13279",
-          "name": "Carnell Tate",
+          "player_id": "12509",
+          "name": "Tre' Harris",
           "position": "WR",
-          "team": "TEN"
+          "team": "LAC"
         },
         {
           "player_id": "9500",
@@ -1576,10 +1576,10 @@
           "team": "CLE"
         },
         {
-          "player_id": "12509",
-          "name": "Tre' Harris",
+          "player_id": "13279",
+          "name": "Carnell Tate",
           "position": "WR",
-          "team": "LAC"
+          "team": "TEN"
         },
         {
           "player_id": "13311",
@@ -2716,10 +2716,10 @@
       "rank": 3,
       "starters": [
         {
-          "player_id": "11560",
-          "name": "Caleb Williams",
+          "player_id": "4046",
+          "name": "Patrick Mahomes",
           "position": "QB",
-          "team": "CHI"
+          "team": "KC"
         },
         {
           "player_id": "8150",
@@ -2734,10 +2734,10 @@
           "team": "NYJ"
         },
         {
-          "player_id": "9493",
-          "name": "Puka Nacua",
+          "player_id": "4177",
+          "name": "Mack Hollins",
           "position": "WR",
-          "team": "LAR"
+          "team": "NE"
         },
         {
           "player_id": "8148",
@@ -2771,6 +2771,12 @@
         }
       ],
       "bench": [
+        {
+          "player_id": "11560",
+          "name": "Caleb Williams",
+          "position": "QB",
+          "team": "CHI"
+        },
         {
           "player_id": "11834",
           "name": "Devaughn Vele",
@@ -2826,18 +2832,6 @@
           "team": "CLE"
         },
         {
-          "player_id": "4046",
-          "name": "Patrick Mahomes",
-          "position": "QB",
-          "team": "KC"
-        },
-        {
-          "player_id": "4177",
-          "name": "Mack Hollins",
-          "position": "WR",
-          "team": "NE"
-        },
-        {
           "player_id": "4663",
           "name": "Austin Ekeler",
           "position": "RB",
@@ -2884,6 +2878,12 @@
           "name": "Dontayvion Wicks",
           "position": "WR",
           "team": "PHI"
+        },
+        {
+          "player_id": "9493",
+          "name": "Puka Nacua",
+          "position": "WR",
+          "team": "LAR"
         },
         {
           "player_id": "9494",
@@ -3195,7 +3195,7 @@
           "player_id": "7607",
           "name": "Michael Carter",
           "position": "RB",
-          "team": "TEN"
+          "team": "FA"
         },
         {
           "player_id": "7608",
