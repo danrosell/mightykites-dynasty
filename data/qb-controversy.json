@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-16T02:50:20.930Z",
+  "generated_at": "2026-11-16T11:41:20.921Z",
   "source": "Sleeper public API",
   "username": "TheMightyKites",
   "nfl_week": 10,
@@ -416,7 +416,7 @@
     },
     "opponent": {
       "team": "Golden Kupp",
-      "points": 79.16,
+      "points": 94.18,
       "roster_id": 5
     }
   },
