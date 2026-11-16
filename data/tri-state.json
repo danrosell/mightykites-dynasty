@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-15T22:56:52.762Z",
+  "generated_at": "2026-11-16T02:50:21.623Z",
   "source": "Sleeper public API",
   "username": "TheMightyKites",
   "nfl_week": 10,
@@ -403,11 +403,11 @@
   "my_matchup": {
     "me": {
       "team": "TheMightyKites",
-      "points": 89.36
+      "points": 108.86
     },
     "opponent": {
       "team": "kylec55",
-      "points": 52.68,
+      "points": 71.58,
       "roster_id": 4
     }
   },
