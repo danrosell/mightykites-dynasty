@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-11-16T22:17:14.097Z",
+  "generated_at": "2026-11-17T05:07:17.011Z",
   "source": "Sleeper public API",
   "username": "TheMightyKites",
-  "nfl_week": 10,
+  "nfl_week": 11,
   "nfl_season": "2026",
   "league": {
     "id": "1393340029132079104",
@@ -319,12 +319,12 @@
   "my_matchup": {
     "me": {
       "team": "TheMightyKites",
-      "points": 81.36
+      "points": 0
     },
     "opponent": {
-      "team": "Diamond Dogs",
-      "points": 104.92,
-      "roster_id": 3
+      "team": "The Jersey Syndicate",
+      "points": 0,
+      "roster_id": 5
     }
   },
   "my_picks": [
@@ -1536,8 +1536,8 @@
           "team": "HOU"
         },
         {
-          "player_id": "11635",
-          "name": "Ladd McConkey",
+          "player_id": "12509",
+          "name": "Tre' Harris",
           "position": "WR",
           "team": "LAC"
         },
@@ -1586,8 +1586,8 @@
           "team": "GB"
         },
         {
-          "player_id": "12509",
-          "name": "Tre' Harris",
+          "player_id": "11635",
+          "name": "Ladd McConkey",
           "position": "WR",
           "team": "LAC"
         },
@@ -2439,16 +2439,16 @@
       "rank": 7,
       "starters": [
         {
-          "player_id": "12491",
-          "name": "Corey Kiner",
+          "player_id": "5892",
+          "name": "David Montgomery",
           "position": "RB",
-          "team": "NE"
+          "team": "HOU"
         },
         {
-          "player_id": "9753",
-          "name": "Zach Charbonnet",
+          "player_id": "4147",
+          "name": "Samaje Perine",
           "position": "RB",
-          "team": "SEA"
+          "team": "CIN"
         },
         {
           "player_id": "7547",
@@ -2463,10 +2463,10 @@
           "team": "HOU"
         },
         {
-          "player_id": "9484",
-          "name": "Tucker Kraft",
+          "player_id": "4993",
+          "name": "Mike Gesicki",
           "position": "TE",
-          "team": "GB"
+          "team": "CIN"
         },
         {
           "player_id": "11610",
@@ -2495,16 +2495,10 @@
           "team": "GB"
         },
         {
-          "player_id": "4147",
-          "name": "Samaje Perine",
+          "player_id": "12491",
+          "name": "Corey Kiner",
           "position": "RB",
-          "team": "CIN"
-        },
-        {
-          "player_id": "4993",
-          "name": "Mike Gesicki",
-          "position": "TE",
-          "team": "CIN"
+          "team": "NE"
         },
         {
           "player_id": "5849",
@@ -2513,10 +2507,16 @@
           "team": "MIN"
         },
         {
-          "player_id": "5892",
-          "name": "David Montgomery",
+          "player_id": "9484",
+          "name": "Tucker Kraft",
+          "position": "TE",
+          "team": "GB"
+        },
+        {
+          "player_id": "9753",
+          "name": "Zach Charbonnet",
           "position": "RB",
-          "team": "HOU"
+          "team": "SEA"
         }
       ],
       "taxi": [

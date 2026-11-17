@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-11-16T22:17:14.513Z",
+  "generated_at": "2026-11-17T05:07:17.388Z",
   "source": "Sleeper public API",
   "username": "TheMightyKites",
-  "nfl_week": 10,
+  "nfl_week": 11,
   "nfl_season": "2026",
   "league": {
     "id": "1312927511985807360",
@@ -412,12 +412,12 @@
   "my_matchup": {
     "me": {
       "team": "The Ham Cannons",
-      "points": 97.43
+      "points": 0
     },
     "opponent": {
-      "team": "Golden Kupp",
-      "points": 94.18,
-      "roster_id": 5
+      "team": "James Jones #1 WR",
+      "points": 0,
+      "roster_id": 14
     }
   },
   "my_picks": [
@@ -1173,7 +1173,7 @@
           "player_id": "12457",
           "name": "Jaydon Blue",
           "position": "RB",
-          "team": "FA"
+          "team": "PHI"
         },
         {
           "player_id": "12534",

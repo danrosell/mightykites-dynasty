@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-11-16T22:17:15.327Z",
+  "generated_at": "2026-11-17T05:07:18.023Z",
   "source": "Sleeper public API",
   "username": "TheMightyKites",
-  "nfl_week": 10,
+  "nfl_week": 11,
   "nfl_season": "2026",
   "league": {
     "id": "1312173783108300800",
@@ -403,12 +403,12 @@
   "my_matchup": {
     "me": {
       "team": "TheMightyKites",
-      "points": 123.46
+      "points": 0
     },
     "opponent": {
-      "team": "kylec55",
-      "points": 71.58,
-      "roster_id": 4
+      "team": "The Big Tuna",
+      "points": 0,
+      "roster_id": 6
     }
   },
   "my_picks": [

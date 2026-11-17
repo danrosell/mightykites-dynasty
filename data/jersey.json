@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-11-16T22:17:14.989Z",
+  "generated_at": "2026-11-17T05:07:17.722Z",
   "source": "Sleeper public API",
   "username": "TheMightyKites",
-  "nfl_week": 10,
+  "nfl_week": 11,
   "nfl_season": "2026",
   "league": {
     "id": "1312464433087250432",
@@ -416,12 +416,12 @@
   "my_matchup": {
     "me": {
       "team": "TheMightyKites",
-      "points": 105.6
+      "points": 0
     },
     "opponent": {
-      "team": "kherri04",
-      "points": 104.1,
-      "roster_id": 10
+      "team": "LSU BOYZZZ",
+      "points": 0,
+      "roster_id": 7
     }
   },
   "my_picks": [
@@ -2164,7 +2164,7 @@
           "player_id": "12457",
           "name": "Jaydon Blue",
           "position": "RB",
-          "team": "FA"
+          "team": "PHI"
         },
         {
           "player_id": "12504",
