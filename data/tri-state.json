@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-17T14:37:33.020Z",
+  "generated_at": "2026-11-17T22:58:27.490Z",
   "source": "Sleeper public API",
   "username": "TheMightyKites",
   "nfl_week": 11,
@@ -11,7 +11,7 @@
     "status": "in_season",
     "settings": {
       "best_ball": 0,
-      "last_report": 9,
+      "last_report": 10,
       "waiver_budget": 200,
       "disable_adds": 0,
       "divisions": 2,
@@ -501,28 +501,28 @@
           "team": "NYG"
         },
         {
-          "player_id": "12474",
-          "name": "Woody Marks",
+          "player_id": "8228",
+          "name": "Jaylen Warren",
           "position": "RB",
-          "team": "HOU"
+          "team": "PIT"
         },
         {
-          "player_id": "12634",
-          "name": "Jordan Watkins",
-          "position": "WR",
-          "team": "SF"
+          "player_id": "0",
+          "name": "0",
+          "position": "—",
+          "team": "FA"
         },
         {
-          "player_id": "12718",
-          "name": "Konata Mumpfield",
+          "player_id": "12519",
+          "name": "Luther Burden III",
           "position": "WR",
-          "team": "LAR"
+          "team": "CHI"
         },
         {
-          "player_id": "4177",
-          "name": "Mack Hollins",
-          "position": "WR",
-          "team": "NE"
+          "player_id": "0",
+          "name": "0",
+          "position": "—",
+          "team": "FA"
         },
         {
           "player_id": "8130",
@@ -531,10 +531,10 @@
           "team": "ARI"
         },
         {
-          "player_id": "8228",
-          "name": "Jaylen Warren",
-          "position": "RB",
-          "team": "PIT"
+          "player_id": "5012",
+          "name": "Mark Andrews",
+          "position": "TE",
+          "team": "BAL"
         },
         {
           "player_id": "3257",
@@ -563,10 +563,22 @@
           "team": "GB"
         },
         {
-          "player_id": "12519",
-          "name": "Luther Burden III",
+          "player_id": "12474",
+          "name": "Woody Marks",
+          "position": "RB",
+          "team": "HOU"
+        },
+        {
+          "player_id": "12634",
+          "name": "Jordan Watkins",
           "position": "WR",
-          "team": "CHI"
+          "team": "SF"
+        },
+        {
+          "player_id": "12718",
+          "name": "Konata Mumpfield",
+          "position": "WR",
+          "team": "LAR"
         },
         {
           "player_id": "3271",
@@ -585,12 +597,6 @@
           "name": "Christian Kirk",
           "position": "WR",
           "team": "SF"
-        },
-        {
-          "player_id": "5012",
-          "name": "Mark Andrews",
-          "position": "TE",
-          "team": "BAL"
         },
         {
           "player_id": "6783",
@@ -1303,10 +1309,10 @@
       "rank": 10,
       "starters": [
         {
-          "player_id": "4017",
-          "name": "Deshaun Watson",
+          "player_id": "11557",
+          "name": "Joe Milton",
           "position": "QB",
-          "team": "CLE"
+          "team": "PHI"
         },
         {
           "player_id": "8132",
@@ -1333,10 +1339,10 @@
           "team": "BUF"
         },
         {
-          "player_id": "13298",
-          "name": "KC Concepcion Jr.",
+          "player_id": "13274",
+          "name": "Germie Bernard",
           "position": "WR",
-          "team": "CLE"
+          "team": "PIT"
         },
         {
           "player_id": "7002",
@@ -1345,16 +1351,16 @@
           "team": "NO"
         },
         {
-          "player_id": "13274",
-          "name": "Germie Bernard",
-          "position": "WR",
-          "team": "PIT"
+          "player_id": "12533",
+          "name": "Jacory Croskey-Merritt",
+          "position": "RB",
+          "team": "WAS"
         },
         {
-          "player_id": "8172",
-          "name": "Greg Dulcich",
-          "position": "TE",
-          "team": "MIA"
+          "player_id": "13293",
+          "name": "Ja'Kobi Lane",
+          "position": "WR",
+          "team": "BAL"
         }
       ],
       "bench": [
@@ -1363,12 +1369,6 @@
           "name": "Roschon Johnson",
           "position": "RB",
           "team": "CHI"
-        },
-        {
-          "player_id": "11557",
-          "name": "Joe Milton",
-          "position": "QB",
-          "team": "PHI"
         },
         {
           "player_id": "11588",
@@ -1389,12 +1389,6 @@
           "team": "LAC"
         },
         {
-          "player_id": "12533",
-          "name": "Jacory Croskey-Merritt",
-          "position": "RB",
-          "team": "WAS"
-        },
-        {
           "player_id": "12540",
           "name": "Chimere Dike",
           "position": "WR",
@@ -1413,10 +1407,10 @@
           "team": "LAR"
         },
         {
-          "player_id": "13293",
-          "name": "Ja'Kobi Lane",
+          "player_id": "13298",
+          "name": "KC Concepcion Jr.",
           "position": "WR",
-          "team": "BAL"
+          "team": "CLE"
         },
         {
           "player_id": "13317",
@@ -1437,10 +1431,22 @@
           "team": "FA"
         },
         {
+          "player_id": "4017",
+          "name": "Deshaun Watson",
+          "position": "QB",
+          "team": "CLE"
+        },
+        {
           "player_id": "8119",
           "name": "Jahan Dotson",
           "position": "WR",
           "team": "ATL"
+        },
+        {
+          "player_id": "8172",
+          "name": "Greg Dulcich",
+          "position": "TE",
+          "team": "MIA"
         },
         {
           "player_id": "8676",
@@ -2798,10 +2804,10 @@
           "team": "KC"
         },
         {
-          "player_id": "9509",
-          "name": "Bijan Robinson",
+          "player_id": "8155",
+          "name": "Breece Hall",
           "position": "RB",
-          "team": "ATL"
+          "team": "NYJ"
         },
         {
           "player_id": "12490",
@@ -2828,16 +2834,16 @@
           "team": "KC"
         },
         {
-          "player_id": "7553",
-          "name": "Kyle Pitts Sr.",
+          "player_id": "9482",
+          "name": "Michael Mayer",
           "position": "TE",
-          "team": "ATL"
+          "team": "LV"
         },
         {
-          "player_id": "8155",
-          "name": "Breece Hall",
-          "position": "RB",
-          "team": "NYJ"
+          "player_id": "13301",
+          "name": "Antonio Williams",
+          "position": "WR",
+          "team": "WAS"
         },
         {
           "player_id": "3163",
@@ -2884,12 +2890,6 @@
           "team": "TEN"
         },
         {
-          "player_id": "13301",
-          "name": "Antonio Williams",
-          "position": "WR",
-          "team": "WAS"
-        },
-        {
           "player_id": "13394",
           "name": "Josh Cameron",
           "position": "WR",
@@ -2932,10 +2932,16 @@
           "team": "BUF"
         },
         {
-          "player_id": "9482",
-          "name": "Michael Mayer",
+          "player_id": "7553",
+          "name": "Kyle Pitts Sr.",
           "position": "TE",
-          "team": "LV"
+          "team": "ATL"
+        },
+        {
+          "player_id": "9509",
+          "name": "Bijan Robinson",
+          "position": "RB",
+          "team": "ATL"
         }
       ],
       "taxi": [

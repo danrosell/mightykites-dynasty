@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-17T14:37:32.009Z",
+  "generated_at": "2026-11-17T22:58:26.691Z",
   "source": "Sleeper public API",
   "username": "TheMightyKites",
   "nfl_week": 11,
@@ -11,7 +11,7 @@
     "status": "in_season",
     "settings": {
       "best_ball": 0,
-      "last_report": 9,
+      "last_report": 10,
       "waiver_budget": 200,
       "disable_adds": 0,
       "capacity_override": 0,
@@ -61,7 +61,7 @@
       "daily_waivers_base": 4,
       "reserve_slots": 2,
       "reserve_allow_cov": 1,
-      "daily_waivers_last_ran": 16
+      "daily_waivers_last_ran": 17
     },
     "scoring_settings": {
       "sack": 1,
@@ -1409,10 +1409,10 @@
           "team": "NO"
         },
         {
-          "player_id": "13346",
-          "name": "Denzel Boston",
+          "player_id": "8137",
+          "name": "George Pickens",
           "position": "WR",
-          "team": "CLE"
+          "team": "DAL"
         },
         {
           "player_id": "13276",
@@ -1439,10 +1439,10 @@
           "team": "BUF"
         },
         {
-          "player_id": "8137",
-          "name": "George Pickens",
-          "position": "WR",
-          "team": "DAL"
+          "player_id": "7567",
+          "name": "Kenny Gainwell",
+          "position": "RB",
+          "team": "TB"
         }
       ],
       "bench": [
@@ -1469,6 +1469,12 @@
           "name": "Kevin Coleman Jr.",
           "position": "WR",
           "team": "MIA"
+        },
+        {
+          "player_id": "13346",
+          "name": "Denzel Boston",
+          "position": "WR",
+          "team": "CLE"
         },
         {
           "player_id": "13413",
@@ -1499,12 +1505,6 @@
           "name": "Darnell Mooney",
           "position": "WR",
           "team": "NYG"
-        },
-        {
-          "player_id": "7567",
-          "name": "Kenny Gainwell",
-          "position": "RB",
-          "team": "TB"
         },
         {
           "player_id": "7591",
@@ -2181,7 +2181,7 @@
     {
       "roster_id": 7,
       "owner_id": "998355322244861952",
-      "team_name": "nickdemarinis",
+      "team_name": "Denim Chickens",
       "is_me": false,
       "record": "15-5",
       "wins": 15,
@@ -2202,10 +2202,10 @@
           "team": "BUF"
         },
         {
-          "player_id": "11586",
-          "name": "Blake Corum",
+          "player_id": "5995",
+          "name": "Justice Hill",
           "position": "RB",
-          "team": "LAR"
+          "team": "BAL"
         },
         {
           "player_id": "8134",
@@ -2232,31 +2232,25 @@
           "team": "PIT"
         },
         {
-          "player_id": "12718",
-          "name": "Konata Mumpfield",
-          "position": "WR",
-          "team": "LAR"
-        },
-        {
-          "player_id": "5995",
-          "name": "Justice Hill",
-          "position": "RB",
-          "team": "BAL"
-        },
-        {
-          "player_id": "11559",
-          "name": "Michael Penix Jr.",
-          "position": "QB",
-          "team": "ATL"
-        }
-      ],
-      "bench": [
-        {
           "player_id": "10218",
           "name": "Xavier Hutchinson",
           "position": "WR",
           "team": "HOU"
         },
+        {
+          "player_id": "6806",
+          "name": "J.K. Dobbins",
+          "position": "RB",
+          "team": "DEN"
+        },
+        {
+          "player_id": "12522",
+          "name": "Cam Ward",
+          "position": "QB",
+          "team": "TEN"
+        }
+      ],
+      "bench": [
         {
           "player_id": "10232",
           "name": "Michael Wilson",
@@ -2264,10 +2258,22 @@
           "team": "ARI"
         },
         {
+          "player_id": "11559",
+          "name": "Michael Penix Jr.",
+          "position": "QB",
+          "team": "ATL"
+        },
+        {
           "player_id": "11574",
           "name": "Dylan Laube",
           "position": "RB",
           "team": "LV"
+        },
+        {
+          "player_id": "11586",
+          "name": "Blake Corum",
+          "position": "RB",
+          "team": "LAR"
         },
         {
           "player_id": "11762",
@@ -2282,10 +2288,10 @@
           "team": "CLE"
         },
         {
-          "player_id": "12522",
-          "name": "Cam Ward",
-          "position": "QB",
-          "team": "TEN"
+          "player_id": "12718",
+          "name": "Konata Mumpfield",
+          "position": "WR",
+          "team": "LAR"
         },
         {
           "player_id": "13287",
@@ -2316,12 +2322,6 @@
           "name": "Noah Fant",
           "position": "TE",
           "team": "NO"
-        },
-        {
-          "player_id": "6806",
-          "name": "J.K. Dobbins",
-          "position": "RB",
-          "team": "DEN"
         },
         {
           "player_id": "8121",
@@ -2363,7 +2363,7 @@
           "season": "2026",
           "round": 1,
           "original_roster_id": 7,
-          "original_team": "nickdemarinis",
+          "original_team": "Denim Chickens",
           "is_own": true
         },
         {
@@ -2377,21 +2377,21 @@
           "season": "2026",
           "round": 3,
           "original_roster_id": 7,
-          "original_team": "nickdemarinis",
+          "original_team": "Denim Chickens",
           "is_own": true
         },
         {
           "season": "2027",
           "round": 2,
           "original_roster_id": 7,
-          "original_team": "nickdemarinis",
+          "original_team": "Denim Chickens",
           "is_own": true
         },
         {
           "season": "2027",
           "round": 3,
           "original_roster_id": 7,
-          "original_team": "nickdemarinis",
+          "original_team": "Denim Chickens",
           "is_own": true
         },
         {
@@ -2405,42 +2405,42 @@
           "season": "2028",
           "round": 1,
           "original_roster_id": 7,
-          "original_team": "nickdemarinis",
+          "original_team": "Denim Chickens",
           "is_own": true
         },
         {
           "season": "2028",
           "round": 2,
           "original_roster_id": 7,
-          "original_team": "nickdemarinis",
+          "original_team": "Denim Chickens",
           "is_own": true
         },
         {
           "season": "2028",
           "round": 3,
           "original_roster_id": 7,
-          "original_team": "nickdemarinis",
+          "original_team": "Denim Chickens",
           "is_own": true
         },
         {
           "season": "2029",
           "round": 1,
           "original_roster_id": 7,
-          "original_team": "nickdemarinis",
+          "original_team": "Denim Chickens",
           "is_own": true
         },
         {
           "season": "2029",
           "round": 2,
           "original_roster_id": 7,
-          "original_team": "nickdemarinis",
+          "original_team": "Denim Chickens",
           "is_own": true
         },
         {
           "season": "2029",
           "round": 3,
           "original_roster_id": 7,
-          "original_team": "nickdemarinis",
+          "original_team": "Denim Chickens",
           "is_own": true
         }
       ]
@@ -3454,7 +3454,7 @@
           "season": "2026",
           "round": 2,
           "original_roster_id": 7,
-          "original_team": "nickdemarinis",
+          "original_team": "Denim Chickens",
           "is_own": false
         },
         {
@@ -3468,7 +3468,7 @@
           "season": "2027",
           "round": 1,
           "original_roster_id": 7,
-          "original_team": "nickdemarinis",
+          "original_team": "Denim Chickens",
           "is_own": false
         },
         {
@@ -4100,10 +4100,10 @@
           "team": "WAS"
         },
         {
-          "player_id": "12506",
-          "name": "Harold Fannin Jr.",
+          "player_id": "11599",
+          "name": "Cade Stover",
           "position": "TE",
-          "team": "CLE"
+          "team": "HOU"
         },
         {
           "player_id": "9508",
@@ -4118,10 +4118,10 @@
           "team": "CAR"
         },
         {
-          "player_id": "11370",
-          "name": "Chris Brooks",
-          "position": "RB",
-          "team": "GB"
+          "player_id": "11608",
+          "name": "Isaiah Williams",
+          "position": "WR",
+          "team": "NYJ"
         }
       ],
       "bench": [
@@ -4130,6 +4130,12 @@
           "name": "Cedric Tillman",
           "position": "WR",
           "team": "NO"
+        },
+        {
+          "player_id": "11370",
+          "name": "Chris Brooks",
+          "position": "RB",
+          "team": "GB"
         },
         {
           "player_id": "11571",
@@ -4142,18 +4148,6 @@
           "name": "Will Shipley",
           "position": "RB",
           "team": "PHI"
-        },
-        {
-          "player_id": "11599",
-          "name": "Cade Stover",
-          "position": "TE",
-          "team": "HOU"
-        },
-        {
-          "player_id": "11608",
-          "name": "Isaiah Williams",
-          "position": "WR",
-          "team": "NYJ"
         },
         {
           "player_id": "11628",
@@ -4171,6 +4165,12 @@
           "player_id": "12503",
           "name": "Isaiah Bond",
           "position": "WR",
+          "team": "CLE"
+        },
+        {
+          "player_id": "12506",
+          "name": "Harold Fannin Jr.",
+          "position": "TE",
           "team": "CLE"
         },
         {

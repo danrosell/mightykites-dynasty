@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-17T14:37:32.650Z",
+  "generated_at": "2026-11-17T22:58:27.130Z",
   "source": "Sleeper public API",
   "username": "TheMightyKites",
   "nfl_week": 11,
@@ -11,7 +11,7 @@
     "status": "in_season",
     "settings": {
       "best_ball": 0,
-      "last_report": 9,
+      "last_report": 10,
       "waiver_budget": 200,
       "disable_adds": 0,
       "divisions": 0,
@@ -58,7 +58,7 @@
       "leg": 10,
       "reserve_slots": 2,
       "reserve_allow_cov": 0,
-      "daily_waivers_last_ran": 16
+      "daily_waivers_last_ran": 17
     },
     "scoring_settings": {
       "sack": 1,
@@ -533,10 +533,10 @@
           "team": "DAL"
         },
         {
-          "player_id": "3286",
-          "name": "Demarcus Robinson",
+          "player_id": "13296",
+          "name": "Caleb Douglas",
           "position": "WR",
-          "team": "SF"
+          "team": "MIA"
         },
         {
           "player_id": "5846",
@@ -557,10 +557,10 @@
           "team": "TEN"
         },
         {
-          "player_id": "10236",
-          "name": "Dalton Kincaid",
-          "position": "TE",
-          "team": "BUF"
+          "player_id": "6790",
+          "name": "D'Andre Swift",
+          "position": "RB",
+          "team": "CHI"
         }
       ],
       "bench": [
@@ -569,6 +569,12 @@
           "name": "Michael Wilson",
           "position": "WR",
           "team": "ARI"
+        },
+        {
+          "player_id": "10236",
+          "name": "Dalton Kincaid",
+          "position": "TE",
+          "team": "BUF"
         },
         {
           "player_id": "11557",
@@ -607,12 +613,6 @@
           "team": "CIN"
         },
         {
-          "player_id": "13296",
-          "name": "Caleb Douglas",
-          "position": "WR",
-          "team": "MIA"
-        },
-        {
           "player_id": "13411",
           "name": "Zavion Thomas",
           "position": "WR",
@@ -631,6 +631,12 @@
           "team": "NYJ"
         },
         {
+          "player_id": "3286",
+          "name": "Demarcus Robinson",
+          "position": "WR",
+          "team": "SF"
+        },
+        {
           "player_id": "4018",
           "name": "Joe Mixon",
           "position": "RB",
@@ -647,12 +653,6 @@
           "name": "Tua Tagovailoa",
           "position": "QB",
           "team": "ATL"
-        },
-        {
-          "player_id": "6790",
-          "name": "D'Andre Swift",
-          "position": "RB",
-          "team": "CHI"
         },
         {
           "player_id": "6803",
@@ -3676,10 +3676,10 @@
           "team": "MIA"
         },
         {
-          "player_id": "8132",
-          "name": "Tyler Allgeier",
+          "player_id": "12507",
+          "name": "Omarion Hampton",
           "position": "RB",
-          "team": "ARI"
+          "team": "LAC"
         },
         {
           "player_id": "11632",
@@ -3694,16 +3694,16 @@
           "team": "NYJ"
         },
         {
-          "player_id": "11610",
-          "name": "Malik Washington",
+          "player_id": "12519",
+          "name": "Luther Burden III",
           "position": "WR",
-          "team": "MIA"
+          "team": "CHI"
         },
         {
-          "player_id": "12506",
-          "name": "Harold Fannin Jr.",
+          "player_id": "7600",
+          "name": "Pat Freiermuth",
           "position": "TE",
-          "team": "CLE"
+          "team": "PIT"
         },
         {
           "player_id": "6801",
@@ -3712,10 +3712,10 @@
           "team": "CIN"
         },
         {
-          "player_id": "11624",
-          "name": "Xavier Worthy",
+          "player_id": "11610",
+          "name": "Malik Washington",
           "position": "WR",
-          "team": "KC"
+          "team": "MIA"
         }
       ],
       "bench": [
@@ -3730,6 +3730,12 @@
           "name": "Ray Davis",
           "position": "RB",
           "team": "BUF"
+        },
+        {
+          "player_id": "11624",
+          "name": "Xavier Worthy",
+          "position": "WR",
+          "team": "KC"
         },
         {
           "player_id": "11729",
@@ -3750,16 +3756,10 @@
           "team": "TEN"
         },
         {
-          "player_id": "12507",
-          "name": "Omarion Hampton",
-          "position": "RB",
-          "team": "LAC"
-        },
-        {
-          "player_id": "12519",
-          "name": "Luther Burden III",
-          "position": "WR",
-          "team": "CHI"
+          "player_id": "12506",
+          "name": "Harold Fannin Jr.",
+          "position": "TE",
+          "team": "CLE"
         },
         {
           "player_id": "12530",
@@ -3816,14 +3816,14 @@
           "team": "NO"
         },
         {
-          "player_id": "7600",
-          "name": "Pat Freiermuth",
-          "position": "TE",
-          "team": "PIT"
-        },
-        {
           "player_id": "8122",
           "name": "Zonovan Knight",
+          "position": "RB",
+          "team": "ARI"
+        },
+        {
+          "player_id": "8132",
+          "name": "Tyler Allgeier",
           "position": "RB",
           "team": "ARI"
         },

@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-17T14:37:31.570Z",
+  "generated_at": "2026-11-17T22:58:26.233Z",
   "source": "Sleeper public API",
   "username": "TheMightyKites",
   "nfl_week": 11,
@@ -11,7 +11,7 @@
     "status": "in_season",
     "settings": {
       "best_ball": 0,
-      "last_report": 9,
+      "last_report": 10,
       "waiver_budget": 200,
       "disable_adds": 0,
       "capacity_override": 0,
@@ -61,7 +61,7 @@
       "leg": 10,
       "reserve_slots": 3,
       "reserve_allow_cov": 0,
-      "daily_waivers_last_ran": 16
+      "daily_waivers_last_ran": 17
     },
     "scoring_settings": {
       "sack": 1,
@@ -589,10 +589,10 @@
       "rank": 4,
       "starters": [
         {
-          "player_id": "13277",
-          "name": "CJ Donaldson",
+          "player_id": "13345",
+          "name": "Jonah Coleman",
           "position": "RB",
-          "team": "NO"
+          "team": "DEN"
         },
         {
           "player_id": "8228",
@@ -613,22 +613,22 @@
           "team": "DAL"
         },
         {
-          "player_id": "12506",
-          "name": "Harold Fannin Jr.",
-          "position": "TE",
-          "team": "CLE"
-        },
-        {
-          "player_id": "8167",
-          "name": "Christian Watson",
-          "position": "WR",
-          "team": "GB"
-        },
-        {
           "player_id": "7002",
           "name": "Juwan Johnson",
           "position": "TE",
           "team": "NO"
+        },
+        {
+          "player_id": "13264",
+          "name": "Dohnte Meyers",
+          "position": "WR",
+          "team": "CIN"
+        },
+        {
+          "player_id": "6427",
+          "name": "Ashton Dulin",
+          "position": "WR",
+          "team": "IND"
         },
         {
           "player_id": "7523",
@@ -639,22 +639,22 @@
       ],
       "bench": [
         {
+          "player_id": "12506",
+          "name": "Harold Fannin Jr.",
+          "position": "TE",
+          "team": "CLE"
+        },
+        {
           "player_id": "12530",
           "name": "Travis Hunter",
           "position": "DB",
           "team": "JAX"
         },
         {
-          "player_id": "13264",
-          "name": "Dohnte Meyers",
-          "position": "WR",
-          "team": "CIN"
-        },
-        {
-          "player_id": "13345",
-          "name": "Jonah Coleman",
+          "player_id": "13277",
+          "name": "CJ Donaldson",
           "position": "RB",
-          "team": "DEN"
+          "team": "NO"
         },
         {
           "player_id": "13402",
@@ -663,10 +663,10 @@
           "team": "BUF"
         },
         {
-          "player_id": "6427",
-          "name": "Ashton Dulin",
+          "player_id": "8167",
+          "name": "Christian Watson",
           "position": "WR",
-          "team": "IND"
+          "team": "GB"
         }
       ],
       "taxi": [
@@ -780,34 +780,16 @@
       "rank": 12,
       "starters": [
         {
-          "player_id": "9511",
-          "name": "Keaton Mitchell",
+          "player_id": "9508",
+          "name": "Tyjae Spears",
           "position": "RB",
-          "team": "LAC"
+          "team": "TEN"
         },
         {
           "player_id": "8155",
           "name": "Breece Hall",
           "position": "RB",
           "team": "NYJ"
-        },
-        {
-          "player_id": "12501",
-          "name": "Matthew Golden",
-          "position": "WR",
-          "team": "GB"
-        },
-        {
-          "player_id": "13346",
-          "name": "Denzel Boston",
-          "position": "WR",
-          "team": "CLE"
-        },
-        {
-          "player_id": "3271",
-          "name": "Tyler Higbee",
-          "position": "TE",
-          "team": "LAR"
         },
         {
           "player_id": "13281",
@@ -822,24 +804,16 @@
           "team": "NYJ"
         },
         {
-          "player_id": "4046",
-          "name": "Patrick Mahomes",
-          "position": "QB",
-          "team": "KC"
-        }
-      ],
-      "bench": [
+          "player_id": "5844",
+          "name": "T.J. Hockenson",
+          "position": "TE",
+          "team": "MIN"
+        },
         {
           "player_id": "11624",
           "name": "Xavier Worthy",
           "position": "WR",
           "team": "KC"
-        },
-        {
-          "player_id": "12545",
-          "name": "Tyler Shough",
-          "position": "QB",
-          "team": "NO"
         },
         {
           "player_id": "13294",
@@ -848,16 +822,42 @@
           "team": "PHI"
         },
         {
-          "player_id": "13297",
-          "name": "Reggie Virgil",
+          "player_id": "4046",
+          "name": "Patrick Mahomes",
+          "position": "QB",
+          "team": "KC"
+        }
+      ],
+      "bench": [
+        {
+          "player_id": "12501",
+          "name": "Matthew Golden",
           "position": "WR",
-          "team": "ARI"
+          "team": "GB"
         },
         {
-          "player_id": "9508",
-          "name": "Tyjae Spears",
+          "player_id": "12545",
+          "name": "Tyler Shough",
+          "position": "QB",
+          "team": "NO"
+        },
+        {
+          "player_id": "13346",
+          "name": "Denzel Boston",
+          "position": "WR",
+          "team": "CLE"
+        },
+        {
+          "player_id": "3271",
+          "name": "Tyler Higbee",
+          "position": "TE",
+          "team": "LAR"
+        },
+        {
+          "player_id": "9511",
+          "name": "Keaton Mitchell",
           "position": "RB",
-          "team": "TEN"
+          "team": "LAC"
         }
       ],
       "taxi": [
@@ -886,12 +886,6 @@
           "name": "TreVeyon Henderson",
           "position": "RB",
           "team": "NE"
-        },
-        {
-          "player_id": "5844",
-          "name": "T.J. Hockenson",
-          "position": "TE",
-          "team": "MIN"
         }
       ],
       "picks": [
@@ -2647,10 +2641,10 @@
           "team": "SF"
         },
         {
-          "player_id": "11604",
-          "name": "Brock Bowers",
+          "player_id": "1466",
+          "name": "Travis Kelce",
           "position": "TE",
-          "team": "LV"
+          "team": "KC"
         },
         {
           "player_id": "9754",
@@ -2659,10 +2653,10 @@
           "team": "LAC"
         },
         {
-          "player_id": "1466",
-          "name": "Travis Kelce",
+          "player_id": "11604",
+          "name": "Brock Bowers",
           "position": "TE",
-          "team": "KC"
+          "team": "LV"
         },
         {
           "player_id": "3294",
@@ -2799,16 +2793,16 @@
           "team": "IND"
         },
         {
-          "player_id": "11576",
-          "name": "Braelon Allen",
+          "player_id": "11584",
+          "name": "Bucky Irving",
           "position": "RB",
-          "team": "NYJ"
+          "team": "TB"
         },
         {
-          "player_id": "8112",
-          "name": "Drake London",
-          "position": "WR",
-          "team": "ATL"
+          "player_id": "0",
+          "name": "0",
+          "position": "—",
+          "team": "FA"
         },
         {
           "player_id": "12526",
@@ -2823,10 +2817,10 @@
           "team": "PIT"
         },
         {
-          "player_id": "10231",
-          "name": "Elijah Higgins",
-          "position": "TE",
-          "team": "ARI"
+          "player_id": "11576",
+          "name": "Braelon Allen",
+          "position": "RB",
+          "team": "NYJ"
         },
         {
           "player_id": "4035",
@@ -2843,10 +2837,10 @@
       ],
       "bench": [
         {
-          "player_id": "11584",
-          "name": "Bucky Irving",
-          "position": "RB",
-          "team": "TB"
+          "player_id": "10231",
+          "name": "Elijah Higgins",
+          "position": "TE",
+          "team": "ARI"
         },
         {
           "player_id": "12498",
@@ -2865,6 +2859,12 @@
           "name": "Drew Lock",
           "position": "QB",
           "team": "SEA"
+        },
+        {
+          "player_id": "8112",
+          "name": "Drake London",
+          "position": "WR",
+          "team": "ATL"
         },
         {
           "player_id": "8119",
