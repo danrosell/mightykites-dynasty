@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-17T05:07:18.023Z",
+  "generated_at": "2026-11-17T14:37:33.020Z",
   "source": "Sleeper public API",
   "username": "TheMightyKites",
   "nfl_week": 11,
@@ -29,7 +29,7 @@
       "playoff_type": 1,
       "taxi_slots": 3,
       "sub_start_time_eligibility": 0,
-      "last_scored_leg": 9,
+      "last_scored_leg": 10,
       "daily_waivers_days": 5461,
       "sub_lock_if_starter_active": 0,
       "playoff_week_start": 15,
@@ -61,7 +61,7 @@
       "leg": 10,
       "reserve_slots": 3,
       "reserve_allow_cov": 1,
-      "daily_waivers_last_ran": 16
+      "daily_waivers_last_ran": 17
     },
     "scoring_settings": {
       "sack": 2,
@@ -141,10 +141,10 @@
     "owner_id": "866511772801196032",
     "team_name": "TheMightyKites",
     "is_me": true,
-    "record": "5-4",
-    "wins": 5,
+    "record": "6-4",
+    "wins": 6,
     "losses": 4,
-    "points_for": 1288.66,
+    "points_for": 1412.12,
     "rank": 4,
     "starters": [
       {
@@ -482,10 +482,10 @@
       "owner_id": "85219789974683648",
       "team_name": "Average Joe's Gym 2qb",
       "is_me": false,
-      "record": "4-5",
+      "record": "4-6",
       "wins": 4,
-      "losses": 5,
-      "points_for": 1078.04,
+      "losses": 6,
+      "points_for": 1191.78,
       "rank": 7,
       "starters": [
         {
@@ -773,10 +773,10 @@
       "owner_id": "651198204880187392",
       "team_name": "The Rusty Trombones",
       "is_me": false,
-      "record": "3-6",
+      "record": "3-7",
       "wins": 3,
-      "losses": 6,
-      "points_for": 1183.36,
+      "losses": 7,
+      "points_for": 1304.32,
       "rank": 8,
       "starters": [
         {
@@ -792,22 +792,10 @@
           "team": "CAR"
         },
         {
-          "player_id": "8150",
-          "name": "Kyren Williams",
+          "player_id": "3198",
+          "name": "Derrick Henry",
           "position": "RB",
-          "team": "LAR"
-        },
-        {
-          "player_id": "11635",
-          "name": "Ladd McConkey",
-          "position": "WR",
-          "team": "LAC"
-        },
-        {
-          "player_id": "12526",
-          "name": "Tetairoa McMillan",
-          "position": "WR",
-          "team": "CAR"
+          "team": "BAL"
         },
         {
           "player_id": "10229",
@@ -816,16 +804,28 @@
           "team": "KC"
         },
         {
+          "player_id": "12526",
+          "name": "Tetairoa McMillan",
+          "position": "WR",
+          "team": "CAR"
+        },
+        {
+          "player_id": "2449",
+          "name": "Stefon Diggs",
+          "position": "WR",
+          "team": "WAS"
+        },
+        {
           "player_id": "10859",
           "name": "Sam LaPorta",
           "position": "TE",
           "team": "DET"
         },
         {
-          "player_id": "3198",
-          "name": "Derrick Henry",
-          "position": "RB",
-          "team": "BAL"
+          "player_id": "11635",
+          "name": "Ladd McConkey",
+          "position": "WR",
+          "team": "LAC"
         },
         {
           "player_id": "8183",
@@ -872,12 +872,6 @@
           "team": "DEN"
         },
         {
-          "player_id": "2449",
-          "name": "Stefon Diggs",
-          "position": "WR",
-          "team": "WAS"
-        },
-        {
           "player_id": "421",
           "name": "Matthew Stafford",
           "position": "QB",
@@ -912,6 +906,12 @@
           "name": "Wan'Dale Robinson",
           "position": "WR",
           "team": "TEN"
+        },
+        {
+          "player_id": "8150",
+          "name": "Kyren Williams",
+          "position": "RB",
+          "team": "LAR"
         },
         {
           "player_id": "9504",
@@ -1032,10 +1032,10 @@
       "owner_id": "866511772801196032",
       "team_name": "TheMightyKites",
       "is_me": true,
-      "record": "5-4",
-      "wins": 5,
+      "record": "6-4",
+      "wins": 6,
       "losses": 4,
-      "points_for": 1288.66,
+      "points_for": 1412.12,
       "rank": 4,
       "starters": [
         {
@@ -1296,10 +1296,10 @@
       "owner_id": "562785236463558656",
       "team_name": "kylec55",
       "is_me": false,
-      "record": "2-7",
+      "record": "2-8",
       "wins": 2,
-      "losses": 7,
-      "points_for": 1026.12,
+      "losses": 8,
+      "points_for": 1097.7,
       "rank": 10,
       "starters": [
         {
@@ -1692,10 +1692,10 @@
       "owner_id": "405783718150565888",
       "team_name": "Tenacious D",
       "is_me": false,
-      "record": "7-2",
+      "record": "7-3",
       "wins": 7,
-      "losses": 2,
-      "points_for": 1355.02,
+      "losses": 3,
+      "points_for": 1496.52,
       "rank": 1,
       "starters": [
         {
@@ -1929,11 +1929,11 @@
       "owner_id": "646587866931236864",
       "team_name": "The Big Tuna",
       "is_me": false,
-      "record": "6-3",
+      "record": "6-4",
       "wins": 6,
-      "losses": 3,
-      "points_for": 1344.84,
-      "rank": 2,
+      "losses": 4,
+      "points_for": 1481.96,
+      "rank": 3,
       "starters": [
         {
           "player_id": "3294",
@@ -2192,17 +2192,17 @@
       "owner_id": "997278783776296960",
       "team_name": "White Trash with Cash",
       "is_me": false,
-      "record": "5-4",
-      "wins": 5,
+      "record": "6-4",
+      "wins": 6,
       "losses": 4,
-      "points_for": 1208.18,
+      "points_for": 1388.4,
       "rank": 6,
       "starters": [
         {
-          "player_id": "5870",
-          "name": "Daniel Jones",
+          "player_id": "11563",
+          "name": "Bo Nix",
           "position": "QB",
-          "team": "IND"
+          "team": "DEN"
         },
         {
           "player_id": "13337",
@@ -2217,10 +2217,10 @@
           "team": "DAL"
         },
         {
-          "player_id": "9488",
-          "name": "Jaxon Smith-Njigba",
+          "player_id": "11620",
+          "name": "Rome Odunze",
           "position": "WR",
-          "team": "SEA"
+          "team": "CHI"
         },
         {
           "player_id": "8137",
@@ -2235,10 +2235,10 @@
           "team": "JAX"
         },
         {
-          "player_id": "9484",
-          "name": "Tucker Kraft",
+          "player_id": "9480",
+          "name": "Brenton Strange",
           "position": "TE",
-          "team": "GB"
+          "team": "JAX"
         },
         {
           "player_id": "12527",
@@ -2247,25 +2247,13 @@
           "team": "LV"
         },
         {
-          "player_id": "5854",
-          "name": "Drew Lock",
+          "player_id": "6797",
+          "name": "Justin Herbert",
           "position": "QB",
-          "team": "SEA"
+          "team": "LAC"
         }
       ],
       "bench": [
-        {
-          "player_id": "11563",
-          "name": "Bo Nix",
-          "position": "QB",
-          "team": "DEN"
-        },
-        {
-          "player_id": "11620",
-          "name": "Rome Odunze",
-          "position": "WR",
-          "team": "CHI"
-        },
         {
           "player_id": "11631",
           "name": "Brian Thomas Jr.",
@@ -2333,10 +2321,16 @@
           "team": "SEA"
         },
         {
-          "player_id": "6797",
-          "name": "Justin Herbert",
+          "player_id": "5854",
+          "name": "Drew Lock",
           "position": "QB",
-          "team": "LAC"
+          "team": "SEA"
+        },
+        {
+          "player_id": "5870",
+          "name": "Daniel Jones",
+          "position": "QB",
+          "team": "IND"
         },
         {
           "player_id": "9230",
@@ -2345,10 +2339,16 @@
           "team": "PHI"
         },
         {
-          "player_id": "9480",
-          "name": "Brenton Strange",
+          "player_id": "9484",
+          "name": "Tucker Kraft",
           "position": "TE",
-          "team": "JAX"
+          "team": "GB"
+        },
+        {
+          "player_id": "9488",
+          "name": "Jaxon Smith-Njigba",
+          "position": "WR",
+          "team": "SEA"
         }
       ],
       "taxi": [
@@ -2498,11 +2498,11 @@
       "owner_id": "920449095888674816",
       "team_name": "jayjay1823",
       "is_me": false,
-      "record": "6-3",
-      "wins": 6,
+      "record": "7-3",
+      "wins": 7,
       "losses": 3,
-      "points_for": 1301.99,
-      "rank": 3,
+      "points_for": 1468.38,
+      "rank": 2,
       "starters": [
         {
           "player_id": "6770",
@@ -2785,10 +2785,10 @@
       "owner_id": "920517589149769728",
       "team_name": "Ruhungry",
       "is_me": false,
-      "record": "2-7",
-      "wins": 2,
+      "record": "3-7",
+      "wins": 3,
       "losses": 7,
-      "points_for": 1057.68,
+      "points_for": 1210.92,
       "rank": 9,
       "starters": [
         {
@@ -3064,17 +3064,17 @@
       "owner_id": "443834601794695168",
       "team_name": "nrandazzo624",
       "is_me": false,
-      "record": "5-4",
-      "wins": 5,
+      "record": "6-4",
+      "wins": 6,
       "losses": 4,
-      "points_for": 1259.24,
+      "points_for": 1406.28,
       "rank": 5,
       "starters": [
         {
-          "player_id": "11566",
-          "name": "Jayden Daniels",
+          "player_id": "7523",
+          "name": "Trevor Lawrence",
           "position": "QB",
-          "team": "WAS"
+          "team": "JAX"
         },
         {
           "player_id": "8138",
@@ -3083,10 +3083,10 @@
           "team": "BUF"
         },
         {
-          "player_id": "7611",
-          "name": "Rhamondre Stevenson",
+          "player_id": "4199",
+          "name": "Aaron Jones Sr.",
           "position": "RB",
-          "team": "NE"
+          "team": "MIN"
         },
         {
           "player_id": "11632",
@@ -3101,10 +3101,16 @@
           "team": "HOU"
         },
         {
-          "player_id": "12501",
-          "name": "Matthew Golden",
+          "player_id": "5872",
+          "name": "Deebo Samuel Sr.",
           "position": "WR",
-          "team": "GB"
+          "team": "SF"
+        },
+        {
+          "player_id": "10236",
+          "name": "Dalton Kincaid",
+          "position": "TE",
+          "team": "BUF"
         },
         {
           "player_id": "8131",
@@ -3113,25 +3119,13 @@
           "team": "NYG"
         },
         {
-          "player_id": "11646",
-          "name": "Jalen Coker",
-          "position": "WR",
-          "team": "CAR"
-        },
-        {
-          "player_id": "7523",
-          "name": "Trevor Lawrence",
+          "player_id": "11566",
+          "name": "Jayden Daniels",
           "position": "QB",
-          "team": "JAX"
+          "team": "WAS"
         }
       ],
       "bench": [
-        {
-          "player_id": "10236",
-          "name": "Dalton Kincaid",
-          "position": "TE",
-          "team": "BUF"
-        },
         {
           "player_id": "11565",
           "name": "J.J. McCarthy",
@@ -3163,6 +3157,12 @@
           "team": "BUF"
         },
         {
+          "player_id": "11646",
+          "name": "Jalen Coker",
+          "position": "WR",
+          "team": "CAR"
+        },
+        {
           "player_id": "12487",
           "name": "Terrance Ferguson",
           "position": "TE",
@@ -3175,16 +3175,16 @@
           "team": "DEN"
         },
         {
+          "player_id": "12501",
+          "name": "Matthew Golden",
+          "position": "WR",
+          "team": "GB"
+        },
+        {
           "player_id": "12514",
           "name": "Emeka Egbuka",
           "position": "WR",
           "team": "TB"
-        },
-        {
-          "player_id": "4199",
-          "name": "Aaron Jones Sr.",
-          "position": "RB",
-          "team": "MIN"
         },
         {
           "player_id": "4866",
@@ -3205,16 +3205,16 @@
           "team": "MIN"
         },
         {
-          "player_id": "5872",
-          "name": "Deebo Samuel Sr.",
-          "position": "WR",
-          "team": "SF"
-        },
-        {
           "player_id": "6819",
           "name": "Michael Pittman Jr.",
           "position": "WR",
           "team": "PIT"
+        },
+        {
+          "player_id": "7611",
+          "name": "Rhamondre Stevenson",
+          "position": "RB",
+          "team": "NE"
         },
         {
           "player_id": "9225",

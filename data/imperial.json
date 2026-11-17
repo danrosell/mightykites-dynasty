@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-17T05:07:17.011Z",
+  "generated_at": "2026-11-17T14:37:31.570Z",
   "source": "Sleeper public API",
   "username": "TheMightyKites",
   "nfl_week": 11,
@@ -29,7 +29,7 @@
       "playoff_type": 1,
       "taxi_slots": 3,
       "sub_start_time_eligibility": 0,
-      "last_scored_leg": 9,
+      "last_scored_leg": 10,
       "daily_waivers_days": 5461,
       "sub_lock_if_starter_active": 0,
       "playoff_week_start": 15,
@@ -130,11 +130,11 @@
     "owner_id": "866511772801196032",
     "team_name": "TheMightyKites",
     "is_me": true,
-    "record": "6-3",
+    "record": "6-4",
     "wins": 6,
-    "losses": 3,
-    "points_for": 949.38,
-    "rank": 5,
+    "losses": 4,
+    "points_for": 1049.74,
+    "rank": 8,
     "starters": [
       {
         "player_id": "3198",
@@ -391,11 +391,11 @@
       "owner_id": "866511772801196032",
       "team_name": "TheMightyKites",
       "is_me": true,
-      "record": "6-3",
+      "record": "6-4",
       "wins": 6,
-      "losses": 3,
-      "points_for": 949.38,
-      "rank": 5,
+      "losses": 4,
+      "points_for": 1049.74,
+      "rank": 8,
       "starters": [
         {
           "player_id": "3198",
@@ -582,11 +582,11 @@
       "owner_id": "646587866931236864",
       "team_name": "Chosen Sentinels ",
       "is_me": false,
-      "record": "7-2",
+      "record": "7-3",
       "wins": 7,
-      "losses": 2,
-      "points_for": 1010.18,
-      "rank": 3,
+      "losses": 3,
+      "points_for": 1123.66,
+      "rank": 4,
       "starters": [
         {
           "player_id": "13277",
@@ -773,11 +773,11 @@
       "owner_id": "240850597853523968",
       "team_name": "Diamond Dogs",
       "is_me": false,
-      "record": "4-5",
-      "wins": 4,
+      "record": "5-5",
+      "wins": 5,
       "losses": 5,
-      "points_for": 783.22,
-      "rank": 13,
+      "points_for": 888.54,
+      "rank": 12,
       "starters": [
         {
           "player_id": "9511",
@@ -986,11 +986,11 @@
       "owner_id": "997275974532124672",
       "team_name": "Trade Federation",
       "is_me": false,
-      "record": "2-7",
+      "record": "2-8",
       "wins": 2,
-      "losses": 7,
-      "points_for": 785.94,
-      "rank": 15,
+      "losses": 8,
+      "points_for": 892.9,
+      "rank": 16,
       "starters": [
         {
           "player_id": "13286",
@@ -1151,11 +1151,11 @@
       "owner_id": "405783718150565888",
       "team_name": "The Jersey Syndicate",
       "is_me": false,
-      "record": "5-4",
+      "record": "5-5",
       "wins": 5,
-      "losses": 4,
-      "points_for": 814.7,
-      "rank": 10,
+      "losses": 5,
+      "points_for": 861.22,
+      "rank": 13,
       "starters": [
         {
           "player_id": "11579",
@@ -1343,10 +1343,10 @@
       "owner_id": "853771044882878464",
       "team_name": "COMMANDO Squad",
       "is_me": false,
-      "record": "1-8",
+      "record": "1-9",
       "wins": 1,
-      "losses": 8,
-      "points_for": 769.42,
+      "losses": 9,
+      "points_for": 887.78,
       "rank": 17,
       "starters": [
         {
@@ -1517,10 +1517,10 @@
       "owner_id": "837558765766148096",
       "team_name": "DatTightDik",
       "is_me": false,
-      "record": "5-4",
-      "wins": 5,
+      "record": "6-4",
+      "wins": 6,
       "losses": 4,
-      "points_for": 898.58,
+      "points_for": 1002.92,
       "rank": 9,
       "starters": [
         {
@@ -1688,11 +1688,11 @@
       "owner_id": "1113561927516647424",
       "team_name": "Welcome to the Gulag ",
       "is_me": false,
-      "record": "4-5",
-      "wins": 4,
+      "record": "5-5",
+      "wins": 5,
       "losses": 5,
-      "points_for": 922.1,
-      "rank": 11,
+      "points_for": 1069.62,
+      "rank": 10,
       "starters": [
         {
           "player_id": "9221",
@@ -1713,10 +1713,16 @@
           "team": "BAL"
         },
         {
-          "player_id": "5859",
-          "name": "A.J. Brown",
+          "player_id": "11783",
+          "name": "Ryan Flournoy",
           "position": "WR",
-          "team": "NE"
+          "team": "DAL"
+        },
+        {
+          "player_id": "5022",
+          "name": "Dallas Goedert",
+          "position": "TE",
+          "team": "PHI"
         },
         {
           "player_id": "9480",
@@ -1729,12 +1735,6 @@
           "name": "Brian Thomas Jr.",
           "position": "WR",
           "team": "JAX"
-        },
-        {
-          "player_id": "11783",
-          "name": "Ryan Flournoy",
-          "position": "WR",
-          "team": "DAL"
         },
         {
           "player_id": "11565",
@@ -1763,10 +1763,10 @@
           "team": "TB"
         },
         {
-          "player_id": "5022",
-          "name": "Dallas Goedert",
-          "position": "TE",
-          "team": "PHI"
+          "player_id": "5859",
+          "name": "A.J. Brown",
+          "position": "WR",
+          "team": "NE"
         },
         {
           "player_id": "9504",
@@ -1867,17 +1867,17 @@
       "owner_id": "651198204880187392",
       "team_name": "The Rusty Trombones",
       "is_me": false,
-      "record": "1-8",
-      "wins": 1,
+      "record": "2-8",
+      "wins": 2,
       "losses": 8,
-      "points_for": 844.94,
-      "rank": 16,
+      "points_for": 928.4,
+      "rank": 15,
       "starters": [
         {
-          "player_id": "12469",
-          "name": "Dylan Sampson",
+          "player_id": "13424",
+          "name": "Seth McGowan",
           "position": "RB",
-          "team": "CLE"
+          "team": "IND"
         },
         {
           "player_id": "8136",
@@ -1886,10 +1886,10 @@
           "team": "WAS"
         },
         {
-          "player_id": "10213",
-          "name": "Tre Tucker",
+          "player_id": "12519",
+          "name": "Luther Burden III",
           "position": "WR",
-          "team": "LV"
+          "team": "CHI"
         },
         {
           "player_id": "9487",
@@ -1904,10 +1904,10 @@
           "team": "DET"
         },
         {
-          "player_id": "13424",
-          "name": "Seth McGowan",
-          "position": "RB",
-          "team": "IND"
+          "player_id": "12514",
+          "name": "Emeka Egbuka",
+          "position": "WR",
+          "team": "TB"
         },
         {
           "player_id": "12535",
@@ -1924,22 +1924,22 @@
       ],
       "bench": [
         {
+          "player_id": "10213",
+          "name": "Tre Tucker",
+          "position": "WR",
+          "team": "LV"
+        },
+        {
           "player_id": "11655",
           "name": "Tyrone Tracy Jr.",
           "position": "RB",
           "team": "NYG"
         },
         {
-          "player_id": "12514",
-          "name": "Emeka Egbuka",
-          "position": "WR",
-          "team": "TB"
-        },
-        {
-          "player_id": "12519",
-          "name": "Luther Burden III",
-          "position": "WR",
-          "team": "CHI"
+          "player_id": "12469",
+          "name": "Dylan Sampson",
+          "position": "RB",
+          "team": "CLE"
         },
         {
           "player_id": "13338",
@@ -2060,11 +2060,11 @@
       "owner_id": "562785236463558656",
       "team_name": "Tuten & Bootin’",
       "is_me": false,
-      "record": "6-3",
-      "wins": 6,
+      "record": "7-3",
+      "wins": 7,
       "losses": 3,
-      "points_for": 1014.7,
-      "rank": 4,
+      "points_for": 1154.44,
+      "rank": 3,
       "starters": [
         {
           "player_id": "12490",
@@ -2218,10 +2218,10 @@
       "owner_id": "728386650316595200",
       "team_name": "Last Place",
       "is_me": false,
-      "record": "0-9",
+      "record": "0-10",
       "wins": 0,
-      "losses": 9,
-      "points_for": 613.8,
+      "losses": 10,
+      "points_for": 654.8,
       "rank": 18,
       "starters": [
         {
@@ -2432,11 +2432,11 @@
       "owner_id": "860239702840692736",
       "team_name": "Big Willie Style ",
       "is_me": false,
-      "record": "6-3",
-      "wins": 6,
+      "record": "7-3",
+      "wins": 7,
       "losses": 3,
-      "points_for": 913.2,
-      "rank": 7,
+      "points_for": 1031.22,
+      "rank": 5,
       "starters": [
         {
           "player_id": "5892",
@@ -2616,11 +2616,11 @@
       "owner_id": "989223576035233792",
       "team_name": "The X Factors",
       "is_me": false,
-      "record": "8-1",
-      "wins": 8,
+      "record": "9-1",
+      "wins": 9,
       "losses": 1,
-      "points_for": 927.54,
-      "rank": 2,
+      "points_for": 1060.76,
+      "rank": 1,
       "starters": [
         {
           "player_id": "12481",
@@ -2786,11 +2786,11 @@
       "owner_id": "998355322244861952",
       "team_name": "nickdemarinis",
       "is_me": false,
-      "record": "8-1",
+      "record": "8-2",
       "wins": 8,
-      "losses": 1,
-      "points_for": 971.58,
-      "rank": 1,
+      "losses": 2,
+      "points_for": 1055.7,
+      "rank": 2,
       "starters": [
         {
           "player_id": "6813",
@@ -2979,11 +2979,11 @@
       "owner_id": "1393669384832036864",
       "team_name": "Shake & Bake",
       "is_me": false,
-      "record": "4-5",
-      "wins": 4,
+      "record": "5-5",
+      "wins": 5,
       "losses": 5,
-      "points_for": 904.26,
-      "rank": 12,
+      "points_for": 1020.58,
+      "rank": 11,
       "starters": [
         {
           "player_id": "4034",
@@ -2992,10 +2992,10 @@
           "team": "SF"
         },
         {
-          "player_id": "6039",
-          "name": "Ty Johnson",
+          "player_id": "7567",
+          "name": "Kenny Gainwell",
           "position": "RB",
-          "team": "BUF"
+          "team": "TB"
         },
         {
           "player_id": "13296",
@@ -3004,16 +3004,16 @@
           "team": "MIA"
         },
         {
-          "player_id": "13298",
-          "name": "KC Concepcion Jr.",
+          "player_id": "2216",
+          "name": "Mike Evans",
           "position": "WR",
-          "team": "CLE"
+          "team": "SF"
         },
         {
-          "player_id": "8172",
-          "name": "Greg Dulcich",
+          "player_id": "12517",
+          "name": "Colston Loveland",
           "position": "TE",
-          "team": "MIA"
+          "team": "CHI"
         },
         {
           "player_id": "11593",
@@ -3036,16 +3036,10 @@
       ],
       "bench": [
         {
-          "player_id": "12517",
-          "name": "Colston Loveland",
-          "position": "TE",
-          "team": "CHI"
-        },
-        {
-          "player_id": "2216",
-          "name": "Mike Evans",
+          "player_id": "13298",
+          "name": "KC Concepcion Jr.",
           "position": "WR",
-          "team": "SF"
+          "team": "CLE"
         },
         {
           "player_id": "3286",
@@ -3054,16 +3048,22 @@
           "team": "SF"
         },
         {
-          "player_id": "7567",
-          "name": "Kenny Gainwell",
+          "player_id": "6039",
+          "name": "Ty Johnson",
           "position": "RB",
-          "team": "TB"
+          "team": "BUF"
         },
         {
           "player_id": "8116",
           "name": "Pierre Strong Jr.",
           "position": "RB",
           "team": "GB"
+        },
+        {
+          "player_id": "8172",
+          "name": "Greg Dulcich",
+          "position": "TE",
+          "team": "MIA"
         }
       ],
       "taxi": [
@@ -3157,11 +3157,11 @@
       "owner_id": "920729976993824768",
       "team_name": "The Superb Owls",
       "is_me": false,
-      "record": "6-3",
+      "record": "6-4",
       "wins": 6,
-      "losses": 3,
-      "points_for": 949.38,
-      "rank": 6,
+      "losses": 4,
+      "points_for": 1051.7,
+      "rank": 7,
       "starters": [
         {
           "player_id": "12507",
@@ -3336,10 +3336,10 @@
       "owner_id": "853768203292241920",
       "team_name": "chane broken",
       "is_me": false,
-      "record": "3-6",
+      "record": "3-7",
       "wins": 3,
-      "losses": 6,
-      "points_for": 807.06,
+      "losses": 7,
+      "points_for": 877.16,
       "rank": 14,
       "starters": [
         {
@@ -3507,11 +3507,11 @@
       "owner_id": "988442937585401856",
       "team_name": "Eyes On The Prize McBride",
       "is_me": false,
-      "record": "5-4",
-      "wins": 5,
+      "record": "6-4",
+      "wins": 6,
       "losses": 4,
-      "points_for": 1054.28,
-      "rank": 8,
+      "points_for": 1162.54,
+      "rank": 6,
       "starters": [
         {
           "player_id": "8138",
