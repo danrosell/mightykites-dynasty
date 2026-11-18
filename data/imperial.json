@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-17T22:58:26.233Z",
+  "generated_at": "2026-11-18T04:31:51.348Z",
   "source": "Sleeper public API",
   "username": "TheMightyKites",
   "nfl_week": 11,
@@ -1182,6 +1182,38 @@
           "team": "IND"
         },
         {
+          "player_id": "13317",
+          "name": "Ted Hurst III",
+          "position": "WR",
+          "team": "TB"
+        },
+        {
+          "player_id": "13405",
+          "name": "Kaytron Allen",
+          "position": "RB",
+          "team": "MIA"
+        },
+        {
+          "player_id": "11560",
+          "name": "Caleb Williams",
+          "position": "QB",
+          "team": "CHI"
+        }
+      ],
+      "bench": [
+        {
+          "player_id": "11571",
+          "name": "Isaiah Davis",
+          "position": "RB",
+          "team": "NYJ"
+        },
+        {
+          "player_id": "12536",
+          "name": "Jaylin Noel",
+          "position": "WR",
+          "team": "HOU"
+        },
+        {
           "player_id": "12718",
           "name": "Konata Mumpfield",
           "position": "WR",
@@ -1198,38 +1230,6 @@
           "name": "Aaron Rodgers",
           "position": "QB",
           "team": "PIT"
-        }
-      ],
-      "bench": [
-        {
-          "player_id": "11560",
-          "name": "Caleb Williams",
-          "position": "QB",
-          "team": "CHI"
-        },
-        {
-          "player_id": "11571",
-          "name": "Isaiah Davis",
-          "position": "RB",
-          "team": "NYJ"
-        },
-        {
-          "player_id": "12536",
-          "name": "Jaylin Noel",
-          "position": "WR",
-          "team": "HOU"
-        },
-        {
-          "player_id": "13317",
-          "name": "Ted Hurst III",
-          "position": "WR",
-          "team": "TB"
-        },
-        {
-          "player_id": "13405",
-          "name": "Kaytron Allen",
-          "position": "RB",
-          "team": "MIA"
         }
       ],
       "taxi": [
@@ -2133,12 +2133,6 @@
           "name": "D'Andre Swift",
           "position": "RB",
           "team": "CHI"
-        },
-        {
-          "player_id": "7562",
-          "name": "Tutu Atwell",
-          "position": "WR",
-          "team": "LAR"
         }
       ],
       "taxi": [
@@ -2249,10 +2243,10 @@
           "team": "LV"
         },
         {
-          "player_id": "6865",
-          "name": "Colby Parkinson",
-          "position": "TE",
-          "team": "LAR"
+          "player_id": "9502",
+          "name": "Tank Dell",
+          "position": "WR",
+          "team": "HOU"
         },
         {
           "player_id": "7571",
@@ -2287,10 +2281,10 @@
           "team": "NO"
         },
         {
-          "player_id": "9502",
-          "name": "Tank Dell",
-          "position": "WR",
-          "team": "HOU"
+          "player_id": "6865",
+          "name": "Colby Parkinson",
+          "position": "TE",
+          "team": "LAR"
         }
       ],
       "taxi": [
