@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-18T04:31:52.147Z",
+  "generated_at": "2026-11-18T14:14:05.283Z",
   "source": "Sleeper public API",
   "username": "TheMightyKites",
   "nfl_week": 11,
@@ -55,7 +55,7 @@
       "trade_review_days": 0,
       "bench_lock": 0,
       "offseason_adds": 1,
-      "leg": 10,
+      "leg": 11,
       "reserve_slots": 2,
       "reserve_allow_cov": 0,
       "daily_waivers_last_ran": 17
@@ -3195,7 +3195,7 @@
           "player_id": "7607",
           "name": "Michael Carter",
           "position": "RB",
-          "team": "FA"
+          "team": "TEN"
         },
         {
           "player_id": "7608",

@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-18T04:31:51.348Z",
+  "generated_at": "2026-11-18T14:14:04.539Z",
   "source": "Sleeper public API",
   "username": "TheMightyKites",
   "nfl_week": 11,
@@ -58,7 +58,7 @@
       "trade_review_days": 0,
       "bench_lock": 0,
       "offseason_adds": 0,
-      "leg": 10,
+      "leg": 11,
       "reserve_slots": 3,
       "reserve_allow_cov": 0,
       "daily_waivers_last_ran": 17
@@ -1356,10 +1356,10 @@
           "team": "MIA"
         },
         {
-          "player_id": "4039",
-          "name": "Cooper Kupp",
+          "player_id": "11620",
+          "name": "Rome Odunze",
           "position": "WR",
-          "team": "SEA"
+          "team": "CHI"
         },
         {
           "player_id": "9500",
@@ -1374,10 +1374,10 @@
           "team": "NYG"
         },
         {
-          "player_id": "10219",
-          "name": "Chris Rodriguez Jr.",
-          "position": "RB",
-          "team": "JAX"
+          "player_id": "12492",
+          "name": "Pat Bryant",
+          "position": "WR",
+          "team": "DEN"
         },
         {
           "player_id": "10218",
@@ -1394,22 +1394,22 @@
       ],
       "bench": [
         {
-          "player_id": "11620",
-          "name": "Rome Odunze",
-          "position": "WR",
-          "team": "CHI"
-        },
-        {
-          "player_id": "12492",
-          "name": "Pat Bryant",
-          "position": "WR",
-          "team": "DEN"
+          "player_id": "10219",
+          "name": "Chris Rodriguez Jr.",
+          "position": "RB",
+          "team": "JAX"
         },
         {
           "player_id": "2307",
           "name": "Marcus Mariota",
           "position": "QB",
           "team": "WAS"
+        },
+        {
+          "player_id": "4039",
+          "name": "Cooper Kupp",
+          "position": "WR",
+          "team": "SEA"
         },
         {
           "player_id": "5870",
@@ -2623,10 +2623,10 @@
           "team": "CIN"
         },
         {
-          "player_id": "8126",
-          "name": "Wan'Dale Robinson",
+          "player_id": "7525",
+          "name": "DeVonta Smith",
           "position": "WR",
-          "team": "TEN"
+          "team": "PHI"
         },
         {
           "player_id": "5872",
@@ -2679,10 +2679,10 @@
           "team": "DEN"
         },
         {
-          "player_id": "7525",
-          "name": "DeVonta Smith",
+          "player_id": "8126",
+          "name": "Wan'Dale Robinson",
           "position": "WR",
-          "team": "PHI"
+          "team": "TEN"
         },
         {
           "player_id": "8180",
@@ -3538,16 +3538,16 @@
           "team": "ARI"
         },
         {
-          "player_id": "13333",
-          "name": "Deion Burks",
-          "position": "WR",
-          "team": "IND"
+          "player_id": "12534",
+          "name": "Kyle Monangai",
+          "position": "RB",
+          "team": "CHI"
         },
         {
-          "player_id": "6130",
-          "name": "Devin Singletary",
-          "position": "RB",
-          "team": "NYG"
+          "player_id": "4033",
+          "name": "David Njoku",
+          "position": "TE",
+          "team": "LAC"
         },
         {
           "player_id": "6770",
@@ -3564,10 +3564,10 @@
           "team": "LAC"
         },
         {
-          "player_id": "12534",
-          "name": "Kyle Monangai",
-          "position": "RB",
-          "team": "CHI"
+          "player_id": "13333",
+          "name": "Deion Burks",
+          "position": "WR",
+          "team": "IND"
         },
         {
           "player_id": "3634",
@@ -3576,10 +3576,10 @@
           "team": "CHI"
         },
         {
-          "player_id": "4033",
-          "name": "David Njoku",
-          "position": "TE",
-          "team": "LAC"
+          "player_id": "6130",
+          "name": "Devin Singletary",
+          "position": "RB",
+          "team": "NYG"
         },
         {
           "player_id": "9228",

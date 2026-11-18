@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-18T04:31:52.565Z",
+  "generated_at": "2026-11-18T14:14:05.558Z",
   "source": "Sleeper public API",
   "username": "TheMightyKites",
   "nfl_week": 11,
@@ -58,10 +58,10 @@
       "trade_review_days": 0,
       "bench_lock": 0,
       "offseason_adds": 1,
-      "leg": 10,
+      "leg": 11,
       "reserve_slots": 3,
       "reserve_allow_cov": 1,
-      "daily_waivers_last_ran": 17
+      "daily_waivers_last_ran": 18
     },
     "scoring_settings": {
       "sack": 2,
@@ -507,10 +507,10 @@
           "team": "PIT"
         },
         {
-          "player_id": "0",
-          "name": "0",
-          "position": "—",
-          "team": "FA"
+          "player_id": "4037",
+          "name": "Chris Godwin Jr.",
+          "position": "WR",
+          "team": "TB"
         },
         {
           "player_id": "12519",
@@ -519,10 +519,10 @@
           "team": "CHI"
         },
         {
-          "player_id": "0",
-          "name": "0",
-          "position": "—",
-          "team": "FA"
+          "player_id": "12634",
+          "name": "Jordan Watkins",
+          "position": "WR",
+          "team": "SF"
         },
         {
           "player_id": "8130",
@@ -569,12 +569,6 @@
           "team": "HOU"
         },
         {
-          "player_id": "12634",
-          "name": "Jordan Watkins",
-          "position": "WR",
-          "team": "SF"
-        },
-        {
           "player_id": "12718",
           "name": "Konata Mumpfield",
           "position": "WR",
@@ -585,12 +579,6 @@
           "name": "Tyler Higbee",
           "position": "TE",
           "team": "LAR"
-        },
-        {
-          "player_id": "4037",
-          "name": "Chris Godwin Jr.",
-          "position": "WR",
-          "team": "TB"
         },
         {
           "player_id": "4950",
@@ -1998,6 +1986,12 @@
       ],
       "bench": [
         {
+          "player_id": "10218",
+          "name": "Xavier Hutchinson",
+          "position": "WR",
+          "team": "HOU"
+        },
+        {
           "player_id": "11199",
           "name": "Emari Demercado",
           "position": "RB",
@@ -2020,12 +2014,6 @@
           "name": "Dylan Sampson",
           "position": "RB",
           "team": "CLE"
-        },
-        {
-          "player_id": "12476",
-          "name": "Devin Neal",
-          "position": "RB",
-          "team": "WAS"
         },
         {
           "player_id": "12517",
