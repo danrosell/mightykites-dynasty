@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-18T14:14:04.944Z",
+  "generated_at": "2026-11-18T22:07:33.539Z",
   "source": "Sleeper public API",
   "username": "TheMightyKites",
   "nfl_week": 11,
@@ -61,7 +61,7 @@
       "daily_waivers_base": 4,
       "reserve_slots": 2,
       "reserve_allow_cov": 1,
-      "daily_waivers_last_ran": 17
+      "daily_waivers_last_ran": 18
     },
     "scoring_settings": {
       "sack": 1,
@@ -149,10 +149,10 @@
     "rank": 10,
     "starters": [
       {
-        "player_id": "11565",
-        "name": "J.J. McCarthy",
+        "player_id": "11560",
+        "name": "Caleb Williams",
         "position": "QB",
-        "team": "NYG"
+        "team": "CHI"
       },
       {
         "player_id": "13345",
@@ -203,19 +203,13 @@
         "team": "PHI"
       },
       {
-        "player_id": "12494",
-        "name": "Kyle McCord",
+        "player_id": "11565",
+        "name": "J.J. McCarthy",
         "position": "QB",
-        "team": "MIA"
+        "team": "NYG"
       }
     ],
     "bench": [
-      {
-        "player_id": "11560",
-        "name": "Caleb Williams",
-        "position": "QB",
-        "team": "CHI"
-      },
       {
         "player_id": "11562",
         "name": "Spencer Rattler",
@@ -233,6 +227,12 @@
         "name": "Corey Kiner",
         "position": "RB",
         "team": "NE"
+      },
+      {
+        "player_id": "12494",
+        "name": "Kyle McCord",
+        "position": "QB",
+        "team": "MIA"
       },
       {
         "player_id": "12498",
@@ -253,10 +253,10 @@
         "team": "CLE"
       },
       {
-        "player_id": "12541",
-        "name": "Dont'e Thornton Jr.",
+        "player_id": "13075",
+        "name": "Myles Price",
         "position": "WR",
-        "team": "LV"
+        "team": "MIN"
       },
       {
         "player_id": "13285",
@@ -817,10 +817,10 @@
           "team": "DET"
         },
         {
-          "player_id": "4199",
-          "name": "Aaron Jones Sr.",
+          "player_id": "5892",
+          "name": "David Montgomery",
           "position": "RB",
-          "team": "MIN"
+          "team": "HOU"
         },
         {
           "player_id": "7564",
@@ -853,10 +853,10 @@
           "team": "DEN"
         },
         {
-          "player_id": "13330",
-          "name": "Kenyon Sadiq",
-          "position": "TE",
-          "team": "NYJ"
+          "player_id": "4199",
+          "name": "Aaron Jones Sr.",
+          "position": "RB",
+          "team": "MIN"
         },
         {
           "player_id": "3163",
@@ -885,6 +885,12 @@
           "team": "BAL"
         },
         {
+          "player_id": "13330",
+          "name": "Kenyon Sadiq",
+          "position": "TE",
+          "team": "NYJ"
+        },
+        {
           "player_id": "3155",
           "name": "Laquon Treadwell",
           "position": "WR",
@@ -907,12 +913,6 @@
           "name": "Joshua Dobbs",
           "position": "QB",
           "team": "DET"
-        },
-        {
-          "player_id": "5892",
-          "name": "David Montgomery",
-          "position": "RB",
-          "team": "HOU"
         },
         {
           "player_id": "6130",
@@ -1138,10 +1138,10 @@
           "team": "LV"
         },
         {
-          "player_id": "11647",
-          "name": "Kimani Vidal",
-          "position": "RB",
-          "team": "LAC"
+          "player_id": "4892",
+          "name": "Baker Mayfield",
+          "position": "QB",
+          "team": "TB"
         }
       ],
       "bench": [
@@ -1168,6 +1168,12 @@
           "name": "Roman Wilson",
           "position": "WR",
           "team": "PIT"
+        },
+        {
+          "player_id": "11647",
+          "name": "Kimani Vidal",
+          "position": "RB",
+          "team": "LAC"
         },
         {
           "player_id": "12457",
@@ -1210,12 +1216,6 @@
           "name": "Case Keenum",
           "position": "QB",
           "team": "CHI"
-        },
-        {
-          "player_id": "4892",
-          "name": "Baker Mayfield",
-          "position": "QB",
-          "team": "TB"
         },
         {
           "player_id": "7828",
@@ -2457,10 +2457,10 @@
       "rank": 10,
       "starters": [
         {
-          "player_id": "11565",
-          "name": "J.J. McCarthy",
+          "player_id": "11560",
+          "name": "Caleb Williams",
           "position": "QB",
-          "team": "NYG"
+          "team": "CHI"
         },
         {
           "player_id": "13345",
@@ -2511,19 +2511,13 @@
           "team": "PHI"
         },
         {
-          "player_id": "12494",
-          "name": "Kyle McCord",
+          "player_id": "11565",
+          "name": "J.J. McCarthy",
           "position": "QB",
-          "team": "MIA"
+          "team": "NYG"
         }
       ],
       "bench": [
-        {
-          "player_id": "11560",
-          "name": "Caleb Williams",
-          "position": "QB",
-          "team": "CHI"
-        },
         {
           "player_id": "11562",
           "name": "Spencer Rattler",
@@ -2541,6 +2535,12 @@
           "name": "Corey Kiner",
           "position": "RB",
           "team": "NE"
+        },
+        {
+          "player_id": "12494",
+          "name": "Kyle McCord",
+          "position": "QB",
+          "team": "MIA"
         },
         {
           "player_id": "12498",
@@ -2561,10 +2561,10 @@
           "team": "CLE"
         },
         {
-          "player_id": "12541",
-          "name": "Dont'e Thornton Jr.",
+          "player_id": "13075",
+          "name": "Myles Price",
           "position": "WR",
-          "team": "LV"
+          "team": "MIN"
         },
         {
           "player_id": "13285",
@@ -3541,10 +3541,10 @@
       "rank": 5,
       "starters": [
         {
-          "player_id": "11566",
-          "name": "Jayden Daniels",
+          "player_id": "7523",
+          "name": "Trevor Lawrence",
           "position": "QB",
-          "team": "WAS"
+          "team": "JAX"
         },
         {
           "player_id": "12481",
@@ -3589,16 +3589,16 @@
           "team": "LV"
         },
         {
-          "player_id": "9502",
-          "name": "Tank Dell",
+          "player_id": "11625",
+          "name": "Adonai Mitchell",
           "position": "WR",
-          "team": "HOU"
+          "team": "NYJ"
         },
         {
-          "player_id": "7523",
-          "name": "Trevor Lawrence",
+          "player_id": "11566",
+          "name": "Jayden Daniels",
           "position": "QB",
-          "team": "JAX"
+          "team": "WAS"
         }
       ],
       "bench": [
@@ -3607,12 +3607,6 @@
           "name": "Xavier Worthy",
           "position": "WR",
           "team": "KC"
-        },
-        {
-          "player_id": "11625",
-          "name": "Adonai Mitchell",
-          "position": "WR",
-          "team": "NYJ"
         },
         {
           "player_id": "12467",
@@ -3685,6 +3679,12 @@
           "name": "Tanner McKee",
           "position": "QB",
           "team": "PHI"
+        },
+        {
+          "player_id": "9502",
+          "name": "Tank Dell",
+          "position": "WR",
+          "team": "HOU"
         }
       ],
       "taxi": [

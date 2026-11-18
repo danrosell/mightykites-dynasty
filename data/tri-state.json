@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-18T14:14:05.558Z",
+  "generated_at": "2026-11-18T22:07:34.171Z",
   "source": "Sleeper public API",
   "username": "TheMightyKites",
   "nfl_week": 11,
@@ -154,16 +154,16 @@
         "team": "BUF"
       },
       {
-        "player_id": "12495",
-        "name": "Ollie Gordon II",
+        "player_id": "6790",
+        "name": "D'Andre Swift",
         "position": "RB",
-        "team": "MIA"
+        "team": "CHI"
       },
       {
-        "player_id": "6130",
-        "name": "Devin Singletary",
+        "player_id": "11584",
+        "name": "Bucky Irving",
         "position": "RB",
-        "team": "NYG"
+        "team": "TB"
       },
       {
         "player_id": "8146",
@@ -196,10 +196,10 @@
         "team": "WAS"
       },
       {
-        "player_id": "11564",
-        "name": "Drake Maye",
+        "player_id": "12545",
+        "name": "Tyler Shough",
         "position": "QB",
-        "team": "NE"
+        "team": "NO"
       }
     ],
     "bench": [
@@ -210,10 +210,10 @@
         "team": "LV"
       },
       {
-        "player_id": "11584",
-        "name": "Bucky Irving",
-        "position": "RB",
-        "team": "TB"
+        "player_id": "11564",
+        "name": "Drake Maye",
+        "position": "QB",
+        "team": "NE"
       },
       {
         "player_id": "11834",
@@ -228,16 +228,16 @@
         "team": "LAC"
       },
       {
+        "player_id": "12495",
+        "name": "Ollie Gordon II",
+        "position": "RB",
+        "team": "MIA"
+      },
+      {
         "player_id": "12535",
         "name": "Isaac TeSlaa",
         "position": "WR",
         "team": "DET"
-      },
-      {
-        "player_id": "12545",
-        "name": "Tyler Shough",
-        "position": "QB",
-        "team": "NO"
       },
       {
         "player_id": "13425",
@@ -264,16 +264,16 @@
         "team": "JAX"
       },
       {
+        "player_id": "6130",
+        "name": "Devin Singletary",
+        "position": "RB",
+        "team": "NYG"
+      },
+      {
         "player_id": "6768",
         "name": "Tua Tagovailoa",
         "position": "QB",
         "team": "ATL"
-      },
-      {
-        "player_id": "6790",
-        "name": "D'Andre Swift",
-        "position": "RB",
-        "team": "CHI"
       },
       {
         "player_id": "7543",
@@ -1039,16 +1039,16 @@
           "team": "BUF"
         },
         {
-          "player_id": "12495",
-          "name": "Ollie Gordon II",
+          "player_id": "6790",
+          "name": "D'Andre Swift",
           "position": "RB",
-          "team": "MIA"
+          "team": "CHI"
         },
         {
-          "player_id": "6130",
-          "name": "Devin Singletary",
+          "player_id": "11584",
+          "name": "Bucky Irving",
           "position": "RB",
-          "team": "NYG"
+          "team": "TB"
         },
         {
           "player_id": "8146",
@@ -1081,10 +1081,10 @@
           "team": "WAS"
         },
         {
-          "player_id": "11564",
-          "name": "Drake Maye",
+          "player_id": "12545",
+          "name": "Tyler Shough",
           "position": "QB",
-          "team": "NE"
+          "team": "NO"
         }
       ],
       "bench": [
@@ -1095,10 +1095,10 @@
           "team": "LV"
         },
         {
-          "player_id": "11584",
-          "name": "Bucky Irving",
-          "position": "RB",
-          "team": "TB"
+          "player_id": "11564",
+          "name": "Drake Maye",
+          "position": "QB",
+          "team": "NE"
         },
         {
           "player_id": "11834",
@@ -1113,16 +1113,16 @@
           "team": "LAC"
         },
         {
+          "player_id": "12495",
+          "name": "Ollie Gordon II",
+          "position": "RB",
+          "team": "MIA"
+        },
+        {
           "player_id": "12535",
           "name": "Isaac TeSlaa",
           "position": "WR",
           "team": "DET"
-        },
-        {
-          "player_id": "12545",
-          "name": "Tyler Shough",
-          "position": "QB",
-          "team": "NO"
         },
         {
           "player_id": "13425",
@@ -1149,16 +1149,16 @@
           "team": "JAX"
         },
         {
+          "player_id": "6130",
+          "name": "Devin Singletary",
+          "position": "RB",
+          "team": "NYG"
+        },
+        {
           "player_id": "6768",
           "name": "Tua Tagovailoa",
           "position": "QB",
           "team": "ATL"
-        },
-        {
-          "player_id": "6790",
-          "name": "D'Andre Swift",
-          "position": "RB",
-          "team": "CHI"
         },
         {
           "player_id": "7543",
@@ -2529,16 +2529,16 @@
           "team": "DET"
         },
         {
-          "player_id": "13346",
-          "name": "Denzel Boston",
+          "player_id": "13281",
+          "name": "Jordyn Tyson",
           "position": "WR",
-          "team": "CLE"
+          "team": "NO"
         },
         {
-          "player_id": "12506",
-          "name": "Harold Fannin Jr.",
+          "player_id": "12498",
+          "name": "Mason Taylor",
           "position": "TE",
-          "team": "CLE"
+          "team": "NYJ"
         },
         {
           "player_id": "5967",
@@ -2547,10 +2547,10 @@
           "team": "TEN"
         },
         {
-          "player_id": "96",
-          "name": "Aaron Rodgers",
+          "player_id": "9758",
+          "name": "C.J. Stroud",
           "position": "QB",
-          "team": "PIT"
+          "team": "HOU"
         }
       ],
       "bench": [
@@ -2567,16 +2567,16 @@
           "team": "NO"
         },
         {
-          "player_id": "12498",
-          "name": "Mason Taylor",
-          "position": "TE",
-          "team": "NYJ"
-        },
-        {
           "player_id": "12502",
           "name": "Gunnar Helm",
           "position": "TE",
           "team": "TEN"
+        },
+        {
+          "player_id": "12506",
+          "name": "Harold Fannin Jr.",
+          "position": "TE",
+          "team": "CLE"
         },
         {
           "player_id": "12530",
@@ -2597,16 +2597,16 @@
           "team": "LAR"
         },
         {
-          "player_id": "13281",
-          "name": "Jordyn Tyson",
-          "position": "WR",
-          "team": "NO"
-        },
-        {
           "player_id": "13289",
           "name": "Drew Allar",
           "position": "QB",
           "team": "PIT"
+        },
+        {
+          "player_id": "13346",
+          "name": "Denzel Boston",
+          "position": "WR",
+          "team": "CLE"
         },
         {
           "player_id": "13405",
@@ -2639,16 +2639,16 @@
           "team": "TEN"
         },
         {
+          "player_id": "96",
+          "name": "Aaron Rodgers",
+          "position": "QB",
+          "team": "PIT"
+        },
+        {
           "player_id": "9757",
           "name": "Kendre Miller",
           "position": "RB",
           "team": "DAL"
-        },
-        {
-          "player_id": "9758",
-          "name": "C.J. Stroud",
-          "position": "QB",
-          "team": "HOU"
         }
       ],
       "taxi": [],
