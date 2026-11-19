@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-18T22:07:33.918Z",
+  "generated_at": "2026-11-19T03:38:48.336Z",
   "source": "Sleeper public API",
   "username": "TheMightyKites",
   "nfl_week": 11,
@@ -799,10 +799,10 @@
       "rank": 1,
       "starters": [
         {
-          "player_id": "11564",
-          "name": "Drake Maye",
+          "player_id": "9228",
+          "name": "Bryce Young",
           "position": "QB",
-          "team": "NE"
+          "team": "CAR"
         },
         {
           "player_id": "9221",
@@ -817,10 +817,10 @@
           "team": "CIN"
         },
         {
-          "player_id": "9488",
-          "name": "Jaxon Smith-Njigba",
+          "player_id": "8137",
+          "name": "George Pickens",
           "position": "WR",
-          "team": "SEA"
+          "team": "DAL"
         },
         {
           "player_id": "9487",
@@ -829,16 +829,10 @@
           "team": "JAX"
         },
         {
-          "player_id": "9501",
-          "name": "DeMario Douglas",
+          "player_id": "11625",
+          "name": "Adonai Mitchell",
           "position": "WR",
-          "team": "NE"
-        },
-        {
-          "player_id": "11604",
-          "name": "Brock Bowers",
-          "position": "TE",
-          "team": "LV"
+          "team": "NYJ"
         },
         {
           "player_id": "12518",
@@ -847,10 +841,16 @@
           "team": "IND"
         },
         {
-          "player_id": "8137",
-          "name": "George Pickens",
-          "position": "WR",
-          "team": "DAL"
+          "player_id": "11604",
+          "name": "Brock Bowers",
+          "position": "TE",
+          "team": "LV"
+        },
+        {
+          "player_id": "9480",
+          "name": "Brenton Strange",
+          "position": "TE",
+          "team": "JAX"
         }
       ],
       "bench": [
@@ -861,16 +861,10 @@
           "team": "JAX"
         },
         {
-          "player_id": "11625",
-          "name": "Adonai Mitchell",
-          "position": "WR",
-          "team": "NYJ"
-        },
-        {
-          "player_id": "11630",
-          "name": "Roman Wilson",
-          "position": "WR",
-          "team": "PIT"
+          "player_id": "11564",
+          "name": "Drake Maye",
+          "position": "QB",
+          "team": "NE"
         },
         {
           "player_id": "11643",
@@ -915,6 +909,12 @@
           "team": "LV"
         },
         {
+          "player_id": "13302",
+          "name": "Adam Randall",
+          "position": "RB",
+          "team": "BAL"
+        },
+        {
           "player_id": "13420",
           "name": "Bryce Lance",
           "position": "WR",
@@ -951,22 +951,22 @@
           "team": "LV"
         },
         {
-          "player_id": "9228",
-          "name": "Bryce Young",
-          "position": "QB",
-          "team": "CAR"
-        },
-        {
           "player_id": "9229",
           "name": "Anthony Richardson Sr.",
           "position": "QB",
           "team": "IND"
         },
         {
-          "player_id": "9480",
-          "name": "Brenton Strange",
-          "position": "TE",
-          "team": "JAX"
+          "player_id": "9488",
+          "name": "Jaxon Smith-Njigba",
+          "position": "WR",
+          "team": "SEA"
+        },
+        {
+          "player_id": "9501",
+          "name": "DeMario Douglas",
+          "position": "WR",
+          "team": "NE"
         },
         {
           "player_id": "9508",
@@ -978,10 +978,10 @@
       "taxi": [],
       "reserve": [
         {
-          "player_id": "13302",
-          "name": "Adam Randall",
-          "position": "RB",
-          "team": "BAL"
+          "player_id": "11630",
+          "name": "Roman Wilson",
+          "position": "WR",
+          "team": "PIT"
         },
         {
           "player_id": "13353",
@@ -1148,10 +1148,10 @@
           "team": "LAC"
         },
         {
-          "player_id": "13274",
-          "name": "Germie Bernard",
+          "player_id": "12514",
+          "name": "Emeka Egbuka",
           "position": "WR",
-          "team": "PIT"
+          "team": "TB"
         },
         {
           "player_id": "10213",
@@ -1222,16 +1222,16 @@
           "team": "NE"
         },
         {
-          "player_id": "12514",
-          "name": "Emeka Egbuka",
-          "position": "WR",
-          "team": "TB"
-        },
-        {
           "player_id": "12522",
           "name": "Cam Ward",
           "position": "QB",
           "team": "TEN"
+        },
+        {
+          "player_id": "13274",
+          "name": "Germie Bernard",
+          "position": "WR",
+          "team": "PIT"
         },
         {
           "player_id": "13288",
@@ -1490,10 +1490,10 @@
           "team": "NO"
         },
         {
-          "player_id": "6130",
-          "name": "Devin Singletary",
+          "player_id": "6806",
+          "name": "J.K. Dobbins",
           "position": "RB",
-          "team": "NYG"
+          "team": "DEN"
         },
         {
           "player_id": "11584",
@@ -1526,16 +1526,16 @@
           "team": "DET"
         },
         {
-          "player_id": "12490",
-          "name": "Bhayshul Tuten",
-          "position": "RB",
-          "team": "JAX"
+          "player_id": "13311",
+          "name": "Chris Bell",
+          "position": "WR",
+          "team": "MIA"
         },
         {
-          "player_id": "2505",
-          "name": "Darren Waller",
-          "position": "TE",
-          "team": "CAR"
+          "player_id": "6130",
+          "name": "Devin Singletary",
+          "position": "RB",
+          "team": "NYG"
         }
       ],
       "bench": [
@@ -1576,10 +1576,10 @@
           "team": "SEA"
         },
         {
-          "player_id": "13311",
-          "name": "Chris Bell",
+          "player_id": "13298",
+          "name": "KC Concepcion Jr.",
           "position": "WR",
-          "team": "MIA"
+          "team": "CLE"
         },
         {
           "player_id": "13317",
@@ -1628,12 +1628,6 @@
           "name": "Miles Sanders",
           "position": "RB",
           "team": "FA"
-        },
-        {
-          "player_id": "6806",
-          "name": "J.K. Dobbins",
-          "position": "RB",
-          "team": "DEN"
         },
         {
           "player_id": "7561",
@@ -1715,10 +1709,10 @@
         },
         {
           "season": "2027",
-          "round": 2,
-          "original_roster_id": 4,
-          "original_team": "pvanexter",
-          "is_own": true
+          "round": 1,
+          "original_roster_id": 7,
+          "original_team": "LSU BOYZZZ",
+          "is_own": false
         },
         {
           "season": "2027",
@@ -2404,10 +2398,10 @@
           "team": "SF"
         },
         {
-          "player_id": "4147",
-          "name": "Samaje Perine",
+          "player_id": "12490",
+          "name": "Bhayshul Tuten",
           "position": "RB",
-          "team": "CIN"
+          "team": "JAX"
         },
         {
           "player_id": "8155",
@@ -2446,19 +2440,13 @@
           "team": "BAL"
         },
         {
-          "player_id": "5872",
-          "name": "Deebo Samuel Sr.",
-          "position": "WR",
-          "team": "SF"
+          "player_id": "4147",
+          "name": "Samaje Perine",
+          "position": "RB",
+          "team": "CIN"
         }
       ],
       "bench": [
-        {
-          "player_id": "11651",
-          "name": "Isaac Guerendo",
-          "position": "RB",
-          "team": "SF"
-        },
         {
           "player_id": "12540",
           "name": "Chimere Dike",
@@ -2502,12 +2490,6 @@
           "team": "ARI"
         },
         {
-          "player_id": "13298",
-          "name": "KC Concepcion Jr.",
-          "position": "WR",
-          "team": "CLE"
-        },
-        {
           "player_id": "13320",
           "name": "Zachariah Branch",
           "position": "WR",
@@ -2526,6 +2508,12 @@
           "team": "NE"
         },
         {
+          "player_id": "2505",
+          "name": "Darren Waller",
+          "position": "TE",
+          "team": "CAR"
+        },
+        {
           "player_id": "4033",
           "name": "David Njoku",
           "position": "TE",
@@ -2542,6 +2530,12 @@
           "name": "Drew Lock",
           "position": "QB",
           "team": "SEA"
+        },
+        {
+          "player_id": "5872",
+          "name": "Deebo Samuel Sr.",
+          "position": "WR",
+          "team": "SF"
         },
         {
           "player_id": "7090",
@@ -2627,10 +2621,10 @@
         },
         {
           "season": "2027",
-          "round": 1,
-          "original_roster_id": 7,
-          "original_team": "LSU BOYZZZ",
-          "is_own": true
+          "round": 2,
+          "original_roster_id": 4,
+          "original_team": "pvanexter",
+          "is_own": false
         },
         {
           "season": "2027",

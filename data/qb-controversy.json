@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-18T22:07:33.539Z",
+  "generated_at": "2026-11-19T03:38:47.930Z",
   "source": "Sleeper public API",
   "username": "TheMightyKites",
   "nfl_week": 11,
@@ -1495,12 +1495,6 @@
           "team": "SF"
         },
         {
-          "player_id": "6826",
-          "name": "Cole Kmet",
-          "position": "TE",
-          "team": "CHI"
-        },
-        {
           "player_id": "7090",
           "name": "Darnell Mooney",
           "position": "WR",
@@ -1552,6 +1546,12 @@
         }
       ],
       "reserve": [
+        {
+          "player_id": "6826",
+          "name": "Cole Kmet",
+          "position": "TE",
+          "team": "CHI"
+        },
         {
           "player_id": "8161",
           "name": "Malik Willis",
@@ -1670,16 +1670,16 @@
           "team": "LAC"
         },
         {
-          "player_id": "13286",
-          "name": "Jadarian Price",
+          "player_id": "4035",
+          "name": "Alvin Kamara",
           "position": "RB",
-          "team": "SEA"
+          "team": "NO"
         },
         {
-          "player_id": "9756",
-          "name": "Jordan Addison",
+          "player_id": "8147",
+          "name": "John Metchie III",
           "position": "WR",
-          "team": "MIN"
+          "team": "CAR"
         },
         {
           "player_id": "8144",
@@ -1688,10 +1688,10 @@
           "team": "NO"
         },
         {
-          "player_id": "13298",
-          "name": "KC Concepcion Jr.",
+          "player_id": "11631",
+          "name": "Brian Thomas Jr.",
           "position": "WR",
-          "team": "CLE"
+          "team": "JAX"
         },
         {
           "player_id": "4993",
@@ -1706,10 +1706,10 @@
           "team": "HOU"
         },
         {
-          "player_id": "8126",
-          "name": "Wan'Dale Robinson",
+          "player_id": "5970",
+          "name": "Greg Dortch",
           "position": "WR",
-          "team": "TEN"
+          "team": "BUF"
         },
         {
           "player_id": "96",
@@ -1726,10 +1726,16 @@
           "team": "SEA"
         },
         {
-          "player_id": "11631",
-          "name": "Brian Thomas Jr.",
+          "player_id": "13286",
+          "name": "Jadarian Price",
+          "position": "RB",
+          "team": "SEA"
+        },
+        {
+          "player_id": "13298",
+          "name": "KC Concepcion Jr.",
           "position": "WR",
-          "team": "JAX"
+          "team": "CLE"
         },
         {
           "player_id": "1837",
@@ -1750,12 +1756,6 @@
           "team": "LAR"
         },
         {
-          "player_id": "4035",
-          "name": "Alvin Kamara",
-          "position": "RB",
-          "team": "NO"
-        },
-        {
           "player_id": "4039",
           "name": "Cooper Kupp",
           "position": "WR",
@@ -1766,12 +1766,6 @@
           "name": "Taysom Hill",
           "position": "TE",
           "team": "FA"
-        },
-        {
-          "player_id": "5970",
-          "name": "Greg Dortch",
-          "position": "WR",
-          "team": "BUF"
         },
         {
           "player_id": "6011",
@@ -1792,16 +1786,22 @@
           "team": "DEN"
         },
         {
-          "player_id": "8147",
-          "name": "John Metchie III",
+          "player_id": "8126",
+          "name": "Wan'Dale Robinson",
           "position": "WR",
-          "team": "CAR"
+          "team": "TEN"
         },
         {
           "player_id": "827",
           "name": "Tyrod Taylor",
           "position": "QB",
           "team": "GB"
+        },
+        {
+          "player_id": "9756",
+          "name": "Jordan Addison",
+          "position": "WR",
+          "team": "MIN"
         }
       ],
       "taxi": [
@@ -1951,10 +1951,10 @@
           "team": "BAL"
         },
         {
-          "player_id": "5967",
-          "name": "Tony Pollard",
+          "player_id": "6790",
+          "name": "D'Andre Swift",
           "position": "RB",
-          "team": "TEN"
+          "team": "CHI"
         },
         {
           "player_id": "7547",
@@ -1987,10 +1987,10 @@
           "team": "DAL"
         },
         {
-          "player_id": "6790",
-          "name": "D'Andre Swift",
+          "player_id": "5967",
+          "name": "Tony Pollard",
           "position": "RB",
-          "team": "CHI"
+          "team": "TEN"
         },
         {
           "player_id": "8132",
@@ -3054,12 +3054,6 @@
           "team": "GB"
         },
         {
-          "player_id": "12487",
-          "name": "Terrance Ferguson",
-          "position": "TE",
-          "team": "LAR"
-        },
-        {
           "player_id": "12502",
           "name": "Gunnar Helm",
           "position": "TE",
@@ -3094,6 +3088,12 @@
           "name": "Dohnte Meyers",
           "position": "WR",
           "team": "CIN"
+        },
+        {
+          "player_id": "13302",
+          "name": "Adam Randall",
+          "position": "RB",
+          "team": "BAL"
         },
         {
           "player_id": "13421",
@@ -3142,10 +3142,10 @@
           "team": "GB"
         },
         {
-          "player_id": "13302",
-          "name": "Adam Randall",
-          "position": "RB",
-          "team": "BAL"
+          "player_id": "12487",
+          "name": "Terrance Ferguson",
+          "position": "TE",
+          "team": "LAR"
         }
       ],
       "picks": [

@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-18T22:07:33.238Z",
+  "generated_at": "2026-11-19T03:38:47.359Z",
   "source": "Sleeper public API",
   "username": "TheMightyKites",
   "nfl_week": 11,
@@ -1898,10 +1898,10 @@
           "team": "TB"
         },
         {
-          "player_id": "12535",
-          "name": "Isaac TeSlaa",
+          "player_id": "10213",
+          "name": "Tre Tucker",
           "position": "WR",
-          "team": "DET"
+          "team": "LV"
         },
         {
           "player_id": "12494",
@@ -1911,12 +1911,6 @@
         }
       ],
       "bench": [
-        {
-          "player_id": "10213",
-          "name": "Tre Tucker",
-          "position": "WR",
-          "team": "LV"
-        },
         {
           "player_id": "11655",
           "name": "Tyrone Tracy Jr.",
@@ -1928,6 +1922,12 @@
           "name": "Dylan Sampson",
           "position": "RB",
           "team": "CLE"
+        },
+        {
+          "player_id": "12535",
+          "name": "Isaac TeSlaa",
+          "position": "WR",
+          "team": "DET"
         },
         {
           "player_id": "13338",
@@ -2787,10 +2787,10 @@
           "team": "TB"
         },
         {
-          "player_id": "0",
-          "name": "0",
-          "position": "—",
-          "team": "FA"
+          "player_id": "3155",
+          "name": "Laquon Treadwell",
+          "position": "WR",
+          "team": "IND"
         },
         {
           "player_id": "12526",
@@ -2835,12 +2835,6 @@
           "name": "Mason Taylor",
           "position": "TE",
           "team": "NYJ"
-        },
-        {
-          "player_id": "3155",
-          "name": "Laquon Treadwell",
-          "position": "WR",
-          "team": "IND"
         },
         {
           "player_id": "3321",

@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-18T22:07:34.171Z",
+  "generated_at": "2026-11-19T03:38:48.671Z",
   "source": "Sleeper public API",
   "username": "TheMightyKites",
   "nfl_week": 11,
@@ -1942,10 +1942,10 @@
           "team": "CIN"
         },
         {
-          "player_id": "8151",
-          "name": "Kenneth Walker III",
+          "player_id": "5892",
+          "name": "David Montgomery",
           "position": "RB",
-          "team": "KC"
+          "team": "HOU"
         },
         {
           "player_id": "6786",
@@ -1954,22 +1954,10 @@
           "team": "DAL"
         },
         {
-          "player_id": "8112",
-          "name": "Drake London",
+          "player_id": "5846",
+          "name": "DK Metcalf",
           "position": "WR",
-          "team": "ATL"
-        },
-        {
-          "player_id": "8167",
-          "name": "Christian Watson",
-          "position": "WR",
-          "team": "GB"
-        },
-        {
-          "player_id": "12518",
-          "name": "Tyler Warren",
-          "position": "TE",
-          "team": "IND"
+          "team": "PIT"
         },
         {
           "player_id": "6794",
@@ -1978,10 +1966,22 @@
           "team": "MIN"
         },
         {
-          "player_id": "6804",
-          "name": "Jordan Love",
+          "player_id": "12518",
+          "name": "Tyler Warren",
+          "position": "TE",
+          "team": "IND"
+        },
+        {
+          "player_id": "12517",
+          "name": "Colston Loveland",
+          "position": "TE",
+          "team": "CHI"
+        },
+        {
+          "player_id": "11560",
+          "name": "Caleb Williams",
           "position": "QB",
-          "team": "GB"
+          "team": "CHI"
         }
       ],
       "bench": [
@@ -1998,12 +1998,6 @@
           "team": "HOU"
         },
         {
-          "player_id": "11560",
-          "name": "Caleb Williams",
-          "position": "QB",
-          "team": "CHI"
-        },
-        {
           "player_id": "11627",
           "name": "Troy Franklin",
           "position": "WR",
@@ -2014,12 +2008,6 @@
           "name": "Dylan Sampson",
           "position": "RB",
           "team": "CLE"
-        },
-        {
-          "player_id": "12517",
-          "name": "Colston Loveland",
-          "position": "TE",
-          "team": "CHI"
         },
         {
           "player_id": "12529",
@@ -2040,16 +2028,10 @@
           "team": "NE"
         },
         {
-          "player_id": "5846",
-          "name": "DK Metcalf",
-          "position": "WR",
-          "team": "PIT"
-        },
-        {
-          "player_id": "5892",
-          "name": "David Montgomery",
-          "position": "RB",
-          "team": "HOU"
+          "player_id": "6804",
+          "name": "Jordan Love",
+          "position": "QB",
+          "team": "GB"
         },
         {
           "player_id": "6806",
@@ -2070,6 +2052,12 @@
           "team": "PIT"
         },
         {
+          "player_id": "8112",
+          "name": "Drake London",
+          "position": "WR",
+          "team": "ATL"
+        },
+        {
           "player_id": "8122",
           "name": "Zonovan Knight",
           "position": "RB",
@@ -2080,6 +2068,18 @@
           "name": "Treylon Burks",
           "position": "WR",
           "team": "WAS"
+        },
+        {
+          "player_id": "8151",
+          "name": "Kenneth Walker III",
+          "position": "RB",
+          "team": "KC"
+        },
+        {
+          "player_id": "8167",
+          "name": "Christian Watson",
+          "position": "WR",
+          "team": "GB"
         }
       ],
       "taxi": [
