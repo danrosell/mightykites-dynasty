@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-19T13:27:34.568Z",
+  "generated_at": "2026-11-19T22:15:27.243Z",
   "source": "Sleeper public API",
   "username": "TheMightyKites",
   "nfl_week": 11,
@@ -61,7 +61,7 @@
       "daily_waivers_base": 4,
       "reserve_slots": 2,
       "reserve_allow_cov": 1,
-      "daily_waivers_last_ran": 18
+      "daily_waivers_last_ran": 19
     },
     "scoring_settings": {
       "sack": 1,
@@ -1446,6 +1446,12 @@
         }
       ],
       "bench": [
+        {
+          "player_id": "10214",
+          "name": "Davis Allen",
+          "position": "TE",
+          "team": "LAR"
+        },
         {
           "player_id": "11627",
           "name": "Troy Franklin",

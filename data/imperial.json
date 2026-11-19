@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-19T13:27:34.176Z",
+  "generated_at": "2026-11-19T22:15:26.696Z",
   "source": "Sleeper public API",
   "username": "TheMightyKites",
   "nfl_week": 11,
@@ -61,7 +61,7 @@
       "leg": 11,
       "reserve_slots": 3,
       "reserve_allow_cov": 0,
-      "daily_waivers_last_ran": 18
+      "daily_waivers_last_ran": 19
     },
     "scoring_settings": {
       "sack": 1,
@@ -999,16 +999,16 @@
           "team": "CLE"
         },
         {
-          "player_id": "9488",
-          "name": "Jaxon Smith-Njigba",
-          "position": "WR",
-          "team": "SEA"
-        },
-        {
           "player_id": "6794",
           "name": "Justin Jefferson",
           "position": "WR",
           "team": "MIN"
+        },
+        {
+          "player_id": "9486",
+          "name": "Dontayvion Wicks",
+          "position": "WR",
+          "team": "PHI"
         },
         {
           "player_id": "2505",
@@ -1029,10 +1029,10 @@
           "team": "TEN"
         },
         {
-          "player_id": "6797",
-          "name": "Justin Herbert",
+          "player_id": "12522",
+          "name": "Cam Ward",
           "position": "QB",
-          "team": "LAC"
+          "team": "TEN"
         }
       ],
       "bench": [
@@ -1043,28 +1043,22 @@
           "team": "PHI"
         },
         {
-          "player_id": "11628",
-          "name": "Marvin Harrison Jr.",
-          "position": "WR",
-          "team": "HOU"
-        },
-        {
-          "player_id": "12522",
-          "name": "Cam Ward",
-          "position": "QB",
-          "team": "TEN"
-        },
-        {
           "player_id": "13286",
           "name": "Jadarian Price",
           "position": "RB",
           "team": "SEA"
         },
         {
-          "player_id": "9486",
-          "name": "Dontayvion Wicks",
+          "player_id": "6797",
+          "name": "Justin Herbert",
+          "position": "QB",
+          "team": "LAC"
+        },
+        {
+          "player_id": "9488",
+          "name": "Jaxon Smith-Njigba",
           "position": "WR",
-          "team": "PHI"
+          "team": "SEA"
         }
       ],
       "taxi": [
@@ -1082,6 +1076,12 @@
         }
       ],
       "reserve": [
+        {
+          "player_id": "11628",
+          "name": "Marvin Harrison Jr.",
+          "position": "WR",
+          "team": "HOU"
+        },
         {
           "player_id": "8205",
           "name": "Isiah Pacheco",
