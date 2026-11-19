@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-19T03:38:48.336Z",
+  "generated_at": "2026-11-19T13:27:34.967Z",
   "source": "Sleeper public API",
   "username": "TheMightyKites",
   "nfl_week": 11,
@@ -3706,10 +3706,10 @@
           "team": "CIN"
         },
         {
-          "player_id": "11610",
-          "name": "Malik Washington",
+          "player_id": "13301",
+          "name": "Antonio Williams",
           "position": "WR",
-          "team": "MIA"
+          "team": "WAS"
         }
       ],
       "bench": [
@@ -3724,6 +3724,12 @@
           "name": "Ray Davis",
           "position": "RB",
           "team": "BUF"
+        },
+        {
+          "player_id": "11610",
+          "name": "Malik Washington",
+          "position": "WR",
+          "team": "MIA"
         },
         {
           "player_id": "11624",
@@ -3778,12 +3784,6 @@
           "name": "Malachi Fields",
           "position": "WR",
           "team": "NYG"
-        },
-        {
-          "player_id": "13301",
-          "name": "Antonio Williams",
-          "position": "WR",
-          "team": "WAS"
         },
         {
           "player_id": "13330",
@@ -4001,10 +4001,10 @@
           "team": "BUF"
         },
         {
-          "player_id": "12499",
-          "name": "Elic Ayomanor",
+          "player_id": "11620",
+          "name": "Rome Odunze",
           "position": "WR",
-          "team": "TEN"
+          "team": "CHI"
         },
         {
           "player_id": "13276",
@@ -4045,12 +4045,6 @@
           "team": "NYJ"
         },
         {
-          "player_id": "11620",
-          "name": "Rome Odunze",
-          "position": "WR",
-          "team": "CHI"
-        },
-        {
           "player_id": "11655",
           "name": "Tyrone Tracy Jr.",
           "position": "RB",
@@ -4061,6 +4055,12 @@
           "name": "Mason Taylor",
           "position": "TE",
           "team": "NYJ"
+        },
+        {
+          "player_id": "12499",
+          "name": "Elic Ayomanor",
+          "position": "WR",
+          "team": "TEN"
         },
         {
           "player_id": "13277",
