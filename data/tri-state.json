@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-20T13:08:00.739Z",
+  "generated_at": "2026-11-20T21:15:55.674Z",
   "source": "Sleeper public API",
   "username": "TheMightyKites",
   "nfl_week": 11,
@@ -1705,10 +1705,10 @@
           "team": "SF"
         },
         {
-          "player_id": "9753",
-          "name": "Zach Charbonnet",
+          "player_id": "8408",
+          "name": "Jordan Mason",
           "position": "RB",
-          "team": "SEA"
+          "team": "MIN"
         },
         {
           "player_id": "7547",
@@ -1723,15 +1723,9 @@
           "team": "CIN"
         },
         {
-          "player_id": "5859",
-          "name": "A.J. Brown",
+          "player_id": "2216",
+          "name": "Mike Evans",
           "position": "WR",
-          "team": "NE"
-        },
-        {
-          "player_id": "4217",
-          "name": "George Kittle",
-          "position": "TE",
           "team": "SF"
         },
         {
@@ -1739,6 +1733,12 @@
           "name": "Travis Kelce",
           "position": "TE",
           "team": "KC"
+        },
+        {
+          "player_id": "4217",
+          "name": "George Kittle",
+          "position": "TE",
+          "team": "SF"
         },
         {
           "player_id": "1373",
@@ -1759,12 +1759,6 @@
           "name": "Malik Washington",
           "position": "WR",
           "team": "MIA"
-        },
-        {
-          "player_id": "11655",
-          "name": "Tyrone Tracy Jr.",
-          "position": "RB",
-          "team": "NYG"
         },
         {
           "player_id": "12491",
@@ -1791,16 +1785,22 @@
           "team": "CLE"
         },
         {
-          "player_id": "2216",
-          "name": "Mike Evans",
+          "player_id": "2133",
+          "name": "Davante Adams",
           "position": "WR",
-          "team": "SF"
+          "team": "LAR"
         },
         {
           "player_id": "2306",
           "name": "Jameis Winston",
           "position": "QB",
           "team": "NYG"
+        },
+        {
+          "player_id": "4033",
+          "name": "David Njoku",
+          "position": "TE",
+          "team": "LAC"
         },
         {
           "player_id": "4035",
@@ -1821,10 +1821,10 @@
           "team": "GB"
         },
         {
-          "player_id": "8408",
-          "name": "Jordan Mason",
-          "position": "RB",
-          "team": "MIN"
+          "player_id": "5859",
+          "name": "A.J. Brown",
+          "position": "WR",
+          "team": "NE"
         },
         {
           "player_id": "9229",
@@ -1833,10 +1833,10 @@
           "team": "IND"
         },
         {
-          "player_id": "9493",
-          "name": "Puka Nacua",
-          "position": "WR",
-          "team": "LAR"
+          "player_id": "9753",
+          "name": "Zach Charbonnet",
+          "position": "RB",
+          "team": "SEA"
         },
         {
           "player_id": "9754",
@@ -1848,22 +1848,22 @@
       "taxi": [],
       "reserve": [
         {
-          "player_id": "2133",
-          "name": "Davante Adams",
-          "position": "WR",
-          "team": "LAR"
-        },
-        {
-          "player_id": "4033",
-          "name": "David Njoku",
-          "position": "TE",
-          "team": "LAC"
+          "player_id": "11655",
+          "name": "Tyrone Tracy Jr.",
+          "position": "RB",
+          "team": "NYG"
         },
         {
           "player_id": "6904",
           "name": "Jalen Hurts",
           "position": "QB",
           "team": "PHI"
+        },
+        {
+          "player_id": "9493",
+          "name": "Puka Nacua",
+          "position": "WR",
+          "team": "LAR"
         }
       ],
       "picks": [
@@ -3095,10 +3095,10 @@
           "team": "HOU"
         },
         {
-          "player_id": "5872",
-          "name": "Deebo Samuel Sr.",
+          "player_id": "12514",
+          "name": "Emeka Egbuka",
           "position": "WR",
-          "team": "SF"
+          "team": "TB"
         },
         {
           "player_id": "8131",
@@ -3175,12 +3175,6 @@
           "team": "GB"
         },
         {
-          "player_id": "12514",
-          "name": "Emeka Egbuka",
-          "position": "WR",
-          "team": "TB"
-        },
-        {
           "player_id": "4199",
           "name": "Aaron Jones Sr.",
           "position": "RB",
@@ -3197,6 +3191,12 @@
           "name": "T.J. Hockenson",
           "position": "TE",
           "team": "MIN"
+        },
+        {
+          "player_id": "5872",
+          "name": "Deebo Samuel Sr.",
+          "position": "WR",
+          "team": "SF"
         },
         {
           "player_id": "6819",

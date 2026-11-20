@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-20T13:08:00.099Z",
+  "generated_at": "2026-11-20T21:15:54.988Z",
   "source": "Sleeper public API",
   "username": "TheMightyKites",
   "nfl_week": 11,
@@ -61,7 +61,7 @@
       "daily_waivers_base": 4,
       "reserve_slots": 2,
       "reserve_allow_cov": 1,
-      "daily_waivers_last_ran": 19
+      "daily_waivers_last_ran": 20
     },
     "scoring_settings": {
       "sack": 1,
@@ -611,7 +611,7 @@
         },
         {
           "player_id": "13603",
-          "name": "Gregory Desrosiers",
+          "name": "Gregory Desrosiers Jr.",
           "position": "RB",
           "team": "NYG"
         },
@@ -631,7 +631,7 @@
           "player_id": "8116",
           "name": "Pierre Strong Jr.",
           "position": "RB",
-          "team": "GB"
+          "team": "FA"
         },
         {
           "player_id": "8167",
@@ -853,10 +853,10 @@
           "team": "DEN"
         },
         {
-          "player_id": "4199",
-          "name": "Aaron Jones Sr.",
-          "position": "RB",
-          "team": "MIN"
+          "player_id": "13330",
+          "name": "Kenyon Sadiq",
+          "position": "TE",
+          "team": "NYJ"
         },
         {
           "player_id": "3163",
@@ -885,12 +885,6 @@
           "team": "BAL"
         },
         {
-          "player_id": "13330",
-          "name": "Kenyon Sadiq",
-          "position": "TE",
-          "team": "NYJ"
-        },
-        {
           "player_id": "3155",
           "name": "Laquon Treadwell",
           "position": "WR",
@@ -913,6 +907,12 @@
           "name": "Joshua Dobbs",
           "position": "QB",
           "team": "DET"
+        },
+        {
+          "player_id": "4199",
+          "name": "Aaron Jones Sr.",
+          "position": "RB",
+          "team": "MIN"
         },
         {
           "player_id": "6130",

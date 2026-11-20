@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-20T13:07:59.783Z",
+  "generated_at": "2026-11-20T21:15:54.618Z",
   "source": "Sleeper public API",
   "username": "TheMightyKites",
   "nfl_week": 11,
@@ -61,7 +61,7 @@
       "leg": 11,
       "reserve_slots": 3,
       "reserve_allow_cov": 0,
-      "daily_waivers_last_ran": 19
+      "daily_waivers_last_ran": 20
     },
     "scoring_settings": {
       "sack": 1,
@@ -601,10 +601,10 @@
           "team": "PIT"
         },
         {
-          "player_id": "13274",
-          "name": "Germie Bernard",
+          "player_id": "8148",
+          "name": "Jameson Williams",
           "position": "WR",
-          "team": "PIT"
+          "team": "DET"
         },
         {
           "player_id": "8137",
@@ -657,10 +657,10 @@
           "team": "MIN"
         },
         {
-          "player_id": "13277",
-          "name": "CJ Donaldson",
-          "position": "RB",
-          "team": "NO"
+          "player_id": "13274",
+          "name": "Germie Bernard",
+          "position": "WR",
+          "team": "PIT"
         },
         {
           "player_id": "8167",
@@ -701,12 +701,6 @@
           "name": "Malik Davis",
           "position": "RB",
           "team": "DAL"
-        },
-        {
-          "player_id": "9493",
-          "name": "Puka Nacua",
-          "position": "WR",
-          "team": "LAR"
         }
       ],
       "picks": [
@@ -723,6 +717,27 @@
           "original_roster_id": 2,
           "original_team": "Chosen Sentinels ",
           "is_own": true
+        },
+        {
+          "season": "2027",
+          "round": 1,
+          "original_roster_id": 10,
+          "original_team": "Tuten & Bootin’",
+          "is_own": false
+        },
+        {
+          "season": "2027",
+          "round": 1,
+          "original_roster_id": 13,
+          "original_team": "The X Factors",
+          "is_own": false
+        },
+        {
+          "season": "2027",
+          "round": 1,
+          "original_roster_id": 14,
+          "original_team": "nickdemarinis",
+          "is_own": false
         },
         {
           "season": "2027",
@@ -816,10 +831,10 @@
           "team": "MIN"
         },
         {
-          "player_id": "13294",
-          "name": "Makai Lemon",
+          "player_id": "13301",
+          "name": "Antonio Williams",
           "position": "WR",
-          "team": "PHI"
+          "team": "WAS"
         },
         {
           "player_id": "4046",
@@ -829,12 +844,6 @@
         }
       ],
       "bench": [
-        {
-          "player_id": "11624",
-          "name": "Xavier Worthy",
-          "position": "WR",
-          "team": "KC"
-        },
         {
           "player_id": "12501",
           "name": "Matthew Golden",
@@ -846,6 +855,12 @@
           "name": "Tyler Shough",
           "position": "QB",
           "team": "NO"
+        },
+        {
+          "player_id": "13294",
+          "name": "Makai Lemon",
+          "position": "WR",
+          "team": "PHI"
         },
         {
           "player_id": "13346",
@@ -872,12 +887,6 @@
           "name": "Kaleb Johnson",
           "position": "RB",
           "team": "GB"
-        },
-        {
-          "player_id": "13301",
-          "name": "Antonio Williams",
-          "position": "WR",
-          "team": "WAS"
         }
       ],
       "reserve": [
@@ -915,6 +924,13 @@
           "round": 1,
           "original_roster_id": 17,
           "original_team": "chane broken",
+          "is_own": false
+        },
+        {
+          "season": "2027",
+          "round": 2,
+          "original_roster_id": 13,
+          "original_team": "The X Factors",
           "is_own": false
         },
         {
@@ -993,10 +1009,10 @@
           "team": "PHI"
         },
         {
-          "player_id": "12512",
-          "name": "Quinshon Judkins",
+          "player_id": "9511",
+          "name": "Keaton Mitchell",
           "position": "RB",
-          "team": "CLE"
+          "team": "LAC"
         },
         {
           "player_id": "6794",
@@ -1005,10 +1021,10 @@
           "team": "MIN"
         },
         {
-          "player_id": "9486",
-          "name": "Dontayvion Wicks",
+          "player_id": "11624",
+          "name": "Xavier Worthy",
           "position": "WR",
-          "team": "PHI"
+          "team": "KC"
         },
         {
           "player_id": "2505",
@@ -1037,10 +1053,10 @@
       ],
       "bench": [
         {
-          "player_id": "11557",
-          "name": "Joe Milton",
-          "position": "QB",
-          "team": "PHI"
+          "player_id": "12512",
+          "name": "Quinshon Judkins",
+          "position": "RB",
+          "team": "CLE"
         },
         {
           "player_id": "13286",
@@ -1053,6 +1069,12 @@
           "name": "Justin Herbert",
           "position": "QB",
           "team": "LAC"
+        },
+        {
+          "player_id": "9486",
+          "name": "Dontayvion Wicks",
+          "position": "WR",
+          "team": "PHI"
         },
         {
           "player_id": "9488",
@@ -1110,13 +1132,6 @@
           "original_roster_id": 4,
           "original_team": "Trade Federation",
           "is_own": true
-        },
-        {
-          "season": "2027",
-          "round": 2,
-          "original_roster_id": 13,
-          "original_team": "The X Factors",
-          "is_own": false
         },
         {
           "season": "2028",
@@ -2219,16 +2234,16 @@
           "team": "DET"
         },
         {
-          "player_id": "13276",
-          "name": "Omar Cooper Jr.",
+          "player_id": "11834",
+          "name": "Devaughn Vele",
           "position": "WR",
-          "team": "NYJ"
+          "team": "NO"
         },
         {
-          "player_id": "8148",
-          "name": "Jameson Williams",
+          "player_id": "7571",
+          "name": "Rashod Bateman",
           "position": "WR",
-          "team": "DET"
+          "team": "BAL"
         },
         {
           "player_id": "9482",
@@ -2243,10 +2258,10 @@
           "team": "HOU"
         },
         {
-          "player_id": "7571",
-          "name": "Rashod Bateman",
-          "position": "WR",
-          "team": "BAL"
+          "player_id": "11647",
+          "name": "Kimani Vidal",
+          "position": "RB",
+          "team": "LAC"
         },
         {
           "player_id": "12471",
@@ -2263,21 +2278,21 @@
           "team": "MIA"
         },
         {
-          "player_id": "11647",
-          "name": "Kimani Vidal",
-          "position": "RB",
-          "team": "LAC"
-        },
-        {
-          "player_id": "11834",
-          "name": "Devaughn Vele",
+          "player_id": "13276",
+          "name": "Omar Cooper Jr.",
           "position": "WR",
-          "team": "NO"
+          "team": "NYJ"
         },
         {
           "player_id": "6865",
           "name": "Colby Parkinson",
           "position": "TE",
+          "team": "LAR"
+        },
+        {
+          "player_id": "9493",
+          "name": "Puka Nacua",
+          "position": "WR",
           "team": "LAR"
         }
       ],
@@ -2354,30 +2369,9 @@
         {
           "season": "2027",
           "round": 1,
-          "original_roster_id": 10,
-          "original_team": "Tuten & Bootin’",
-          "is_own": false
-        },
-        {
-          "season": "2027",
-          "round": 1,
           "original_roster_id": 11,
           "original_team": "Last Place",
           "is_own": true
-        },
-        {
-          "season": "2027",
-          "round": 1,
-          "original_roster_id": 13,
-          "original_team": "The X Factors",
-          "is_own": false
-        },
-        {
-          "season": "2027",
-          "round": 1,
-          "original_roster_id": 14,
-          "original_team": "nickdemarinis",
-          "is_own": false
         },
         {
           "season": "2027",
@@ -3176,10 +3170,10 @@
           "team": "KC"
         },
         {
-          "player_id": "0",
-          "name": "0",
-          "position": "—",
-          "team": "FA"
+          "player_id": "7049",
+          "name": "Jauan Jennings",
+          "position": "WR",
+          "team": "MIN"
         },
         {
           "player_id": "1373",
@@ -3205,12 +3199,6 @@
           "player_id": "13421",
           "name": "Eli Raridon",
           "position": "TE",
-          "team": "NE"
-        },
-        {
-          "player_id": "4177",
-          "name": "Mack Hollins",
-          "position": "WR",
           "team": "NE"
         },
         {
@@ -3361,24 +3349,24 @@
           "team": "HOU"
         },
         {
-          "player_id": "5995",
-          "name": "Justice Hill",
+          "player_id": "8151",
+          "name": "Kenneth Walker III",
           "position": "RB",
-          "team": "BAL"
+          "team": "KC"
         },
-        {
-          "player_id": "6804",
-          "name": "Jordan Love",
-          "position": "QB",
-          "team": "GB"
-        }
-      ],
-      "bench": [
         {
           "player_id": "1166",
           "name": "Kirk Cousins",
           "position": "QB",
           "team": "MIN"
+        }
+      ],
+      "bench": [
+        {
+          "player_id": "13279",
+          "name": "Carnell Tate",
+          "position": "WR",
+          "team": "TEN"
         },
         {
           "player_id": "13349",
@@ -3393,16 +3381,16 @@
           "team": "DEN"
         },
         {
-          "player_id": "8151",
-          "name": "Kenneth Walker III",
+          "player_id": "5995",
+          "name": "Justice Hill",
           "position": "RB",
-          "team": "KC"
+          "team": "BAL"
         },
         {
-          "player_id": "8676",
-          "name": "Rashid Shaheed",
-          "position": "WR",
-          "team": "SEA"
+          "player_id": "6804",
+          "name": "Jordan Love",
+          "position": "QB",
+          "team": "GB"
         }
       ],
       "taxi": [
@@ -3420,12 +3408,6 @@
         }
       ],
       "reserve": [
-        {
-          "player_id": "13279",
-          "name": "Carnell Tate",
-          "position": "WR",
-          "team": "TEN"
-        },
         {
           "player_id": "8110",
           "name": "Jake Ferguson",
