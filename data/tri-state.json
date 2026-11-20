@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-19T22:15:27.921Z",
+  "generated_at": "2026-11-20T03:33:01.900Z",
   "source": "Sleeper public API",
   "username": "TheMightyKites",
   "nfl_week": 11,
@@ -407,7 +407,7 @@
     },
     "opponent": {
       "team": "The Big Tuna",
-      "points": 0,
+      "points": 13.8,
       "roster_id": 6
     }
   },
@@ -816,10 +816,10 @@
           "team": "DET"
         },
         {
-          "player_id": "11635",
-          "name": "Ladd McConkey",
-          "position": "WR",
-          "team": "LAC"
+          "player_id": "13345",
+          "name": "Jonah Coleman",
+          "position": "RB",
+          "team": "DEN"
         },
         {
           "player_id": "8183",
@@ -842,6 +842,12 @@
           "team": "LAR"
         },
         {
+          "player_id": "11635",
+          "name": "Ladd McConkey",
+          "position": "WR",
+          "team": "LAC"
+        },
+        {
           "player_id": "11647",
           "name": "Kimani Vidal",
           "position": "RB",
@@ -858,12 +864,6 @@
           "name": "Caleb Douglas",
           "position": "WR",
           "team": "MIA"
-        },
-        {
-          "player_id": "13345",
-          "name": "Jonah Coleman",
-          "position": "RB",
-          "team": "DEN"
         },
         {
           "player_id": "421",
@@ -1327,10 +1327,10 @@
           "team": "BUF"
         },
         {
-          "player_id": "13274",
-          "name": "Germie Bernard",
+          "player_id": "12540",
+          "name": "Chimere Dike",
           "position": "WR",
-          "team": "PIT"
+          "team": "TEN"
         },
         {
           "player_id": "7002",
@@ -1345,10 +1345,10 @@
           "team": "WAS"
         },
         {
-          "player_id": "13293",
-          "name": "Ja'Kobi Lane",
+          "player_id": "13274",
+          "name": "Germie Bernard",
           "position": "WR",
-          "team": "BAL"
+          "team": "PIT"
         }
       ],
       "bench": [
@@ -1377,12 +1377,6 @@
           "team": "LAC"
         },
         {
-          "player_id": "12540",
-          "name": "Chimere Dike",
-          "position": "WR",
-          "team": "TEN"
-        },
-        {
           "player_id": "12547",
           "name": "Kyle Williams",
           "position": "WR",
@@ -1393,6 +1387,12 @@
           "name": "CJ Daniels",
           "position": "WR",
           "team": "LAR"
+        },
+        {
+          "player_id": "13293",
+          "name": "Ja'Kobi Lane",
+          "position": "WR",
+          "team": "BAL"
         },
         {
           "player_id": "13298",
@@ -3101,16 +3101,16 @@
           "team": "SF"
         },
         {
-          "player_id": "10236",
-          "name": "Dalton Kincaid",
-          "position": "TE",
-          "team": "BUF"
-        },
-        {
           "player_id": "8131",
           "name": "Isaiah Likely",
           "position": "TE",
           "team": "NYG"
+        },
+        {
+          "player_id": "10236",
+          "name": "Dalton Kincaid",
+          "position": "TE",
+          "team": "BUF"
         },
         {
           "player_id": "11566",

@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-19T22:15:27.243Z",
+  "generated_at": "2026-11-20T03:33:00.798Z",
   "source": "Sleeper public API",
   "username": "TheMightyKites",
   "nfl_week": 11,
@@ -1999,10 +1999,10 @@
           "team": "TEN"
         },
         {
-          "player_id": "8132",
-          "name": "Tyler Allgeier",
-          "position": "RB",
-          "team": "ARI"
+          "player_id": "1373",
+          "name": "Geno Smith",
+          "position": "QB",
+          "team": "NYJ"
         }
       ],
       "bench": [
@@ -2049,12 +2049,6 @@
           "team": "NO"
         },
         {
-          "player_id": "1373",
-          "name": "Geno Smith",
-          "position": "QB",
-          "team": "NYJ"
-        },
-        {
           "player_id": "3214",
           "name": "Hunter Henry",
           "position": "TE",
@@ -2083,6 +2077,12 @@
           "name": "Rashod Bateman",
           "position": "WR",
           "team": "BAL"
+        },
+        {
+          "player_id": "8132",
+          "name": "Tyler Allgeier",
+          "position": "RB",
+          "team": "ARI"
         },
         {
           "player_id": "9493",
@@ -4124,10 +4124,10 @@
           "team": "CAR"
         },
         {
-          "player_id": "11608",
-          "name": "Isaiah Williams",
-          "position": "WR",
-          "team": "NYJ"
+          "player_id": "11577",
+          "name": "Will Shipley",
+          "position": "RB",
+          "team": "PHI"
         }
       ],
       "bench": [
@@ -4150,10 +4150,10 @@
           "team": "NYJ"
         },
         {
-          "player_id": "11577",
-          "name": "Will Shipley",
-          "position": "RB",
-          "team": "PHI"
+          "player_id": "11608",
+          "name": "Isaiah Williams",
+          "position": "WR",
+          "team": "NYJ"
         },
         {
           "player_id": "11628",
