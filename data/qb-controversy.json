@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-20T21:15:54.988Z",
+  "generated_at": "2026-11-21T02:33:28.392Z",
   "source": "Sleeper public API",
   "username": "TheMightyKites",
   "nfl_week": 11,
@@ -2741,10 +2741,10 @@
           "team": "CIN"
         },
         {
-          "player_id": "9509",
-          "name": "Bijan Robinson",
+          "player_id": "13337",
+          "name": "Emmett Johnson",
           "position": "RB",
-          "team": "ATL"
+          "team": "KC"
         },
         {
           "player_id": "6813",
@@ -2753,10 +2753,10 @@
           "team": "IND"
         },
         {
-          "player_id": "8112",
-          "name": "Drake London",
+          "player_id": "2216",
+          "name": "Mike Evans",
           "position": "WR",
-          "team": "ATL"
+          "team": "SF"
         },
         {
           "player_id": "2449",
@@ -2765,10 +2765,10 @@
           "team": "WAS"
         },
         {
-          "player_id": "9501",
-          "name": "DeMario Douglas",
+          "player_id": "4037",
+          "name": "Chris Godwin Jr.",
           "position": "WR",
-          "team": "NE"
+          "team": "TB"
         },
         {
           "player_id": "8130",
@@ -2777,16 +2777,16 @@
           "team": "ARI"
         },
         {
-          "player_id": "2505",
-          "name": "Darren Waller",
-          "position": "TE",
-          "team": "CAR"
+          "player_id": "4866",
+          "name": "Saquon Barkley",
+          "position": "RB",
+          "team": "PHI"
         },
         {
-          "player_id": "13337",
-          "name": "Emmett Johnson",
-          "position": "RB",
-          "team": "KC"
+          "player_id": "5012",
+          "name": "Mark Andrews",
+          "position": "TE",
+          "team": "BAL"
         },
         {
           "player_id": "3294",
@@ -2809,34 +2809,16 @@
           "team": "CIN"
         },
         {
-          "player_id": "2216",
-          "name": "Mike Evans",
-          "position": "WR",
-          "team": "SF"
-        },
-        {
           "player_id": "2307",
           "name": "Marcus Mariota",
           "position": "QB",
           "team": "WAS"
         },
         {
-          "player_id": "4037",
-          "name": "Chris Godwin Jr.",
-          "position": "WR",
-          "team": "TB"
-        },
-        {
-          "player_id": "4866",
-          "name": "Saquon Barkley",
-          "position": "RB",
-          "team": "PHI"
-        },
-        {
-          "player_id": "5012",
-          "name": "Mark Andrews",
+          "player_id": "2505",
+          "name": "Darren Waller",
           "position": "TE",
-          "team": "BAL"
+          "team": "CAR"
         },
         {
           "player_id": "6797",
@@ -2848,6 +2830,12 @@
           "player_id": "7608",
           "name": "Khalil Herbert",
           "position": "RB",
+          "team": "ATL"
+        },
+        {
+          "player_id": "8112",
+          "name": "Drake London",
+          "position": "WR",
           "team": "ATL"
         },
         {
@@ -2879,6 +2867,18 @@
           "name": "Jalen Nailor",
           "position": "WR",
           "team": "LV"
+        },
+        {
+          "player_id": "9501",
+          "name": "DeMario Douglas",
+          "position": "WR",
+          "team": "NE"
+        },
+        {
+          "player_id": "9509",
+          "name": "Bijan Robinson",
+          "position": "RB",
+          "team": "ATL"
         }
       ],
       "taxi": [
