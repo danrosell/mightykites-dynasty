@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-21T11:22:11.562Z",
+  "generated_at": "2026-11-21T19:27:15.628Z",
   "source": "Sleeper public API",
   "username": "TheMightyKites",
   "nfl_week": 11,
@@ -61,7 +61,7 @@
       "leg": 11,
       "reserve_slots": 3,
       "reserve_allow_cov": 1,
-      "daily_waivers_last_ran": 20
+      "daily_waivers_last_ran": 21
     },
     "scoring_settings": {
       "sack": 2,
@@ -507,10 +507,10 @@
           "team": "PIT"
         },
         {
-          "player_id": "4037",
-          "name": "Chris Godwin Jr.",
+          "player_id": "7526",
+          "name": "Jaylen Waddle",
           "position": "WR",
-          "team": "TB"
+          "team": "DEN"
         },
         {
           "player_id": "12519",
@@ -519,10 +519,10 @@
           "team": "CHI"
         },
         {
-          "player_id": "12634",
-          "name": "Jordan Watkins",
+          "player_id": "7525",
+          "name": "DeVonta Smith",
           "position": "WR",
-          "team": "SF"
+          "team": "PHI"
         },
         {
           "player_id": "8130",
@@ -569,6 +569,12 @@
           "team": "HOU"
         },
         {
+          "player_id": "12634",
+          "name": "Jordan Watkins",
+          "position": "WR",
+          "team": "SF"
+        },
+        {
           "player_id": "12718",
           "name": "Konata Mumpfield",
           "position": "WR",
@@ -579,6 +585,12 @@
           "name": "Tyler Higbee",
           "position": "TE",
           "team": "LAR"
+        },
+        {
+          "player_id": "4037",
+          "name": "Chris Godwin Jr.",
+          "position": "WR",
+          "team": "TB"
         },
         {
           "player_id": "4950",
@@ -597,18 +609,6 @@
           "name": "Rico Dowdle",
           "position": "RB",
           "team": "PIT"
-        },
-        {
-          "player_id": "7525",
-          "name": "DeVonta Smith",
-          "position": "WR",
-          "team": "PHI"
-        },
-        {
-          "player_id": "7526",
-          "name": "Jaylen Waddle",
-          "position": "WR",
-          "team": "DEN"
         },
         {
           "player_id": "8136",
@@ -2324,7 +2324,7 @@
           "player_id": "5870",
           "name": "Daniel Jones",
           "position": "QB",
-          "team": "IND"
+          "team": "FA"
         },
         {
           "player_id": "9230",
@@ -3107,10 +3107,10 @@
           "team": "NYG"
         },
         {
-          "player_id": "10236",
-          "name": "Dalton Kincaid",
+          "player_id": "5844",
+          "name": "T.J. Hockenson",
           "position": "TE",
-          "team": "BUF"
+          "team": "MIN"
         },
         {
           "player_id": "11566",
@@ -3120,6 +3120,12 @@
         }
       ],
       "bench": [
+        {
+          "player_id": "10236",
+          "name": "Dalton Kincaid",
+          "position": "TE",
+          "team": "BUF"
+        },
         {
           "player_id": "11565",
           "name": "J.J. McCarthy",
@@ -3185,12 +3191,6 @@
           "name": "Baker Mayfield",
           "position": "QB",
           "team": "TB"
-        },
-        {
-          "player_id": "5844",
-          "name": "T.J. Hockenson",
-          "position": "TE",
-          "team": "MIN"
         },
         {
           "player_id": "5872",
