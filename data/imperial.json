@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-22T08:06:44.676Z",
+  "generated_at": "2026-11-22T16:22:58.640Z",
   "source": "Sleeper public API",
   "username": "TheMightyKites",
   "nfl_week": 11,
@@ -822,10 +822,10 @@
           "team": "MIN"
         },
         {
-          "player_id": "13075",
-          "name": "Myles Price",
+          "player_id": "13294",
+          "name": "Makai Lemon",
           "position": "WR",
-          "team": "MIN"
+          "team": "PHI"
         },
         {
           "player_id": "13301",
@@ -848,10 +848,10 @@
           "team": "GB"
         },
         {
-          "player_id": "13294",
-          "name": "Makai Lemon",
+          "player_id": "13075",
+          "name": "Myles Price",
           "position": "WR",
-          "team": "PHI"
+          "team": "MIN"
         },
         {
           "player_id": "13346",
@@ -2286,6 +2286,12 @@
           "team": "LAR"
         },
         {
+          "player_id": "9226",
+          "name": "De'Von Achane",
+          "position": "RB",
+          "team": "MIA"
+        },
+        {
           "player_id": "9493",
           "name": "Puka Nacua",
           "position": "WR",
@@ -2337,13 +2343,6 @@
         {
           "season": "2027",
           "round": 1,
-          "original_roster_id": 2,
-          "original_team": "Chosen Sentinels ",
-          "is_own": false
-        },
-        {
-          "season": "2027",
-          "round": 1,
           "original_roster_id": 3,
           "original_team": "Diamond Dogs",
           "is_own": false
@@ -2368,13 +2367,6 @@
           "original_roster_id": 11,
           "original_team": "Last Place",
           "is_own": true
-        },
-        {
-          "season": "2027",
-          "round": 1,
-          "original_roster_id": 18,
-          "original_team": "Eyes On The Prize McBride",
-          "is_own": false
         },
         {
           "season": "2028",
@@ -2976,10 +2968,10 @@
           "team": "MIA"
         },
         {
-          "player_id": "2216",
-          "name": "Mike Evans",
+          "player_id": "7526",
+          "name": "Jaylen Waddle",
           "position": "WR",
-          "team": "SF"
+          "team": "DEN"
         },
         {
           "player_id": "12517",
@@ -2988,10 +2980,10 @@
           "team": "CHI"
         },
         {
-          "player_id": "7526",
-          "name": "Jaylen Waddle",
+          "player_id": "2216",
+          "name": "Mike Evans",
           "position": "WR",
-          "team": "DEN"
+          "team": "SF"
         },
         {
           "player_id": "2449",
@@ -3321,16 +3313,16 @@
           "team": "MIN"
         },
         {
-          "player_id": "1479",
-          "name": "Keenan Allen",
+          "player_id": "5045",
+          "name": "Courtland Sutton",
           "position": "WR",
-          "team": "SF"
+          "team": "DEN"
         },
         {
-          "player_id": "13293",
-          "name": "Ja'Kobi Lane",
+          "player_id": "13279",
+          "name": "Carnell Tate",
           "position": "WR",
-          "team": "BAL"
+          "team": "TEN"
         },
         {
           "player_id": "13330",
@@ -3345,10 +3337,10 @@
           "team": "HOU"
         },
         {
-          "player_id": "8151",
-          "name": "Kenneth Walker III",
+          "player_id": "5995",
+          "name": "Justice Hill",
           "position": "RB",
-          "team": "KC"
+          "team": "BAL"
         },
         {
           "player_id": "1166",
@@ -3359,10 +3351,10 @@
       ],
       "bench": [
         {
-          "player_id": "13279",
-          "name": "Carnell Tate",
+          "player_id": "13293",
+          "name": "Ja'Kobi Lane",
           "position": "WR",
-          "team": "TEN"
+          "team": "BAL"
         },
         {
           "player_id": "13349",
@@ -3371,16 +3363,10 @@
           "team": "PHI"
         },
         {
-          "player_id": "5045",
-          "name": "Courtland Sutton",
+          "player_id": "1479",
+          "name": "Keenan Allen",
           "position": "WR",
-          "team": "DEN"
-        },
-        {
-          "player_id": "5995",
-          "name": "Justice Hill",
-          "position": "RB",
-          "team": "BAL"
+          "team": "SF"
         },
         {
           "player_id": "6804",
@@ -3411,10 +3397,10 @@
           "team": "DAL"
         },
         {
-          "player_id": "9226",
-          "name": "De'Von Achane",
+          "player_id": "8151",
+          "name": "Kenneth Walker III",
           "position": "RB",
-          "team": "MIA"
+          "team": "KC"
         }
       ],
       "picks": [
@@ -3430,6 +3416,20 @@
           "round": 2,
           "original_roster_id": 6,
           "original_team": "COMMANDO Squad",
+          "is_own": false
+        },
+        {
+          "season": "2027",
+          "round": 1,
+          "original_roster_id": 2,
+          "original_team": "Chosen Sentinels ",
+          "is_own": false
+        },
+        {
+          "season": "2027",
+          "round": 1,
+          "original_roster_id": 18,
+          "original_team": "Eyes On The Prize McBride",
           "is_own": false
         },
         {
