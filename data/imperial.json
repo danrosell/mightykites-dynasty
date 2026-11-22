@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-22T16:22:58.640Z",
+  "generated_at": "2026-11-22T22:31:33.716Z",
   "source": "Sleeper public API",
   "username": "TheMightyKites",
   "nfl_week": 11,
@@ -61,7 +61,7 @@
       "leg": 11,
       "reserve_slots": 3,
       "reserve_allow_cov": 0,
-      "daily_waivers_last_ran": 21
+      "daily_waivers_last_ran": 22
     },
     "scoring_settings": {
       "sack": 1,
@@ -314,11 +314,11 @@
   "my_matchup": {
     "me": {
       "team": "TheMightyKites",
-      "points": 0
+      "points": 107.36
     },
     "opponent": {
       "team": "The Jersey Syndicate",
-      "points": 3.7,
+      "points": 56.14,
       "roster_id": 5
     }
   },
@@ -854,16 +854,22 @@
           "team": "MIN"
         },
         {
+          "player_id": "13319",
+          "name": "Oscar Delp",
+          "position": "TE",
+          "team": "NO"
+        },
+        {
           "player_id": "13346",
           "name": "Denzel Boston",
           "position": "WR",
           "team": "CLE"
         },
         {
-          "player_id": "3271",
-          "name": "Tyler Higbee",
-          "position": "TE",
-          "team": "LAR"
+          "player_id": "13394",
+          "name": "Josh Cameron",
+          "position": "WR",
+          "team": "JAX"
         }
       ],
       "taxi": [
@@ -1061,6 +1067,12 @@
           "team": "SEA"
         },
         {
+          "player_id": "4033",
+          "name": "David Njoku",
+          "position": "TE",
+          "team": "LAC"
+        },
+        {
           "player_id": "6797",
           "name": "Justin Herbert",
           "position": "QB",
@@ -1157,10 +1169,10 @@
       "rank": 13,
       "starters": [
         {
-          "player_id": "11579",
-          "name": "Audric Estime",
+          "player_id": "13405",
+          "name": "Kaytron Allen",
           "position": "RB",
-          "team": "NO"
+          "team": "MIA"
         },
         {
           "player_id": "8132",
@@ -1193,10 +1205,10 @@
           "team": "TB"
         },
         {
-          "player_id": "13405",
-          "name": "Kaytron Allen",
+          "player_id": "11571",
+          "name": "Isaiah Davis",
           "position": "RB",
-          "team": "MIA"
+          "team": "NYJ"
         },
         {
           "player_id": "11560",
@@ -1207,10 +1219,10 @@
       ],
       "bench": [
         {
-          "player_id": "11571",
-          "name": "Isaiah Davis",
+          "player_id": "11579",
+          "name": "Audric Estime",
           "position": "RB",
-          "team": "NYJ"
+          "team": "NO"
         },
         {
           "player_id": "12536",

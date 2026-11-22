@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-22T16:22:59.202Z",
+  "generated_at": "2026-11-22T22:31:34.070Z",
   "source": "Sleeper public API",
   "username": "TheMightyKites",
   "nfl_week": 11,
@@ -61,7 +61,7 @@
       "daily_waivers_base": 4,
       "reserve_slots": 2,
       "reserve_allow_cov": 1,
-      "daily_waivers_last_ran": 21
+      "daily_waivers_last_ran": 22
     },
     "scoring_settings": {
       "sack": 1,
@@ -412,11 +412,11 @@
   "my_matchup": {
     "me": {
       "team": "The Ham Cannons",
-      "points": 0
+      "points": 61.79
     },
     "opponent": {
       "team": "James Jones #1 WR",
-      "points": 0,
+      "points": 10.5,
       "roster_id": 14
     }
   },
@@ -610,16 +610,16 @@
           "team": "MIN"
         },
         {
-          "player_id": "13603",
-          "name": "Gregory Desrosiers Jr.",
-          "position": "RB",
-          "team": "NYG"
-        },
-        {
           "player_id": "2306",
           "name": "Jameis Winston",
           "position": "QB",
           "team": "NYG"
+        },
+        {
+          "player_id": "260",
+          "name": "Josh Johnson",
+          "position": "QB",
+          "team": "ARI"
         },
         {
           "player_id": "7600",
@@ -2013,12 +2013,6 @@
           "team": "CAR"
         },
         {
-          "player_id": "12969",
-          "name": "Lan Larison",
-          "position": "RB",
-          "team": "NE"
-        },
-        {
           "player_id": "13282",
           "name": "Jack Endries",
           "position": "TE",
@@ -2077,6 +2071,12 @@
           "name": "Tyler Allgeier",
           "position": "RB",
           "team": "ARI"
+        },
+        {
+          "player_id": "9227",
+          "name": "Israel Abanikanda",
+          "position": "RB",
+          "team": "DAL"
         },
         {
           "player_id": "9493",
@@ -3583,10 +3583,10 @@
           "team": "CHI"
         },
         {
-          "player_id": "11604",
-          "name": "Brock Bowers",
-          "position": "TE",
-          "team": "LV"
+          "player_id": "8408",
+          "name": "Jordan Mason",
+          "position": "RB",
+          "team": "MIN"
         },
         {
           "player_id": "11625",
@@ -3602,6 +3602,12 @@
         }
       ],
       "bench": [
+        {
+          "player_id": "11604",
+          "name": "Brock Bowers",
+          "position": "TE",
+          "team": "LV"
+        },
         {
           "player_id": "11624",
           "name": "Xavier Worthy",
@@ -3667,12 +3673,6 @@
           "name": "DeVonta Smith",
           "position": "WR",
           "team": "PHI"
-        },
-        {
-          "player_id": "8408",
-          "name": "Jordan Mason",
-          "position": "RB",
-          "team": "MIN"
         },
         {
           "player_id": "9230",
@@ -4076,10 +4076,10 @@
           "team": "DET"
         },
         {
-          "player_id": "11571",
-          "name": "Isaiah Davis",
+          "player_id": "11577",
+          "name": "Will Shipley",
           "position": "RB",
-          "team": "NYJ"
+          "team": "PHI"
         },
         {
           "player_id": "13394",
@@ -4118,10 +4118,10 @@
           "team": "WAS"
         },
         {
-          "player_id": "11577",
-          "name": "Will Shipley",
+          "player_id": "11571",
+          "name": "Isaiah Davis",
           "position": "RB",
-          "team": "PHI"
+          "team": "NYJ"
         }
       ],
       "bench": [

@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-22T16:22:59.781Z",
+  "generated_at": "2026-11-22T22:31:34.376Z",
   "source": "Sleeper public API",
   "username": "TheMightyKites",
   "nfl_week": 11,
@@ -58,7 +58,7 @@
       "leg": 11,
       "reserve_slots": 2,
       "reserve_allow_cov": 0,
-      "daily_waivers_last_ran": 21
+      "daily_waivers_last_ran": 22
     },
     "scoring_settings": {
       "sack": 1,
@@ -416,11 +416,11 @@
   "my_matchup": {
     "me": {
       "team": "TheMightyKites",
-      "points": 0
+      "points": 77.9
     },
     "opponent": {
       "team": "LSU BOYZZZ",
-      "points": 0,
+      "points": 39.9,
       "roster_id": 7
     }
   },
@@ -867,6 +867,12 @@
           "team": "NE"
         },
         {
+          "player_id": "11630",
+          "name": "Roman Wilson",
+          "position": "WR",
+          "team": "PIT"
+        },
+        {
           "player_id": "11643",
           "name": "Jaylen Wright",
           "position": "RB",
@@ -967,27 +973,21 @@
           "name": "DeMario Douglas",
           "position": "WR",
           "team": "NE"
+        }
+      ],
+      "taxi": [],
+      "reserve": [
+        {
+          "player_id": "13353",
+          "name": "Chris Brazzell II",
+          "position": "WR",
+          "team": "CAR"
         },
         {
           "player_id": "9508",
           "name": "Tyjae Spears",
           "position": "RB",
           "team": "TEN"
-        }
-      ],
-      "taxi": [],
-      "reserve": [
-        {
-          "player_id": "11630",
-          "name": "Roman Wilson",
-          "position": "WR",
-          "team": "PIT"
-        },
-        {
-          "player_id": "13353",
-          "name": "Chris Brazzell II",
-          "position": "WR",
-          "team": "CAR"
         }
       ],
       "picks": [
@@ -1597,7 +1597,7 @@
           "player_id": "2197",
           "name": "Brandin Cooks",
           "position": "WR",
-          "team": "SF"
+          "team": "FA"
         },
         {
           "player_id": "2306",
@@ -2728,10 +2728,10 @@
           "team": "NYJ"
         },
         {
-          "player_id": "2216",
-          "name": "Mike Evans",
+          "player_id": "11783",
+          "name": "Ryan Flournoy",
           "position": "WR",
-          "team": "SF"
+          "team": "DAL"
         },
         {
           "player_id": "8148",
@@ -2740,10 +2740,10 @@
           "team": "DET"
         },
         {
-          "player_id": "2449",
-          "name": "Stefon Diggs",
+          "player_id": "2216",
+          "name": "Mike Evans",
           "position": "WR",
-          "team": "WAS"
+          "team": "SF"
         },
         {
           "player_id": "8131",
@@ -2752,10 +2752,10 @@
           "team": "NYG"
         },
         {
-          "player_id": "11783",
-          "name": "Ryan Flournoy",
+          "player_id": "2449",
+          "name": "Stefon Diggs",
           "position": "WR",
-          "team": "DAL"
+          "team": "WAS"
         },
         {
           "player_id": "5892",
@@ -4007,10 +4007,10 @@
           "team": "CHI"
         },
         {
-          "player_id": "13276",
-          "name": "Omar Cooper Jr.",
+          "player_id": "12499",
+          "name": "Elic Ayomanor",
           "position": "WR",
-          "team": "NYJ"
+          "team": "TEN"
         },
         {
           "player_id": "4983",
@@ -4057,10 +4057,10 @@
           "team": "NYJ"
         },
         {
-          "player_id": "12499",
-          "name": "Elic Ayomanor",
+          "player_id": "13276",
+          "name": "Omar Cooper Jr.",
           "position": "WR",
-          "team": "TEN"
+          "team": "NYJ"
         },
         {
           "player_id": "13277",
