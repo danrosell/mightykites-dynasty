@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-22T00:25:29.360Z",
+  "generated_at": "2026-11-22T08:06:45.057Z",
   "source": "Sleeper public API",
   "username": "TheMightyKites",
   "nfl_week": 11,
@@ -4076,10 +4076,10 @@
           "team": "DET"
         },
         {
-          "player_id": "8136",
-          "name": "Rachaad White",
+          "player_id": "11571",
+          "name": "Isaiah Davis",
           "position": "RB",
-          "team": "WAS"
+          "team": "NYJ"
         },
         {
           "player_id": "13394",
@@ -4094,10 +4094,10 @@
           "team": "MIA"
         },
         {
-          "player_id": "8135",
-          "name": "Treylon Burks",
+          "player_id": "11626",
+          "name": "Xavier Legette",
           "position": "WR",
-          "team": "WAS"
+          "team": "CAR"
         },
         {
           "player_id": "11599",
@@ -4106,16 +4106,16 @@
           "team": "HOU"
         },
         {
-          "player_id": "9508",
-          "name": "Tyjae Spears",
+          "player_id": "8136",
+          "name": "Rachaad White",
           "position": "RB",
-          "team": "TEN"
+          "team": "WAS"
         },
         {
-          "player_id": "11626",
-          "name": "Xavier Legette",
+          "player_id": "8135",
+          "name": "Treylon Burks",
           "position": "WR",
-          "team": "CAR"
+          "team": "WAS"
         },
         {
           "player_id": "11577",
@@ -4136,12 +4136,6 @@
           "name": "Chris Brooks",
           "position": "RB",
           "team": "GB"
-        },
-        {
-          "player_id": "11571",
-          "name": "Isaiah Davis",
-          "position": "RB",
-          "team": "NYJ"
         },
         {
           "player_id": "11608",
@@ -4208,6 +4202,12 @@
           "name": "Tyquan Thornton",
           "position": "WR",
           "team": "KC"
+        },
+        {
+          "player_id": "9508",
+          "name": "Tyjae Spears",
+          "position": "RB",
+          "team": "TEN"
         }
       ],
       "taxi": [

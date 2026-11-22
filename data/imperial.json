@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-22T00:25:29.049Z",
+  "generated_at": "2026-11-22T08:06:44.676Z",
   "source": "Sleeper public API",
   "username": "TheMightyKites",
   "nfl_week": 11,
@@ -179,10 +179,10 @@
         "team": "NYG"
       },
       {
-        "player_id": "3257",
-        "name": "Jacoby Brissett",
+        "player_id": "4046",
+        "name": "Patrick Mahomes",
         "position": "QB",
-        "team": "BAL"
+        "team": "KC"
       }
     ],
     "bench": [
@@ -239,18 +239,6 @@
     ],
     "reserve": [
       {
-        "player_id": "12533",
-        "name": "Jacory Croskey-Merritt",
-        "position": "RB",
-        "team": "WAS"
-      },
-      {
-        "player_id": "4881",
-        "name": "Lamar Jackson",
-        "position": "QB",
-        "team": "BAL"
-      },
-      {
         "player_id": "4950",
         "name": "Christian Kirk",
         "position": "WR",
@@ -299,6 +287,13 @@
         "original_roster_id": 1,
         "original_team": "TheMightyKites",
         "is_own": true
+      },
+      {
+        "season": "2028",
+        "round": 2,
+        "original_roster_id": 3,
+        "original_team": "Diamond Dogs",
+        "is_own": false
       },
       {
         "season": "2029",
@@ -371,6 +366,13 @@
       "is_own": true
     },
     {
+      "season": "2028",
+      "round": 2,
+      "original_roster_id": 3,
+      "original_team": "Diamond Dogs",
+      "is_own": false
+    },
+    {
       "season": "2029",
       "round": 1,
       "original_roster_id": 1,
@@ -440,10 +442,10 @@
           "team": "NYG"
         },
         {
-          "player_id": "3257",
-          "name": "Jacoby Brissett",
+          "player_id": "4046",
+          "name": "Patrick Mahomes",
           "position": "QB",
-          "team": "BAL"
+          "team": "KC"
         }
       ],
       "bench": [
@@ -500,18 +502,6 @@
       ],
       "reserve": [
         {
-          "player_id": "12533",
-          "name": "Jacory Croskey-Merritt",
-          "position": "RB",
-          "team": "WAS"
-        },
-        {
-          "player_id": "4881",
-          "name": "Lamar Jackson",
-          "position": "QB",
-          "team": "BAL"
-        },
-        {
           "player_id": "4950",
           "name": "Christian Kirk",
           "position": "WR",
@@ -560,6 +550,13 @@
           "original_roster_id": 1,
           "original_team": "TheMightyKites",
           "is_own": true
+        },
+        {
+          "season": "2028",
+          "round": 2,
+          "original_roster_id": 3,
+          "original_team": "Diamond Dogs",
+          "is_own": false
         },
         {
           "season": "2029",
@@ -795,10 +792,10 @@
       "rank": 12,
       "starters": [
         {
-          "player_id": "0",
-          "name": "0",
-          "position": "—",
-          "team": "FA"
+          "player_id": "12533",
+          "name": "Jacory Croskey-Merritt",
+          "position": "RB",
+          "team": "WAS"
         },
         {
           "player_id": "8155",
@@ -837,10 +834,10 @@
           "team": "WAS"
         },
         {
-          "player_id": "4046",
-          "name": "Patrick Mahomes",
+          "player_id": "12545",
+          "name": "Tyler Shough",
           "position": "QB",
-          "team": "KC"
+          "team": "NO"
         }
       ],
       "bench": [
@@ -849,12 +846,6 @@
           "name": "Matthew Golden",
           "position": "WR",
           "team": "GB"
-        },
-        {
-          "player_id": "12545",
-          "name": "Tyler Shough",
-          "position": "QB",
-          "team": "NO"
         },
         {
           "player_id": "13294",
@@ -895,6 +886,12 @@
           "name": "TreVeyon Henderson",
           "position": "RB",
           "team": "NE"
+        },
+        {
+          "player_id": "4881",
+          "name": "Lamar Jackson",
+          "position": "QB",
+          "team": "BAL"
         },
         {
           "player_id": "9508",
@@ -959,13 +956,6 @@
           "original_roster_id": 13,
           "original_team": "The X Factors",
           "is_own": false
-        },
-        {
-          "season": "2028",
-          "round": 2,
-          "original_roster_id": 3,
-          "original_team": "Diamond Dogs",
-          "is_own": true
         },
         {
           "season": "2028",
