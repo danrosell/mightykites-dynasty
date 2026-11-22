@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-21T19:27:15.628Z",
+  "generated_at": "2026-11-22T00:25:30.219Z",
   "source": "Sleeper public API",
   "username": "TheMightyKites",
   "nfl_week": 11,
@@ -216,6 +216,12 @@
         "team": "NE"
       },
       {
+        "player_id": "11630",
+        "name": "Roman Wilson",
+        "position": "WR",
+        "team": "PIT"
+      },
+      {
         "player_id": "11834",
         "name": "Devaughn Vele",
         "position": "WR",
@@ -288,12 +294,6 @@
         "team": "PHI"
       },
       {
-        "player_id": "9486",
-        "name": "Dontayvion Wicks",
-        "position": "WR",
-        "team": "PHI"
-      },
-      {
         "player_id": "9501",
         "name": "DeMario Douglas",
         "position": "WR",
@@ -316,12 +316,6 @@
     ],
     "reserve": [
       {
-        "player_id": "11630",
-        "name": "Roman Wilson",
-        "position": "WR",
-        "team": "PIT"
-      },
-      {
         "player_id": "11638",
         "name": "Ricky Pearsall",
         "position": "WR",
@@ -332,6 +326,12 @@
         "name": "De'Von Achane",
         "position": "RB",
         "team": "MIA"
+      },
+      {
+        "player_id": "9486",
+        "name": "Dontayvion Wicks",
+        "position": "WR",
+        "team": "PHI"
       }
     ],
     "picks": [
@@ -1101,6 +1101,12 @@
           "team": "NE"
         },
         {
+          "player_id": "11630",
+          "name": "Roman Wilson",
+          "position": "WR",
+          "team": "PIT"
+        },
+        {
           "player_id": "11834",
           "name": "Devaughn Vele",
           "position": "WR",
@@ -1173,12 +1179,6 @@
           "team": "PHI"
         },
         {
-          "player_id": "9486",
-          "name": "Dontayvion Wicks",
-          "position": "WR",
-          "team": "PHI"
-        },
-        {
           "player_id": "9501",
           "name": "DeMario Douglas",
           "position": "WR",
@@ -1201,12 +1201,6 @@
       ],
       "reserve": [
         {
-          "player_id": "11630",
-          "name": "Roman Wilson",
-          "position": "WR",
-          "team": "PIT"
-        },
-        {
           "player_id": "11638",
           "name": "Ricky Pearsall",
           "position": "WR",
@@ -1217,6 +1211,12 @@
           "name": "De'Von Achane",
           "position": "RB",
           "team": "MIA"
+        },
+        {
+          "player_id": "9486",
+          "name": "Dontayvion Wicks",
+          "position": "WR",
+          "team": "PHI"
         }
       ],
       "picks": [

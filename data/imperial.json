@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-21T19:27:14.196Z",
+  "generated_at": "2026-11-22T00:25:29.049Z",
   "source": "Sleeper public API",
   "username": "TheMightyKites",
   "nfl_week": 11,
@@ -795,10 +795,10 @@
       "rank": 12,
       "starters": [
         {
-          "player_id": "9508",
-          "name": "Tyjae Spears",
-          "position": "RB",
-          "team": "TEN"
+          "player_id": "0",
+          "name": "0",
+          "position": "—",
+          "team": "FA"
         },
         {
           "player_id": "8155",
@@ -895,6 +895,12 @@
           "name": "TreVeyon Henderson",
           "position": "RB",
           "team": "NE"
+        },
+        {
+          "player_id": "9508",
+          "name": "Tyjae Spears",
+          "position": "RB",
+          "team": "TEN"
         }
       ],
       "picks": [
@@ -1071,12 +1077,6 @@
           "team": "LAC"
         },
         {
-          "player_id": "9486",
-          "name": "Dontayvion Wicks",
-          "position": "WR",
-          "team": "PHI"
-        },
-        {
           "player_id": "9488",
           "name": "Jaxon Smith-Njigba",
           "position": "WR",
@@ -1109,6 +1109,12 @@
           "name": "Isiah Pacheco",
           "position": "RB",
           "team": "DET"
+        },
+        {
+          "player_id": "9486",
+          "name": "Dontayvion Wicks",
+          "position": "WR",
+          "team": "PHI"
         }
       ],
       "picks": [
