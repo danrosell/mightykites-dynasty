@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-22T22:31:34.648Z",
+  "generated_at": "2026-11-23T03:45:50.527Z",
   "source": "Sleeper public API",
   "username": "TheMightyKites",
   "nfl_week": 11,
@@ -403,11 +403,11 @@
   "my_matchup": {
     "me": {
       "team": "TheMightyKites",
-      "points": 84.44
+      "points": 87.34
     },
     "opponent": {
       "team": "The Big Tuna",
-      "points": 114.14,
+      "points": 124.44,
       "roster_id": 6
     }
   },
@@ -3107,10 +3107,10 @@
           "team": "NYG"
         },
         {
-          "player_id": "5844",
-          "name": "T.J. Hockenson",
-          "position": "TE",
-          "team": "MIN"
+          "player_id": "5872",
+          "name": "Deebo Samuel Sr.",
+          "position": "WR",
+          "team": "SF"
         },
         {
           "player_id": "11566",
@@ -3193,10 +3193,10 @@
           "team": "TB"
         },
         {
-          "player_id": "5872",
-          "name": "Deebo Samuel Sr.",
-          "position": "WR",
-          "team": "SF"
+          "player_id": "5844",
+          "name": "T.J. Hockenson",
+          "position": "TE",
+          "team": "MIN"
         },
         {
           "player_id": "6819",

@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-22T22:31:34.070Z",
+  "generated_at": "2026-11-23T03:45:49.732Z",
   "source": "Sleeper public API",
   "username": "TheMightyKites",
   "nfl_week": 11,
@@ -412,11 +412,11 @@
   "my_matchup": {
     "me": {
       "team": "The Ham Cannons",
-      "points": 61.79
+      "points": 115.81
     },
     "opponent": {
       "team": "James Jones #1 WR",
-      "points": 10.5,
+      "points": 17.9,
       "roster_id": 14
     }
   },

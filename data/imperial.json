@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-22T22:31:33.716Z",
+  "generated_at": "2026-11-23T03:45:49.280Z",
   "source": "Sleeper public API",
   "username": "TheMightyKites",
   "nfl_week": 11,
@@ -314,11 +314,11 @@
   "my_matchup": {
     "me": {
       "team": "TheMightyKites",
-      "points": 107.36
+      "points": 111.86
     },
     "opponent": {
       "team": "The Jersey Syndicate",
-      "points": 56.14,
+      "points": 71.14,
       "roster_id": 5
     }
   },
@@ -932,7 +932,7 @@
           "season": "2027",
           "round": 1,
           "original_roster_id": 17,
-          "original_team": "chane broken",
+          "original_team": "tater salad",
           "is_own": false
         },
         {
@@ -1469,7 +1469,7 @@
           "season": "2026",
           "round": 2,
           "original_roster_id": 17,
-          "original_team": "chane broken",
+          "original_team": "tater salad",
           "is_own": false
         },
         {
@@ -2040,7 +2040,7 @@
           "season": "2028",
           "round": 1,
           "original_roster_id": 17,
-          "original_team": "chane broken",
+          "original_team": "tater salad",
           "is_own": false
         },
         {
@@ -3304,7 +3304,7 @@
     {
       "roster_id": 17,
       "owner_id": "853768203292241920",
-      "team_name": "chane broken",
+      "team_name": "tater salad",
       "is_me": false,
       "record": "3-7",
       "wins": 3,
@@ -3420,7 +3420,7 @@
           "season": "2026",
           "round": 1,
           "original_roster_id": 17,
-          "original_team": "chane broken",
+          "original_team": "tater salad",
           "is_own": true
         },
         {
@@ -3448,28 +3448,28 @@
           "season": "2027",
           "round": 2,
           "original_roster_id": 17,
-          "original_team": "chane broken",
+          "original_team": "tater salad",
           "is_own": true
         },
         {
           "season": "2028",
           "round": 2,
           "original_roster_id": 17,
-          "original_team": "chane broken",
+          "original_team": "tater salad",
           "is_own": true
         },
         {
           "season": "2029",
           "round": 1,
           "original_roster_id": 17,
-          "original_team": "chane broken",
+          "original_team": "tater salad",
           "is_own": true
         },
         {
           "season": "2029",
           "round": 2,
           "original_roster_id": 17,
-          "original_team": "chane broken",
+          "original_team": "tater salad",
           "is_own": true
         }
       ]
