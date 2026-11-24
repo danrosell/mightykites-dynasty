@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-24T13:55:44.504Z",
+  "generated_at": "2026-11-24T23:31:15.966Z",
   "source": "Sleeper public API",
   "username": "TheMightyKites",
   "nfl_week": 12,
@@ -11,7 +11,7 @@
     "status": "in_season",
     "settings": {
       "best_ball": 0,
-      "last_report": 10,
+      "last_report": 11,
       "waiver_budget": 200,
       "disable_adds": 0,
       "divisions": 0,
@@ -58,7 +58,7 @@
       "leg": 11,
       "reserve_slots": 2,
       "reserve_allow_cov": 0,
-      "daily_waivers_last_ran": 23
+      "daily_waivers_last_ran": 24
     },
     "scoring_settings": {
       "sack": 1,
@@ -658,7 +658,7 @@
           "player_id": "6803",
           "name": "Brandon Aiyuk",
           "position": "WR",
-          "team": "SF"
+          "team": "FA"
         },
         {
           "player_id": "6819",
@@ -2398,10 +2398,10 @@
           "team": "SF"
         },
         {
-          "player_id": "12490",
-          "name": "Bhayshul Tuten",
+          "player_id": "4147",
+          "name": "Samaje Perine",
           "position": "RB",
-          "team": "JAX"
+          "team": "CIN"
         },
         {
           "player_id": "8155",
@@ -2434,19 +2434,25 @@
           "team": "CHI"
         },
         {
-          "player_id": "5012",
-          "name": "Mark Andrews",
-          "position": "TE",
-          "team": "BAL"
+          "player_id": "8112",
+          "name": "Drake London",
+          "position": "WR",
+          "team": "ATL"
         },
         {
-          "player_id": "4147",
-          "name": "Samaje Perine",
-          "position": "RB",
-          "team": "CIN"
+          "player_id": "2505",
+          "name": "Darren Waller",
+          "position": "TE",
+          "team": "CAR"
         }
       ],
       "bench": [
+        {
+          "player_id": "12490",
+          "name": "Bhayshul Tuten",
+          "position": "RB",
+          "team": "JAX"
+        },
         {
           "player_id": "12540",
           "name": "Chimere Dike",
@@ -2508,12 +2514,6 @@
           "team": "NE"
         },
         {
-          "player_id": "2505",
-          "name": "Darren Waller",
-          "position": "TE",
-          "team": "CAR"
-        },
-        {
           "player_id": "4033",
           "name": "David Njoku",
           "position": "TE",
@@ -2524,6 +2524,12 @@
           "name": "Chris Godwin Jr.",
           "position": "WR",
           "team": "TB"
+        },
+        {
+          "player_id": "5012",
+          "name": "Mark Andrews",
+          "position": "TE",
+          "team": "BAL"
         },
         {
           "player_id": "5854",
@@ -2542,12 +2548,6 @@
           "name": "Darnell Mooney",
           "position": "WR",
           "team": "NYG"
-        },
-        {
-          "player_id": "8112",
-          "name": "Drake London",
-          "position": "WR",
-          "team": "ATL"
         },
         {
           "player_id": "8121",
@@ -3694,10 +3694,10 @@
           "team": "CHI"
         },
         {
-          "player_id": "7600",
-          "name": "Pat Freiermuth",
+          "player_id": "12506",
+          "name": "Harold Fannin Jr.",
           "position": "TE",
-          "team": "PIT"
+          "team": "CLE"
         },
         {
           "player_id": "6801",
@@ -3756,12 +3756,6 @@
           "team": "TEN"
         },
         {
-          "player_id": "12506",
-          "name": "Harold Fannin Jr.",
-          "position": "TE",
-          "team": "CLE"
-        },
-        {
           "player_id": "12530",
           "name": "Travis Hunter",
           "position": "DB",
@@ -3808,6 +3802,12 @@
           "name": "Juwan Johnson",
           "position": "TE",
           "team": "NO"
+        },
+        {
+          "player_id": "7600",
+          "name": "Pat Freiermuth",
+          "position": "TE",
+          "team": "PIT"
         },
         {
           "player_id": "8122",

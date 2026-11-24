@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-24T13:55:43.450Z",
+  "generated_at": "2026-11-24T23:31:15.199Z",
   "source": "Sleeper public API",
   "username": "TheMightyKites",
   "nfl_week": 12,
@@ -11,7 +11,7 @@
     "status": "in_season",
     "settings": {
       "best_ball": 0,
-      "last_report": 10,
+      "last_report": 11,
       "waiver_budget": 200,
       "disable_adds": 0,
       "capacity_override": 0,
@@ -61,7 +61,7 @@
       "leg": 11,
       "reserve_slots": 3,
       "reserve_allow_cov": 0,
-      "daily_waivers_last_ran": 23
+      "daily_waivers_last_ran": 24
     },
     "scoring_settings": {
       "sack": 1,
@@ -173,10 +173,10 @@
         "team": "ARI"
       },
       {
-        "player_id": "13285",
-        "name": "Malachi Fields",
-        "position": "WR",
-        "team": "NYG"
+        "player_id": "7553",
+        "name": "Kyle Pitts Sr.",
+        "position": "TE",
+        "team": "ATL"
       },
       {
         "player_id": "4046",
@@ -199,6 +199,12 @@
         "team": "SF"
       },
       {
+        "player_id": "13285",
+        "name": "Malachi Fields",
+        "position": "WR",
+        "team": "NYG"
+      },
+      {
         "player_id": "13305",
         "name": "Mike Washington Jr.",
         "position": "RB",
@@ -209,12 +215,6 @@
         "name": "Matthew Stafford",
         "position": "QB",
         "team": "LAR"
-      },
-      {
-        "player_id": "7553",
-        "name": "Kyle Pitts Sr.",
-        "position": "TE",
-        "team": "ATL"
       }
     ],
     "taxi": [
@@ -436,10 +436,10 @@
           "team": "ARI"
         },
         {
-          "player_id": "13285",
-          "name": "Malachi Fields",
-          "position": "WR",
-          "team": "NYG"
+          "player_id": "7553",
+          "name": "Kyle Pitts Sr.",
+          "position": "TE",
+          "team": "ATL"
         },
         {
           "player_id": "4046",
@@ -462,6 +462,12 @@
           "team": "SF"
         },
         {
+          "player_id": "13285",
+          "name": "Malachi Fields",
+          "position": "WR",
+          "team": "NYG"
+        },
+        {
           "player_id": "13305",
           "name": "Mike Washington Jr.",
           "position": "RB",
@@ -472,12 +478,6 @@
           "name": "Matthew Stafford",
           "position": "QB",
           "team": "LAR"
-        },
-        {
-          "player_id": "7553",
-          "name": "Kyle Pitts Sr.",
-          "position": "TE",
-          "team": "ATL"
         }
       ],
       "taxi": [
@@ -810,10 +810,10 @@
           "team": "NO"
         },
         {
-          "player_id": "11625",
-          "name": "Adonai Mitchell",
+          "player_id": "6794",
+          "name": "Justin Jefferson",
           "position": "WR",
-          "team": "NYJ"
+          "team": "MIN"
         },
         {
           "player_id": "5844",
@@ -822,10 +822,10 @@
           "team": "MIN"
         },
         {
-          "player_id": "13294",
-          "name": "Makai Lemon",
+          "player_id": "13346",
+          "name": "Denzel Boston",
           "position": "WR",
-          "team": "PHI"
+          "team": "CLE"
         },
         {
           "player_id": "13301",
@@ -842,10 +842,10 @@
       ],
       "bench": [
         {
-          "player_id": "12501",
-          "name": "Matthew Golden",
+          "player_id": "11625",
+          "name": "Adonai Mitchell",
           "position": "WR",
-          "team": "GB"
+          "team": "NYJ"
         },
         {
           "player_id": "13075",
@@ -854,16 +854,16 @@
           "team": "MIN"
         },
         {
+          "player_id": "13294",
+          "name": "Makai Lemon",
+          "position": "WR",
+          "team": "PHI"
+        },
+        {
           "player_id": "13319",
           "name": "Oscar Delp",
           "position": "TE",
           "team": "NO"
-        },
-        {
-          "player_id": "13346",
-          "name": "Denzel Boston",
-          "position": "WR",
-          "team": "CLE"
         },
         {
           "player_id": "13394",
@@ -938,6 +938,13 @@
         {
           "season": "2027",
           "round": 2,
+          "original_roster_id": 4,
+          "original_team": "Trade Federation",
+          "is_own": false
+        },
+        {
+          "season": "2027",
+          "round": 2,
           "original_roster_id": 13,
           "original_team": "The X Factors",
           "is_own": false
@@ -952,15 +959,15 @@
         {
           "season": "2028",
           "round": 1,
-          "original_roster_id": 4,
-          "original_team": "Trade Federation",
+          "original_roster_id": 13,
+          "original_team": "The X Factors",
           "is_own": false
         },
         {
           "season": "2028",
-          "round": 1,
-          "original_roster_id": 13,
-          "original_team": "The X Factors",
+          "round": 2,
+          "original_roster_id": 4,
+          "original_team": "Trade Federation",
           "is_own": false
         },
         {
@@ -1011,22 +1018,22 @@
           "team": "PHI"
         },
         {
-          "player_id": "9511",
-          "name": "Keaton Mitchell",
+          "player_id": "12512",
+          "name": "Quinshon Judkins",
           "position": "RB",
-          "team": "LAC"
+          "team": "CLE"
         },
         {
-          "player_id": "6794",
-          "name": "Justin Jefferson",
+          "player_id": "9488",
+          "name": "Jaxon Smith-Njigba",
           "position": "WR",
-          "team": "MIN"
+          "team": "SEA"
         },
         {
-          "player_id": "11624",
-          "name": "Xavier Worthy",
+          "player_id": "12501",
+          "name": "Matthew Golden",
           "position": "WR",
-          "team": "KC"
+          "team": "GB"
         },
         {
           "player_id": "2505",
@@ -1035,10 +1042,30 @@
           "team": "CAR"
         },
         {
+          "player_id": "13286",
+          "name": "Jadarian Price",
+          "position": "RB",
+          "team": "SEA"
+        },
+        {
           "player_id": "9479",
           "name": "Darnell Washington",
           "position": "TE",
           "team": "PIT"
+        },
+        {
+          "player_id": "6797",
+          "name": "Justin Herbert",
+          "position": "QB",
+          "team": "LAC"
+        }
+      ],
+      "bench": [
+        {
+          "player_id": "11624",
+          "name": "Xavier Worthy",
+          "position": "WR",
+          "team": "KC"
         },
         {
           "player_id": "12502",
@@ -1051,38 +1078,12 @@
           "name": "Cam Ward",
           "position": "QB",
           "team": "TEN"
-        }
-      ],
-      "bench": [
-        {
-          "player_id": "12512",
-          "name": "Quinshon Judkins",
-          "position": "RB",
-          "team": "CLE"
-        },
-        {
-          "player_id": "13286",
-          "name": "Jadarian Price",
-          "position": "RB",
-          "team": "SEA"
         },
         {
           "player_id": "4033",
           "name": "David Njoku",
           "position": "TE",
           "team": "LAC"
-        },
-        {
-          "player_id": "6797",
-          "name": "Justin Herbert",
-          "position": "QB",
-          "team": "LAC"
-        },
-        {
-          "player_id": "9488",
-          "name": "Jaxon Smith-Njigba",
-          "position": "WR",
-          "team": "SEA"
         }
       ],
       "taxi": [
@@ -1135,15 +1136,8 @@
           "is_own": false
         },
         {
-          "season": "2027",
-          "round": 2,
-          "original_roster_id": 4,
-          "original_team": "Trade Federation",
-          "is_own": true
-        },
-        {
           "season": "2028",
-          "round": 2,
+          "round": 1,
           "original_roster_id": 4,
           "original_team": "Trade Federation",
           "is_own": true
@@ -1535,16 +1529,16 @@
       "rank": 7,
       "starters": [
         {
-          "player_id": "9757",
-          "name": "Kendre Miller",
+          "player_id": "9509",
+          "name": "Bijan Robinson",
           "position": "RB",
-          "team": "DAL"
+          "team": "ATL"
         },
         {
-          "player_id": "13302",
-          "name": "Adam Randall",
+          "player_id": "11586",
+          "name": "Blake Corum",
           "position": "RB",
-          "team": "BAL"
+          "team": "LAR"
         },
         {
           "player_id": "12509",
@@ -1559,16 +1553,16 @@
           "team": "NO"
         },
         {
-          "player_id": "10236",
-          "name": "Dalton Kincaid",
-          "position": "TE",
-          "team": "BUF"
-        },
-        {
           "player_id": "8210",
           "name": "Chig Okonkwo",
           "position": "TE",
           "team": "WAS"
+        },
+        {
+          "player_id": "10236",
+          "name": "Dalton Kincaid",
+          "position": "TE",
+          "team": "BUF"
         },
         {
           "player_id": "11635",
@@ -1597,22 +1591,22 @@
           "team": "GB"
         },
         {
-          "player_id": "11586",
-          "name": "Blake Corum",
+          "player_id": "13302",
+          "name": "Adam Randall",
           "position": "RB",
-          "team": "LAR"
-        },
-        {
-          "player_id": "9509",
-          "name": "Bijan Robinson",
-          "position": "RB",
-          "team": "ATL"
+          "team": "BAL"
         },
         {
           "player_id": "9756",
           "name": "Jordan Addison",
           "position": "WR",
           "team": "MIN"
+        },
+        {
+          "player_id": "9757",
+          "name": "Kendre Miller",
+          "position": "RB",
+          "team": "DAL"
         }
       ],
       "taxi": [
@@ -2532,7 +2526,7 @@
           "player_id": "6803",
           "name": "Brandon Aiyuk",
           "position": "WR",
-          "team": "SF"
+          "team": "FA"
         }
       ],
       "picks": [
@@ -2781,10 +2775,10 @@
           "team": "TB"
         },
         {
-          "player_id": "3155",
-          "name": "Laquon Treadwell",
+          "player_id": "8112",
+          "name": "Drake London",
           "position": "WR",
-          "team": "IND"
+          "team": "ATL"
         },
         {
           "player_id": "12526",
@@ -2805,10 +2799,10 @@
           "team": "NYJ"
         },
         {
-          "player_id": "4035",
-          "name": "Alvin Kamara",
-          "position": "RB",
-          "team": "NO"
+          "player_id": "12498",
+          "name": "Mason Taylor",
+          "position": "TE",
+          "team": "NYJ"
         },
         {
           "player_id": "13269",
@@ -2825,10 +2819,10 @@
           "team": "ARI"
         },
         {
-          "player_id": "12498",
-          "name": "Mason Taylor",
-          "position": "TE",
-          "team": "NYJ"
+          "player_id": "3155",
+          "name": "Laquon Treadwell",
+          "position": "WR",
+          "team": "IND"
         },
         {
           "player_id": "3321",
@@ -2837,10 +2831,10 @@
           "team": "FA"
         },
         {
-          "player_id": "8112",
-          "name": "Drake London",
-          "position": "WR",
-          "team": "ATL"
+          "player_id": "4035",
+          "name": "Alvin Kamara",
+          "position": "RB",
+          "team": "NO"
         },
         {
           "player_id": "8119",

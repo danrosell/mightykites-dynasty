@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-24T13:55:44.862Z",
+  "generated_at": "2026-11-24T23:31:16.274Z",
   "source": "Sleeper public API",
   "username": "TheMightyKites",
   "nfl_week": 12,
@@ -11,7 +11,7 @@
     "status": "in_season",
     "settings": {
       "best_ball": 0,
-      "last_report": 10,
+      "last_report": 11,
       "waiver_budget": 200,
       "disable_adds": 0,
       "divisions": 2,
@@ -2211,10 +2211,10 @@
           "team": "DAL"
         },
         {
-          "player_id": "11620",
-          "name": "Rome Odunze",
+          "player_id": "9488",
+          "name": "Jaxon Smith-Njigba",
           "position": "WR",
-          "team": "CHI"
+          "team": "SEA"
         },
         {
           "player_id": "8137",
@@ -2229,10 +2229,10 @@
           "team": "JAX"
         },
         {
-          "player_id": "9480",
-          "name": "Brenton Strange",
+          "player_id": "9484",
+          "name": "Tucker Kraft",
           "position": "TE",
-          "team": "JAX"
+          "team": "GB"
         },
         {
           "player_id": "12527",
@@ -2248,6 +2248,12 @@
         }
       ],
       "bench": [
+        {
+          "player_id": "11620",
+          "name": "Rome Odunze",
+          "position": "WR",
+          "team": "CHI"
+        },
         {
           "player_id": "11631",
           "name": "Brian Thomas Jr.",
@@ -2303,6 +2309,12 @@
           "team": "PHI"
         },
         {
+          "player_id": "13302",
+          "name": "Adam Randall",
+          "position": "RB",
+          "team": "BAL"
+        },
+        {
           "player_id": "13349",
           "name": "Eli Stowers",
           "position": "TE",
@@ -2327,22 +2339,10 @@
           "team": "FA"
         },
         {
-          "player_id": "9230",
-          "name": "Tanner McKee",
-          "position": "QB",
-          "team": "PHI"
-        },
-        {
-          "player_id": "9484",
-          "name": "Tucker Kraft",
+          "player_id": "9480",
+          "name": "Brenton Strange",
           "position": "TE",
-          "team": "GB"
-        },
-        {
-          "player_id": "9488",
-          "name": "Jaxon Smith-Njigba",
-          "position": "WR",
-          "team": "SEA"
+          "team": "JAX"
         }
       ],
       "taxi": [
@@ -2371,12 +2371,6 @@
           "name": "Jayden Higgins",
           "position": "WR",
           "team": "HOU"
-        },
-        {
-          "player_id": "13302",
-          "name": "Adam Randall",
-          "position": "RB",
-          "team": "BAL"
         }
       ],
       "picks": [
@@ -2618,7 +2612,7 @@
           "player_id": "6803",
           "name": "Brandon Aiyuk",
           "position": "WR",
-          "team": "SF"
+          "team": "FA"
         },
         {
           "player_id": "7567",
