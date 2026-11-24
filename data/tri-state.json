@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-11-24T02:18:43.196Z",
+  "generated_at": "2026-11-24T13:55:44.862Z",
   "source": "Sleeper public API",
   "username": "TheMightyKites",
-  "nfl_week": 11,
+  "nfl_week": 12,
   "nfl_season": "2026",
   "league": {
     "id": "1312173783108300800",
@@ -29,7 +29,7 @@
       "playoff_type": 1,
       "taxi_slots": 3,
       "sub_start_time_eligibility": 0,
-      "last_scored_leg": 10,
+      "last_scored_leg": 11,
       "daily_waivers_days": 5461,
       "sub_lock_if_starter_active": 0,
       "playoff_week_start": 15,
@@ -61,7 +61,7 @@
       "leg": 11,
       "reserve_slots": 3,
       "reserve_allow_cov": 1,
-      "daily_waivers_last_ran": 23
+      "daily_waivers_last_ran": 24
     },
     "scoring_settings": {
       "sack": 2,
@@ -141,11 +141,11 @@
     "owner_id": "866511772801196032",
     "team_name": "TheMightyKites",
     "is_me": true,
-    "record": "6-4",
+    "record": "6-5",
     "wins": 6,
-    "losses": 4,
-    "points_for": 1412.12,
-    "rank": 4,
+    "losses": 5,
+    "points_for": 1520.16,
+    "rank": 5,
     "starters": [
       {
         "player_id": "4984",
@@ -403,12 +403,12 @@
   "my_matchup": {
     "me": {
       "team": "TheMightyKites",
-      "points": 92.34
+      "points": 0
     },
     "opponent": {
-      "team": "The Big Tuna",
-      "points": 132.84,
-      "roster_id": 6
+      "team": "White Trash with Cash",
+      "points": 0,
+      "roster_id": 7
     }
   },
   "my_picks": [
@@ -482,11 +482,11 @@
       "owner_id": "85219789974683648",
       "team_name": "Average Joe's Gym 2qb",
       "is_me": false,
-      "record": "4-6",
+      "record": "4-7",
       "wins": 4,
-      "losses": 6,
-      "points_for": 1191.78,
-      "rank": 7,
+      "losses": 7,
+      "points_for": 1283.64,
+      "rank": 8,
       "starters": [
         {
           "player_id": "12522",
@@ -767,11 +767,11 @@
       "owner_id": "651198204880187392",
       "team_name": "The Rusty Trombones",
       "is_me": false,
-      "record": "3-7",
-      "wins": 3,
+      "record": "4-7",
+      "wins": 4,
       "losses": 7,
-      "points_for": 1304.32,
-      "rank": 8,
+      "points_for": 1472.08,
+      "rank": 7,
       "starters": [
         {
           "player_id": "9228",
@@ -1026,11 +1026,11 @@
       "owner_id": "866511772801196032",
       "team_name": "TheMightyKites",
       "is_me": true,
-      "record": "6-4",
+      "record": "6-5",
       "wins": 6,
-      "losses": 4,
-      "points_for": 1412.12,
-      "rank": 4,
+      "losses": 5,
+      "points_for": 1520.16,
+      "rank": 5,
       "starters": [
         {
           "player_id": "4984",
@@ -1290,10 +1290,10 @@
       "owner_id": "562785236463558656",
       "team_name": "kylec55",
       "is_me": false,
-      "record": "2-8",
+      "record": "2-9",
       "wins": 2,
-      "losses": 8,
-      "points_for": 1097.7,
+      "losses": 9,
+      "points_for": 1166.94,
       "rank": 10,
       "starters": [
         {
@@ -1686,10 +1686,10 @@
       "owner_id": "405783718150565888",
       "team_name": "Tenacious D",
       "is_me": false,
-      "record": "7-3",
-      "wins": 7,
+      "record": "8-3",
+      "wins": 8,
       "losses": 3,
-      "points_for": 1496.52,
+      "points_for": 1640.46,
       "rank": 1,
       "starters": [
         {
@@ -1923,10 +1923,10 @@
       "owner_id": "646587866931236864",
       "team_name": "The Big Tuna",
       "is_me": false,
-      "record": "6-4",
-      "wins": 6,
+      "record": "7-4",
+      "wins": 7,
       "losses": 4,
-      "points_for": 1481.96,
+      "points_for": 1618.4,
       "rank": 3,
       "starters": [
         {
@@ -2186,11 +2186,11 @@
       "owner_id": "997278783776296960",
       "team_name": "White Trash with Cash",
       "is_me": false,
-      "record": "6-4",
-      "wins": 6,
+      "record": "7-4",
+      "wins": 7,
       "losses": 4,
-      "points_for": 1388.4,
-      "rank": 6,
+      "points_for": 1555.34,
+      "rank": 4,
       "starters": [
         {
           "player_id": "11563",
@@ -2492,10 +2492,10 @@
       "owner_id": "920449095888674816",
       "team_name": "jayjay1823",
       "is_me": false,
-      "record": "7-3",
-      "wins": 7,
+      "record": "8-3",
+      "wins": 8,
       "losses": 3,
-      "points_for": 1468.38,
+      "points_for": 1600.24,
       "rank": 2,
       "starters": [
         {
@@ -2779,10 +2779,10 @@
       "owner_id": "920517589149769728",
       "team_name": "Ruhungry",
       "is_me": false,
-      "record": "3-7",
+      "record": "3-8",
       "wins": 3,
-      "losses": 7,
-      "points_for": 1210.92,
+      "losses": 8,
+      "points_for": 1337.94,
       "rank": 9,
       "starters": [
         {
@@ -3058,11 +3058,11 @@
       "owner_id": "443834601794695168",
       "team_name": "nrandazzo624",
       "is_me": false,
-      "record": "6-4",
+      "record": "6-5",
       "wins": 6,
-      "losses": 4,
-      "points_for": 1406.28,
-      "rank": 5,
+      "losses": 5,
+      "points_for": 1516.58,
+      "rank": 6,
       "starters": [
         {
           "player_id": "7523",
@@ -3095,10 +3095,10 @@
           "team": "HOU"
         },
         {
-          "player_id": "12514",
-          "name": "Emeka Egbuka",
+          "player_id": "12501",
+          "name": "Matthew Golden",
           "position": "WR",
-          "team": "TB"
+          "team": "GB"
         },
         {
           "player_id": "8131",
@@ -3107,10 +3107,10 @@
           "team": "NYG"
         },
         {
-          "player_id": "5872",
-          "name": "Deebo Samuel Sr.",
-          "position": "WR",
-          "team": "SF"
+          "player_id": "5844",
+          "name": "T.J. Hockenson",
+          "position": "TE",
+          "team": "MIN"
         },
         {
           "player_id": "11566",
@@ -3175,10 +3175,10 @@
           "team": "DEN"
         },
         {
-          "player_id": "12501",
-          "name": "Matthew Golden",
+          "player_id": "12514",
+          "name": "Emeka Egbuka",
           "position": "WR",
-          "team": "GB"
+          "team": "TB"
         },
         {
           "player_id": "4199",
@@ -3193,10 +3193,10 @@
           "team": "TB"
         },
         {
-          "player_id": "5844",
-          "name": "T.J. Hockenson",
-          "position": "TE",
-          "team": "MIN"
+          "player_id": "5872",
+          "name": "Deebo Samuel Sr.",
+          "position": "WR",
+          "team": "SF"
         },
         {
           "player_id": "6819",
