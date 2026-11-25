@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-24T23:31:16.274Z",
+  "generated_at": "2026-11-25T08:49:07.652Z",
   "source": "Sleeper public API",
   "username": "TheMightyKites",
   "nfl_week": 12,
@@ -58,7 +58,7 @@
       "trade_review_days": 0,
       "bench_lock": 0,
       "offseason_adds": 1,
-      "leg": 11,
+      "leg": 12,
       "reserve_slots": 3,
       "reserve_allow_cov": 1,
       "daily_waivers_last_ran": 24
@@ -1297,8 +1297,8 @@
       "rank": 10,
       "starters": [
         {
-          "player_id": "11557",
-          "name": "Joe Milton",
+          "player_id": "6904",
+          "name": "Jalen Hurts",
           "position": "QB",
           "team": "PHI"
         },
@@ -1339,10 +1339,10 @@
           "team": "NO"
         },
         {
-          "player_id": "12533",
-          "name": "Jacory Croskey-Merritt",
-          "position": "RB",
-          "team": "WAS"
+          "player_id": "13298",
+          "name": "KC Concepcion Jr.",
+          "position": "WR",
+          "team": "CLE"
         },
         {
           "player_id": "13274",
@@ -1395,34 +1395,16 @@
           "team": "BAL"
         },
         {
-          "player_id": "13298",
-          "name": "KC Concepcion Jr.",
-          "position": "WR",
-          "team": "CLE"
-        },
-        {
           "player_id": "13317",
           "name": "Ted Hurst III",
           "position": "WR",
           "team": "TB"
         },
         {
-          "player_id": "13417",
-          "name": "De'Zhaun Stribling",
-          "position": "WR",
-          "team": "SF"
-        },
-        {
           "player_id": "3321",
           "name": "Tyreek Hill",
           "position": "WR",
           "team": "FA"
-        },
-        {
-          "player_id": "4017",
-          "name": "Deshaun Watson",
-          "position": "QB",
-          "team": "CLE"
         },
         {
           "player_id": "8119",
@@ -1471,12 +1453,6 @@
       ],
       "reserve": [
         {
-          "player_id": "12508",
-          "name": "Jaxson Dart",
-          "position": "QB",
-          "team": "NYG"
-        },
-        {
           "player_id": "12521",
           "name": "Elijah Arroyo",
           "position": "TE",
@@ -1487,6 +1463,12 @@
           "name": "Jeremiyah Love",
           "position": "RB",
           "team": "ARI"
+        },
+        {
+          "player_id": "13417",
+          "name": "De'Zhaun Stribling",
+          "position": "WR",
+          "team": "SF"
         }
       ],
       "picks": [
@@ -1563,6 +1545,13 @@
         {
           "season": "2027",
           "round": 2,
+          "original_roster_id": 3,
+          "original_team": "TheMightyKites",
+          "is_own": false
+        },
+        {
+          "season": "2027",
+          "round": 2,
           "original_roster_id": 4,
           "original_team": "kylec55",
           "is_own": true
@@ -1612,6 +1601,13 @@
         {
           "season": "2027",
           "round": 3,
+          "original_roster_id": 5,
+          "original_team": "Tenacious D",
+          "is_own": false
+        },
+        {
+          "season": "2027",
+          "round": 3,
           "original_roster_id": 6,
           "original_team": "The Big Tuna",
           "is_own": false
@@ -1636,6 +1632,13 @@
           "original_roster_id": 4,
           "original_team": "kylec55",
           "is_own": true
+        },
+        {
+          "season": "2028",
+          "round": 2,
+          "original_roster_id": 5,
+          "original_team": "Tenacious D",
+          "is_own": false
         },
         {
           "season": "2028",
@@ -1705,10 +1708,10 @@
           "team": "SF"
         },
         {
-          "player_id": "8408",
-          "name": "Jordan Mason",
+          "player_id": "12512",
+          "name": "Quinshon Judkins",
           "position": "RB",
-          "team": "MIN"
+          "team": "CLE"
         },
         {
           "player_id": "7547",
@@ -1741,13 +1744,19 @@
           "team": "SF"
         },
         {
-          "player_id": "1373",
-          "name": "Geno Smith",
+          "player_id": "4017",
+          "name": "Deshaun Watson",
           "position": "QB",
-          "team": "NYJ"
+          "team": "CLE"
         }
       ],
       "bench": [
+        {
+          "player_id": "11557",
+          "name": "Joe Milton",
+          "position": "QB",
+          "team": "PHI"
+        },
         {
           "player_id": "11603",
           "name": "AJ Barner",
@@ -1767,40 +1776,28 @@
           "team": "NE"
         },
         {
-          "player_id": "12494",
-          "name": "Kyle McCord",
-          "position": "QB",
-          "team": "MIA"
-        },
-        {
-          "player_id": "12512",
-          "name": "Quinshon Judkins",
-          "position": "RB",
-          "team": "CLE"
-        },
-        {
           "player_id": "12524",
           "name": "Shedeur Sanders",
           "position": "QB",
           "team": "CLE"
         },
         {
+          "player_id": "12533",
+          "name": "Jacory Croskey-Merritt",
+          "position": "RB",
+          "team": "WAS"
+        },
+        {
+          "player_id": "1373",
+          "name": "Geno Smith",
+          "position": "QB",
+          "team": "NYJ"
+        },
+        {
           "player_id": "2133",
           "name": "Davante Adams",
           "position": "WR",
           "team": "LAR"
-        },
-        {
-          "player_id": "2306",
-          "name": "Jameis Winston",
-          "position": "QB",
-          "team": "NYG"
-        },
-        {
-          "player_id": "4033",
-          "name": "David Njoku",
-          "position": "TE",
-          "team": "LAC"
         },
         {
           "player_id": "4035",
@@ -1825,6 +1822,12 @@
           "name": "A.J. Brown",
           "position": "WR",
           "team": "NE"
+        },
+        {
+          "player_id": "8408",
+          "name": "Jordan Mason",
+          "position": "RB",
+          "team": "MIN"
         },
         {
           "player_id": "9229",
@@ -1854,10 +1857,10 @@
           "team": "NYG"
         },
         {
-          "player_id": "6904",
-          "name": "Jalen Hurts",
+          "player_id": "12508",
+          "name": "Jaxson Dart",
           "position": "QB",
-          "team": "PHI"
+          "team": "NYG"
         },
         {
           "player_id": "9493",
@@ -1868,29 +1871,8 @@
       ],
       "picks": [
         {
-          "season": "2027",
-          "round": 2,
-          "original_roster_id": 3,
-          "original_team": "TheMightyKites",
-          "is_own": false
-        },
-        {
-          "season": "2027",
-          "round": 3,
-          "original_roster_id": 5,
-          "original_team": "Tenacious D",
-          "is_own": true
-        },
-        {
           "season": "2028",
           "round": 1,
-          "original_roster_id": 5,
-          "original_team": "Tenacious D",
-          "is_own": true
-        },
-        {
-          "season": "2028",
-          "round": 2,
           "original_roster_id": 5,
           "original_team": "Tenacious D",
           "is_own": true
@@ -2529,10 +2511,10 @@
           "team": "NO"
         },
         {
-          "player_id": "12498",
-          "name": "Mason Taylor",
+          "player_id": "12506",
+          "name": "Harold Fannin Jr.",
           "position": "TE",
-          "team": "NYJ"
+          "team": "CLE"
         },
         {
           "player_id": "5967",
@@ -2561,16 +2543,16 @@
           "team": "NO"
         },
         {
+          "player_id": "12498",
+          "name": "Mason Taylor",
+          "position": "TE",
+          "team": "NYJ"
+        },
+        {
           "player_id": "12502",
           "name": "Gunnar Helm",
           "position": "TE",
           "team": "TEN"
-        },
-        {
-          "player_id": "12506",
-          "name": "Harold Fannin Jr.",
-          "position": "TE",
-          "team": "CLE"
         },
         {
           "player_id": "12530",
@@ -2786,10 +2768,10 @@
           "team": "KC"
         },
         {
-          "player_id": "8155",
-          "name": "Breece Hall",
+          "player_id": "9509",
+          "name": "Bijan Robinson",
           "position": "RB",
-          "team": "NYJ"
+          "team": "ATL"
         },
         {
           "player_id": "12490",
@@ -2804,28 +2786,28 @@
           "team": "BAL"
         },
         {
-          "player_id": "11625",
-          "name": "Adonai Mitchell",
+          "player_id": "13279",
+          "name": "Carnell Tate",
           "position": "WR",
-          "team": "NYJ"
-        },
-        {
-          "player_id": "9500",
-          "name": "Josh Downs",
-          "position": "WR",
-          "team": "KC"
-        },
-        {
-          "player_id": "9482",
-          "name": "Michael Mayer",
-          "position": "TE",
-          "team": "LV"
+          "team": "TEN"
         },
         {
           "player_id": "13301",
           "name": "Antonio Williams",
           "position": "WR",
           "team": "WAS"
+        },
+        {
+          "player_id": "7553",
+          "name": "Kyle Pitts Sr.",
+          "position": "TE",
+          "team": "ATL"
+        },
+        {
+          "player_id": "8155",
+          "name": "Breece Hall",
+          "position": "RB",
+          "team": "NYJ"
         },
         {
           "player_id": "3163",
@@ -2842,16 +2824,16 @@
           "team": "KC"
         },
         {
+          "player_id": "11625",
+          "name": "Adonai Mitchell",
+          "position": "WR",
+          "team": "NYJ"
+        },
+        {
           "player_id": "11626",
           "name": "Xavier Legette",
           "position": "WR",
           "team": "CAR"
-        },
-        {
-          "player_id": "12048",
-          "name": "George Holani",
-          "position": "RB",
-          "team": "SEA"
         },
         {
           "player_id": "12471",
@@ -2864,12 +2846,6 @@
           "name": "Kyle Monangai",
           "position": "RB",
           "team": "CHI"
-        },
-        {
-          "player_id": "13279",
-          "name": "Carnell Tate",
-          "position": "WR",
-          "team": "TEN"
         },
         {
           "player_id": "13394",
@@ -2914,16 +2890,16 @@
           "team": "BUF"
         },
         {
-          "player_id": "7553",
-          "name": "Kyle Pitts Sr.",
+          "player_id": "9482",
+          "name": "Michael Mayer",
           "position": "TE",
-          "team": "ATL"
+          "team": "LV"
         },
         {
-          "player_id": "9509",
-          "name": "Bijan Robinson",
-          "position": "RB",
-          "team": "ATL"
+          "player_id": "9500",
+          "name": "Josh Downs",
+          "position": "WR",
+          "team": "KC"
         }
       ],
       "taxi": [

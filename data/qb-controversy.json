@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-24T23:31:15.599Z",
+  "generated_at": "2026-11-25T08:49:06.892Z",
   "source": "Sleeper public API",
   "username": "TheMightyKites",
   "nfl_week": 12,
@@ -57,7 +57,7 @@
       "trade_review_days": 0,
       "bench_lock": 1,
       "offseason_adds": 1,
-      "leg": 11,
+      "leg": 12,
       "daily_waivers_base": 4,
       "reserve_slots": 2,
       "reserve_allow_cov": 1,
@@ -847,16 +847,16 @@
           "team": "SF"
         },
         {
-          "player_id": "5045",
-          "name": "Courtland Sutton",
-          "position": "WR",
-          "team": "DEN"
+          "player_id": "9484",
+          "name": "Tucker Kraft",
+          "position": "TE",
+          "team": "GB"
         },
         {
-          "player_id": "13330",
-          "name": "Kenyon Sadiq",
-          "position": "TE",
-          "team": "NYJ"
+          "player_id": "4199",
+          "name": "Aaron Jones Sr.",
+          "position": "RB",
+          "team": "MIN"
         },
         {
           "player_id": "3163",
@@ -885,6 +885,12 @@
           "team": "BAL"
         },
         {
+          "player_id": "13330",
+          "name": "Kenyon Sadiq",
+          "position": "TE",
+          "team": "NYJ"
+        },
+        {
           "player_id": "3155",
           "name": "Laquon Treadwell",
           "position": "WR",
@@ -909,10 +915,10 @@
           "team": "DET"
         },
         {
-          "player_id": "4199",
-          "name": "Aaron Jones Sr.",
-          "position": "RB",
-          "team": "MIN"
+          "player_id": "5045",
+          "name": "Courtland Sutton",
+          "position": "WR",
+          "team": "DEN"
         },
         {
           "player_id": "6130",
@@ -943,12 +949,6 @@
           "name": "Dameon Pierce",
           "position": "RB",
           "team": "FA"
-        },
-        {
-          "player_id": "9484",
-          "name": "Tucker Kraft",
-          "position": "TE",
-          "team": "GB"
         }
       ],
       "taxi": [
@@ -2821,12 +2821,6 @@
           "team": "LAC"
         },
         {
-          "player_id": "7608",
-          "name": "Khalil Herbert",
-          "position": "RB",
-          "team": "ATL"
-        },
-        {
           "player_id": "8112",
           "name": "Drake London",
           "position": "WR",
@@ -2855,12 +2849,6 @@
           "name": "Greg Dulcich",
           "position": "TE",
           "team": "MIA"
-        },
-        {
-          "player_id": "8180",
-          "name": "Jalen Nailor",
-          "position": "WR",
-          "team": "LV"
         },
         {
           "player_id": "9501",
@@ -3290,22 +3278,22 @@
           "team": "NYJ"
         },
         {
-          "player_id": "10231",
-          "name": "Elijah Higgins",
-          "position": "TE",
-          "team": "ARI"
-        },
-        {
           "player_id": "7694",
           "name": "Tommy Tremble",
           "position": "TE",
           "team": "CAR"
         },
         {
-          "player_id": "12483",
-          "name": "Jack Bech",
+          "player_id": "12492",
+          "name": "Pat Bryant",
           "position": "WR",
-          "team": "LV"
+          "team": "DEN"
+        },
+        {
+          "player_id": "12519",
+          "name": "Luther Burden III",
+          "position": "WR",
+          "team": "CHI"
         },
         {
           "player_id": "12545",
@@ -3320,6 +3308,12 @@
           "name": "Andrei Iosivas",
           "position": "WR",
           "team": "CIN"
+        },
+        {
+          "player_id": "10231",
+          "name": "Elijah Higgins",
+          "position": "TE",
+          "team": "ARI"
         },
         {
           "player_id": "11439",
@@ -3346,16 +3340,10 @@
           "team": "LAR"
         },
         {
-          "player_id": "12492",
-          "name": "Pat Bryant",
+          "player_id": "12483",
+          "name": "Jack Bech",
           "position": "WR",
-          "team": "DEN"
-        },
-        {
-          "player_id": "12519",
-          "name": "Luther Burden III",
-          "position": "WR",
-          "team": "CHI"
+          "team": "LV"
         },
         {
           "player_id": "12540",
