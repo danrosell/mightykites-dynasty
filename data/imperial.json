@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-25T08:49:06.359Z",
+  "generated_at": "2026-11-25T19:24:38.209Z",
   "source": "Sleeper public API",
   "username": "TheMightyKites",
   "nfl_week": 12,
@@ -61,7 +61,7 @@
       "leg": 12,
       "reserve_slots": 3,
       "reserve_allow_cov": 0,
-      "daily_waivers_last_ran": 24
+      "daily_waivers_last_ran": 25
     },
     "scoring_settings": {
       "sack": 1,
@@ -616,16 +616,16 @@
           "team": "NO"
         },
         {
-          "player_id": "13264",
-          "name": "Dohnte Meyers",
+          "player_id": "8167",
+          "name": "Christian Watson",
           "position": "WR",
-          "team": "CIN"
+          "team": "GB"
         },
         {
-          "player_id": "6427",
-          "name": "Ashton Dulin",
-          "position": "WR",
-          "team": "IND"
+          "player_id": "12506",
+          "name": "Harold Fannin Jr.",
+          "position": "TE",
+          "team": "CLE"
         },
         {
           "player_id": "7523",
@@ -635,12 +635,6 @@
         }
       ],
       "bench": [
-        {
-          "player_id": "12506",
-          "name": "Harold Fannin Jr.",
-          "position": "TE",
-          "team": "CLE"
-        },
         {
           "player_id": "12530",
           "name": "Travis Hunter",
@@ -654,16 +648,22 @@
           "team": "MIN"
         },
         {
+          "player_id": "13264",
+          "name": "Dohnte Meyers",
+          "position": "WR",
+          "team": "CIN"
+        },
+        {
           "player_id": "13274",
           "name": "Germie Bernard",
           "position": "WR",
           "team": "PIT"
         },
         {
-          "player_id": "8167",
-          "name": "Christian Watson",
+          "player_id": "6427",
+          "name": "Ashton Dulin",
           "position": "WR",
-          "team": "GB"
+          "team": "IND"
         }
       ],
       "taxi": [
@@ -848,12 +848,6 @@
           "team": "NYJ"
         },
         {
-          "player_id": "13075",
-          "name": "Myles Price",
-          "position": "WR",
-          "team": "MIN"
-        },
-        {
           "player_id": "13294",
           "name": "Makai Lemon",
           "position": "WR",
@@ -870,6 +864,12 @@
           "name": "Josh Cameron",
           "position": "WR",
           "team": "JAX"
+        },
+        {
+          "player_id": "3257",
+          "name": "Jacoby Brissett",
+          "position": "QB",
+          "team": "BAL"
         }
       ],
       "taxi": [
@@ -2445,10 +2445,10 @@
           "team": "MIA"
         },
         {
-          "player_id": "8134",
-          "name": "Khalil Shakir",
-          "position": "WR",
-          "team": "BUF"
+          "player_id": "4147",
+          "name": "Samaje Perine",
+          "position": "RB",
+          "team": "CIN"
         },
         {
           "player_id": "8183",
@@ -2458,24 +2458,6 @@
         }
       ],
       "bench": [
-        {
-          "player_id": "12482",
-          "name": "Savion Williams",
-          "position": "WR",
-          "team": "GB"
-        },
-        {
-          "player_id": "12491",
-          "name": "Corey Kiner",
-          "position": "RB",
-          "team": "NE"
-        },
-        {
-          "player_id": "4147",
-          "name": "Samaje Perine",
-          "position": "RB",
-          "team": "CIN"
-        },
         {
           "player_id": "4993",
           "name": "Mike Gesicki",
@@ -2487,6 +2469,24 @@
           "name": "Kyler Murray",
           "position": "QB",
           "team": "MIN"
+        },
+        {
+          "player_id": "5850",
+          "name": "Josh Jacobs",
+          "position": "RB",
+          "team": "GB"
+        },
+        {
+          "player_id": "6803",
+          "name": "Brandon Aiyuk",
+          "position": "WR",
+          "team": "WAS"
+        },
+        {
+          "player_id": "8134",
+          "name": "Khalil Shakir",
+          "position": "WR",
+          "team": "BUF"
         }
       ],
       "taxi": [
@@ -2515,18 +2515,6 @@
           "name": "RJ Harvey",
           "position": "RB",
           "team": "DEN"
-        },
-        {
-          "player_id": "5850",
-          "name": "Josh Jacobs",
-          "position": "RB",
-          "team": "GB"
-        },
-        {
-          "player_id": "6803",
-          "name": "Brandon Aiyuk",
-          "position": "WR",
-          "team": "FA"
         }
       ],
       "picks": [
@@ -2837,10 +2825,10 @@
           "team": "NO"
         },
         {
-          "player_id": "8119",
-          "name": "Jahan Dotson",
-          "position": "WR",
-          "team": "ATL"
+          "player_id": "9229",
+          "name": "Anthony Richardson Sr.",
+          "position": "QB",
+          "team": "IND"
         }
       ],
       "taxi": [
@@ -3164,10 +3152,10 @@
           "team": "KC"
         },
         {
-          "player_id": "7049",
-          "name": "Jauan Jennings",
-          "position": "WR",
-          "team": "MIN"
+          "player_id": "7611",
+          "name": "Rhamondre Stevenson",
+          "position": "RB",
+          "team": "NE"
         },
         {
           "player_id": "1373",
@@ -3202,10 +3190,10 @@
           "team": "WAS"
         },
         {
-          "player_id": "7611",
-          "name": "Rhamondre Stevenson",
-          "position": "RB",
-          "team": "NE"
+          "player_id": "7049",
+          "name": "Jauan Jennings",
+          "position": "WR",
+          "team": "MIN"
         }
       ],
       "taxi": [
@@ -3369,6 +3357,12 @@
           "team": "PHI"
         },
         {
+          "player_id": "13419",
+          "name": "Jaydn Ott",
+          "position": "RB",
+          "team": "KC"
+        },
+        {
           "player_id": "1479",
           "name": "Keenan Allen",
           "position": "WR",
@@ -3530,22 +3524,22 @@
       ],
       "bench": [
         {
-          "player_id": "12493",
-          "name": "Oronde Gadsden",
+          "player_id": "3271",
+          "name": "Tyler Higbee",
           "position": "TE",
-          "team": "LAC"
-        },
-        {
-          "player_id": "13333",
-          "name": "Deion Burks",
-          "position": "WR",
-          "team": "IND"
+          "team": "LAR"
         },
         {
           "player_id": "3634",
           "name": "Kalif Raymond",
           "position": "WR",
           "team": "CHI"
+        },
+        {
+          "player_id": "4177",
+          "name": "Mack Hollins",
+          "position": "WR",
+          "team": "NE"
         },
         {
           "player_id": "6130",

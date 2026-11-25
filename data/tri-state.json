@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-25T08:49:07.652Z",
+  "generated_at": "2026-11-25T19:24:39.554Z",
   "source": "Sleeper public API",
   "username": "TheMightyKites",
   "nfl_week": 12,
@@ -61,7 +61,7 @@
       "leg": 12,
       "reserve_slots": 3,
       "reserve_allow_cov": 1,
-      "daily_waivers_last_ran": 24
+      "daily_waivers_last_ran": 25
     },
     "scoring_settings": {
       "sack": 2,
@@ -1359,6 +1359,12 @@
           "team": "CHI"
         },
         {
+          "player_id": "11577",
+          "name": "Will Shipley",
+          "position": "RB",
+          "team": "PHI"
+        },
+        {
           "player_id": "11588",
           "name": "Jawhar Jordan",
           "position": "RB",
@@ -1369,6 +1375,12 @@
           "name": "Jack Bech",
           "position": "WR",
           "team": "LV"
+        },
+        {
+          "player_id": "12496",
+          "name": "Tai Felton",
+          "position": "WR",
+          "team": "MIN"
         },
         {
           "player_id": "12509",
@@ -1405,6 +1417,12 @@
           "name": "Tyreek Hill",
           "position": "WR",
           "team": "FA"
+        },
+        {
+          "player_id": "5995",
+          "name": "Justice Hill",
+          "position": "RB",
+          "team": "BAL"
         },
         {
           "player_id": "8119",
@@ -1936,10 +1954,10 @@
           "team": "DAL"
         },
         {
-          "player_id": "5846",
-          "name": "DK Metcalf",
+          "player_id": "8167",
+          "name": "Christian Watson",
           "position": "WR",
-          "team": "PIT"
+          "team": "GB"
         },
         {
           "player_id": "6794",
@@ -1948,16 +1966,16 @@
           "team": "MIN"
         },
         {
-          "player_id": "12518",
-          "name": "Tyler Warren",
-          "position": "TE",
-          "team": "IND"
-        },
-        {
           "player_id": "12517",
           "name": "Colston Loveland",
           "position": "TE",
           "team": "CHI"
+        },
+        {
+          "player_id": "12518",
+          "name": "Tyler Warren",
+          "position": "TE",
+          "team": "IND"
         },
         {
           "player_id": "11560",
@@ -2010,6 +2028,12 @@
           "team": "NE"
         },
         {
+          "player_id": "5846",
+          "name": "DK Metcalf",
+          "position": "WR",
+          "team": "PIT"
+        },
+        {
           "player_id": "6804",
           "name": "Jordan Love",
           "position": "QB",
@@ -2056,12 +2080,6 @@
           "name": "Kenneth Walker III",
           "position": "RB",
           "team": "KC"
-        },
-        {
-          "player_id": "8167",
-          "name": "Christian Watson",
-          "position": "WR",
-          "team": "GB"
         }
       ],
       "taxi": [
@@ -2594,7 +2612,7 @@
           "player_id": "6803",
           "name": "Brandon Aiyuk",
           "position": "WR",
-          "team": "FA"
+          "team": "WAS"
         },
         {
           "player_id": "7567",
