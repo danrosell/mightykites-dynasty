@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-25T19:24:39.050Z",
+  "generated_at": "2026-11-26T02:53:57.576Z",
   "source": "Sleeper public API",
   "username": "TheMightyKites",
   "nfl_week": 12,
@@ -173,10 +173,10 @@
         "team": "DET"
       },
       {
-        "player_id": "5947",
-        "name": "Jakobi Meyers",
+        "player_id": "12501",
+        "name": "Matthew Golden",
         "position": "WR",
-        "team": "JAX"
+        "team": "GB"
       },
       {
         "player_id": "11646",
@@ -191,10 +191,10 @@
         "team": "WAS"
       },
       {
-        "player_id": "9482",
-        "name": "Michael Mayer",
-        "position": "TE",
-        "team": "LV"
+        "player_id": "5947",
+        "name": "Jakobi Meyers",
+        "position": "WR",
+        "team": "JAX"
       },
       {
         "player_id": "5995",
@@ -227,12 +227,6 @@
         "name": "Terrance Ferguson",
         "position": "TE",
         "team": "LAR"
-      },
-      {
-        "player_id": "12501",
-        "name": "Matthew Golden",
-        "position": "WR",
-        "team": "GB"
       },
       {
         "player_id": "12541",
@@ -323,6 +317,12 @@
         "name": "Tanner McKee",
         "position": "QB",
         "team": "PHI"
+      },
+      {
+        "player_id": "9482",
+        "name": "Michael Mayer",
+        "position": "TE",
+        "team": "LV"
       }
     ],
     "taxi": [],
@@ -416,7 +416,7 @@
   "my_matchup": {
     "me": {
       "team": "TheMightyKites",
-      "points": 0
+      "points": 4.9
     },
     "opponent": {
       "team": "pvanexter",
@@ -811,10 +811,10 @@
           "team": "DET"
         },
         {
-          "player_id": "8151",
-          "name": "Kenneth Walker III",
+          "player_id": "9224",
+          "name": "Chase Brown",
           "position": "RB",
-          "team": "KC"
+          "team": "CIN"
         },
         {
           "player_id": "9488",
@@ -841,10 +841,10 @@
           "team": "LV"
         },
         {
-          "player_id": "9224",
-          "name": "Chase Brown",
+          "player_id": "10219",
+          "name": "Chris Rodriguez Jr.",
           "position": "RB",
-          "team": "CIN"
+          "team": "JAX"
         },
         {
           "player_id": "12512",
@@ -854,12 +854,6 @@
         }
       ],
       "bench": [
-        {
-          "player_id": "10219",
-          "name": "Chris Rodriguez Jr.",
-          "position": "RB",
-          "team": "JAX"
-        },
         {
           "player_id": "11564",
           "name": "Drake Maye",
@@ -949,6 +943,12 @@
           "name": "Matthew Stafford",
           "position": "QB",
           "team": "LAR"
+        },
+        {
+          "player_id": "8151",
+          "name": "Kenneth Walker III",
+          "position": "RB",
+          "team": "KC"
         },
         {
           "player_id": "8180",
@@ -1585,7 +1585,7 @@
           "player_id": "2197",
           "name": "Brandin Cooks",
           "position": "WR",
-          "team": "FA"
+          "team": "SF"
         },
         {
           "player_id": "2306",
@@ -1829,10 +1829,10 @@
           "team": "DET"
         },
         {
-          "player_id": "5947",
-          "name": "Jakobi Meyers",
+          "player_id": "12501",
+          "name": "Matthew Golden",
           "position": "WR",
-          "team": "JAX"
+          "team": "GB"
         },
         {
           "player_id": "11646",
@@ -1847,10 +1847,10 @@
           "team": "WAS"
         },
         {
-          "player_id": "9482",
-          "name": "Michael Mayer",
-          "position": "TE",
-          "team": "LV"
+          "player_id": "5947",
+          "name": "Jakobi Meyers",
+          "position": "WR",
+          "team": "JAX"
         },
         {
           "player_id": "5995",
@@ -1883,12 +1883,6 @@
           "name": "Terrance Ferguson",
           "position": "TE",
           "team": "LAR"
-        },
-        {
-          "player_id": "12501",
-          "name": "Matthew Golden",
-          "position": "WR",
-          "team": "GB"
         },
         {
           "player_id": "12541",
@@ -1979,6 +1973,12 @@
           "name": "Tanner McKee",
           "position": "QB",
           "team": "PHI"
+        },
+        {
+          "player_id": "9482",
+          "name": "Michael Mayer",
+          "position": "TE",
+          "team": "LV"
         }
       ],
       "taxi": [],
@@ -2087,16 +2087,16 @@
           "team": "DEN"
         },
         {
-          "player_id": "12527",
-          "name": "Ashton Jeanty",
+          "player_id": "4866",
+          "name": "Saquon Barkley",
           "position": "RB",
-          "team": "LV"
+          "team": "PHI"
         },
         {
-          "player_id": "8228",
-          "name": "Jaylen Warren",
+          "player_id": "13337",
+          "name": "Emmett Johnson",
           "position": "RB",
-          "team": "PIT"
+          "team": "KC"
         },
         {
           "player_id": "8144",
@@ -2111,10 +2111,10 @@
           "team": "BAL"
         },
         {
-          "player_id": "13333",
-          "name": "Deion Burks",
+          "player_id": "8167",
+          "name": "Christian Watson",
           "position": "WR",
-          "team": "IND"
+          "team": "GB"
         },
         {
           "player_id": "5022",
@@ -2123,16 +2123,16 @@
           "team": "PHI"
         },
         {
-          "player_id": "4866",
-          "name": "Saquon Barkley",
+          "player_id": "12527",
+          "name": "Ashton Jeanty",
           "position": "RB",
-          "team": "PHI"
+          "team": "LV"
         },
         {
-          "player_id": "13337",
-          "name": "Emmett Johnson",
+          "player_id": "8228",
+          "name": "Jaylen Warren",
           "position": "RB",
-          "team": "KC"
+          "team": "PIT"
         }
       ],
       "bench": [
@@ -2177,6 +2177,12 @@
           "name": "Mike Washington Jr.",
           "position": "RB",
           "team": "LV"
+        },
+        {
+          "player_id": "13333",
+          "name": "Deion Burks",
+          "position": "WR",
+          "team": "IND"
         },
         {
           "player_id": "13335",
@@ -2243,12 +2249,6 @@
           "name": "Gardner Minshew II",
           "position": "QB",
           "team": "ARI"
-        },
-        {
-          "player_id": "8167",
-          "name": "Christian Watson",
-          "position": "WR",
-          "team": "GB"
         },
         {
           "player_id": "9753",
@@ -2722,10 +2722,10 @@
           "team": "SF"
         },
         {
-          "player_id": "11576",
-          "name": "Braelon Allen",
+          "player_id": "8150",
+          "name": "Kyren Williams",
           "position": "RB",
-          "team": "NYJ"
+          "team": "LAR"
         },
         {
           "player_id": "11783",
@@ -2770,6 +2770,12 @@
           "name": "Caleb Williams",
           "position": "QB",
           "team": "CHI"
+        },
+        {
+          "player_id": "11576",
+          "name": "Braelon Allen",
+          "position": "RB",
+          "team": "NYJ"
         },
         {
           "player_id": "11834",
@@ -2866,12 +2872,6 @@
           "name": "Alec Pierce",
           "position": "WR",
           "team": "IND"
-        },
-        {
-          "player_id": "8150",
-          "name": "Kyren Williams",
-          "position": "RB",
-          "team": "LAR"
         },
         {
           "player_id": "9486",
@@ -3034,10 +3034,10 @@
           "team": "HOU"
         },
         {
-          "player_id": "12531",
-          "name": "Trevor Etienne",
+          "player_id": "9509",
+          "name": "Bijan Robinson",
           "position": "RB",
-          "team": "CAR"
+          "team": "ATL"
         },
         {
           "player_id": "7543",
@@ -3058,10 +3058,10 @@
           "team": "DEN"
         },
         {
-          "player_id": "9502",
-          "name": "Tank Dell",
+          "player_id": "7525",
+          "name": "DeVonta Smith",
           "position": "WR",
-          "team": "HOU"
+          "team": "PHI"
         },
         {
           "player_id": "4217",
@@ -3070,16 +3070,16 @@
           "team": "SF"
         },
         {
-          "player_id": "5001",
-          "name": "Dalton Schultz",
-          "position": "TE",
-          "team": "HOU"
-        },
-        {
-          "player_id": "7525",
-          "name": "DeVonta Smith",
+          "player_id": "13294",
+          "name": "Makai Lemon",
           "position": "WR",
           "team": "PHI"
+        },
+        {
+          "player_id": "9502",
+          "name": "Tank Dell",
+          "position": "WR",
+          "team": "HOU"
         }
       ],
       "bench": [
@@ -3114,6 +3114,12 @@
           "team": "NYG"
         },
         {
+          "player_id": "12531",
+          "name": "Trevor Etienne",
+          "position": "RB",
+          "team": "CAR"
+        },
+        {
           "player_id": "12542",
           "name": "Efton Chism III",
           "position": "WR",
@@ -3124,12 +3130,6 @@
           "name": "Ty Simpson",
           "position": "QB",
           "team": "LAR"
-        },
-        {
-          "player_id": "13294",
-          "name": "Makai Lemon",
-          "position": "WR",
-          "team": "PHI"
         },
         {
           "player_id": "13401",
@@ -3154,6 +3154,12 @@
           "name": "Sam Darnold",
           "position": "QB",
           "team": "SEA"
+        },
+        {
+          "player_id": "5001",
+          "name": "Dalton Schultz",
+          "position": "TE",
+          "team": "HOU"
         },
         {
           "player_id": "5045",
@@ -3194,12 +3200,6 @@
         {
           "player_id": "8154",
           "name": "Brian Robinson Jr.",
-          "position": "RB",
-          "team": "ATL"
-        },
-        {
-          "player_id": "9509",
-          "name": "Bijan Robinson",
           "position": "RB",
           "team": "ATL"
         }
@@ -3352,10 +3352,10 @@
           "team": "DAL"
         },
         {
-          "player_id": "7611",
-          "name": "Rhamondre Stevenson",
+          "player_id": "11586",
+          "name": "Blake Corum",
           "position": "RB",
-          "team": "NE"
+          "team": "LAR"
         },
         {
           "player_id": "13346",
@@ -3370,10 +3370,10 @@
           "team": "HOU"
         },
         {
-          "player_id": "12492",
-          "name": "Pat Bryant",
+          "player_id": "13281",
+          "name": "Jordyn Tyson",
           "position": "WR",
-          "team": "DEN"
+          "team": "NO"
         },
         {
           "player_id": "11593",
@@ -3382,16 +3382,16 @@
           "team": "DAL"
         },
         {
-          "player_id": "8134",
-          "name": "Khalil Shakir",
-          "position": "WR",
-          "team": "BUF"
+          "player_id": "7611",
+          "name": "Rhamondre Stevenson",
+          "position": "RB",
+          "team": "NE"
         },
         {
-          "player_id": "13281",
-          "name": "Jordyn Tyson",
+          "player_id": "12492",
+          "name": "Pat Bryant",
           "position": "WR",
-          "team": "NO"
+          "team": "DEN"
         }
       ],
       "bench": [
@@ -3412,12 +3412,6 @@
           "name": "Audric Estime",
           "position": "RB",
           "team": "NO"
-        },
-        {
-          "player_id": "11586",
-          "name": "Blake Corum",
-          "position": "RB",
-          "team": "LAR"
         },
         {
           "player_id": "11631",
@@ -3478,6 +3472,12 @@
           "name": "Kyle Pitts Sr.",
           "position": "TE",
           "team": "ATL"
+        },
+        {
+          "player_id": "8134",
+          "name": "Khalil Shakir",
+          "position": "WR",
+          "team": "BUF"
         },
         {
           "player_id": "8161",

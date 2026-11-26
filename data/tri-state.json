@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-25T19:24:39.554Z",
+  "generated_at": "2026-11-26T02:53:57.958Z",
   "source": "Sleeper public API",
   "username": "TheMightyKites",
   "nfl_week": 12,
@@ -407,7 +407,7 @@
     },
     "opponent": {
       "team": "White Trash with Cash",
-      "points": 0,
+      "points": 2.6,
       "roster_id": 7
     }
   },
@@ -525,16 +525,16 @@
           "team": "PHI"
         },
         {
-          "player_id": "8130",
-          "name": "Trey McBride",
-          "position": "TE",
-          "team": "ARI"
-        },
-        {
           "player_id": "5012",
           "name": "Mark Andrews",
           "position": "TE",
           "team": "BAL"
+        },
+        {
+          "player_id": "8130",
+          "name": "Trey McBride",
+          "position": "TE",
+          "team": "ARI"
         },
         {
           "player_id": "3257",
@@ -2241,10 +2241,10 @@
           "team": "LV"
         },
         {
-          "player_id": "6797",
-          "name": "Justin Herbert",
+          "player_id": "4943",
+          "name": "Sam Darnold",
           "position": "QB",
-          "team": "LAC"
+          "team": "SEA"
         }
       ],
       "bench": [
@@ -2321,12 +2321,6 @@
           "team": "PHI"
         },
         {
-          "player_id": "4943",
-          "name": "Sam Darnold",
-          "position": "QB",
-          "team": "SEA"
-        },
-        {
           "player_id": "5854",
           "name": "Drew Lock",
           "position": "QB",
@@ -2337,6 +2331,12 @@
           "name": "Daniel Jones",
           "position": "QB",
           "team": "FA"
+        },
+        {
+          "player_id": "6797",
+          "name": "Justin Herbert",
+          "position": "QB",
+          "team": "LAC"
         },
         {
           "player_id": "9480",
@@ -3151,12 +3151,6 @@
           "team": "CAR"
         },
         {
-          "player_id": "12487",
-          "name": "Terrance Ferguson",
-          "position": "TE",
-          "team": "LAR"
-        },
-        {
           "player_id": "12489",
           "name": "RJ Harvey",
           "position": "RB",
@@ -3199,6 +3193,12 @@
           "team": "NE"
         },
         {
+          "player_id": "8154",
+          "name": "Brian Robinson Jr.",
+          "position": "RB",
+          "team": "ATL"
+        },
+        {
           "player_id": "9225",
           "name": "Tank Bigsby",
           "position": "RB",
@@ -3215,6 +3215,12 @@
       ],
       "reserve": [
         {
+          "player_id": "12487",
+          "name": "Terrance Ferguson",
+          "position": "TE",
+          "team": "LAR"
+        },
+        {
           "player_id": "12536",
           "name": "Jaylin Noel",
           "position": "WR",
@@ -3225,12 +3231,6 @@
           "name": "Chris Brazzell II",
           "position": "WR",
           "team": "CAR"
-        },
-        {
-          "player_id": "8154",
-          "name": "Brian Robinson Jr.",
-          "position": "RB",
-          "team": "ATL"
         }
       ],
       "picks": [

@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-25T19:24:38.209Z",
+  "generated_at": "2026-11-26T02:53:56.706Z",
   "source": "Sleeper public API",
   "username": "TheMightyKites",
   "nfl_week": 12,
@@ -161,10 +161,10 @@
         "team": "PIT"
       },
       {
-        "player_id": "8111",
-        "name": "Cade Otton",
+        "player_id": "7553",
+        "name": "Kyle Pitts Sr.",
         "position": "TE",
-        "team": "TB"
+        "team": "ATL"
       },
       {
         "player_id": "8122",
@@ -173,10 +173,10 @@
         "team": "ARI"
       },
       {
-        "player_id": "7553",
-        "name": "Kyle Pitts Sr.",
+        "player_id": "11603",
+        "name": "AJ Barner",
         "position": "TE",
-        "team": "ATL"
+        "team": "SEA"
       },
       {
         "player_id": "4046",
@@ -186,12 +186,6 @@
       }
     ],
     "bench": [
-      {
-        "player_id": "11603",
-        "name": "AJ Barner",
-        "position": "TE",
-        "team": "SEA"
-      },
       {
         "player_id": "12634",
         "name": "Jordan Watkins",
@@ -215,6 +209,12 @@
         "name": "Matthew Stafford",
         "position": "QB",
         "team": "LAR"
+      },
+      {
+        "player_id": "8111",
+        "name": "Cade Otton",
+        "position": "TE",
+        "team": "TB"
       }
     ],
     "taxi": [
@@ -424,10 +424,10 @@
           "team": "PIT"
         },
         {
-          "player_id": "8111",
-          "name": "Cade Otton",
+          "player_id": "7553",
+          "name": "Kyle Pitts Sr.",
           "position": "TE",
-          "team": "TB"
+          "team": "ATL"
         },
         {
           "player_id": "8122",
@@ -436,10 +436,10 @@
           "team": "ARI"
         },
         {
-          "player_id": "7553",
-          "name": "Kyle Pitts Sr.",
+          "player_id": "11603",
+          "name": "AJ Barner",
           "position": "TE",
-          "team": "ATL"
+          "team": "SEA"
         },
         {
           "player_id": "4046",
@@ -449,12 +449,6 @@
         }
       ],
       "bench": [
-        {
-          "player_id": "11603",
-          "name": "AJ Barner",
-          "position": "TE",
-          "team": "SEA"
-        },
         {
           "player_id": "12634",
           "name": "Jordan Watkins",
@@ -478,6 +472,12 @@
           "name": "Matthew Stafford",
           "position": "QB",
           "team": "LAR"
+        },
+        {
+          "player_id": "8111",
+          "name": "Cade Otton",
+          "position": "TE",
+          "team": "TB"
         }
       ],
       "taxi": [
@@ -3510,10 +3510,10 @@
           "team": "CHI"
         },
         {
-          "player_id": "7694",
-          "name": "Tommy Tremble",
+          "player_id": "3271",
+          "name": "Tyler Higbee",
           "position": "TE",
-          "team": "CAR"
+          "team": "LAR"
         },
         {
           "player_id": "6770",
@@ -3523,12 +3523,6 @@
         }
       ],
       "bench": [
-        {
-          "player_id": "3271",
-          "name": "Tyler Higbee",
-          "position": "TE",
-          "team": "LAR"
-        },
         {
           "player_id": "3634",
           "name": "Kalif Raymond",
@@ -3546,6 +3540,12 @@
           "name": "Devin Singletary",
           "position": "RB",
           "team": "NYG"
+        },
+        {
+          "player_id": "7694",
+          "name": "Tommy Tremble",
+          "position": "TE",
+          "team": "CAR"
         },
         {
           "player_id": "9228",

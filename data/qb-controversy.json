@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-25T19:24:38.643Z",
+  "generated_at": "2026-11-26T02:53:57.164Z",
   "source": "Sleeper public API",
   "username": "TheMightyKites",
   "nfl_week": 12,
@@ -412,11 +412,11 @@
   "my_matchup": {
     "me": {
       "team": "The Ham Cannons",
-      "points": 0
+      "points": 4.9
     },
     "opponent": {
       "team": "Iron Claw 💚 ",
-      "points": 0,
+      "points": 11.06,
       "roster_id": 10
     }
   },
@@ -841,16 +841,16 @@
           "team": "SF"
         },
         {
-          "player_id": "4217",
-          "name": "George Kittle",
-          "position": "TE",
-          "team": "SF"
-        },
-        {
           "player_id": "9484",
           "name": "Tucker Kraft",
           "position": "TE",
           "team": "GB"
+        },
+        {
+          "player_id": "4217",
+          "name": "George Kittle",
+          "position": "TE",
+          "team": "SF"
         },
         {
           "player_id": "4199",
@@ -3583,10 +3583,10 @@
           "team": "CHI"
         },
         {
-          "player_id": "8408",
-          "name": "Jordan Mason",
-          "position": "RB",
-          "team": "MIN"
+          "player_id": "7525",
+          "name": "DeVonta Smith",
+          "position": "WR",
+          "team": "PHI"
         },
         {
           "player_id": "11625",
@@ -3669,10 +3669,10 @@
           "team": "CLE"
         },
         {
-          "player_id": "7525",
-          "name": "DeVonta Smith",
-          "position": "WR",
-          "team": "PHI"
+          "player_id": "8408",
+          "name": "Jordan Mason",
+          "position": "RB",
+          "team": "MIN"
         },
         {
           "player_id": "9230",
@@ -3804,10 +3804,10 @@
           "team": "SF"
         },
         {
-          "player_id": "7594",
-          "name": "Chuba Hubbard",
+          "player_id": "8150",
+          "name": "Kyren Williams",
           "position": "RB",
-          "team": "CAR"
+          "team": "LAR"
         },
         {
           "player_id": "9488",
@@ -3834,10 +3834,10 @@
           "team": "MIN"
         },
         {
-          "player_id": "8150",
-          "name": "Kyren Williams",
+          "player_id": "7594",
+          "name": "Chuba Hubbard",
           "position": "RB",
-          "team": "LAR"
+          "team": "CAR"
         },
         {
           "player_id": "8155",
