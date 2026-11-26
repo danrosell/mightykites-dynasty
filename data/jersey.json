@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-26T12:50:03.332Z",
+  "generated_at": "2026-11-26T22:25:19.654Z",
   "source": "Sleeper public API",
   "username": "TheMightyKites",
   "nfl_week": 12,
@@ -58,7 +58,7 @@
       "leg": 12,
       "reserve_slots": 2,
       "reserve_allow_cov": 0,
-      "daily_waivers_last_ran": 25
+      "daily_waivers_last_ran": 26
     },
     "scoring_settings": {
       "sack": 1,
@@ -416,11 +416,11 @@
   "my_matchup": {
     "me": {
       "team": "TheMightyKites",
-      "points": 4.9
+      "points": 26.5
     },
     "opponent": {
       "team": "pvanexter",
-      "points": 0,
+      "points": 14.4,
       "roster_id": 4
     }
   },
@@ -4150,7 +4150,7 @@
           "player_id": "96",
           "name": "Aaron Rodgers",
           "position": "QB",
-          "team": "PIT"
+          "team": "FA"
         }
       ],
       "taxi": [],

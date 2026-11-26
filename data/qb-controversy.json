@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-26T12:50:02.938Z",
+  "generated_at": "2026-11-26T22:25:19.273Z",
   "source": "Sleeper public API",
   "username": "TheMightyKites",
   "nfl_week": 12,
@@ -61,7 +61,7 @@
       "daily_waivers_base": 4,
       "reserve_slots": 2,
       "reserve_allow_cov": 1,
-      "daily_waivers_last_ran": 25
+      "daily_waivers_last_ran": 26
     },
     "scoring_settings": {
       "sack": 1,
@@ -412,7 +412,7 @@
   "my_matchup": {
     "me": {
       "team": "The Ham Cannons",
-      "points": 4.9
+      "points": 57.5
     },
     "opponent": {
       "team": "Iron Claw 💚 ",
@@ -1795,7 +1795,7 @@
           "player_id": "96",
           "name": "Aaron Rodgers",
           "position": "QB",
-          "team": "PIT"
+          "team": "FA"
         },
         {
           "player_id": "9756",
@@ -1945,10 +1945,10 @@
           "team": "CLE"
         },
         {
-          "player_id": "3198",
-          "name": "Derrick Henry",
+          "player_id": "7588",
+          "name": "Javonte Williams",
           "position": "RB",
-          "team": "BAL"
+          "team": "DAL"
         },
         {
           "player_id": "6790",
@@ -1981,10 +1981,10 @@
           "team": "KC"
         },
         {
-          "player_id": "7588",
-          "name": "Javonte Williams",
+          "player_id": "3198",
+          "name": "Derrick Henry",
           "position": "RB",
-          "team": "DAL"
+          "team": "BAL"
         },
         {
           "player_id": "5967",
@@ -2055,6 +2055,12 @@
           "team": "LAR"
         },
         {
+          "player_id": "4981",
+          "name": "Calvin Ridley",
+          "position": "WR",
+          "team": "TEN"
+        },
+        {
           "player_id": "7527",
           "name": "Mac Jones",
           "position": "QB",
@@ -2071,12 +2077,6 @@
           "name": "Tyler Allgeier",
           "position": "RB",
           "team": "ARI"
-        },
-        {
-          "player_id": "9227",
-          "name": "Israel Abanikanda",
-          "position": "RB",
-          "team": "DAL"
         },
         {
           "player_id": "9493",
@@ -3822,10 +3822,10 @@
           "team": "HOU"
         },
         {
-          "player_id": "4983",
-          "name": "DJ Moore",
+          "player_id": "6801",
+          "name": "Tee Higgins",
           "position": "WR",
-          "team": "BUF"
+          "team": "CIN"
         },
         {
           "player_id": "5844",
@@ -3846,10 +3846,10 @@
           "team": "NYJ"
         },
         {
-          "player_id": "6801",
-          "name": "Tee Higgins",
+          "player_id": "4983",
+          "name": "DJ Moore",
           "position": "WR",
-          "team": "CIN"
+          "team": "BUF"
         }
       ],
       "bench": [
@@ -4112,10 +4112,10 @@
           "team": "DET"
         },
         {
-          "player_id": "11626",
-          "name": "Xavier Legette",
+          "player_id": "11628",
+          "name": "Marvin Harrison Jr.",
           "position": "WR",
-          "team": "CAR"
+          "team": "HOU"
         },
         {
           "player_id": "11370",
@@ -4150,10 +4150,10 @@
           "team": "NYJ"
         },
         {
-          "player_id": "11628",
-          "name": "Marvin Harrison Jr.",
+          "player_id": "11626",
+          "name": "Xavier Legette",
           "position": "WR",
-          "team": "HOU"
+          "team": "CAR"
         },
         {
           "player_id": "11650",
