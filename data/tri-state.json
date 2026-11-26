@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-26T02:53:57.958Z",
+  "generated_at": "2026-11-26T12:50:03.573Z",
   "source": "Sleeper public API",
   "username": "TheMightyKites",
   "nfl_week": 12,
@@ -407,7 +407,7 @@
     },
     "opponent": {
       "team": "White Trash with Cash",
-      "points": 2.6,
+      "points": 4.9,
       "roster_id": 7
     }
   },

@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-26T02:53:57.164Z",
+  "generated_at": "2026-11-26T12:50:02.938Z",
   "source": "Sleeper public API",
   "username": "TheMightyKites",
   "nfl_week": 12,
@@ -416,7 +416,7 @@
     },
     "opponent": {
       "team": "Iron Claw 💚 ",
-      "points": 11.06,
+      "points": 8.82,
       "roster_id": 10
     }
   },
