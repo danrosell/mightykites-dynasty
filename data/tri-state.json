@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-27T15:14:56.012Z",
+  "generated_at": "2026-11-27T23:34:16.994Z",
   "source": "Sleeper public API",
   "username": "TheMightyKites",
   "nfl_week": 12,
@@ -407,7 +407,7 @@
     },
     "opponent": {
       "team": "White Trash with Cash",
-      "points": 69.5,
+      "points": 70.96,
       "roster_id": 7
     }
   },
@@ -1333,10 +1333,10 @@
           "team": "TEN"
         },
         {
-          "player_id": "7002",
-          "name": "Juwan Johnson",
+          "player_id": "8172",
+          "name": "Greg Dulcich",
           "position": "TE",
-          "team": "NO"
+          "team": "MIA"
         },
         {
           "player_id": "13298",
@@ -1425,16 +1425,16 @@
           "team": "BAL"
         },
         {
+          "player_id": "7002",
+          "name": "Juwan Johnson",
+          "position": "TE",
+          "team": "NO"
+        },
+        {
           "player_id": "8119",
           "name": "Jahan Dotson",
           "position": "WR",
           "team": "ATL"
-        },
-        {
-          "player_id": "8172",
-          "name": "Greg Dulcich",
-          "position": "TE",
-          "team": "MIA"
         },
         {
           "player_id": "8676",
@@ -2223,8 +2223,8 @@
           "team": "DAL"
         },
         {
-          "player_id": "9487",
-          "name": "Parker Washington",
+          "player_id": "11631",
+          "name": "Brian Thomas Jr.",
           "position": "WR",
           "team": "JAX"
         },
@@ -2253,12 +2253,6 @@
           "name": "Rome Odunze",
           "position": "WR",
           "team": "CHI"
-        },
-        {
-          "player_id": "11631",
-          "name": "Brian Thomas Jr.",
-          "position": "WR",
-          "team": "JAX"
         },
         {
           "player_id": "12492",
@@ -2342,6 +2336,12 @@
           "player_id": "9480",
           "name": "Brenton Strange",
           "position": "TE",
+          "team": "JAX"
+        },
+        {
+          "player_id": "9487",
+          "name": "Parker Washington",
+          "position": "WR",
           "team": "JAX"
         }
       ],
@@ -2792,10 +2792,10 @@
           "team": "ATL"
         },
         {
-          "player_id": "12490",
-          "name": "Bhayshul Tuten",
+          "player_id": "8155",
+          "name": "Breece Hall",
           "position": "RB",
-          "team": "JAX"
+          "team": "NYJ"
         },
         {
           "player_id": "9997",
@@ -2822,10 +2822,10 @@
           "team": "ATL"
         },
         {
-          "player_id": "8155",
-          "name": "Breece Hall",
-          "position": "RB",
-          "team": "NYJ"
+          "player_id": "4993",
+          "name": "Mike Gesicki",
+          "position": "TE",
+          "team": "CIN"
         },
         {
           "player_id": "3163",
@@ -2860,6 +2860,12 @@
           "team": "IND"
         },
         {
+          "player_id": "12490",
+          "name": "Bhayshul Tuten",
+          "position": "RB",
+          "team": "JAX"
+        },
+        {
           "player_id": "12534",
           "name": "Kyle Monangai",
           "position": "RB",
@@ -2882,12 +2888,6 @@
           "name": "Calvin Ridley",
           "position": "WR",
           "team": "TEN"
-        },
-        {
-          "player_id": "4993",
-          "name": "Mike Gesicki",
-          "position": "TE",
-          "team": "CIN"
         },
         {
           "player_id": "5001",

@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-27T15:14:55.414Z",
+  "generated_at": "2026-11-27T23:34:16.189Z",
   "source": "Sleeper public API",
   "username": "TheMightyKites",
   "nfl_week": 12,
@@ -61,7 +61,7 @@
       "daily_waivers_base": 4,
       "reserve_slots": 2,
       "reserve_allow_cov": 1,
-      "daily_waivers_last_ran": 26
+      "daily_waivers_last_ran": 27
     },
     "scoring_settings": {
       "sack": 1,
@@ -412,7 +412,7 @@
   "my_matchup": {
     "me": {
       "team": "The Ham Cannons",
-      "points": 57.5
+      "points": 82
     },
     "opponent": {
       "team": "Iron Claw 💚 ",
@@ -829,10 +829,10 @@
           "team": "CIN"
         },
         {
-          "player_id": "9487",
-          "name": "Parker Washington",
+          "player_id": "5045",
+          "name": "Courtland Sutton",
           "position": "WR",
-          "team": "JAX"
+          "team": "DEN"
         },
         {
           "player_id": "5872",
@@ -915,12 +915,6 @@
           "team": "DET"
         },
         {
-          "player_id": "5045",
-          "name": "Courtland Sutton",
-          "position": "WR",
-          "team": "DEN"
-        },
-        {
           "player_id": "6130",
           "name": "Devin Singletary",
           "position": "RB",
@@ -931,6 +925,12 @@
           "name": "Tua Tagovailoa",
           "position": "QB",
           "team": "ATL"
+        },
+        {
+          "player_id": "6819",
+          "name": "Michael Pittman Jr.",
+          "position": "WR",
+          "team": "PIT"
         },
         {
           "player_id": "7561",
@@ -945,10 +945,10 @@
           "team": "HOU"
         },
         {
-          "player_id": "8129",
-          "name": "Dameon Pierce",
-          "position": "RB",
-          "team": "FA"
+          "player_id": "9487",
+          "name": "Parker Washington",
+          "position": "WR",
+          "team": "JAX"
         }
       ],
       "taxi": [
@@ -977,12 +977,6 @@
           "name": "Terry McLaurin",
           "position": "WR",
           "team": "WAS"
-        },
-        {
-          "player_id": "6819",
-          "name": "Michael Pittman Jr.",
-          "position": "WR",
-          "team": "PIT"
         }
       ],
       "picks": [
