@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-27T05:07:40.918Z",
+  "generated_at": "2026-11-27T15:14:55.087Z",
   "source": "Sleeper public API",
   "username": "TheMightyKites",
   "nfl_week": 12,
@@ -2102,10 +2102,10 @@
           "team": "BAL"
         },
         {
-          "player_id": "12499",
-          "name": "Elic Ayomanor",
-          "position": "WR",
-          "team": "TEN"
+          "player_id": "7021",
+          "name": "Rico Dowdle",
+          "position": "RB",
+          "team": "PIT"
         },
         {
           "player_id": "4983",
@@ -2121,6 +2121,12 @@
         }
       ],
       "bench": [
+        {
+          "player_id": "12499",
+          "name": "Elic Ayomanor",
+          "position": "WR",
+          "team": "TEN"
+        },
         {
           "player_id": "13414",
           "name": "Kaelon Black",
@@ -2138,12 +2144,6 @@
           "name": "Baker Mayfield",
           "position": "QB",
           "team": "TB"
-        },
-        {
-          "player_id": "7021",
-          "name": "Rico Dowdle",
-          "position": "RB",
-          "team": "PIT"
         },
         {
           "player_id": "9501",
